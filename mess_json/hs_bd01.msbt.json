@@ -1,0 +1,392 @@
+{
+    "bd01_OP_mw_past00": {
+        "name": "bd01_OP_mw_past00",
+        "message": "Cet imposant g\u00e2teau d'anniversaire a \u00e9t\u00e9\r\npr\u00e9par\u00e9 pour une princesse tr\u00e8s sp\u00e9ciale.",
+        "attribute": "0401000F10020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_past01": {
+        "name": "bd01_OP_mw_past01",
+        "message": "M\u00eame les bougies \u00e9taient \u00e9normes. Il nous\r\na fallu un temps fou pour les allumer !",
+        "attribute": "0401000F12020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose00": {
+        "name": "bd01_OP_mw_purpose00",
+        "message": "Vous vous demandez s\u00fbrement ce que\r\nnous f\u00eatons aujourd'hui... C'est logique !",
+        "attribute": "0401000F14020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose01": {
+        "name": "bd01_OP_mw_purpose01",
+        "message": "Eh bien, il s'agit d'une naissance...\r\nUne superstar va na\u00eetre aujourd'hui !",
+        "attribute": "0401000F2E020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose02": {
+        "name": "bd01_OP_mw_purpose02",
+        "message": "Vous comprenez maintenant ? On veut\r\nque VOUS deveniez des superstars !",
+        "attribute": "0401000F52020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose03": {
+        "name": "bd01_OP_mw_purpose03",
+        "message": "Je vois bien que vous n'en pouvez plus\r\nd'attendre ! Dans ce cas, en route !",
+        "attribute": "0401000F66020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination00": {
+        "name": "bd01_p01_mw_explaination00",
+        "message": "Ce plateau m'a l'air d\u00e9licieux... Mais que sont\r\ndonc ces paires de cases de couleur verte ?",
+        "attribute": "0404000180020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination01": {
+        "name": "bd01_p01_mw_explaination01",
+        "message": "Ce chemin vous fera longer le flan, mais\r\nattention \u00e0 [0:3 FF-35-02-FF]Bowser[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] et aux [0:3 FF-35-02-FF]cases rouges[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404000194020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination02": {
+        "name": "bd01_p01_mw_explaination02",
+        "message": "Regardez bien et vous pourrez peut-\u00eatre\r\napercevoir un [0:3 FF-35-02-FF]Goomba[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] pr\u00e8s du flan...[0:3 00-00-00-FF]",
+        "attribute": "04040001AE020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination03": {
+        "name": "bd01_p01_mw_explaination03",
+        "message": "Ce [0:3 FF-35-02-FF]Goomba[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]d\u00e9cide du chemin que vous\r\nempruntez, alors passez lui faire coucou ![0:3 00-00-00-FF]",
+        "attribute": "04010019C8020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake01": {
+        "name": "bd01_s04_mw_kuppaCake01",
+        "message": "Alors, on aime les g\u00e2teaux ? Eh bien,\r\nvoil\u00e0 qui devrait te plaire !",
+        "attribute": "0404010CE2020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake02": {
+        "name": "bd01_s04_mw_kuppaCake02",
+        "message": "J'ai d\u00fb me lever super t\u00f4t pour tout\r\npr\u00e9parer. \u00c7a va t'\u00e9clater les papilles !",
+        "attribute": "0404010C00030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake03": {
+        "name": "bd01_s04_mw_kuppaCake03",
+        "message": "Combien \u00e7a co\u00fbte ? Ben, c'\u00e9tait beaucoup\r\nde travail, alors... 20 pi\u00e8ces \ue020, \u00e7a te va ?",
+        "attribute": "0404010C02030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake06": {
+        "name": "bd01_s04_mw_kuppaCake06",
+        "message": "Maintenant qu'on s'est mis d'accord...\r\nBon app\u00e9tit ! Avale-moi \u00e7a !",
+        "attribute": "0404010C20030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake04": {
+        "name": "bd01_s04_mw_kuppaCake04",
+        "message": "Je t'ai parl\u00e9 de l'ingr\u00e9dient sp\u00e9cial ? Une\r\npierre. Tu as la dent dure ? BOUAHAHA !",
+        "attribute": "0404020C34030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake05": {
+        "name": "bd01_s04_mw_kuppaCake05",
+        "message": "Comment \u00e7a, tu n'as pas assez de\r\npi\u00e8ces \ue020 ? Mpf, donne-moi ce que t'as !",
+        "attribute": "0404010C4C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice01": {
+        "name": "bd01_s04_mw_curseDice01",
+        "message": "T'as int\u00e9r\u00eat \u00e0 avoir fait des \u00e9conomies...\r\nJ'ai quelque chose de sp\u00e9cial pour toi !",
+        "attribute": "0404010C64030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice02": {
+        "name": "bd01_s04_mw_curseDice02",
+        "message": "C'est un art\u00e9fact transmis de g\u00e9n\u00e9ration\r\nen g\u00e9n\u00e9ration...",
+        "attribute": "0404010C7C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice03": {
+        "name": "bd01_s04_mw_curseDice03",
+        "message": "Il est \u00e0 toi pour [0] pi\u00e8ces \ue020. Autant dire\r\nque c'est presque donn\u00e9, \u00e0 ce prix-l\u00e0 !",
+        "attribute": "0404010C7E030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice04": {
+        "name": "bd01_s04_mw_curseDice04",
+        "message": "Bon. Je t'ai racont\u00e9 des bobards. C'est\r\njuste un [0:3 FF-35-02-FF]d\u00e9 hant\u00e9[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ! BOUAHAHAHA ![0:3 00-00-00-FF]",
+        "attribute": "0404020C9C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice05": {
+        "name": "bd01_s04_mw_curseDice05",
+        "message": "Comment \u00e7a, tu n'as pas assez de\r\npi\u00e8ces \ue020 ? Mpf, donne-moi ce que t'as !",
+        "attribute": "0404010CB4030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice06": {
+        "name": "bd01_s04_mw_curseDice06",
+        "message": "\u00c7a co\u00fbte seulement 3 pi\u00e8ces \ue020 \u00e0 la\r\nboutique, je sais... Et alors ?!",
+        "attribute": "0404020CCC030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_getCoin00": {
+        "name": "bd01_s04_mw_getCoin00",
+        "message": "Attends voir... T'es \u00e0 la derni\u00e8re place ?\r\nDur, dur. Je suis d\u00e9sol\u00e9. Enfin presque.",
+        "attribute": "0404010CE4030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_getCoin01": {
+        "name": "bd01_s04_mw_getCoin01",
+        "message": "Je me sens g\u00e9n\u00e9reux aujourd'hui... Prends\r\nces pi\u00e8ces \ue020. Ah, on s'refait pas !",
+        "attribute": "0404010C02040000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_angry01": {
+        "name": "bd01_s04_mw_angry01",
+        "message": "Tu as pas une seule pi\u00e8ce \ue020 ?! Hors de\r\nma vue ! Tu me fais perdre mon temps.",
+        "attribute": "0404010C04040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC001_00": {
+        "name": "bd01_p02_mw_lastSpNPC001_00",
+        "message": "Au vu des circonstances, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\na la victoire \u00e0 port\u00e9e de main ![0:3 00-00-00-FF]",
+        "attribute": "0401080D1C040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC001_01": {
+        "name": "bd01_p02_mw_lastSpNPC001_01",
+        "message": "Quelle d\u00e9termination ! On dirait bien que\r\nc'est dans la poche pour [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401080D3A040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC017_00": {
+        "name": "bd01_p02_mw_lastSpNPC017_00",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] semble en bonne position\r\npour l'emporter. Si vous voulez mon avis.[0:3 00-00-00-FF]",
+        "attribute": "040101174E040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC017_01": {
+        "name": "bd01_p02_mw_lastSpNPC017_01",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] a de bonnes chances de\r\nl'emporter... sans doute.[0:3 00-00-00-FF]",
+        "attribute": "040101176C040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant01": {
+        "name": "bd01_gmk01_mw_plant01",
+        "message": "Tu veux planter une fraise sur cette\r\ncase ? Grosse ou petite ?",
+        "attribute": "040401178A040000",
+        "style_index": 6
+    },
+    "bd01_gmk01_mw_plant01_a0": {
+        "name": "bd01_gmk01_mw_plant01_a0",
+        "message": "[0:3 11-0C-1D-FF]5 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] : petite[0:3 00-00-00-FF]",
+        "attribute": "03000000A2040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant01_a1": {
+        "name": "bd01_gmk01_mw_plant01_a1",
+        "message": "[0:3 11-0C-1D-FF]30 [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]: grosse[0:3 00-00-00-FF]",
+        "attribute": "03000000A4040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant01_a2": {
+        "name": "bd01_gmk01_mw_plant01_a2",
+        "message": "Non, merci.",
+        "attribute": "03000000A6040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant02": {
+        "name": "bd01_gmk01_mw_plant02",
+        "message": "Voil\u00e0 une belle fraise bien m\u00fbre,\r\ncomme j'en ai rarement vu !",
+        "attribute": "04040117A8040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant03": {
+        "name": "bd01_gmk01_mw_plant03",
+        "message": "Quand un adversaire atterrira sur cette\r\ncase, le fraisier lui volera des pi\u00e8ces \ue020 !",
+        "attribute": "04040117BC040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant04": {
+        "name": "bd01_gmk01_mw_plant04",
+        "message": "Quand un adversaire atterrira sur cette\r\ncase, le fraisier lui volera une \u00e9toile \ue021 !",
+        "attribute": "04040117DA040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant05": {
+        "name": "bd01_gmk01_mw_plant05",
+        "message": "Vraiment ? Enfin, c'est toi qui vois !",
+        "attribute": "04040117F8040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant06": {
+        "name": "bd01_gmk01_mw_plant06",
+        "message": "On dirait bien que tu n'as pas assez de\r\npi\u00e8ces \ue020. Pas de pi\u00e8ces \ue020, pas de fraise.",
+        "attribute": "0404011712050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant07": {
+        "name": "bd01_gmk01_mw_plant07",
+        "message": "Une belle fraise bien juteuse !\r\nImpossible d'y r\u00e9sister !",
+        "attribute": "0404011730050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_getCoin01": {
+        "name": "bd01_gmk01_mw_getCoin01",
+        "message": "La [0:3 FF-35-02-FF]Plante Piranha[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] vous donne des\r\npi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]et son plus beau sourire ![0:3 00-00-00-FF]",
+        "attribute": "040401004A050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant00": {
+        "name": "bd01_gmk01_mw_replant00",
+        "message": "Tu peux faire pousser la plante\r\npour 30 pi\u00e8ces \ue020. \u00c7a te dit ?",
+        "attribute": "040401174C050000",
+        "style_index": 6
+    },
+    "bd01_gmk01_mw_replant00_a0": {
+        "name": "bd01_gmk01_mw_replant00_a0",
+        "message": "[0:3 11-0C-1D-FF]30 [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]: oui[0:3 00-00-00-FF]",
+        "attribute": "0400000068050000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_replant00_a1": {
+        "name": "bd01_gmk01_mw_replant00_a1",
+        "message": "Non, merci.",
+        "attribute": "040000006A050000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_replant01": {
+        "name": "bd01_gmk01_mw_replant01",
+        "message": "Regarde comme cette plante pousse !",
+        "attribute": "040401176C050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant02": {
+        "name": "bd01_gmk01_mw_replant02",
+        "message": "Vraiment ? Enfin, c'est toi qui vois !",
+        "attribute": "0404011790050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant03": {
+        "name": "bd01_gmk01_mw_replant03",
+        "message": "Cette plante volera une \u00e9toile \ue021 \u00e0 la\r\nplace de pi\u00e8ces \ue020. J'ai h\u00e2te de voir \u00e7a !",
+        "attribute": "04040117AA050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_robCoin00": {
+        "name": "bd01_gmk01_mw_robCoin00",
+        "message": "On dirait que la [0:3 FF-35-02-FF]Plante Piranha[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]peut voler\r\ndes pi\u00e8ces[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]encore une fois ![0:3 00-00-00-FF]",
+        "attribute": "04040100AC050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_noCoin01": {
+        "name": "bd01_gmk01_mw_noCoin01",
+        "message": "Comme vous n'avez pas de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF],\r\nla [0:3 FF-35-02-FF]Plante Piranha[0:3 FF-FF-FF-FF] vous ignore.[0:3 00-00-00-FF]",
+        "attribute": "04040100AE050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_noStar02": {
+        "name": "bd01_gmk01_mw_noStar02",
+        "message": "[0:3 FF-FF-FF-FF]Comme vous n'avez pas d'\u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF],\r\nla [0:3 FF-35-02-FF]Plante Piranha[0:3 FF-FF-FF-FF] vous ignore.[0:3 00-00-00-FF]",
+        "attribute": "04040100B0050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed01": {
+        "name": "bd01_gmk02_mw_slctSeed01",
+        "message": "[0:3 FF-FF-FF-FF]Le moment est venu de jouer \u00e0 la [0:3 FF-35-02-FF]loterie\r\nfleur[0:3 FF-FF-FF-FF] ! 10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] pour voir le chemin ![0:3 00-00-00-FF]",
+        "attribute": "0404010DB2050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed02": {
+        "name": "bd01_gmk02_mw_slctSeed02",
+        "message": "Tu n'as pas assez ? Bon, dans ce cas,\r\nje me contenterai de ce que tu as !",
+        "attribute": "0404010DC6050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed03": {
+        "name": "bd01_gmk02_mw_slctSeed03",
+        "message": "Tu n'as pas de pi\u00e8ces \ue020 ? Beuh. Bon,\r\ncette fois-ci, c'est la maison qui offre...",
+        "attribute": "0404010DC8050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed05": {
+        "name": "bd01_gmk02_mw_slctSeed05",
+        "message": "Hein ? C'est encore toi ? Tu dois vraiment\r\nl'aimer, cette loterie !",
+        "attribute": "0404010DCA050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed06": {
+        "name": "bd01_gmk02_mw_slctSeed06",
+        "message": "Content de te revoir ! 10 pi\u00e8ces \ue020 et\r\non te montre le chemin... de nouveau.",
+        "attribute": "0404010DEE050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed04": {
+        "name": "bd01_gmk02_mw_slctSeed04",
+        "message": "Allez, vas-y, choisis une graine. L'une\r\nest gagnante... les autres... non.",
+        "attribute": "0404010D02060000",
+        "style_index": 6
+    },
+    "bd01_gmk02_mw_bloom01": {
+        "name": "bd01_gmk02_mw_bloom01",
+        "message": "Voyons voir... C'est parti !",
+        "attribute": "0404010D20060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_bloom02": {
+        "name": "bd01_gmk02_mw_bloom02",
+        "message": "[0:3 FF-FF-FF-FF]F\u00e9licitations ! Tu as gagn\u00e9. Mes amiti\u00e9s\r\nau roi [0:3 FF-35-02-FF]Bowser[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404010D44060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_bloom03": {
+        "name": "bd01_gmk02_mw_bloom03",
+        "message": "[0:3 FF-FF-FF-FF]Quel dommage... Tu ne pourras pas voir\r\nle roi [0:3 FF-35-02-FF]Bowser[0:3 FF-FF-FF-FF]. J'imagine ta d\u00e9ception...[0:3 00-00-00-FF]",
+        "attribute": "0404040D58060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_lastSeed00": {
+        "name": "bd01_gmk02_mw_lastSeed00",
+        "message": "Il ne reste plus qu'une graine. Dans ce\r\ncas... la victoire est toute proche !",
+        "attribute": "0404010D72060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_lastSeed01": {
+        "name": "bd01_gmk02_mw_lastSeed01",
+        "message": "[0:3 FF-FF-FF-FF]Ouah, quelle chance... Amuse-toi bien\r\navec le roi [0:3 FF-35-02-FF]Bowser[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404020D96060000",
+        "style_index": 4
+    },
+    "bd01_map_gmk01_c04_details00": {
+        "name": "bd01_map_gmk01_c04_details00",
+        "message": "D\u00e9pensez des pi\u00e8ces \ue020 ici\r\npour planter une fraise.",
+        "attribute": "04000000B0060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk01_c04_details01": {
+        "name": "bd01_map_gmk01_c04_details01",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] a plant\u00e9 une\r\nfraise. Gare \u00e0 vos pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04000000B2060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk01_c04_details02": {
+        "name": "bd01_map_gmk01_c04_details02",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] a plant\u00e9 une\r\nfraise. Gare \u00e0 vos \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04000000B4060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk02_spot_details": {
+        "name": "bd01_map_gmk02_spot_details",
+        "message": "Choisissez une graine et\r\nsuivez le chemin qui pousse.",
+        "attribute": "04000000B6060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk03_c04_details": {
+        "name": "bd01_map_gmk03_c04_details",
+        "message": "Utilisez ce toboggan pour\r\nprendre un raccourci !",
+        "attribute": "04000000B8060000",
+        "style_index": 61
+    }
+}

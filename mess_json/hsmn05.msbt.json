@@ -1,0 +1,230 @@
+{
+    "mn_dStore_category_select": {
+        "name": "mn_dStore_category_select",
+        "message": "[0]",
+        "attribute": "0400000038010000",
+        "style_index": 351
+    },
+    "mn_dStore_category_list_all": {
+        "name": "mn_dStore_category_list_all",
+        "message": "Tous",
+        "attribute": "040000003A010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_stamp": {
+        "name": "mn_dStore_category_list_stamp",
+        "message": "Autocollants",
+        "attribute": "040000003C010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_card": {
+        "name": "mn_dStore_category_list_card",
+        "message": "Motifs de\r\ncartes",
+        "attribute": "040000003E010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_book": {
+        "name": "mn_dStore_category_list_book",
+        "message": "Encyclop\u00e9die",
+        "attribute": "0400000040010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_bgm": {
+        "name": "mn_dStore_category_list_bgm",
+        "message": "Musiques",
+        "attribute": "0400000042010000",
+        "style_index": 352
+    },
+    "mn_dStore_goods_name": {
+        "name": "mn_dStore_goods_name",
+        "message": "[0]",
+        "attribute": "0400000044010000",
+        "style_index": 353
+    },
+    "mn_dStore_goods_price": {
+        "name": "mn_dStore_goods_price",
+        "message": "[0]",
+        "attribute": "0400000046010000",
+        "style_index": 354
+    },
+    "mn_dStore_goods_name_check": {
+        "name": "mn_dStore_goods_name_check",
+        "message": "[0]",
+        "attribute": "0400000048010000",
+        "style_index": 355
+    },
+    "mn_dStore_goods_stampDetails": {
+        "name": "mn_dStore_goods_stampDetails",
+        "message": "Utilisez des autocollants\r\npour communiquer avec\r\nles autres joueurs.",
+        "attribute": "040000004A010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bgmDetails": {
+        "name": "mn_dStore_goods_bgmDetails",
+        "message": "Cet article inclut [0] pistes\r\nclassiques mais aussi modernes.\r\n\u00c9coutez-les dans les musiques.",
+        "attribute": "040000004C010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_d_bgmDetails": {
+        "name": "mn_dStore_goods_d_bgmDetails",
+        "message": "Cet article inclut [0] pistes\r\nque vous pouvez \u00e9couter\r\ndans la maison des donn\u00e9es.",
+        "attribute": "040000004E010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_staff_bgmDetails": {
+        "name": "mn_dStore_goods_staff_bgmDetails",
+        "message": "Cette piste est empreinte\r\nde nostalgie. \u00c9coutez-la\r\ndans la maison des donn\u00e9es.",
+        "attribute": "0400000050010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails00": {
+        "name": "mn_dStore_goods_bookDetails00",
+        "message": "Cet article ajoute une page\r\nJeu \u00e0 l'encyclop\u00e9die de la\r\nmaison des donn\u00e9es.",
+        "attribute": "0400000052010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails01": {
+        "name": "mn_dStore_goods_bookDetails01",
+        "message": "Cet article ajoute une page\r\nPlateau \u00e0 l'encyclop\u00e9die de\r\nla maison des donn\u00e9es.",
+        "attribute": "0400000054010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails02": {
+        "name": "mn_dStore_goods_bookDetails02",
+        "message": "Cet article ajoute une page\r\nPersonnage \u00e0 l'encyclop\u00e9die\r\nde la maison des donn\u00e9es.",
+        "attribute": "0400000056010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails03": {
+        "name": "mn_dStore_goods_bookDetails03",
+        "message": "Cet article ajoute une page\r\nAstuces \u00e0 l'encyclop\u00e9die\r\nde la maison des donn\u00e9es.",
+        "attribute": "0400000058010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_caodDetails": {
+        "name": "mn_dStore_goods_caodDetails",
+        "message": "Ce motif sert \u00e0 modifier\r\nl'apparence des cartes\r\nMario Party.",
+        "attribute": "040000005A010000",
+        "style_index": 356
+    },
+    "mn_dStore_buy_check": {
+        "name": "mn_dStore_buy_check",
+        "message": "Acheter cet article ?",
+        "attribute": "040000005C010000",
+        "style_index": 357
+    },
+    "mn_dStore_coin_before": {
+        "name": "mn_dStore_coin_before",
+        "message": "[0:3 11-0C-1D-FF][0][0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF]",
+        "attribute": "040000005E010000",
+        "style_index": 358
+    },
+    "mn_dStore_coin_after": {
+        "name": "mn_dStore_coin_after",
+        "message": "[0:3 11-0C-1D-FF][0][0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF]",
+        "attribute": "0400000060010000",
+        "style_index": 358
+    },
+    "mn_dStore_buy_a0": {
+        "name": "mn_dStore_buy_a0",
+        "message": "Oui",
+        "attribute": "0400000062010000",
+        "style_index": 359
+    },
+    "mn_dStore_buy_a1": {
+        "name": "mn_dStore_buy_a1",
+        "message": "Non",
+        "attribute": "0400000064010000",
+        "style_index": 359
+    },
+    "mn_dStore_coin_have": {
+        "name": "mn_dStore_coin_have",
+        "message": "[0]",
+        "attribute": "0400000066010000",
+        "style_index": 360
+    },
+    "mn_dStore_back": {
+        "name": "mn_dStore_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000068010000",
+        "style_index": 370
+    },
+    "mn_dStore_mw_enterA": {
+        "name": "mn_dStore_mw_enterA",
+        "message": "Bienvenue !",
+        "attribute": "0401002D6A010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_enterB": {
+        "name": "mn_dStore_mw_enterB",
+        "message": "Bienvenue au [0:3 FF-35-02-FF]magasin de Toad[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401002D82010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_enterC": {
+        "name": "mn_dStore_mw_enterC",
+        "message": "J'ai plein de choses \u00e0 vendre.\r\nN'h\u00e9sitez pas \u00e0 jeter un \u0153il !",
+        "attribute": "0401002D9A010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter00": {
+        "name": "mn_dStore_mw_firstEnter00",
+        "message": "Nous avons des autocollants, de la\r\nmusique, des pages d'encyclop\u00e9die et\r\ndes motifs pour les cartes Mario Party !",
+        "attribute": "0401002DB2010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter01": {
+        "name": "mn_dStore_mw_firstEnter01",
+        "message": "Vous pouvez gagner des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]en jouant sur les plateaux et sur\r\nla [0:3 FF-35-02-FF]montagne aux mini-jeux[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401002DB4010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter02": {
+        "name": "mn_dStore_mw_firstEnter02",
+        "message": "Prenez le temps de regarder nos articles,\r\nrien ne presse.",
+        "attribute": "0401002DD8010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_add_intro": {
+        "name": "mn_dStore_mw_add_intro",
+        "message": "Nous avons re\u00e7u de nouveaux articles !",
+        "attribute": "0401002DDA010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_soldOut00": {
+        "name": "mn_dStore_mw_soldOut00",
+        "message": "Eh bien, voyez-vous \u00e7a... Je n'ai plus rien\r\nen stock ! Merci pour vos achats !",
+        "attribute": "0401002DF4010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeA": {
+        "name": "mn_dStore_mw_byeA",
+        "message": "\u00c0 la revoyure !",
+        "attribute": "0401002D12020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeB": {
+        "name": "mn_dStore_mw_byeB",
+        "message": "Revenez quand vous voulez !",
+        "attribute": "0401002D26020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeC": {
+        "name": "mn_dStore_mw_byeC",
+        "message": "Vous savez o\u00f9 me trouver !",
+        "attribute": "0401002D3A020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_lack": {
+        "name": "mn_dStore_mw_lack",
+        "message": "Oh... On dirait que vous \u00eates\r\n\u00e0 court de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401002D4E020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_buy": {
+        "name": "mn_dStore_mw_buy",
+        "message": "Merci pour votre achat !",
+        "attribute": "0401002D66020000",
+        "style_index": 4
+    }
+}

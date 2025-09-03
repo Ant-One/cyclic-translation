@@ -1,0 +1,824 @@
+{
+    "mn_bdM_ctrl_friend": {
+        "name": "mn_bdM_ctrl_friend",
+        "message": "\ue001 Maison des amis",
+        "attribute": "0400000050040000",
+        "style_index": 610
+    },
+    "mn_bdM_rules_rank": {
+        "name": "mn_bdM_rules_rank",
+        "message": "[0]",
+        "attribute": "0400000052040000",
+        "style_index": 549
+    },
+    "mn_bdM_saveData_map": {
+        "name": "mn_bdM_saveData_map",
+        "message": "[0]",
+        "attribute": "0400000054040000",
+        "style_index": 422
+    },
+    "mn_bdM_saveData_date": {
+        "name": "mn_bdM_saveData_date",
+        "message": "[2]/[1]/[0]",
+        "attribute": "0400000056040000",
+        "style_index": 424
+    },
+    "mn_bdM_saveData_connect": {
+        "name": "mn_bdM_saveData_connect",
+        "message": "[0]",
+        "attribute": "0400000058040000",
+        "style_index": 423
+    },
+    "mn_bdM_saveData_turn": {
+        "name": "mn_bdM_saveData_turn",
+        "message": "Tour : [0]/[1]",
+        "attribute": "040000005A040000",
+        "style_index": 423
+    },
+    "mn_bdM_saveData_rank": {
+        "name": "mn_bdM_saveData_rank",
+        "message": "[0]",
+        "attribute": "040000005C040000",
+        "style_index": 425
+    },
+    "mn_bdM_saveData_star": {
+        "name": "mn_bdM_saveData_star",
+        "message": "[0]",
+        "attribute": "040000005E040000",
+        "style_index": 426
+    },
+    "mn_bdM_saveData_coin": {
+        "name": "mn_bdM_saveData_coin",
+        "message": "[0]",
+        "attribute": "0400000060040000",
+        "style_index": 427
+    },
+    "mn_bdM_saveData_name": {
+        "name": "mn_bdM_saveData_name",
+        "message": "[0]",
+        "attribute": "0400000062040000",
+        "style_index": 428
+    },
+    "mn_bdM_chara_random": {
+        "name": "mn_bdM_chara_random",
+        "message": "Al\u00e9atoire",
+        "attribute": "0400000064040000",
+        "style_index": 557
+    },
+    "mn_bdM_handi_select": {
+        "name": "mn_bdM_handi_select",
+        "message": "[0] \ue021",
+        "attribute": "0400000066040000",
+        "style_index": 350
+    },
+    "mn_bdM_handi_list": {
+        "name": "mn_bdM_handi_list",
+        "message": "[0] \ue021",
+        "attribute": "0400000068040000",
+        "style_index": 518
+    },
+    "mn_bdM_map_level": {
+        "name": "mn_bdM_map_level",
+        "message": "Difficult\u00e9",
+        "attribute": "040000006A040000",
+        "style_index": 547
+    },
+    "mn_bdM_turn": {
+        "name": "mn_bdM_turn",
+        "message": "Nombre de tours",
+        "attribute": "040000006C040000",
+        "style_index": 293
+    },
+    "mn_bdM_bonus": {
+        "name": "mn_bdM_bonus",
+        "message": "\u00c9toiles bonus",
+        "attribute": "040000006E040000",
+        "style_index": 611
+    },
+    "mn_bdM_inst": {
+        "name": "mn_bdM_inst",
+        "message": "Explications",
+        "attribute": "0400000070040000",
+        "style_index": 293
+    },
+    "mn_bdM_handi": {
+        "name": "mn_bdM_handi",
+        "message": "Handicap",
+        "attribute": "0400000072040000",
+        "style_index": 293
+    },
+    "mn_bdM_turn_select": {
+        "name": "mn_bdM_turn_select",
+        "message": "[0] tours",
+        "attribute": "0400000074040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select00": {
+        "name": "mn_bdM_rule_select00",
+        "message": "Avec",
+        "attribute": "0400000076040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select01": {
+        "name": "mn_bdM_rule_select01",
+        "message": "Sans",
+        "attribute": "0400000078040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select02": {
+        "name": "mn_bdM_rule_select02",
+        "message": "Fixes",
+        "attribute": "040000007A040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_turn_time": {
+        "name": "mn_bdM_rule_turn_time",
+        "message": "[0] min",
+        "attribute": "040000007C040000",
+        "style_index": 573
+    },
+    "mn_bdM_mapName": {
+        "name": "mn_bdM_mapName",
+        "message": "[0]",
+        "attribute": "040000007E040000",
+        "style_index": 514
+    },
+    "mn_bdM_on_map": {
+        "name": "mn_bdM_on_map",
+        "message": "[0]",
+        "attribute": "0400000080040000",
+        "style_index": 470
+    },
+    "mn_bdM_on_map_ok": {
+        "name": "mn_bdM_on_map_ok",
+        "message": "Chercher une partie",
+        "attribute": "0400000082040000",
+        "style_index": 471
+    },
+    "mn_bdM_on_map_icon": {
+        "name": "mn_bdM_on_map_icon",
+        "message": "Essayez celui-l\u00e0 !",
+        "attribute": "0400000084040000",
+        "style_index": 534
+    },
+    "mn_bdM_on_map_rule": {
+        "name": "mn_bdM_on_map_rule",
+        "message": "\ue001 Choix des r\u00e8gles",
+        "attribute": "0400000086040000",
+        "style_index": 574
+    },
+    "mn_bdM_on_map_back": {
+        "name": "mn_bdM_on_map_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000088040000",
+        "style_index": 575
+    },
+    "mn_bdM_on_map_level": {
+        "name": "mn_bdM_on_map_level",
+        "message": "Difficult\u00e9",
+        "attribute": "040000008A040000",
+        "style_index": 535
+    },
+    "mn_bdM_userName": {
+        "name": "mn_bdM_userName",
+        "message": "[0]",
+        "attribute": "040000008C040000",
+        "style_index": 295
+    },
+    "mn_bdM_comName": {
+        "name": "mn_bdM_comName",
+        "message": "[0]",
+        "attribute": "040000008E040000",
+        "style_index": 295
+    },
+    "mn_bdM_comLevel": {
+        "name": "mn_bdM_comLevel",
+        "message": "[0]",
+        "attribute": "0400000090040000",
+        "style_index": 350
+    },
+    "mn_bdM_chara_name": {
+        "name": "mn_bdM_chara_name",
+        "message": "[0]",
+        "attribute": "0400000092040000",
+        "style_index": 536
+    },
+    "mn_bdM_playerNo": {
+        "name": "mn_bdM_playerNo",
+        "message": "[0]",
+        "attribute": "0400000094040000",
+        "style_index": 299
+    },
+    "mn_bdM_comNo": {
+        "name": "mn_bdM_comNo",
+        "message": "ORDI",
+        "attribute": "0400000096040000",
+        "style_index": 299
+    },
+    "mn_bdM_pack_list": {
+        "name": "mn_bdM_pack_list",
+        "message": "[0]",
+        "attribute": "0400000098040000",
+        "style_index": 361
+    },
+    "mn_bdM_header_turn": {
+        "name": "mn_bdM_header_turn",
+        "message": "Nombre de tours",
+        "attribute": "040000009A040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_bonus": {
+        "name": "mn_bdM_header_bonus",
+        "message": "\u00c9toiles bonus",
+        "attribute": "040000009C040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_inst": {
+        "name": "mn_bdM_header_inst",
+        "message": "Explications",
+        "attribute": "040000009E040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_pack": {
+        "name": "mn_bdM_header_pack",
+        "message": "Pack de mini-jeux",
+        "attribute": "04000000A0040000",
+        "style_index": 293
+    },
+    "mn_bdM_check_pack": {
+        "name": "mn_bdM_check_pack",
+        "message": "[0]",
+        "attribute": "04000000A2040000",
+        "style_index": 469
+    },
+    "mn_bdM_saveData_guest": {
+        "name": "mn_bdM_saveData_guest",
+        "message": "Invit\u00e9",
+        "attribute": "04000000A4040000",
+        "style_index": 4294967295
+    },
+    "mn_bdM_ctrl_good": {
+        "name": "mn_bdM_ctrl_good",
+        "message": "\ue002 Super !",
+        "attribute": "04000000A6040000",
+        "style_index": 529
+    },
+    "mn_bdM_matchRule_title": {
+        "name": "mn_bdM_matchRule_title",
+        "message": "Param\u00e9trez votre partie comme vous voulez.",
+        "attribute": "04000000A8040000",
+        "style_index": 595
+    },
+    "mn_bdM_matchRule_turn_title": {
+        "name": "mn_bdM_matchRule_turn_title",
+        "message": "Nombre de tours",
+        "attribute": "04000000AA040000",
+        "style_index": 596
+    },
+    "mn_bdM_matchRule_bonus_title": {
+        "name": "mn_bdM_matchRule_bonus_title",
+        "message": "\u00c9toiles bonus",
+        "attribute": "04000000AC040000",
+        "style_index": 597
+    },
+    "mn_bdM_matchRule_turn": {
+        "name": "mn_bdM_matchRule_turn",
+        "message": "[0] tours",
+        "attribute": "04000000AE040000",
+        "style_index": 598
+    },
+    "mn_bdM_matchRule_bonus00": {
+        "name": "mn_bdM_matchRule_bonus00",
+        "message": "Avec",
+        "attribute": "04000000B0040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_bonus01": {
+        "name": "mn_bdM_matchRule_bonus01",
+        "message": "Sans",
+        "attribute": "04000000B2040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_bonus02": {
+        "name": "mn_bdM_matchRule_bonus02",
+        "message": "Fixes",
+        "attribute": "04000000B4040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_reco": {
+        "name": "mn_bdM_matchRule_reco",
+        "message": "Par d\u00e9faut",
+        "attribute": "04000000B6040000",
+        "style_index": 600
+    },
+    "mn_bdM_match_ctrl_card": {
+        "name": "mn_bdM_match_ctrl_card",
+        "message": "\ue00f/\ue00e Carte Mario Party",
+        "attribute": "04000000B8040000",
+        "style_index": 578
+    },
+    "mn_bdM_match_ctrl_mg": {
+        "name": "mn_bdM_match_ctrl_mg",
+        "message": "\ue00f/\ue00e Retour aux mini-jeux",
+        "attribute": "04000000BA040000",
+        "style_index": 578
+    },
+    "mn_bdM_match_mg_name": {
+        "name": "mn_bdM_match_mg_name",
+        "message": "[0]",
+        "attribute": "04000000BC040000",
+        "style_index": 579
+    },
+    "mn_bdM_match_rule_map": {
+        "name": "mn_bdM_match_rule_map",
+        "message": "[0]",
+        "attribute": "04000000BE040000",
+        "style_index": 580
+    },
+    "mn_bdM_match_rule_turn": {
+        "name": "mn_bdM_match_rule_turn",
+        "message": "[0] tours",
+        "attribute": "04000000C0040000",
+        "style_index": 581
+    },
+    "mn_bdM_match_rule_bonus00": {
+        "name": "mn_bdM_match_rule_bonus00",
+        "message": "\u00c9toiles bonus : avec",
+        "attribute": "04000000C2040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_rule_bonus01": {
+        "name": "mn_bdM_match_rule_bonus01",
+        "message": "\u00c9toiles bonus : sans",
+        "attribute": "04000000C4040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_rule_bonus02": {
+        "name": "mn_bdM_match_rule_bonus02",
+        "message": "\u00c9toiles bonus : fixes",
+        "attribute": "04000000C6040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_title_wait": {
+        "name": "mn_bdM_match_title_wait",
+        "message": "Recherche d'autres joueurs...",
+        "attribute": "04000000C8040000",
+        "style_index": 583
+    },
+    "mn_bdM_match_title_start": {
+        "name": "mn_bdM_match_title_start",
+        "message": "La partie va commencer !",
+        "attribute": "04000000CA040000",
+        "style_index": 584
+    },
+    "mn_bdM_match_card_name": {
+        "name": "mn_bdM_match_card_name",
+        "message": "[0]",
+        "attribute": "04000000CC040000",
+        "style_index": 585
+    },
+    "mn_bdM_match_card_level": {
+        "name": "mn_bdM_match_card_level",
+        "message": "Niveau [0]",
+        "attribute": "04000000CE040000",
+        "style_index": 586
+    },
+    "mn_bdM_match_card_achieve": {
+        "name": "mn_bdM_match_card_achieve",
+        "message": "[0]",
+        "attribute": "04000000D0040000",
+        "style_index": 587
+    },
+    "mn_bdM_match_card_wins": {
+        "name": "mn_bdM_match_card_wins",
+        "message": "Victoires : [0]",
+        "attribute": "04000000D2040000",
+        "style_index": 588
+    },
+    "mn_bdM_match_card_rankTitle": {
+        "name": "mn_bdM_match_card_rankTitle",
+        "message": "Qualification :",
+        "attribute": "04000000D4040000",
+        "style_index": 589
+    },
+    "mn_bdM_match_card_rank": {
+        "name": "mn_bdM_match_card_rank",
+        "message": "[0]",
+        "attribute": "04000000D6040000",
+        "style_index": 590
+    },
+    "mn_bdM_match_card_coin": {
+        "name": "mn_bdM_match_card_coin",
+        "message": "[0]",
+        "attribute": "04000000D8040000",
+        "style_index": 591
+    },
+    "mn_bdM_match_card_coinTitle": {
+        "name": "mn_bdM_match_card_coinTitle",
+        "message": "Record :",
+        "attribute": "04000000DA040000",
+        "style_index": 592
+    },
+    "mn_bdM_match_sports_vs": {
+        "name": "mn_bdM_match_sports_vs",
+        "message": "VS",
+        "attribute": "04000000DC040000",
+        "style_index": 604
+    },
+    "mn_bdM_match_sports_name": {
+        "name": "mn_bdM_match_sports_name",
+        "message": "[0]",
+        "attribute": "04000000DE040000",
+        "style_index": 605
+    },
+    "mn_bdM_match_sports_CPU": {
+        "name": "mn_bdM_match_sports_CPU",
+        "message": "ORDI",
+        "attribute": "04000000E0040000",
+        "style_index": 606
+    },
+    "mn_bdM_mw_intro_first00": {
+        "name": "mn_bdM_mw_intro_first00",
+        "message": "L'aventure qui d\u00e9cidera de la nouvelle\r\nsuperstar est sur le point de d\u00e9buter !",
+        "attribute": "0401000FE2040000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introA": {
+        "name": "mn_bdM_mw_introA",
+        "message": "Tr\u00e8s bien... Occupons-nous\r\ndes pr\u00e9paratifs !",
+        "attribute": "0401000FFA040000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introB": {
+        "name": "mn_bdM_mw_introB",
+        "message": "J'ai h\u00e2te de commencer !",
+        "attribute": "0401000F18050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introC": {
+        "name": "mn_bdM_mw_introC",
+        "message": "On va bien s'amuser !",
+        "attribute": "0401000F36050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_intro_save": {
+        "name": "mn_bdM_mw_intro_save",
+        "message": "Des donn\u00e9es relatives \u00e0 une partie\r\ncommenc\u00e9e pr\u00e9c\u00e9demment ont \u00e9t\u00e9\r\ntrouv\u00e9es. Reprendre cette partie ?",
+        "attribute": "0401000F54050000",
+        "style_index": 6
+    },
+    "mn_bdM_intro_save_a0": {
+        "name": "mn_bdM_intro_save_a0",
+        "message": "Reprendre",
+        "attribute": "0400000068050000",
+        "style_index": 9
+    },
+    "mn_bdM_intro_save_a1": {
+        "name": "mn_bdM_intro_save_a1",
+        "message": "Recommencer",
+        "attribute": "040000006A050000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_save_select": {
+        "name": "mn_bdM_mw_save_select",
+        "message": "Choisissez les donn\u00e9es relatives\r\n\u00e0 la partie que vous voulez reprendre.",
+        "attribute": "0401000F6C050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_save_check": {
+        "name": "mn_bdM_mw_save_check",
+        "message": "Continuer avec les donn\u00e9es\r\nde cette partie ?",
+        "attribute": "0401000F86050000",
+        "style_index": 6
+    },
+    "mn_bdM_save_check_a0": {
+        "name": "mn_bdM_save_check_a0",
+        "message": "Oui",
+        "attribute": "04000000A0050000",
+        "style_index": 9
+    },
+    "mn_bdM_save_check_a1": {
+        "name": "mn_bdM_save_check_a1",
+        "message": "Non",
+        "attribute": "04000000A2050000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_save_guest": {
+        "name": "mn_bdM_mw_save_guest",
+        "message": "Choisissez votre personnage,\r\n[0].",
+        "attribute": "0401000FA4050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_save_replaced": {
+        "name": "mn_bdM_mw_save_replaced",
+        "message": "L'ORDI prendra la place des joueurs\r\nabsents. C'est parti !",
+        "attribute": "0401000FB8050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_override_select": {
+        "name": "mn_bdM_mw_override_select",
+        "message": "Tous les emplacements de donn\u00e9es\r\nrelatives \u00e0 une partie sont occup\u00e9s.\r\nChoisissez celui que vous voulez \u00e9craser.",
+        "attribute": "0401000FDC050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_override_check": {
+        "name": "mn_bdM_mw_override_check",
+        "message": "Voulez-vous vraiment \u00e9craser\r\nles donn\u00e9es relatives \u00e0 cette partie ?",
+        "attribute": "0401000FF6050000",
+        "style_index": 6
+    },
+    "mn_bdM_override_check_a0": {
+        "name": "mn_bdM_override_check_a0",
+        "message": "Oui",
+        "attribute": "0400000014060000",
+        "style_index": 9
+    },
+    "mn_bdM_override_check_a1": {
+        "name": "mn_bdM_override_check_a1",
+        "message": "Non",
+        "attribute": "0400000016060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_chara_select": {
+        "name": "mn_bdM_mw_chara_select",
+        "message": "Qui participera \u00e0 l'aventure ?",
+        "attribute": "0401000F18060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_com_select": {
+        "name": "mn_bdM_mw_com_select",
+        "message": "Vous devez \u00eatre 4 pour jouer.\r\nIl reste [0] [1:1 32-00-70-00-6C-00-61-00-63-00-65-00-20-00-6C-00-69-00-62-00-72-00-65-00-2C-00-70-00-6C-00-61-00-63-00-65-00-73-00-20-00-6C-00-69-00-62-00-72-00-65-00-73-00].",
+        "attribute": "0401000F2C060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_chara_check": {
+        "name": "mn_bdM_mw_chara_check",
+        "message": "Tout le monde est pr\u00eat ?",
+        "attribute": "0401000F2E060000",
+        "style_index": 6
+    },
+    "mn_bdM_chara_check_a0": {
+        "name": "mn_bdM_chara_check_a0",
+        "message": "Oui",
+        "attribute": "0400000030060000",
+        "style_index": 9
+    },
+    "mn_bdM_chara_check_a1": {
+        "name": "mn_bdM_chara_check_a1",
+        "message": "Non",
+        "attribute": "0400000032060000",
+        "style_index": 9
+    },
+    "mn_bdM_chara_check_a2": {
+        "name": "mn_bdM_chara_check_a2",
+        "message": "ORDI al\u00e9atoires",
+        "attribute": "0400000034060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_comLevel_select": {
+        "name": "mn_bdM_mw_comLevel_select",
+        "message": "Choisissez la difficult\u00e9.",
+        "attribute": "0401000F36060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_check": {
+        "name": "mn_bdM_mw_handi_check",
+        "message": "Ici, vous pouvez ajuster les \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\nde d\u00e9part d'un des personnages.[0:3 00-00-00-FF]",
+        "attribute": "0401000F4A060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_check00": {
+        "name": "mn_bdM_mw_handi_check00",
+        "message": "[0:3 11-0C-1D-FF]Tout le monde d\u00e9bute avec 0 \u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000F4C060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_select": {
+        "name": "mn_bdM_mw_handi_select",
+        "message": "Choisissez le nombre d'\u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000F4E060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rule_check": {
+        "name": "mn_bdM_mw_rule_check",
+        "message": "Savez-vous comment jouer ?",
+        "attribute": "0401000F68060000",
+        "style_index": 6
+    },
+    "mn_bdM_mw_rule_after": {
+        "name": "mn_bdM_mw_rule_after",
+        "message": "Je pense que vous savez tout.\r\nOn continue ?",
+        "attribute": "0401000F86060000",
+        "style_index": 6
+    },
+    "mn_bdM_rule_check_a0": {
+        "name": "mn_bdM_rule_check_a0",
+        "message": "Oui",
+        "attribute": "04000000A4060000",
+        "style_index": 9
+    },
+    "mn_bdM_rule_check_a1": {
+        "name": "mn_bdM_rule_check_a1",
+        "message": "Non",
+        "attribute": "04000000A6060000",
+        "style_index": 9
+    },
+    "mn_bdM_rule_check_a2": {
+        "name": "mn_bdM_rule_check_a2",
+        "message": "C'est parti !",
+        "attribute": "04000000A8060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_map00": {
+        "name": "mn_bdM_mw_map00",
+        "message": "Explorez un d\u00e9licieux g\u00e2teau et plantez-y\r\ndes fraises pour prendre l'avantage !",
+        "attribute": "0401000FAA060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map01": {
+        "name": "mn_bdM_mw_map01",
+        "message": "Gare aux vaisseaux et aux rayons de\r\nBowser dans cette aventure spatiale !",
+        "attribute": "0401000FD0060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map02": {
+        "name": "mn_bdM_mw_map02",
+        "message": "Parcourez les bois et suivez les panneaux.\r\nNe vous perdez pas en chemin !",
+        "attribute": "0401000FF6060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map03": {
+        "name": "mn_bdM_mw_map03",
+        "message": "Explorez deux \u00eeles et utilisez les ponts\r\nqui les relient \u00e0 votre avantage !",
+        "attribute": "0401000F1C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map04": {
+        "name": "mn_bdM_mw_map04",
+        "message": "La nuit venue, cet \u00e9trange endroit gard\u00e9\r\npar des fant\u00f4mes change... Attention !",
+        "attribute": "0401000F42070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_turn_reco": {
+        "name": "mn_bdM_mw_turn_reco",
+        "message": "[0:3 11-0C-1D-FF]Je vous recommande [1] tours, sur le\r\nplateau [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000F68070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail00": {
+        "name": "mn_bdM_mw_bonus_detail00",
+        "message": "[0:3 11-0C-1D-FF]Les \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] bonus peuvent changer le\r\ncours de la partie, vous pouvez me croire ![0:3 00-00-00-FF]",
+        "attribute": "0401000F6A070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail01": {
+        "name": "mn_bdM_mw_bonus_detail01",
+        "message": "[0:3 11-0C-1D-FF]Je prends note, pas d'\u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] bonus !\r\nSeule votre adresse entrera en compte.[0:3 00-00-00-FF]",
+        "attribute": "0401000F6C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail02": {
+        "name": "mn_bdM_mw_bonus_detail02",
+        "message": "Cette r\u00e8gle pour nostalgiques limite les\r\n\u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]bonus aux bonus des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF],\r\ndes mini-jeux et des \u00e9v\u00e9nements.[0:3 00-00-00-FF]",
+        "attribute": "0401000F6E070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_inst_detail": {
+        "name": "mn_bdM_mw_inst_detail",
+        "message": "Choisissez d'afficher ou non les\r\ncommandes avant chaque mini-jeu.",
+        "attribute": "0401000F70070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_inst_detai00": {
+        "name": "mn_bdM_mw_inst_detai00",
+        "message": "Vous ne verrez pas d'instructions\r\nau d\u00e9but des mini-jeux.",
+        "attribute": "0401000F72070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_select": {
+        "name": "mn_bdM_mw_pack_select",
+        "message": "Et enfin, choisissez un pack de mini-jeux !\r\nChacun contient diff\u00e9rents mini-jeux.",
+        "attribute": "0401000F74070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details00": {
+        "name": "mn_bdM_mw_pack_details00",
+        "message": "Ce pack contient un peu de tout !",
+        "attribute": "0401000F88070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details01": {
+        "name": "mn_bdM_mw_pack_details01",
+        "message": "Ce pack contient des mini-jeux\r\naccessibles pour toute la famille,\r\npetits et grands.",
+        "attribute": "0401000F8A070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details02": {
+        "name": "mn_bdM_mw_pack_details02",
+        "message": "J'esp\u00e8re que vous appr\u00e9cierez\r\nces mini-jeux pleins d'action\r\nque j'ai rassembl\u00e9s pour vous !",
+        "attribute": "0401000F8C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details03": {
+        "name": "mn_bdM_mw_pack_details03",
+        "message": "Ici, j'ai regroup\u00e9 une s\u00e9lection\r\nde mini-jeux classiques qui datent\r\nde la console Nintendo 64.",
+        "attribute": "0401000F8E070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details04": {
+        "name": "mn_bdM_mw_pack_details04",
+        "message": "Dans celui-ci, des mini-jeux de l'\u00e9poque\r\nNintendo GameCube vous attendent.",
+        "attribute": "0401000F90070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details05": {
+        "name": "mn_bdM_mw_pack_details05",
+        "message": "Vous voulez prouver votre habilet\u00e9 ?\r\nJ'ai justement les mini-jeux\r\nqu'il vous faut dans ce pack !",
+        "attribute": "0401000F92070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_check": {
+        "name": "mn_bdM_mw_check",
+        "message": "Je crois bien que tout est pr\u00eat.\r\nOn y va ?",
+        "attribute": "0401000F94070000",
+        "style_index": 6
+    },
+    "mn_bdM_check_a0": {
+        "name": "mn_bdM_check_a0",
+        "message": "C'est parti !",
+        "attribute": "03000000AC070000",
+        "style_index": 9
+    },
+    "mn_bdM_check_a1": {
+        "name": "mn_bdM_check_a1",
+        "message": "Pas encore",
+        "attribute": "03000000AE070000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_rules00": {
+        "name": "mn_bdM_mw_rules00",
+        "message": "C'est un jeu de plateau, et il faut\r\nlancer un d\u00e9 pour avancer.",
+        "attribute": "0401000FB0070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules01": {
+        "name": "mn_bdM_mw_rules01",
+        "message": "Le joueur avec le plus d'\u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]en fin\r\nde partie gagne et devient la superstar ![0:3 00-00-00-FF]",
+        "attribute": "0401000FCA070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules02": {
+        "name": "mn_bdM_mw_rules02",
+        "message": "Vous pouvez \u00e9changer une \u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\ncontre des pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]sur certaines cases.[0:3 00-00-00-FF]",
+        "attribute": "0401000FEE070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules03": {
+        "name": "mn_bdM_mw_rules03",
+        "message": "De bons r\u00e9sultats dans les mini-jeux vous\r\npermettront d'obtenir plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000FF0070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules04": {
+        "name": "mn_bdM_mw_rules04",
+        "message": "[0:3 11-0C-1D-FF]Vous n'avez rien \u00e0 craindre des [0:3 FF-35-02-FF]cases\r\nbleues[0:3 11-0C-1D-FF]. Par contre, je vous conseille\r\nd'\u00e9viter les [0:3 FF-35-02-FF]cases rouges[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000FF2070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules05": {
+        "name": "mn_bdM_mw_rules05",
+        "message": "[0:3 11-0C-1D-FF]Sur une [0:3 FF-35-02-FF]case bleue[0:3 11-0C-1D-FF], vous recevrez des\r\npi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]! Cool ![0:3 00-00-00-FF]",
+        "attribute": "0401000F10080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules06": {
+        "name": "mn_bdM_mw_rules06",
+        "message": "[0:3 11-0C-1D-FF]Mais attention aux [0:3 FF-35-02-FF]cases rouges[0:3 11-0C-1D-FF], vous y\r\nperdrez des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF]. Et je ne vous parle\r\nm\u00eame pas des [0:3 FF-35-02-FF]cases Bowser[0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401000F12080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules07": {
+        "name": "mn_bdM_mw_rules07",
+        "message": "Sur les cases de couleur verte, des\r\n\u00e9v\u00e9nements de plateau auront lieu.\r\nC'est \u00e0 peu pr\u00e8s tout !",
+        "attribute": "0401000F14080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules08": {
+        "name": "mn_bdM_mw_rules08",
+        "message": "Un mini-jeu commence d\u00e8s que tout le\r\nmonde a fini son tour. Tenez-vous pr\u00eats !",
+        "attribute": "0401000F16080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_intro_online": {
+        "name": "mn_bdM_mw_intro_online",
+        "message": "Affrontez des joueurs du monde entier\r\npour obtenir le titre de superstar !",
+        "attribute": "0401000F2A080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map_online": {
+        "name": "mn_bdM_mw_map_online",
+        "message": "Choisissez o\u00f9 vous voulez\r\npartir \u00e0 l'aventure.",
+        "attribute": "0401000F48080000",
+        "style_index": 4
+    }
+}

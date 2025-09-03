@@ -1,0 +1,410 @@
+{
+    "bd00_praise_mw_rank00a": {
+        "name": "bd00_praise_mw_rank00a",
+        "message": "[0:3 11-0C-1D-FF]J'ai le plaisir d'annoncer que la 1\ue032 place\r\nest occup\u00e9e par [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0403051928020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank00b": {
+        "name": "bd00_praise_mw_rank00b",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] termine \u00e0 la 1\ue032 place !\r\nQuel coup d'\u00e9clat ![0:3 00-00-00-FF]",
+        "attribute": "0403051958020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank00c": {
+        "name": "bd00_praise_mw_rank00c",
+        "message": "[0:3 11-0C-1D-FF]La 1\ue032 place ! Je savais que tu en \u00e9tais\r\ncapable, [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF]. Bravo ![0:3 00-00-00-FF]",
+        "attribute": "0403051988020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01a": {
+        "name": "bd00_praise_mw_rank01a",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] prend la 2\ue030 place !\r\nCe n'est pas la 1\ue032, mais elle est m\u00e9rit\u00e9e[0:3 00-00-00-FF].",
+        "attribute": "04030119B8020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01b": {
+        "name": "bd00_praise_mw_rank01b",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] finit \u00e0 la 2\ue030 place !\r\nBelle performance, \u00e7a s'est jou\u00e9 \u00e0 peu ![0:3 00-00-00-FF]",
+        "attribute": "04030119E2020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01c": {
+        "name": "bd00_praise_mw_rank01c",
+        "message": "[0:3 11-0C-1D-FF]Et c'est une 2\ue030 place !\r\nQuel incroyable effort, [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "040301190C030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02a": {
+        "name": "bd00_praise_mw_rank02a",
+        "message": "[0:3 11-0C-1D-FF]La 3\ue030 place pour [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] a \u00e9t\u00e9\r\nobtenue au prix d'un bel effort ![0:3 00-00-00-FF]",
+        "attribute": "0403011936030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02b": {
+        "name": "bd00_praise_mw_rank02b",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] arrive \u00e0 la 3\ue030 place.\r\nUne belle d\u00e9monstration de volont\u00e9 ![0:3 00-00-00-FF]",
+        "attribute": "040301195C030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02c": {
+        "name": "bd00_praise_mw_rank02c",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]est \u00e0 la 3\ue030 place !\r\nEt sans jamais rien l\u00e2cher ![0:3 00-00-00-FF]",
+        "attribute": "0403011982030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03a": {
+        "name": "bd00_praise_mw_rank03a",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] se positionne en 4\ue030 place.\r\nOn sent que ce n'est pas facile ![0:3 00-00-00-FF]",
+        "attribute": "04030119A8030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03b": {
+        "name": "bd00_praise_mw_rank03b",
+        "message": "[0:3 11-0C-1D-FF]La 4\ue030 place revient \u00e0 [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF].\r\nJ'admire cette pers\u00e9v\u00e9rance ![0:3 00-00-00-FF]",
+        "attribute": "04030119D8030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03c": {
+        "name": "bd00_praise_mw_rank03c",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] prend la 4\ue030 place.\r\nOn sent pourtant l'envie de r\u00e9ussir ![0:3 00-00-00-FF]",
+        "attribute": "0403011908040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank08": {
+        "name": "bd00_praise_mw_rank08",
+        "message": "[0:3 11-0C-1D-FF]Et puis [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] est aussi\r\n\u00e0 la 2\ue030 place ![0:3 00-00-00-FF]",
+        "attribute": "0403011938040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank09": {
+        "name": "bd00_praise_mw_rank09",
+        "message": "[0:3 11-0C-1D-FF]Sans oublier [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF]...\r\nOui, oui ! \u00c0 la 2\ue030 place aussi ![0:3 00-00-00-FF]",
+        "attribute": "0403011958040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank10": {
+        "name": "bd00_praise_mw_rank10",
+        "message": "[0:3 11-0C-1D-FF]Enfin, nous avons [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF],\r\nqui occupe aussi la 3\ue030 place ![0:3 00-00-00-FF]",
+        "attribute": "040301197E040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank04a": {
+        "name": "bd00_praise_mw_rank04a",
+        "message": "[0:3 11-0C-1D-FF]F\u00e9licitations pour cette 1\ue032 place !\r\nJ'ai toujours cru en toi, [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04030519A4040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank04b": {
+        "name": "bd00_praise_mw_rank04b",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] finit \u00e0 la 1\ue032 place !\r\nJ'ai encore du mal \u00e0 m'en remettre ![0:3 00-00-00-FF]",
+        "attribute": "04030519D4040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank05a": {
+        "name": "bd00_praise_mw_rank05a",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] occupe la 2\ue030 place.\r\nLe combat \u00e9tait serr\u00e9 ![0:3 00-00-00-FF]",
+        "attribute": "0403011904050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank05b": {
+        "name": "bd00_praise_mw_rank05b",
+        "message": "[0:3 11-0C-1D-FF]La 2\ue030 place revient \u00e0 [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF].\r\nTu y \u00e9tais presque ![0:3 00-00-00-FF]",
+        "attribute": "040301192E050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank06a": {
+        "name": "bd00_praise_mw_rank06a",
+        "message": "[0:3 11-0C-1D-FF]Beau travail, [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] !\r\nCette fois, tu es \u00e0 la 3\ue030 place.[0:3 00-00-00-FF]",
+        "attribute": "0403011958050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank06b": {
+        "name": "bd00_praise_mw_rank06b",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]est \u00e0 la 3\ue030 place !\r\nTu es quand m\u00eame sur le podium ![0:3 00-00-00-FF]",
+        "attribute": "040301197E050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank07a": {
+        "name": "bd00_praise_mw_rank07a",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]prend la 4\ue030 place !\r\nQuelle lutte acharn\u00e9e ![0:3 00-00-00-FF]",
+        "attribute": "04030119A4050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank07b": {
+        "name": "bd00_praise_mw_rank07b",
+        "message": "[0:3 11-0C-1D-FF]La 4\ue030 place revient \u00e0 [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF],\r\nmais saluons l'effort ![0:3 00-00-00-FF]",
+        "attribute": "04030119D4050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st00": {
+        "name": "bd00_praise_mw_1st00",
+        "message": "Tu as r\u00e9ussi \u00e0 d\u00e9crocher la victoire tout\r\nen empochant un tas de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0403011904060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st01": {
+        "name": "bd00_praise_mw_1st01",
+        "message": "Laisse-moi deviner... Ta strat\u00e9gie, c'est\r\nde remporter un maximum de mini-jeux !",
+        "attribute": "0403011906060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st02": {
+        "name": "bd00_praise_mw_1st02",
+        "message": "[0:3 11-0C-1D-FF]Avec tous ces [0:3 FF-35-02-FF]blocs cach\u00e9s[0:3 11-0C-1D-FF] que tu as\r\nd\u00e9couverts, ta victoire para\u00eet logique...[0:3 00-00-00-FF]",
+        "attribute": "0403011908060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st03": {
+        "name": "bd00_praise_mw_1st03",
+        "message": "Tu as su tirer le meilleur parti des objets\r\nque tu as achet\u00e9s, superbe strat\u00e9gie !",
+        "attribute": "040301190A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st04": {
+        "name": "bd00_praise_mw_1st04",
+        "message": "Quand on utilise les objets avec brio,\r\nla victoire n'est plus qu'une formalit\u00e9 !",
+        "attribute": "040301190C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st05": {
+        "name": "bd00_praise_mw_1st05",
+        "message": "Tu courais tellement qu'on avait du mal\r\n\u00e0 te suivre ! Cette d\u00e9pense d'\u00e9nergie\r\nt'a apport\u00e9 la victoire !",
+        "attribute": "040301190E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st06": {
+        "name": "bd00_praise_mw_1st06",
+        "message": "Tu as atterri sur tant de [0:3 FF-35-02-FF]cases bleues[0:3 00-00-00-FF][0:3 11-0C-1D-FF] que\r\nles pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ont d\u00fb aider pour gagner ![0:3 00-00-00-FF]",
+        "attribute": "0403011910060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st07": {
+        "name": "bd00_praise_mw_1st07",
+        "message": "Avec toutes les [0:3 FF-35-02-FF]cases rouges[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]que tu as\r\ncrois\u00e9es, ta victoire est encore plus belle ![0:3 00-00-00-FF]",
+        "attribute": "0403011912060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st08": {
+        "name": "bd00_praise_mw_1st08",
+        "message": "Tous ces mini-jeux \u00e0 objet auxquels tu as\r\njou\u00e9 ont d\u00fb t'apporter certains avantages.",
+        "attribute": "0403011914060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st09": {
+        "name": "bd00_praise_mw_1st09",
+        "message": "Ton talent pour d\u00e9corer les g\u00e2teaux\r\na port\u00e9 ses fruits !",
+        "attribute": "0403011916060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st10": {
+        "name": "bd00_praise_mw_1st10",
+        "message": "[0:3 11-0C-1D-FF]Combien de vaisseaux spatiaux as-tu eu\r\n\u00e0 tes trousses ? Je n'en reviens toujours\r\npas de ta premi\u00e8re place ![0:3 00-00-00-FF]",
+        "attribute": "0403011918060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st11": {
+        "name": "bd00_praise_mw_1st11",
+        "message": "[0:3 11-0C-1D-FF]Va savoir comment, mais les [0:3 FF-35-02-FF]\u00e9v\u00e9nements[0:3 11-0C-1D-FF]\r\nque tu as d\u00e9clench\u00e9s dans ces bois ont\r\ncontribu\u00e9 \u00e0 ta victoire... Enfin, j'imagine ![0:3 00-00-00-FF]",
+        "attribute": "040301191A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st12": {
+        "name": "bd00_praise_mw_1st12",
+        "message": "[0:3 11-0C-1D-FF]Tu as su d\u00e9placer des \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] \u00e0 ton\r\navantage, tes adversaires n'ont pas r\u00e9ussi\r\n\u00e0 suivre et tu as d\u00e9croch\u00e9 la victoire ![0:3 00-00-00-FF]",
+        "attribute": "040301191C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st13": {
+        "name": "bd00_praise_mw_1st13",
+        "message": "\u00c0 force de passer du jour \u00e0 la nuit et\r\nvice-versa, tu as nui \u00e0 tes adversaires\r\net maintenant, c'est ton jour de gloire !",
+        "attribute": "040301191E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st14": {
+        "name": "bd00_praise_mw_1st14",
+        "message": "Tu as atterri sur beaucoup de [0:3 FF-35-02-FF]cases coup\r\ndu sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF]. Tu aimes prendre des risques ?[0:3 00-00-00-FF]",
+        "attribute": "0403011920060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st15": {
+        "name": "bd00_praise_mw_1st15",
+        "message": "[0:3 11-0C-1D-FF]Tomber sur toutes ces [0:3 FF-35-02-FF]cases chance\r\n[0:3 11-0C-1D-FF]a d\u00fb bien arranger tes affaires ![0:3 00-00-00-FF]",
+        "attribute": "0403011922060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st16": {
+        "name": "bd00_praise_mw_1st16",
+        "message": "Tu as crois\u00e9 beaucoup de [0:3 FF-35-02-FF]cases Bowser[0:3 00-00-00-FF][0:3 11-0C-1D-FF]...\r\nLe roi lui-m\u00eame n'a rien pu contre toi ![0:3 00-00-00-FF]",
+        "attribute": "0403011924060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st17": {
+        "name": "bd00_praise_mw_1st17",
+        "message": "Tu as crois\u00e9 beaucoup de [0:3 FF-35-02-FF]cases combat[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nTu n'as pas peur de tes adversaires ![0:3 00-00-00-FF]",
+        "attribute": "0403011926060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st18": {
+        "name": "bd00_praise_mw_1st18",
+        "message": "[0:3 11-0C-1D-FF]Tu as d\u00e9valis\u00e9 la [0:3 FF-35-02-FF]banque Koopa[0:3 11-0C-1D-FF] plus que\r\nquiconque. Je parie que les [0:3 FF-35-02-FF]Koopas[0:3 11-0C-1D-FF]\r\nc\u00e9l\u00e8brent ta victoire ![0:3 00-00-00-FF]",
+        "attribute": "0403011928060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st19": {
+        "name": "bd00_praise_mw_1st19",
+        "message": "Ton approche \u00e9quilibr\u00e9e t'a permis\r\nde d\u00e9crocher cette belle victoire !\r\nQuelle constance dans ton style de jeu !",
+        "attribute": "040301192A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under00": {
+        "name": "bd00_praise_mw_under00",
+        "message": "Tu as r\u00e9colt\u00e9 plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]que les\r\nautres. Ton porte-monnaie tient le coup ?[0:3 00-00-00-FF]",
+        "attribute": "040301192C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under01": {
+        "name": "bd00_praise_mw_under01",
+        "message": "Tu as remport\u00e9 plus de mini-jeux\r\nque tes adversaires. \u00c7a demande\r\n\u00e9norm\u00e9ment d'adresse !",
+        "attribute": "040301192E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under02": {
+        "name": "bd00_praise_mw_under02",
+        "message": "[0:3 11-0C-1D-FF]Tu as trouv\u00e9 plus de [0:3 FF-35-02-FF]blocs cach\u00e9s[0:3 11-0C-1D-FF] que les\r\nautres. Est-ce vraiment de la chance ?[0:3 00-00-00-FF]",
+        "attribute": "0403011930060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under03": {
+        "name": "bd00_praise_mw_under03",
+        "message": "Tu as achet\u00e9 tellement d'objets, c'est un signe\r\nque ton pouvoir d'achat termine aussi premier !\r\nGare \u00e0 la fi\u00e8vre acheteuse !",
+        "attribute": "0403011932060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under04": {
+        "name": "bd00_praise_mw_under04",
+        "message": "Tu as utilis\u00e9 tellement d'objets que j'ai\r\narr\u00eat\u00e9 de les compter !",
+        "attribute": "0403011934060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under05": {
+        "name": "bd00_praise_mw_under05",
+        "message": "Le total de tes lancers de d\u00e9s est plus\r\n\u00e9lev\u00e9 que celui des autres. Attention aux\r\ncourbatures, avec toute cette marche !",
+        "attribute": "0403011936060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under06": {
+        "name": "bd00_praise_mw_under06",
+        "message": "Les [0:3 FF-35-02-FF]cases bleues[0:3 00-00-00-FF][0:3 11-0C-1D-FF], \u00e7a te conna\u00eet, on dirait.\r\nTu as fait bon usage des pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]?[0:3 00-00-00-FF]",
+        "attribute": "0403011938060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under07": {
+        "name": "bd00_praise_mw_under07",
+        "message": "Que de [0:3 FF-35-02-FF]cases rouges[0:3 00-00-00-FF][0:3 11-0C-1D-FF], sur ta route !\r\nMais tu n'as pas perdu courage ![0:3 00-00-00-FF]",
+        "attribute": "040301193A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under08": {
+        "name": "bd00_praise_mw_under08",
+        "message": "J'ai jamais vu personne faire autant de\r\nmini-jeux \u00e0 objet ! C'est rigolo, pas vrai ?",
+        "attribute": "040301193C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under09": {
+        "name": "bd00_praise_mw_under09",
+        "message": "Toutes ces [0:3 FF-35-02-FF]cases \u00e9v\u00e9nement[0:3 00-00-00-FF][0:3 11-0C-1D-FF]... dis-moi,\r\ntu voulais juste ramasser des fraises ?[0:3 00-00-00-FF]",
+        "attribute": "040301193E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under10": {
+        "name": "bd00_praise_mw_under10",
+        "message": "J'ai vu beaucoup de [0:3 FF-35-02-FF]cases \u00e9v\u00e9nement[0:3 00-00-00-FF][0:3 11-0C-1D-FF] sur\r\nta route. C'est fou, tous ces chauffards ![0:3 00-00-00-FF]",
+        "attribute": "0403011940060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under11": {
+        "name": "bd00_praise_mw_under11",
+        "message": "Toutes ces [0:3 FF-35-02-FF]cases \u00e9v\u00e9nement[0:3 00-00-00-FF][0:3 11-0C-1D-FF], c'\u00e9tait fait\r\nexpr\u00e8s pour te perdre dans la nature ?[0:3 00-00-00-FF]",
+        "attribute": "0403011942060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under12": {
+        "name": "bd00_praise_mw_under12",
+        "message": "[0:3 11-0C-1D-FF]Tu as d\u00e9plac\u00e9 les \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] avec une\r\ngrande maestria ! Tes adversaires ne\r\nsavaient plus o\u00f9 donner de la t\u00eate ![0:3 00-00-00-FF]",
+        "attribute": "0403011944060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under13": {
+        "name": "bd00_praise_mw_under13",
+        "message": "[0:3 11-0C-1D-FF]Tu as command\u00e9 au jour et \u00e0 nuit pendant\r\ntoute la partie, avec les [0:3 FF-35-02-FF]cases \u00e9v\u00e9nement[0:3 11-0C-1D-FF].\r\nOn dit que les jours se suivent...[0:3 00-00-00-FF]",
+        "attribute": "0403011946060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under14": {
+        "name": "bd00_praise_mw_under14",
+        "message": "Tu as pris des risques, en t'arr\u00eatant\r\nsur toutes ces [0:3 FF-35-02-FF]cases coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] !\r\nC'est toi qui en as visit\u00e9 le plus ![0:3 00-00-00-FF]",
+        "attribute": "0403011948060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under15": {
+        "name": "bd00_praise_mw_under15",
+        "message": "C'est toi qui as visit\u00e9 le plus de [0:3 FF-35-02-FF]cases\r\nchance[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ! La bonne fortune t'accompagne ![0:3 00-00-00-FF]",
+        "attribute": "040301194A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under16": {
+        "name": "bd00_praise_mw_under16",
+        "message": "Tu as visit\u00e9 beaucoup de [0:3 FF-35-02-FF]cases Bowser[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nTu as du cran, de lui avoir tenu t\u00eate !\r\nTa bravoure est sans \u00e9gale ![0:3 00-00-00-FF]",
+        "attribute": "040301194C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under17": {
+        "name": "bd00_praise_mw_under17",
+        "message": "Vu le nombre de [0:3 FF-35-02-FF]cases combat[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]que tu as\r\nvisit\u00e9es, tu dois appr\u00e9cier les joutes ![0:3 00-00-00-FF]",
+        "attribute": "040301194E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under18": {
+        "name": "bd00_praise_mw_under18",
+        "message": "C'est toi qui as fait le plus d'arr\u00eats\r\n\u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 11-0C-1D-FF]. Et apr\u00e8s tout,\r\npourquoi s'en priver ?[0:3 00-00-00-FF]",
+        "attribute": "0403011950060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19a": {
+        "name": "bd00_praise_mw_under19a",
+        "message": "Tu as fait de ton mieux, et c'est ce\r\nqui compte ! J'admire beaucoup ta\r\nd\u00e9termination !",
+        "attribute": "0403011952060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19b": {
+        "name": "bd00_praise_mw_under19b",
+        "message": "Ta strat\u00e9gie unique t'a permis de tirer\r\nton \u00e9pingle du jeu. Quand il s'agit d'\u00eatre\r\nconstant, personne ne peut te battre !",
+        "attribute": "0403001954060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19c": {
+        "name": "bd00_praise_mw_under19c",
+        "message": "M\u00eame en cas de coup dur, tu as toujours\r\nsu garder le sourire. Tu as assur\u00e9ment\r\nl'esprit de Mario Party !",
+        "attribute": "0403001956060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00a": {
+        "name": "bd00_praise_mw_end00a",
+        "message": "La comp\u00e9tition a \u00e9t\u00e9 vraiment rude !\r\nPassons \u00e0 pr\u00e9sent aux r\u00e9sultats finaux !",
+        "attribute": "0403011958060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00b": {
+        "name": "bd00_praise_mw_end00b",
+        "message": "Tout le monde s'est bien battu !\r\nPassons \u00e0 pr\u00e9sent aux r\u00e9sultats finaux !",
+        "attribute": "040301197E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00c": {
+        "name": "bd00_praise_mw_end00c",
+        "message": "Quel beau spectacle vous avez offert !\r\nPassons \u00e0 pr\u00e9sent aux r\u00e9sultats finaux !",
+        "attribute": "04030119A4060000",
+        "style_index": 4
+    }
+}

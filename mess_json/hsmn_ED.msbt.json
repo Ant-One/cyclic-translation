@@ -1,0 +1,2402 @@
+{
+    "mn_ED_last_thankyou": {
+        "name": "mn_ED_last_thankyou",
+        "message": "[0:2 4B-00]TU ES LA[0:2 64-00]\r\nSUPERSTAR !",
+        "attribute": "04000000880C0000",
+        "style_index": 36
+    },
+    "mn_ED_director": {
+        "name": "mn_ED_director",
+        "message": "DIRECTOR",
+        "attribute": "040000008A0C0000",
+        "style_index": 613
+    },
+    "mn_ED_design_di": {
+        "name": "mn_ED_design_di",
+        "message": "DESIGN DIRECTORS",
+        "attribute": "040000008C0C0000",
+        "style_index": 613
+    },
+    "mn_ED_gemu_de": {
+        "name": "mn_ED_gemu_de",
+        "message": "GAME DESIGN",
+        "attribute": "040000008E0C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_program_di": {
+        "name": "mn_ED_chief_program_di",
+        "message": "CHIEF PROGRAM DIRECTOR",
+        "attribute": "04000000900C0000",
+        "style_index": 613
+    },
+    "mn_ED_program_di": {
+        "name": "mn_ED_program_di",
+        "message": "PROGRAM DIRECTORS",
+        "attribute": "04000000920C0000",
+        "style_index": 613
+    },
+    "mn_ED_program": {
+        "name": "mn_ED_program",
+        "message": "PROGRAM",
+        "attribute": "04000000940C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_art_di": {
+        "name": "mn_ED_chief_art_di",
+        "message": "CHIEF ART DIRECTORS",
+        "attribute": "04000000960C0000",
+        "style_index": 613
+    },
+    "mn_ED_art_di": {
+        "name": "mn_ED_art_di",
+        "message": "ART DIRECTORS",
+        "attribute": "04000000980C0000",
+        "style_index": 613
+    },
+    "mn_ED_art": {
+        "name": "mn_ED_art",
+        "message": "ART",
+        "attribute": "040000009A0C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_sound_di": {
+        "name": "mn_ED_chief_sound_di",
+        "message": "CHIEF SOUND DIRECTOR",
+        "attribute": "040000009C0C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_di": {
+        "name": "mn_ED_sound_di",
+        "message": "SOUND DIRECTORS",
+        "attribute": "040000009E0C0000",
+        "style_index": 613
+    },
+    "mn_ED_music_di": {
+        "name": "mn_ED_music_di",
+        "message": "MUSIC DIRECTOR",
+        "attribute": "04000000A00C0000",
+        "style_index": 613
+    },
+    "mn_ED_music": {
+        "name": "mn_ED_music",
+        "message": "MUSIC",
+        "attribute": "04000000A20C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_ef": {
+        "name": "mn_ED_sound_ef",
+        "message": "SOUND EFFECTS",
+        "attribute": "04000000A40C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_su": {
+        "name": "mn_ED_sound_su",
+        "message": "SOUND SUPPORT",
+        "attribute": "04000000A60C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_co": {
+        "name": "mn_ED_sound_co",
+        "message": "SOUND COORDINATION",
+        "attribute": "04000000A80C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_sup": {
+        "name": "mn_ED_sound_sup",
+        "message": "SOUND SUPERVISORS",
+        "attribute": "04000000AA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_character_vo": {
+        "name": "mn_ED_character_vo",
+        "message": "CHARACTER VOICES",
+        "attribute": "04000000AC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_voices": {
+        "name": "mn_ED_voices",
+        "message": "VOICES",
+        "attribute": "04000000AE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_character_su": {
+        "name": "mn_ED_character_su",
+        "message": "CHARACTER SUPERVISOR",
+        "attribute": "04000000B00C0000",
+        "style_index": 613
+    },
+    "mn_ED_illustaration": {
+        "name": "mn_ED_illustaration",
+        "message": "ILLUSTRATION",
+        "attribute": "04000000B20C0000",
+        "style_index": 613
+    },
+    "mn_ED_package_de": {
+        "name": "mn_ED_package_de",
+        "message": "PACKAGE DESIGN",
+        "attribute": "04000000B40C0000",
+        "style_index": 613
+    },
+    "mn_ED_technical_su": {
+        "name": "mn_ED_technical_su",
+        "message": "TECHNICAL SUPPORT",
+        "attribute": "04000000B60C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_localization_ma": {
+        "name": "mn_ED_noa_localization_ma",
+        "message": "NOA LOCALIZATION MANAGEMENT",
+        "attribute": "04000000B80C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_localization": {
+        "name": "mn_ED_noa_localization",
+        "message": "NOA LOCALIZATION",
+        "attribute": "04000000BA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_localization_pr": {
+        "name": "mn_ED_noe_localization_pr",
+        "message": "NOE LOCALISATION PRODUCERS",
+        "attribute": "04000000BC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_translation": {
+        "name": "mn_ED_noe_translation",
+        "message": "NOE TRANSLATION",
+        "attribute": "04000000BE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_nhl_localization": {
+        "name": "mn_ED_nhl_localization",
+        "message": "NHL LOCALIZATION",
+        "attribute": "04000000C00C0000",
+        "style_index": 613
+    },
+    "mn_ED_ique_localization": {
+        "name": "mn_ED_ique_localization",
+        "message": "iQue LOCALIZATION",
+        "attribute": "04000000C20C0000",
+        "style_index": 613
+    },
+    "mn_ED_nok_localization": {
+        "name": "mn_ED_nok_localization",
+        "message": "NOK LOCALIZATION",
+        "attribute": "04000000C40C0000",
+        "style_index": 613
+    },
+    "mn_ED_testng": {
+        "name": "mn_ED_testng",
+        "message": "TESTING",
+        "attribute": "04000000C60C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_product_te": {
+        "name": "mn_ED_noa_product_te",
+        "message": "NOA PRODUCT TESTING",
+        "attribute": "04000000C80C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_qualty_ass": {
+        "name": "mn_ED_noe_qualty_ass",
+        "message": "NOE QUALITY ASSURANCE",
+        "attribute": "04000000CA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_special_th": {
+        "name": "mn_ED_special_th",
+        "message": "SPECIAL THANKS",
+        "attribute": "04000000CC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_coordination": {
+        "name": "mn_ED_coordination",
+        "message": "COORDINATION",
+        "attribute": "04000000CE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_project_manager": {
+        "name": "mn_ED_project_manager",
+        "message": "PROJECT MANAGER",
+        "attribute": "04000000D00C0000",
+        "style_index": 613
+    },
+    "mn_ED_associate_pr": {
+        "name": "mn_ED_associate_pr",
+        "message": "ASSOCIATE PRODUCER",
+        "attribute": "04000000D20C0000",
+        "style_index": 613
+    },
+    "mn_ED_producers": {
+        "name": "mn_ED_producers",
+        "message": "PRODUCERS",
+        "attribute": "04000000D40C0000",
+        "style_index": 613
+    },
+    "mn_ED_general_pr": {
+        "name": "mn_ED_general_pr",
+        "message": "GENERAL PRODUCERS",
+        "attribute": "04000000D60C0000",
+        "style_index": 613
+    },
+    "mn_ED_executive_pr": {
+        "name": "mn_ED_executive_pr",
+        "message": "EXECUTIVE PRODUCER",
+        "attribute": "04000000D80C0000",
+        "style_index": 613
+    },
+    "mn_ED_director_staff": {
+        "name": "mn_ED_director_staff",
+        "message": "Takeru Sugimoto",
+        "attribute": "04000000DA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff00": {
+        "name": "mn_ED_design_di_staff00",
+        "message": "Tsutomu Komiyama",
+        "attribute": "04000000DC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff01": {
+        "name": "mn_ED_design_di_staff01",
+        "message": "Shinichi Nakata",
+        "attribute": "04000000DE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff02": {
+        "name": "mn_ED_design_di_staff02",
+        "message": "Rina Wegner",
+        "attribute": "04000000E00C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff03": {
+        "name": "mn_ED_design_di_staff03",
+        "message": "Hayato Minagawa",
+        "attribute": "04000000E20C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff04": {
+        "name": "mn_ED_design_di_staff04",
+        "message": "Fumihisa Sato",
+        "attribute": "04000000E40C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff05": {
+        "name": "mn_ED_design_di_staff05",
+        "message": "Atsushi Nakao",
+        "attribute": "04000000E60C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff06": {
+        "name": "mn_ED_design_di_staff06",
+        "message": "Ryo Yokomizo",
+        "attribute": "04000000E80C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff07": {
+        "name": "mn_ED_design_di_staff07",
+        "message": "Yuya Rokuyama",
+        "attribute": "04000000EA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff08": {
+        "name": "mn_ED_design_di_staff08",
+        "message": "Satoru Imamura",
+        "attribute": "04000000EC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff09": {
+        "name": "mn_ED_design_di_staff09",
+        "message": "Yukako Kawauchi",
+        "attribute": "04000000EE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff00": {
+        "name": "mn_ED_gemu_de_staff00",
+        "message": "Daisuke Tajima",
+        "attribute": "04000000F00C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff01": {
+        "name": "mn_ED_gemu_de_staff01",
+        "message": "Masato Hotta",
+        "attribute": "04000000F20C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff02": {
+        "name": "mn_ED_gemu_de_staff02",
+        "message": "Karin Kawakami",
+        "attribute": "04000000F40C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff03": {
+        "name": "mn_ED_gemu_de_staff03",
+        "message": "Yumika Saito",
+        "attribute": "04000000F60C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff04": {
+        "name": "mn_ED_gemu_de_staff04",
+        "message": "Changs Shirakawa",
+        "attribute": "04000000F80C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff05": {
+        "name": "mn_ED_gemu_de_staff05",
+        "message": "Ayumi Takimura",
+        "attribute": "04000000FA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff06": {
+        "name": "mn_ED_gemu_de_staff06",
+        "message": "Saeka Tanaka",
+        "attribute": "04000000FC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff07": {
+        "name": "mn_ED_gemu_de_staff07",
+        "message": "Yoshitsugu Tamaoki",
+        "attribute": "04000000FE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff08": {
+        "name": "mn_ED_gemu_de_staff08",
+        "message": "Ryota Saruwatari",
+        "attribute": "04000000000D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff09": {
+        "name": "mn_ED_gemu_de_staff09",
+        "message": "Hiroshi Nosaka",
+        "attribute": "04000000020D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff10": {
+        "name": "mn_ED_gemu_de_staff10",
+        "message": "Norihito Shima",
+        "attribute": "04000000040D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff11": {
+        "name": "mn_ED_gemu_de_staff11",
+        "message": "Makoto Eguchi",
+        "attribute": "04000000060D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff12": {
+        "name": "mn_ED_gemu_de_staff12",
+        "message": "Hiroyuki Seki",
+        "attribute": "04000000080D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff13": {
+        "name": "mn_ED_gemu_de_staff13",
+        "message": "Hidenobu Sasaki",
+        "attribute": "040000000A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff14": {
+        "name": "mn_ED_gemu_de_staff14",
+        "message": "Takayuki Ide",
+        "attribute": "040000000C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff15": {
+        "name": "mn_ED_gemu_de_staff15",
+        "message": "Miyuki Ooyama",
+        "attribute": "040000000E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff16": {
+        "name": "mn_ED_gemu_de_staff16",
+        "message": "Masafumi Ojika",
+        "attribute": "04000000100D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff17": {
+        "name": "mn_ED_gemu_de_staff17",
+        "message": "Kunio Asahara",
+        "attribute": "04000000120D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff18": {
+        "name": "mn_ED_gemu_de_staff18",
+        "message": "Ayumu Kawashiro",
+        "attribute": "04000000140D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff19": {
+        "name": "mn_ED_gemu_de_staff19",
+        "message": "Yasuki Toyosawa",
+        "attribute": "04000000160D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_program_di_staff": {
+        "name": "mn_ED_chief_program_di_staff",
+        "message": "Yuuki Konno",
+        "attribute": "04000000180D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff00": {
+        "name": "mn_ED_program_di_staff00",
+        "message": "Shinji Shibasaki",
+        "attribute": "040000001A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff01": {
+        "name": "mn_ED_program_di_staff01",
+        "message": "Masayuki Shinohara",
+        "attribute": "040000001C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff02": {
+        "name": "mn_ED_program_di_staff02",
+        "message": "Akira Matsumoto",
+        "attribute": "040000001E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff03": {
+        "name": "mn_ED_program_di_staff03",
+        "message": "Haruhiko Tanuma",
+        "attribute": "04000000200D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff04": {
+        "name": "mn_ED_program_di_staff04",
+        "message": "Atsushi Hamada",
+        "attribute": "04000000220D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff00": {
+        "name": "mn_ED_program_staff00",
+        "message": "Kazuhiro Enami",
+        "attribute": "04000000240D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff01": {
+        "name": "mn_ED_program_staff01",
+        "message": "Tetsunori Saito",
+        "attribute": "04000000260D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff02": {
+        "name": "mn_ED_program_staff02",
+        "message": "Masami Sakai",
+        "attribute": "04000000280D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff03": {
+        "name": "mn_ED_program_staff03",
+        "message": "Takashi Sato",
+        "attribute": "040000002A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff04": {
+        "name": "mn_ED_program_staff04",
+        "message": "Kazunori Sudo",
+        "attribute": "040000002C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff05": {
+        "name": "mn_ED_program_staff05",
+        "message": "Naoki Sozaka",
+        "attribute": "040000002E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff06": {
+        "name": "mn_ED_program_staff06",
+        "message": "Takumi Namba",
+        "attribute": "04000000300D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff07": {
+        "name": "mn_ED_program_staff07",
+        "message": "Takuya Fujimoto",
+        "attribute": "04000000320D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff08": {
+        "name": "mn_ED_program_staff08",
+        "message": "Tatsuo Yamajiri",
+        "attribute": "04000000340D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff09": {
+        "name": "mn_ED_program_staff09",
+        "message": "Izumi Fukuda",
+        "attribute": "04000000360D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff10": {
+        "name": "mn_ED_program_staff10",
+        "message": "Takashi Iwanaga",
+        "attribute": "04000000380D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff11": {
+        "name": "mn_ED_program_staff11",
+        "message": "Kenji Oohira",
+        "attribute": "040000003A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff12": {
+        "name": "mn_ED_program_staff12",
+        "message": "Tadao Shohyama",
+        "attribute": "040000003C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff13": {
+        "name": "mn_ED_program_staff13",
+        "message": "Akihiro Terada",
+        "attribute": "040000003E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff14": {
+        "name": "mn_ED_program_staff14",
+        "message": "Yasutaka Ikeda",
+        "attribute": "04000000400D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff15": {
+        "name": "mn_ED_program_staff15",
+        "message": "Tomoaki Tanaka",
+        "attribute": "04000000420D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff16": {
+        "name": "mn_ED_program_staff16",
+        "message": "Norifumi Hira",
+        "attribute": "04000000440D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff17": {
+        "name": "mn_ED_program_staff17",
+        "message": "Satoshi Sakaguchi",
+        "attribute": "04000000460D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff18": {
+        "name": "mn_ED_program_staff18",
+        "message": "Hikaru Hino",
+        "attribute": "04000000480D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff19": {
+        "name": "mn_ED_program_staff19",
+        "message": "Sayaka Matsumoto",
+        "attribute": "040000004A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff20": {
+        "name": "mn_ED_program_staff20",
+        "message": "Takahiro Matsumoto",
+        "attribute": "040000004C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff21": {
+        "name": "mn_ED_program_staff21",
+        "message": "Kana Mizota",
+        "attribute": "040000004E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff22": {
+        "name": "mn_ED_program_staff22",
+        "message": "Daizo Yamauchi",
+        "attribute": "04000000500D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff23": {
+        "name": "mn_ED_program_staff23",
+        "message": "Souichiro Yamamoto",
+        "attribute": "04000000520D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff24": {
+        "name": "mn_ED_program_staff24",
+        "message": "Nobuya Wada",
+        "attribute": "04000000540D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff25": {
+        "name": "mn_ED_program_staff25",
+        "message": "Hiroyuki Watanabe",
+        "attribute": "04000000560D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff26": {
+        "name": "mn_ED_program_staff26",
+        "message": "Kazuki Tashiro",
+        "attribute": "04000000580D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff27": {
+        "name": "mn_ED_program_staff27",
+        "message": "Daisuke Miyata",
+        "attribute": "040000005A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff28": {
+        "name": "mn_ED_program_staff28",
+        "message": "Takayuki Hayase",
+        "attribute": "040000005C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff29": {
+        "name": "mn_ED_program_staff29",
+        "message": "Yukihiko Tani",
+        "attribute": "040000005E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff30": {
+        "name": "mn_ED_program_staff30",
+        "message": "Hiroyuki Horita",
+        "attribute": "04000000600D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_art_di_staff00": {
+        "name": "mn_ED_chief_art_di_staff00",
+        "message": "Susumu Kuribayashi",
+        "attribute": "04000000620D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_art_di_staff01": {
+        "name": "mn_ED_chief_art_di_staff01",
+        "message": "Keisuke Kasahara",
+        "attribute": "04000000640D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff00": {
+        "name": "mn_ED_art_di_staff00",
+        "message": "Masahiko Yamada",
+        "attribute": "04000000660D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff01": {
+        "name": "mn_ED_art_di_staff01",
+        "message": "Takamitsu Manabe",
+        "attribute": "04000000680D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff02": {
+        "name": "mn_ED_art_di_staff02",
+        "message": "Kazuhisa Okamoto",
+        "attribute": "040000006A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff03": {
+        "name": "mn_ED_art_di_staff03",
+        "message": "Saori Yamashita",
+        "attribute": "040000006C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff04": {
+        "name": "mn_ED_art_di_staff04",
+        "message": "Arata Kobayashi",
+        "attribute": "040000006E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff05": {
+        "name": "mn_ED_art_di_staff05",
+        "message": "Takahiro Karino",
+        "attribute": "04000000700D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff06": {
+        "name": "mn_ED_art_di_staff06",
+        "message": "Masayuki Tsuboi",
+        "attribute": "04000000720D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff07": {
+        "name": "mn_ED_art_di_staff07",
+        "message": "Masami Kodaira",
+        "attribute": "04000000740D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff00": {
+        "name": "mn_ED_art_staff00",
+        "message": "Hayato Ogawa",
+        "attribute": "04000000760D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff01": {
+        "name": "mn_ED_art_staff01",
+        "message": "Tomoaki Watanabe",
+        "attribute": "04000000780D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff02": {
+        "name": "mn_ED_art_staff02",
+        "message": "Takuya Funaki",
+        "attribute": "040000007A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff03": {
+        "name": "mn_ED_art_staff03",
+        "message": "Tsuyoshi Mizuguchi",
+        "attribute": "040000007C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff04": {
+        "name": "mn_ED_art_staff04",
+        "message": "Tomoaki Sakaguchi",
+        "attribute": "040000007E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff05": {
+        "name": "mn_ED_art_staff05",
+        "message": "Dave Maggio",
+        "attribute": "04000000800D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff06": {
+        "name": "mn_ED_art_staff06",
+        "message": "Terue Yasunaga",
+        "attribute": "04000000820D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff07": {
+        "name": "mn_ED_art_staff07",
+        "message": "Shohei Tanimoto",
+        "attribute": "04000000840D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff08": {
+        "name": "mn_ED_art_staff08",
+        "message": "Toshifumi Sekijima",
+        "attribute": "04000000860D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff09": {
+        "name": "mn_ED_art_staff09",
+        "message": "Huichung Lee",
+        "attribute": "04000000880D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff10": {
+        "name": "mn_ED_art_staff10",
+        "message": "Kazuaki Henmi",
+        "attribute": "040000008A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff11": {
+        "name": "mn_ED_art_staff11",
+        "message": "Masayasu Ban",
+        "attribute": "040000008C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff12": {
+        "name": "mn_ED_art_staff12",
+        "message": "Mitsumi Sakashita",
+        "attribute": "040000008E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff13": {
+        "name": "mn_ED_art_staff13",
+        "message": "Kimi Niwano",
+        "attribute": "04000000900D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff14": {
+        "name": "mn_ED_art_staff14",
+        "message": "Aiko Inafune",
+        "attribute": "04000000920D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff15": {
+        "name": "mn_ED_art_staff15",
+        "message": "Mari Inomata",
+        "attribute": "04000000940D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff16": {
+        "name": "mn_ED_art_staff16",
+        "message": "Shizuka Abe",
+        "attribute": "04000000960D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff17": {
+        "name": "mn_ED_art_staff17",
+        "message": "Tsuyoshi Otaku",
+        "attribute": "04000000980D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff18": {
+        "name": "mn_ED_art_staff18",
+        "message": "Yasuhiro Ando",
+        "attribute": "040000009A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff19": {
+        "name": "mn_ED_art_staff19",
+        "message": "Yoshinori Ikeshita",
+        "attribute": "040000009C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff20": {
+        "name": "mn_ED_art_staff20",
+        "message": "Keisuke Izaki",
+        "attribute": "040000009E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff21": {
+        "name": "mn_ED_art_staff21",
+        "message": "Mikio Kita",
+        "attribute": "04000000A00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff22": {
+        "name": "mn_ED_art_staff22",
+        "message": "Tsukasa Tanaka",
+        "attribute": "04000000A20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff23": {
+        "name": "mn_ED_art_staff23",
+        "message": "Hideki Morinaga",
+        "attribute": "04000000A40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff24": {
+        "name": "mn_ED_art_staff24",
+        "message": "Yurie Itou",
+        "attribute": "04000000A60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff25": {
+        "name": "mn_ED_art_staff25",
+        "message": "Fumihiko Sugino",
+        "attribute": "04000000A80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff26": {
+        "name": "mn_ED_art_staff26",
+        "message": "Takuya Tawaratsumida",
+        "attribute": "04000000AA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff27": {
+        "name": "mn_ED_art_staff27",
+        "message": "Sho Nakamura",
+        "attribute": "04000000AC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff28": {
+        "name": "mn_ED_art_staff28",
+        "message": "Shohei Higashi",
+        "attribute": "04000000AE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff29": {
+        "name": "mn_ED_art_staff29",
+        "message": "Akira Mizoguchi",
+        "attribute": "04000000B00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff30": {
+        "name": "mn_ED_art_staff30",
+        "message": "Shinsuke Miyazaki",
+        "attribute": "04000000B20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff31": {
+        "name": "mn_ED_art_staff31",
+        "message": "Nana Hidaka",
+        "attribute": "04000000B40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff32": {
+        "name": "mn_ED_art_staff32",
+        "message": "Yumi Futagawa",
+        "attribute": "04000000B60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff33": {
+        "name": "mn_ED_art_staff33",
+        "message": "Senei Sou",
+        "attribute": "04000000B80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff34": {
+        "name": "mn_ED_art_staff34",
+        "message": "Shiori Teramoto",
+        "attribute": "04000000BA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff35": {
+        "name": "mn_ED_art_staff35",
+        "message": "Shouichi Kawamura",
+        "attribute": "04000000BC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff36": {
+        "name": "mn_ED_art_staff36",
+        "message": "Mami Taniguchi",
+        "attribute": "04000000BE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff37": {
+        "name": "mn_ED_art_staff37",
+        "message": "Ryoichi Okayama",
+        "attribute": "04000000C00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff38": {
+        "name": "mn_ED_art_staff38",
+        "message": "Chika Kawase",
+        "attribute": "04000000C20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff39": {
+        "name": "mn_ED_art_staff39",
+        "message": "Kazuhiro Nagata",
+        "attribute": "04000000C40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff40": {
+        "name": "mn_ED_art_staff40",
+        "message": "Sumihiro Kawai",
+        "attribute": "04000000C60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff41": {
+        "name": "mn_ED_art_staff41",
+        "message": "Moena Chikada",
+        "attribute": "04000000C80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff42": {
+        "name": "mn_ED_art_staff42",
+        "message": "Hiroaki Miura",
+        "attribute": "04000000CA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff43": {
+        "name": "mn_ED_art_staff43",
+        "message": "Mizuki Tachi",
+        "attribute": "04000000CC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff44": {
+        "name": "mn_ED_art_staff44",
+        "message": "Mu Ueno",
+        "attribute": "04000000CE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff45": {
+        "name": "mn_ED_art_staff45",
+        "message": "Yuta Arai",
+        "attribute": "04000000D00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff46": {
+        "name": "mn_ED_art_staff46",
+        "message": "Masaya Sakuma",
+        "attribute": "04000000D20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff47": {
+        "name": "mn_ED_art_staff47",
+        "message": "Hiroshi Oda",
+        "attribute": "04000000D40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff48": {
+        "name": "mn_ED_art_staff48",
+        "message": "Yusuke Nishimaru",
+        "attribute": "04000000D60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff49": {
+        "name": "mn_ED_art_staff49",
+        "message": "Kin Kou",
+        "attribute": "04000000D80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff50": {
+        "name": "mn_ED_art_staff50",
+        "message": "Kyohei Ikeda",
+        "attribute": "04000000DA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff51": {
+        "name": "mn_ED_art_staff51",
+        "message": "Cong Thanh Nguyen",
+        "attribute": "04000000DC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff52": {
+        "name": "mn_ED_art_staff52",
+        "message": "Thi Diem Linh Nguyen",
+        "attribute": "04000000DE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff53": {
+        "name": "mn_ED_art_staff53",
+        "message": "Manh Truong Quyen",
+        "attribute": "04000000E00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff54": {
+        "name": "mn_ED_art_staff54",
+        "message": "Xuan Tuan Bui",
+        "attribute": "04000000E20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff55": {
+        "name": "mn_ED_art_staff55",
+        "message": "Thanh Tung Nguyen",
+        "attribute": "04000000E40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff56": {
+        "name": "mn_ED_art_staff56",
+        "message": "Yohei Fujimoto",
+        "attribute": "04000000E60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff57": {
+        "name": "mn_ED_art_staff57",
+        "message": "Kaito Iwamatsu",
+        "attribute": "04000000E80D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_sound_di_staff": {
+        "name": "mn_ED_chief_sound_di_staff",
+        "message": "Ichiro Shimakura",
+        "attribute": "04000000EA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff00": {
+        "name": "mn_ED_sound_di_staff00",
+        "message": "Takahiro Nagano",
+        "attribute": "04000000EC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff01": {
+        "name": "mn_ED_sound_di_staff01",
+        "message": "Naruki Kadosaka",
+        "attribute": "04000000EE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff02": {
+        "name": "mn_ED_sound_di_staff02",
+        "message": "Yuhki Mori",
+        "attribute": "04000000F00D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_di_staff": {
+        "name": "mn_ED_music_di_staff",
+        "message": "Chamy Ishi",
+        "attribute": "04000000F20D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_staff00": {
+        "name": "mn_ED_music_staff00",
+        "message": "Toshiki Aida",
+        "attribute": "04000000F40D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_staff01": {
+        "name": "mn_ED_music_staff01",
+        "message": "Satoshi Okubo",
+        "attribute": "04000000F60D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff00": {
+        "name": "mn_ED_sound_ef_staff00",
+        "message": "Tokiya Watanabe",
+        "attribute": "04000000F80D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff01": {
+        "name": "mn_ED_sound_ef_staff01",
+        "message": "Yutaka Takahashi",
+        "attribute": "04000000FA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff02": {
+        "name": "mn_ED_sound_ef_staff02",
+        "message": "Shohei Niigawa",
+        "attribute": "04000000FC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff03": {
+        "name": "mn_ED_sound_ef_staff03",
+        "message": "Janjeff Aquinde",
+        "attribute": "04000000FE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_su_staff00": {
+        "name": "mn_ED_sound_su_staff00",
+        "message": "Taisuke Kobayashi",
+        "attribute": "04000000000E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_co_staff00": {
+        "name": "mn_ED_sound_co_staff00",
+        "message": "Hiroyuki Tsuboguchi",
+        "attribute": "04000000020E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_co_staff01": {
+        "name": "mn_ED_sound_co_staff01",
+        "message": "Shinji Yoshikawa",
+        "attribute": "04000000040E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff00": {
+        "name": "mn_ED_sound_sup_staff00",
+        "message": "Megumi Inoue",
+        "attribute": "04000000060E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff01": {
+        "name": "mn_ED_sound_sup_staff01",
+        "message": "Koji Kondo",
+        "attribute": "04000000080E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff02": {
+        "name": "mn_ED_sound_sup_staff02",
+        "message": "Asuka Hayazaki",
+        "attribute": "040000000A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff03": {
+        "name": "mn_ED_sound_sup_staff03",
+        "message": "Ryoji Yoshitomi",
+        "attribute": "040000000C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff00": {
+        "name": "mn_ED_character_vo_staff00",
+        "message": "Charles Martinet",
+        "attribute": "040000000E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff01": {
+        "name": "mn_ED_character_vo_staff01",
+        "message": "Sam Kelly",
+        "attribute": "04000000100E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff02": {
+        "name": "mn_ED_character_vo_staff02",
+        "message": "Deanna Mustard",
+        "attribute": "04000000120E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff03": {
+        "name": "mn_ED_character_vo_staff03",
+        "message": "Laura Faye Smith",
+        "attribute": "04000000140E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff04": {
+        "name": "mn_ED_character_vo_staff04",
+        "message": "Kenny James",
+        "attribute": "04000000160E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff05": {
+        "name": "mn_ED_character_vo_staff05",
+        "message": "Caety Sagoian",
+        "attribute": "04000000180E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff06": {
+        "name": "mn_ED_character_vo_staff06",
+        "message": "Kazumi Totaka",
+        "attribute": "040000001A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff07": {
+        "name": "mn_ED_character_vo_staff07",
+        "message": "Takashi Nagasako",
+        "attribute": "040000001C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff08": {
+        "name": "mn_ED_character_vo_staff08",
+        "message": "Motoki Takagi",
+        "attribute": "040000001E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff09": {
+        "name": "mn_ED_character_vo_staff09",
+        "message": "Nate Bihldorff",
+        "attribute": "04000000200E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff10": {
+        "name": "mn_ED_character_vo_staff10",
+        "message": "Sanae Uchida",
+        "attribute": "04000000220E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff11": {
+        "name": "mn_ED_character_vo_staff11",
+        "message": "Haruka Kakinuma",
+        "attribute": "04000000240E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff12": {
+        "name": "mn_ED_character_vo_staff12",
+        "message": "Atsushi Masaki",
+        "attribute": "04000000260E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff13": {
+        "name": "mn_ED_character_vo_staff13",
+        "message": "Tadd Morgan",
+        "attribute": "04000000280E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff14": {
+        "name": "mn_ED_character_vo_staff14",
+        "message": "Masafumi Kawamura",
+        "attribute": "040000002A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff15": {
+        "name": "mn_ED_character_vo_staff15",
+        "message": "Ryo Nagamatsu",
+        "attribute": "040000002C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff16": {
+        "name": "mn_ED_character_vo_staff16",
+        "message": "Toru Minegishi",
+        "attribute": "040000002E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff17": {
+        "name": "mn_ED_character_vo_staff17",
+        "message": "Toru Asakawa",
+        "attribute": "04000000300E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff18": {
+        "name": "mn_ED_character_vo_staff18",
+        "message": "Nobuyoshi Suzuki",
+        "attribute": "04000000320E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff00": {
+        "name": "mn_ED_voices_staff00",
+        "message": "Cecilia da Costa",
+        "attribute": "04000000340E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff01": {
+        "name": "mn_ED_voices_staff01",
+        "message": "Cristina Pohlenz Garza",
+        "attribute": "04000000360E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff02": {
+        "name": "mn_ED_voices_staff02",
+        "message": "Samantha Robertson",
+        "attribute": "04000000380E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff03": {
+        "name": "mn_ED_voices_staff03",
+        "message": "Thadd\u00e9e Wiseur",
+        "attribute": "040000003A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff04": {
+        "name": "mn_ED_voices_staff04",
+        "message": "Sabrina Jouillat",
+        "attribute": "040000003C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff05": {
+        "name": "mn_ED_voices_staff05",
+        "message": "Kent Robello",
+        "attribute": "040000003E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff06": {
+        "name": "mn_ED_voices_staff06",
+        "message": "Gunnar Friedrich",
+        "attribute": "04000000400E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff07": {
+        "name": "mn_ED_voices_staff07",
+        "message": "\u00c1lex Hern\u00e1ndez-Puertas",
+        "attribute": "04000000420E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff08": {
+        "name": "mn_ED_voices_staff08",
+        "message": "Carsten Harmans",
+        "attribute": "04000000440E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff09": {
+        "name": "mn_ED_voices_staff09",
+        "message": "Victoria Valeria Becker",
+        "attribute": "04000000460E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_su_staff": {
+        "name": "mn_ED_character_su_staff",
+        "message": "Chiaki Ogura",
+        "attribute": "04000000480E0000",
+        "style_index": 612
+    },
+    "mn_ED_illustaration_staff00": {
+        "name": "mn_ED_illustaration_staff00",
+        "message": "Yuri Adachi",
+        "attribute": "040000004A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_illustaration_staff01": {
+        "name": "mn_ED_illustaration_staff01",
+        "message": "Shigehisa Nakaue",
+        "attribute": "040000004C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_package_de_staff": {
+        "name": "mn_ED_package_de_staff",
+        "message": "Keiko Inoue",
+        "attribute": "040000004E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_technical_su_staff": {
+        "name": "mn_ED_technical_su_staff",
+        "message": "Toru Inage",
+        "attribute": "04000000500E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff00": {
+        "name": "mn_ED_noa_localization_ma_staff00",
+        "message": "Reiko Ninomiya",
+        "attribute": "04000000520E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff01": {
+        "name": "mn_ED_noa_localization_ma_staff01",
+        "message": "Noriko Kaji",
+        "attribute": "04000000540E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff02": {
+        "name": "mn_ED_noa_localization_ma_staff02",
+        "message": "Tim O'Leary",
+        "attribute": "04000000560E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff03": {
+        "name": "mn_ED_noa_localization_ma_staff03",
+        "message": "Dan Owsen",
+        "attribute": "04000000580E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff04": {
+        "name": "mn_ED_noa_localization_ma_staff04",
+        "message": "\u00c1lex Zarza",
+        "attribute": "040000005A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff00": {
+        "name": "mn_ED_noa_localization_staff00",
+        "message": "Lisa Abe",
+        "attribute": "040000005C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff01": {
+        "name": "mn_ED_noa_localization_staff01",
+        "message": "Ana Celeste Ascanio",
+        "attribute": "040000005E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff02": {
+        "name": "mn_ED_noa_localization_staff02",
+        "message": "Erika Belan",
+        "attribute": "04000000600E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff03": {
+        "name": "mn_ED_noa_localization_staff03",
+        "message": "Peter Bohan",
+        "attribute": "04000000620E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff04": {
+        "name": "mn_ED_noa_localization_staff04",
+        "message": "Mariana Carneiro",
+        "attribute": "04000000640E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff05": {
+        "name": "mn_ED_noa_localization_staff05",
+        "message": "Yanett Cepeda Valor",
+        "attribute": "04000000660E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff06": {
+        "name": "mn_ED_noa_localization_staff06",
+        "message": "Rosa Cogley",
+        "attribute": "04000000680E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff07": {
+        "name": "mn_ED_noa_localization_staff07",
+        "message": "Ron DelVillano",
+        "attribute": "040000006A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff08": {
+        "name": "mn_ED_noa_localization_staff08",
+        "message": "Marjolaine Drouin",
+        "attribute": "040000006C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff09": {
+        "name": "mn_ED_noa_localization_staff09",
+        "message": "Lara Gibran",
+        "attribute": "040000006E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff10": {
+        "name": "mn_ED_noa_localization_staff10",
+        "message": "Nicko Gonzalez",
+        "attribute": "04000000700E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff11": {
+        "name": "mn_ED_noa_localization_staff11",
+        "message": "Berenice Hofsetz",
+        "attribute": "04000000720E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff12": {
+        "name": "mn_ED_noa_localization_staff12",
+        "message": "Marissol Karczeski",
+        "attribute": "04000000740E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff13": {
+        "name": "mn_ED_noa_localization_staff13",
+        "message": "Jos\u00e9e Lebeau-B\u00e9dard",
+        "attribute": "04000000760E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff14": {
+        "name": "mn_ED_noa_localization_staff14",
+        "message": "Karina Mora",
+        "attribute": "04000000780E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff15": {
+        "name": "mn_ED_noa_localization_staff15",
+        "message": "Christian Nutt",
+        "attribute": "040000007A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff16": {
+        "name": "mn_ED_noa_localization_staff16",
+        "message": "Carolina Quesada",
+        "attribute": "040000007C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff17": {
+        "name": "mn_ED_noa_localization_staff17",
+        "message": "Elina S\u00e1nchez",
+        "attribute": "040000007E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff18": {
+        "name": "mn_ED_noa_localization_staff18",
+        "message": "Fannie Sen\u00e9cal",
+        "attribute": "04000000800E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff19": {
+        "name": "mn_ED_noa_localization_staff19",
+        "message": "Joe Talbot",
+        "attribute": "04000000820E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff20": {
+        "name": "mn_ED_noa_localization_staff20",
+        "message": "Ludovic Tientcheu Ponkin",
+        "attribute": "04000000840E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff21": {
+        "name": "mn_ED_noa_localization_staff21",
+        "message": "Babi Velho Barreto",
+        "attribute": "04000000860E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff22": {
+        "name": "mn_ED_noa_localization_staff22",
+        "message": "Taryn Ziegler",
+        "attribute": "04000000880E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff23": {
+        "name": "mn_ED_noa_localization_staff23",
+        "message": "Felipe Zylbersztajn",
+        "attribute": "040000008A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff00": {
+        "name": "mn_ED_noe_localization_pr_staff00",
+        "message": "Dario De Leo",
+        "attribute": "040000008C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff01": {
+        "name": "mn_ED_noe_localization_pr_staff01",
+        "message": "Liam Higgins",
+        "attribute": "040000008E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff02": {
+        "name": "mn_ED_noe_localization_pr_staff02",
+        "message": "Daisuke Fukuyama",
+        "attribute": "04000000900E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff03": {
+        "name": "mn_ED_noe_localization_pr_staff03",
+        "message": "Kevin Murray",
+        "attribute": "04000000920E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff04": {
+        "name": "mn_ED_noe_localization_pr_staff04",
+        "message": "Elizabeth S\u00e1nchez Le\u00f3n",
+        "attribute": "04000000940E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff00": {
+        "name": "mn_ED_noe_translation_staff00",
+        "message": "Rui Mendes",
+        "attribute": "04000000960E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff01": {
+        "name": "mn_ED_noe_translation_staff01",
+        "message": "Grace Yon",
+        "attribute": "04000000980E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff02": {
+        "name": "mn_ED_noe_translation_staff02",
+        "message": "Anthony Fouillen",
+        "attribute": "040000009A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff03": {
+        "name": "mn_ED_noe_translation_staff03",
+        "message": "Matthieu Lamouroux",
+        "attribute": "040000009C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff04": {
+        "name": "mn_ED_noe_translation_staff04",
+        "message": "Kent Robello",
+        "attribute": "040000009E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff05": {
+        "name": "mn_ED_noe_translation_staff05",
+        "message": "Giovanna Prati",
+        "attribute": "04000000A00E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff06": {
+        "name": "mn_ED_noe_translation_staff06",
+        "message": "Mirko Capocelli",
+        "attribute": "04000000A20E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff07": {
+        "name": "mn_ED_noe_translation_staff07",
+        "message": "Frithjof Koepp",
+        "attribute": "04000000A40E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff08": {
+        "name": "mn_ED_noe_translation_staff08",
+        "message": "Hannah Siebert",
+        "attribute": "04000000A60E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff09": {
+        "name": "mn_ED_noe_translation_staff09",
+        "message": "Sascha Weinard",
+        "attribute": "04000000A80E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff10": {
+        "name": "mn_ED_noe_translation_staff10",
+        "message": "Alicia Vega Lamela",
+        "attribute": "04000000AA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff11": {
+        "name": "mn_ED_noe_translation_staff11",
+        "message": "Ariel del Rio de Angelis",
+        "attribute": "04000000AC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff12": {
+        "name": "mn_ED_noe_translation_staff12",
+        "message": "Pedro Jos\u00e9 Moreno Villar",
+        "attribute": "04000000AE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff13": {
+        "name": "mn_ED_noe_translation_staff13",
+        "message": "Thomas den Haan",
+        "attribute": "04000000B00E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff14": {
+        "name": "mn_ED_noe_translation_staff14",
+        "message": "Christian Buter",
+        "attribute": "04000000B20E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff15": {
+        "name": "mn_ED_noe_translation_staff15",
+        "message": "Vincent Meijer",
+        "attribute": "04000000B40E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff16": {
+        "name": "mn_ED_noe_translation_staff16",
+        "message": "Carsten Harmans",
+        "attribute": "04000000B60E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff17": {
+        "name": "mn_ED_noe_translation_staff17",
+        "message": "Dmitrii Kaloev",
+        "attribute": "04000000B80E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff18": {
+        "name": "mn_ED_noe_translation_staff18",
+        "message": "Anton Ivancikov",
+        "attribute": "04000000BA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff19": {
+        "name": "mn_ED_noe_translation_staff19",
+        "message": "Victoria Valeria Becker",
+        "attribute": "04000000BC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff00": {
+        "name": "mn_ED_nhl_localization_staff00",
+        "message": "Jeanie Ho",
+        "attribute": "04000000BE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff01": {
+        "name": "mn_ED_nhl_localization_staff01",
+        "message": "Tracy Cheng",
+        "attribute": "04000000C00E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff02": {
+        "name": "mn_ED_nhl_localization_staff02",
+        "message": "Eiju Umemura",
+        "attribute": "04000000C20E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff03": {
+        "name": "mn_ED_nhl_localization_staff03",
+        "message": "Anson Wong",
+        "attribute": "04000000C40E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff04": {
+        "name": "mn_ED_nhl_localization_staff04",
+        "message": "Pole To Win Taiwan",
+        "attribute": "04000000C60E0000",
+        "style_index": 612
+    },
+    "mn_ED_ique_localization_staff00": {
+        "name": "mn_ED_ique_localization_staff00",
+        "message": "Yuan Jun",
+        "attribute": "04000000C80E0000",
+        "style_index": 612
+    },
+    "mn_ED_ique_localization_staff01": {
+        "name": "mn_ED_ique_localization_staff01",
+        "message": "Zhang Jiong",
+        "attribute": "04000000CA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff00": {
+        "name": "mn_ED_nok_localization_staff00",
+        "message": "Hyokjin Jung",
+        "attribute": "04000000CC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff01": {
+        "name": "mn_ED_nok_localization_staff01",
+        "message": "Dongyeon Kim",
+        "attribute": "04000000CE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff02": {
+        "name": "mn_ED_nok_localization_staff02",
+        "message": "Soonil Kim",
+        "attribute": "04000000D00E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff03": {
+        "name": "mn_ED_nok_localization_staff03",
+        "message": "Jeewan Chun",
+        "attribute": "04000000D20E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff04": {
+        "name": "mn_ED_nok_localization_staff04",
+        "message": "Suzy Do",
+        "attribute": "04000000D40E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff05": {
+        "name": "mn_ED_nok_localization_staff05",
+        "message": "PTW Korea Co., Ltd.",
+        "attribute": "04000000D60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff00": {
+        "name": "mn_ED_testng_staff00",
+        "message": "Maki Yoshitake",
+        "attribute": "04000000D80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff01": {
+        "name": "mn_ED_testng_staff01",
+        "message": "Yoshihiro Katagami",
+        "attribute": "04000000DA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff02": {
+        "name": "mn_ED_testng_staff02",
+        "message": "Rika Yoshinaga",
+        "attribute": "04000000DC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff03": {
+        "name": "mn_ED_testng_staff03",
+        "message": "Yoshiki Sugai",
+        "attribute": "04000000DE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff04": {
+        "name": "mn_ED_testng_staff04",
+        "message": "Masaki Furukawa",
+        "attribute": "04000000E00E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff05": {
+        "name": "mn_ED_testng_staff05",
+        "message": "Ryuji Hamaguchi",
+        "attribute": "04000000E20E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff06": {
+        "name": "mn_ED_testng_staff06",
+        "message": "Mario Club Co., Ltd.",
+        "attribute": "04000000E40E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff07": {
+        "name": "mn_ED_testng_staff07",
+        "message": "Shinpei Otowa",
+        "attribute": "04000000E60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff08": {
+        "name": "mn_ED_testng_staff08",
+        "message": "Souma Kitakouji",
+        "attribute": "04000000E80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff09": {
+        "name": "mn_ED_testng_staff09",
+        "message": "Takanosuke Tsukamoto",
+        "attribute": "04000000EA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff10": {
+        "name": "mn_ED_testng_staff10",
+        "message": "Kana Koide",
+        "attribute": "04000000EC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff11": {
+        "name": "mn_ED_testng_staff11",
+        "message": "Toru Moritani",
+        "attribute": "04000000EE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff12": {
+        "name": "mn_ED_testng_staff12",
+        "message": "Tomomitsu Kurimura",
+        "attribute": "04000000F00E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff13": {
+        "name": "mn_ED_testng_staff13",
+        "message": "Natsuki Imai",
+        "attribute": "04000000F20E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff14": {
+        "name": "mn_ED_testng_staff14",
+        "message": "Takumi Wada",
+        "attribute": "04000000F40E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff15": {
+        "name": "mn_ED_testng_staff15",
+        "message": "Masashi Takitani",
+        "attribute": "04000000F60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff16": {
+        "name": "mn_ED_testng_staff16",
+        "message": "Keita Nagahara",
+        "attribute": "04000000F80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff17": {
+        "name": "mn_ED_testng_staff17",
+        "message": "Akari Tokuno",
+        "attribute": "04000000FA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff18": {
+        "name": "mn_ED_testng_staff18",
+        "message": "Mirei Ando",
+        "attribute": "04000000FC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff19": {
+        "name": "mn_ED_testng_staff19",
+        "message": "Toshiki Nishimura",
+        "attribute": "04000000FE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff20": {
+        "name": "mn_ED_testng_staff20",
+        "message": "Yoshitaka Kawamura",
+        "attribute": "04000000000F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff21": {
+        "name": "mn_ED_testng_staff21",
+        "message": "Ryoma Kishii",
+        "attribute": "04000000020F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff22": {
+        "name": "mn_ED_testng_staff22",
+        "message": "Hisashi Matsui",
+        "attribute": "04000000040F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff23": {
+        "name": "mn_ED_testng_staff23",
+        "message": "Ryo Fujishima",
+        "attribute": "04000000060F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff24": {
+        "name": "mn_ED_testng_staff24",
+        "message": "Adumi Shimizu",
+        "attribute": "04000000080F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff25": {
+        "name": "mn_ED_testng_staff25",
+        "message": "Manaka Tsutsumi",
+        "attribute": "040000000A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff26": {
+        "name": "mn_ED_testng_staff26",
+        "message": "Yoshihiro Ninomiya",
+        "attribute": "040000000C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff27": {
+        "name": "mn_ED_testng_staff27",
+        "message": "DIGITAL HEARTS Co., Ltd.",
+        "attribute": "040000000E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff00": {
+        "name": "mn_ED_noa_product_te_staff00",
+        "message": "Kentaro Nishimura",
+        "attribute": "04000000100F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff01": {
+        "name": "mn_ED_noa_product_te_staff01",
+        "message": "Kirk Buchanan",
+        "attribute": "04000000120F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff02": {
+        "name": "mn_ED_noa_product_te_staff02",
+        "message": "Tomo Ishiyama",
+        "attribute": "04000000140F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff03": {
+        "name": "mn_ED_noa_product_te_staff03",
+        "message": "Q Dequina",
+        "attribute": "04000000160F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff04": {
+        "name": "mn_ED_noa_product_te_staff04",
+        "message": "Hitoshi Nishizawa",
+        "attribute": "04000000180F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff05": {
+        "name": "mn_ED_noa_product_te_staff05",
+        "message": "Tomoko Mikami",
+        "attribute": "040000001A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff06": {
+        "name": "mn_ED_noa_product_te_staff06",
+        "message": "Zac Evans",
+        "attribute": "040000001C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff07": {
+        "name": "mn_ED_noa_product_te_staff07",
+        "message": "Robert Jahn",
+        "attribute": "040000001E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff08": {
+        "name": "mn_ED_noa_product_te_staff08",
+        "message": "Takuya Nishiwaki",
+        "attribute": "04000000200F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff09": {
+        "name": "mn_ED_noa_product_te_staff09",
+        "message": "Daijiro Imoto",
+        "attribute": "04000000220F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff10": {
+        "name": "mn_ED_noa_product_te_staff10",
+        "message": "Matthew Ortega",
+        "attribute": "04000000240F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff11": {
+        "name": "mn_ED_noa_product_te_staff11",
+        "message": "David Figlar",
+        "attribute": "04000000260F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff12": {
+        "name": "mn_ED_noa_product_te_staff12",
+        "message": "Michael Sahlin",
+        "attribute": "04000000280F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff13": {
+        "name": "mn_ED_noa_product_te_staff13",
+        "message": "James Dillon",
+        "attribute": "040000002A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff14": {
+        "name": "mn_ED_noa_product_te_staff14",
+        "message": "Josh Yagi-Stanton",
+        "attribute": "040000002C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff15": {
+        "name": "mn_ED_noa_product_te_staff15",
+        "message": "Craig So",
+        "attribute": "040000002E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff16": {
+        "name": "mn_ED_noa_product_te_staff16",
+        "message": "Pamela Waters",
+        "attribute": "04000000300F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff17": {
+        "name": "mn_ED_noa_product_te_staff17",
+        "message": "James Ward",
+        "attribute": "04000000320F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff18": {
+        "name": "mn_ED_noa_product_te_staff18",
+        "message": "Manuela Moreira",
+        "attribute": "04000000340F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff19": {
+        "name": "mn_ED_noa_product_te_staff19",
+        "message": "Kyle Schlagel",
+        "attribute": "04000000360F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff20": {
+        "name": "mn_ED_noa_product_te_staff20",
+        "message": "Alejandra Murillo Mondrag\u00f3n",
+        "attribute": "04000000380F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff21": {
+        "name": "mn_ED_noa_product_te_staff21",
+        "message": "Sean Roberts",
+        "attribute": "040000003A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff22": {
+        "name": "mn_ED_noa_product_te_staff22",
+        "message": "Shawn Robinson",
+        "attribute": "040000003C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff23": {
+        "name": "mn_ED_noa_product_te_staff23",
+        "message": "Steven Colburn",
+        "attribute": "040000003E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff24": {
+        "name": "mn_ED_noa_product_te_staff24",
+        "message": "Product Testing Technicians",
+        "attribute": "04000000400F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff00": {
+        "name": "mn_ED_noe_qualty_ass_staff00",
+        "message": "\u00c1ngel Moreno Colmena",
+        "attribute": "04000000420F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff01": {
+        "name": "mn_ED_noe_qualty_ass_staff01",
+        "message": "J. Ignacio Le\u00f3n L\u00f3pez",
+        "attribute": "04000000440F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff02": {
+        "name": "mn_ED_noe_qualty_ass_staff02",
+        "message": "Damien Brichard",
+        "attribute": "04000000460F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff03": {
+        "name": "mn_ED_noe_qualty_ass_staff03",
+        "message": "Olivier Jacquemin-Guillaume",
+        "attribute": "04000000480F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff04": {
+        "name": "mn_ED_noe_qualty_ass_staff04",
+        "message": "Julien Veron",
+        "attribute": "040000004A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff05": {
+        "name": "mn_ED_noe_qualty_ass_staff05",
+        "message": "Manuel Tants",
+        "attribute": "040000004C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff06": {
+        "name": "mn_ED_noe_qualty_ass_staff06",
+        "message": "Zoran Tasevski",
+        "attribute": "040000004E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff07": {
+        "name": "mn_ED_noe_qualty_ass_staff07",
+        "message": "Alessandro Crosa",
+        "attribute": "04000000500F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff08": {
+        "name": "mn_ED_noe_qualty_ass_staff08",
+        "message": "Pasquale Gianluca Miceli",
+        "attribute": "04000000520F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff09": {
+        "name": "mn_ED_noe_qualty_ass_staff09",
+        "message": "David Mart\u00edn Navarro",
+        "attribute": "04000000540F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff10": {
+        "name": "mn_ED_noe_qualty_ass_staff10",
+        "message": "Jessica S\u00e1nchez Herrera",
+        "attribute": "04000000560F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff11": {
+        "name": "mn_ED_noe_qualty_ass_staff11",
+        "message": "Daan Koopman",
+        "attribute": "04000000580F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff12": {
+        "name": "mn_ED_noe_qualty_ass_staff12",
+        "message": "Brian Devits",
+        "attribute": "040000005A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff13": {
+        "name": "mn_ED_noe_qualty_ass_staff13",
+        "message": "Ihar Havenka",
+        "attribute": "040000005C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff14": {
+        "name": "mn_ED_noe_qualty_ass_staff14",
+        "message": "Inna Talalay",
+        "attribute": "040000005E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff00": {
+        "name": "mn_ED_special_th_staff00",
+        "message": "Takayasu Morisawa",
+        "attribute": "04000000600F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff01": {
+        "name": "mn_ED_special_th_staff01",
+        "message": "Keisuke Terasaki",
+        "attribute": "04000000620F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff02": {
+        "name": "mn_ED_special_th_staff02",
+        "message": "Hideki Sahashi",
+        "attribute": "04000000640F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff03": {
+        "name": "mn_ED_special_th_staff03",
+        "message": "Yuhei Tsukami",
+        "attribute": "04000000660F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff04": {
+        "name": "mn_ED_special_th_staff04",
+        "message": "Satoshi Ezaki",
+        "attribute": "04000000680F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff05": {
+        "name": "mn_ED_special_th_staff05",
+        "message": "Yuya Kumagai",
+        "attribute": "040000006A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff06": {
+        "name": "mn_ED_special_th_staff06",
+        "message": "Kosuke Akashi",
+        "attribute": "040000006C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff07": {
+        "name": "mn_ED_special_th_staff07",
+        "message": "Yukio Umematsu",
+        "attribute": "040000006E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff08": {
+        "name": "mn_ED_special_th_staff08",
+        "message": "Osamu Tsujikawa",
+        "attribute": "04000000700F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff09": {
+        "name": "mn_ED_special_th_staff09",
+        "message": "Shigeru Okita",
+        "attribute": "04000000720F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff10": {
+        "name": "mn_ED_special_th_staff10",
+        "message": "Hisao Hasunuma",
+        "attribute": "04000000740F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff11": {
+        "name": "mn_ED_special_th_staff11",
+        "message": "Mitsuo Hasunuma",
+        "attribute": "04000000760F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff12": {
+        "name": "mn_ED_special_th_staff12",
+        "message": "Noriyuki Saeki",
+        "attribute": "04000000780F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff13": {
+        "name": "mn_ED_special_th_staff13",
+        "message": "Takaki Kobayashi",
+        "attribute": "040000007A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff14": {
+        "name": "mn_ED_special_th_staff14",
+        "message": "Jun Arai",
+        "attribute": "040000007C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff15": {
+        "name": "mn_ED_special_th_staff15",
+        "message": "Shingo Okawa",
+        "attribute": "040000007E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff16": {
+        "name": "mn_ED_special_th_staff16",
+        "message": "Tomoka Sukegawa",
+        "attribute": "04000000800F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff17": {
+        "name": "mn_ED_special_th_staff17",
+        "message": "NintendoWare Bezel Engine Development Team",
+        "attribute": "04000000820F0000",
+        "style_index": 614
+    },
+    "mn_ED_special_th_staff18": {
+        "name": "mn_ED_special_th_staff18",
+        "message": "Magnum enter Co., Ltd.",
+        "attribute": "04000000840F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff19": {
+        "name": "mn_ED_special_th_staff19",
+        "message": "CA PRODUCTION Co., Ltd.",
+        "attribute": "04000000860F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff20": {
+        "name": "mn_ED_special_th_staff20",
+        "message": "WILL Co., Ltd.",
+        "attribute": "04000000880F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff21": {
+        "name": "mn_ED_special_th_staff21",
+        "message": "SmileBoom Co., Ltd.",
+        "attribute": "040000008A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff22": {
+        "name": "mn_ED_special_th_staff22",
+        "message": "T's MUSIC Co., Ltd.",
+        "attribute": "040000008C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff23": {
+        "name": "mn_ED_special_th_staff23",
+        "message": "Shun Hakamada",
+        "attribute": "040000008E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_coordination_staff00": {
+        "name": "mn_ED_coordination_staff00",
+        "message": "Kazuyoshi Toriyama",
+        "attribute": "04000000900F0000",
+        "style_index": 612
+    },
+    "mn_ED_coordination_staff01": {
+        "name": "mn_ED_coordination_staff01",
+        "message": "Yoshinori Tsuchiyama",
+        "attribute": "04000000920F0000",
+        "style_index": 612
+    },
+    "mn_ED_project_manager_staff": {
+        "name": "mn_ED_project_manager_staff",
+        "message": "Shinya Saito",
+        "attribute": "04000000940F0000",
+        "style_index": 612
+    },
+    "mn_ED_associate_pr_staff": {
+        "name": "mn_ED_associate_pr_staff",
+        "message": "Misaki Hiraga",
+        "attribute": "04000000960F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff00": {
+        "name": "mn_ED_producers_staff00",
+        "message": "Toshiaki Suzuki",
+        "attribute": "04000000980F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff01": {
+        "name": "mn_ED_producers_staff01",
+        "message": "Toyokazu Nonaka",
+        "attribute": "040000009A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff02": {
+        "name": "mn_ED_producers_staff02",
+        "message": "Kenji Kikuchi",
+        "attribute": "040000009C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff03": {
+        "name": "mn_ED_producers_staff03",
+        "message": "Atsushi Ikeda",
+        "attribute": "040000009E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_general_pr_staff00": {
+        "name": "mn_ED_general_pr_staff00",
+        "message": "Shinya Takahashi",
+        "attribute": "04000000A00F0000",
+        "style_index": 612
+    },
+    "mn_ED_general_pr_staff01": {
+        "name": "mn_ED_general_pr_staff01",
+        "message": "Shuichiro Nishiya",
+        "attribute": "04000000A20F0000",
+        "style_index": 612
+    },
+    "mn_ED_executive_pr_staff": {
+        "name": "mn_ED_executive_pr_staff",
+        "message": "Shuntaro Furukawa",
+        "attribute": "04000000A40F0000",
+        "style_index": 612
+    },
+    "mn_ED_copyright00": {
+        "name": "mn_ED_copyright00",
+        "message": "Made with NintendoWare Bezel Engine.",
+        "attribute": "04000000A60F0000",
+        "style_index": 614
+    }
+}

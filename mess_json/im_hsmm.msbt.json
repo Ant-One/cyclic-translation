@@ -1,0 +1,338 @@
+{
+    "im_hsmm01": {
+        "name": "im_hsmm01",
+        "message": "Jeu libre",
+        "attribute": "04000000C8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm02": {
+        "name": "im_hsmm02",
+        "message": "Sports et puzzles",
+        "attribute": "04000000CA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm03": {
+        "name": "im_hsmm03",
+        "message": "Combat de pi\u00e8ces",
+        "attribute": "04000000CC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm04": {
+        "name": "im_hsmm04",
+        "message": "Match \u00e0 deux \u00e9quipes",
+        "attribute": "04000000CE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm05": {
+        "name": "im_hsmm05",
+        "message": "D\u00e9fi \u00e0 trois",
+        "attribute": "04000000D0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm06": {
+        "name": "im_hsmm06",
+        "message": "Survie",
+        "attribute": "04000000D2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm07": {
+        "name": "im_hsmm07",
+        "message": "D\u00e9fi quotidien",
+        "attribute": "04000000D4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_01": {
+        "name": "im_hsmm_lv_01",
+        "message": "Stage 1",
+        "attribute": "04000000D6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_02": {
+        "name": "im_hsmm_lv_02",
+        "message": "Stage 2",
+        "attribute": "04000000D8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_03": {
+        "name": "im_hsmm_lv_03",
+        "message": "Stage 3",
+        "attribute": "04000000DA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_04": {
+        "name": "im_hsmm_lv_04",
+        "message": "Stage 4",
+        "attribute": "04000000DC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_05": {
+        "name": "im_hsmm_lv_05",
+        "message": "Stage 5",
+        "attribute": "04000000DE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_06": {
+        "name": "im_hsmm_lv_06",
+        "message": "Stage 6",
+        "attribute": "04000000E0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype00": {
+        "name": "im_hsmm_mgtype00",
+        "message": "Tous les mini-jeux",
+        "attribute": "04000000E2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype01": {
+        "name": "im_hsmm_mgtype01",
+        "message": "Mini-jeux chacun pour soi",
+        "attribute": "04000000E4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype02": {
+        "name": "im_hsmm_mgtype02",
+        "message": "Mini-jeux 2 contre 2",
+        "attribute": "04000000E6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype03": {
+        "name": "im_hsmm_mgtype03",
+        "message": "Mini-jeux seul contre tous",
+        "attribute": "04000000E8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype04": {
+        "name": "im_hsmm_mgtype04",
+        "message": "Mini-jeux pi\u00e8ces en folie",
+        "attribute": "04000000EA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype05": {
+        "name": "im_hsmm_mgtype05",
+        "message": "Mini-jeux en duel",
+        "attribute": "04000000EC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype06": {
+        "name": "im_hsmm_mgtype06",
+        "message": "Sports et puzzles",
+        "attribute": "04000000EE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype07": {
+        "name": "im_hsmm_mgtype07",
+        "message": "Mini-jeux \u00e0 record",
+        "attribute": "04000000F0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype10": {
+        "name": "im_hsmm_mgtype10",
+        "message": "Sports 2 contre 2",
+        "attribute": "04000000F2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype11": {
+        "name": "im_hsmm_mgtype11",
+        "message": "Puzzles en VS",
+        "attribute": "04000000F4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype12": {
+        "name": "im_hsmm_mgtype12",
+        "message": "Pour le score",
+        "attribute": "04000000F6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype99": {
+        "name": "im_hsmm_mgtype99",
+        "message": "Favoris",
+        "attribute": "04000000F8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk00": {
+        "name": "im_hsmm_mgpk00",
+        "message": "Seule la victoire est belle",
+        "attribute": "04000000FA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk01": {
+        "name": "im_hsmm_mgpk01",
+        "message": "Lutte pour la survie",
+        "attribute": "04000000FC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk02": {
+        "name": "im_hsmm_mgpk02",
+        "message": "Pour les observateurs",
+        "attribute": "04000000FE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk03": {
+        "name": "im_hsmm_mgpk03",
+        "message": "\u00c0 deux, c'est mieux",
+        "attribute": "0400000000020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk04": {
+        "name": "im_hsmm_mgpk04",
+        "message": "Con-cen-tra-tion",
+        "attribute": "0400000002020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk05": {
+        "name": "im_hsmm_mgpk05",
+        "message": "Par ici les pi\u00e8ces",
+        "attribute": "0400000004020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk07": {
+        "name": "im_hsmm_mgpk07",
+        "message": "Chasse aux pi\u00e8ces",
+        "attribute": "0400000006020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk08": {
+        "name": "im_hsmm_mgpk08",
+        "message": "La raison du plus rapide",
+        "attribute": "0400000008020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk10": {
+        "name": "im_hsmm_mgpk10",
+        "message": "Gardez vos distances",
+        "attribute": "040000000A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk11": {
+        "name": "im_hsmm_mgpk11",
+        "message": "Plus dure sera la chute",
+        "attribute": "040000000C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk12": {
+        "name": "im_hsmm_mgpk12",
+        "message": "Pour les tireurs avis\u00e9s",
+        "attribute": "040000000E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk13": {
+        "name": "im_hsmm_mgpk13",
+        "message": "Sautez sur l'occasion",
+        "attribute": "0400000010020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk14": {
+        "name": "im_hsmm_mgpk14",
+        "message": "Les bienfaits du sport",
+        "attribute": "0400000012020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk16": {
+        "name": "im_hsmm_mgpk16",
+        "message": "Pr\u00e9cis appr\u00e9ci\u00e9s",
+        "attribute": "0400000014020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk17": {
+        "name": "im_hsmm_mgpk17",
+        "message": "Rivaux mena\u00e7ants",
+        "attribute": "0400000016020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk20": {
+        "name": "im_hsmm_mgpk20",
+        "message": "R\u00e9flexes \u00e9clair",
+        "attribute": "0400000018020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk21": {
+        "name": "im_hsmm_mgpk21",
+        "message": "Jusqu'au-boutistes",
+        "attribute": "040000001A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk22": {
+        "name": "im_hsmm_mgpk22",
+        "message": "Ramassez-les tous",
+        "attribute": "040000001C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk23": {
+        "name": "im_hsmm_mgpk23",
+        "message": "Moi d'abord",
+        "attribute": "040000001E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk24": {
+        "name": "im_hsmm_mgpk24",
+        "message": "Objectif survie",
+        "attribute": "0400000020020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk25": {
+        "name": "im_hsmm_mgpk25",
+        "message": "Divers 1 contre 3",
+        "attribute": "0400000022020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank00": {
+        "name": "im_hsmm_rank00",
+        "message": "A",
+        "attribute": "0400000024020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank01": {
+        "name": "im_hsmm_rank01",
+        "message": "B",
+        "attribute": "0400000026020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank02": {
+        "name": "im_hsmm_rank02",
+        "message": "C",
+        "attribute": "0400000028020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank03": {
+        "name": "im_hsmm_rank03",
+        "message": "D",
+        "attribute": "040000002A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank10": {
+        "name": "im_hsmm_rank10",
+        "message": "A",
+        "attribute": "040000002C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank11": {
+        "name": "im_hsmm_rank11",
+        "message": "B",
+        "attribute": "040000002E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank12": {
+        "name": "im_hsmm_rank12",
+        "message": "C",
+        "attribute": "0400000030020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank13": {
+        "name": "im_hsmm_rank13",
+        "message": "D",
+        "attribute": "0400000032020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank14": {
+        "name": "im_hsmm_rank14",
+        "message": "E",
+        "attribute": "0400000034020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank99": {
+        "name": "im_hsmm_rank99",
+        "message": "\u2014",
+        "attribute": "0400000036020000",
+        "style_index": 4294967295
+    }
+}

@@ -1,0 +1,2870 @@
+{
+    "im_mn_comLevel00": {
+        "name": "im_mn_comLevel00",
+        "message": "Faible",
+        "attribute": "04000000F80E0000",
+        "style_index": 4294967295
+    },
+    "im_mn_comLevel01": {
+        "name": "im_mn_comLevel01",
+        "message": "Normal",
+        "attribute": "04000000FA0E0000",
+        "style_index": 4294967295
+    },
+    "im_mn_comLevel02": {
+        "name": "im_mn_comLevel02",
+        "message": "Fort",
+        "attribute": "04000000FC0E0000",
+        "style_index": 4294967295
+    },
+    "im_mn_comLevel03": {
+        "name": "im_mn_comLevel03",
+        "message": "Ma\u00eetre",
+        "attribute": "04000000FE0E0000",
+        "style_index": 4294967295
+    },
+    "im_mn_number_player01": {
+        "name": "im_mn_number_player01",
+        "message": "1",
+        "attribute": "04000000000F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_number_player02": {
+        "name": "im_mn_number_player02",
+        "message": "2",
+        "attribute": "04000000020F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_number_player03": {
+        "name": "im_mn_number_player03",
+        "message": "3",
+        "attribute": "04000000040F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_number_player04": {
+        "name": "im_mn_number_player04",
+        "message": "4",
+        "attribute": "04000000060F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName00": {
+        "name": "im_mn_packName00",
+        "message": "Tous types",
+        "attribute": "04000000080F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName01": {
+        "name": "im_mn_packName01",
+        "message": "Famille",
+        "attribute": "040000000A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName02": {
+        "name": "im_mn_packName02",
+        "message": "Action",
+        "attribute": "040000000C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName03": {
+        "name": "im_mn_packName03",
+        "message": "Nintendo 64",
+        "attribute": "040000000E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName04": {
+        "name": "im_mn_packName04",
+        "message": "GameCube",
+        "attribute": "04000000100F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_packName05": {
+        "name": "im_mn_packName05",
+        "message": "Adresse",
+        "attribute": "04000000120F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_connect00": {
+        "name": "im_mn_connect00",
+        "message": "Jeu hors ligne",
+        "attribute": "04000000140F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_connect01": {
+        "name": "im_mn_connect01",
+        "message": "Multijoueur local",
+        "attribute": "04000000160F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_connect02": {
+        "name": "im_mn_connect02",
+        "message": "Jeu en ligne",
+        "attribute": "04000000180F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_category00": {
+        "name": "im_mn_category00",
+        "message": "Tous",
+        "attribute": "040000001A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_category01": {
+        "name": "im_mn_category01",
+        "message": "Autocollants",
+        "attribute": "040000001C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_category02": {
+        "name": "im_mn_category02",
+        "message": "Encyclop\u00e9die",
+        "attribute": "040000001E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_category03": {
+        "name": "im_mn_category03",
+        "message": "Musiques",
+        "attribute": "04000000200F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_category04": {
+        "name": "im_mn_category04",
+        "message": "Motifs de cartes",
+        "attribute": "04000000220F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page00": {
+        "name": "im_mn_goodsName_page00",
+        "message": "Page Mario Party",
+        "attribute": "04000000240F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page01": {
+        "name": "im_mn_goodsName_page01",
+        "message": "Page Mario Party 2",
+        "attribute": "04000000260F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page02": {
+        "name": "im_mn_goodsName_page02",
+        "message": "Page Mario Party 3",
+        "attribute": "04000000280F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page03": {
+        "name": "im_mn_goodsName_page03",
+        "message": "Page Mario Party 4",
+        "attribute": "040000002A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page04": {
+        "name": "im_mn_goodsName_page04",
+        "message": "Page Mario Party 5",
+        "attribute": "040000002C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page05": {
+        "name": "im_mn_goodsName_page05",
+        "message": "Page Mario Party 6",
+        "attribute": "040000002E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page06": {
+        "name": "im_mn_goodsName_page06",
+        "message": "Page Mario Party 7",
+        "attribute": "04000000300F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page07": {
+        "name": "im_mn_goodsName_page07",
+        "message": "Page Mario Party 8",
+        "attribute": "04000000320F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page08": {
+        "name": "im_mn_goodsName_page08",
+        "message": "Page Mario Party 9",
+        "attribute": "04000000340F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page09": {
+        "name": "im_mn_goodsName_page09",
+        "message": "Page Mario Party 10",
+        "attribute": "04000000360F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page10": {
+        "name": "im_mn_goodsName_page10",
+        "message": "Page \u00cele tropicale de Yoshi",
+        "attribute": "04000000380F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page11": {
+        "name": "im_mn_goodsName_page11",
+        "message": "Page Station spatiale",
+        "attribute": "040000003A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page12": {
+        "name": "im_mn_goodsName_page12",
+        "message": "Page G\u00e2teau d'anniversaire de Peach",
+        "attribute": "040000003C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page13": {
+        "name": "im_mn_goodsName_page13",
+        "message": "Page Bois de Woody",
+        "attribute": "040000003E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page14": {
+        "name": "im_mn_goodsName_page14",
+        "message": "Page Pays de l'horreur",
+        "attribute": "04000000400F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page15": {
+        "name": "im_mn_goodsName_page15",
+        "message": "Page Mario",
+        "attribute": "04000000420F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page16": {
+        "name": "im_mn_goodsName_page16",
+        "message": "Page Luigi",
+        "attribute": "04000000440F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page17": {
+        "name": "im_mn_goodsName_page17",
+        "message": "Page Peach",
+        "attribute": "04000000460F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page18": {
+        "name": "im_mn_goodsName_page18",
+        "message": "Page Daisy",
+        "attribute": "04000000480F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page19": {
+        "name": "im_mn_goodsName_page19",
+        "message": "Page Wario",
+        "attribute": "040000004A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page20": {
+        "name": "im_mn_goodsName_page20",
+        "message": "Page Waluigi",
+        "attribute": "040000004C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page21": {
+        "name": "im_mn_goodsName_page21",
+        "message": "Page Yoshi",
+        "attribute": "040000004E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page22": {
+        "name": "im_mn_goodsName_page22",
+        "message": "Page Harmonie",
+        "attribute": "04000000500F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page23": {
+        "name": "im_mn_goodsName_page23",
+        "message": "Page Donkey Kong",
+        "attribute": "04000000520F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page24": {
+        "name": "im_mn_goodsName_page24",
+        "message": "Page Birdo",
+        "attribute": "04000000540F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page25": {
+        "name": "im_mn_goodsName_page25",
+        "message": "Page Toad",
+        "attribute": "04000000560F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page26": {
+        "name": "im_mn_goodsName_page26",
+        "message": "Page Toadette",
+        "attribute": "04000000580F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page27": {
+        "name": "im_mn_goodsName_page27",
+        "message": "Page Bowser",
+        "attribute": "040000005A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page28": {
+        "name": "im_mn_goodsName_page28",
+        "message": "Page Goomba",
+        "attribute": "040000005C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page29": {
+        "name": "im_mn_goodsName_page29",
+        "message": "Page Maskass",
+        "attribute": "040000005E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page30": {
+        "name": "im_mn_goodsName_page30",
+        "message": "Page H\u00e9lico Maskass",
+        "attribute": "04000000600F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page31": {
+        "name": "im_mn_goodsName_page31",
+        "message": "Page Koopa",
+        "attribute": "04000000620F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page32": {
+        "name": "im_mn_goodsName_page32",
+        "message": "Page Bob-omb",
+        "attribute": "04000000640F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page33": {
+        "name": "im_mn_goodsName_page33",
+        "message": "Page Plante Piranha",
+        "attribute": "04000000660F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page34": {
+        "name": "im_mn_goodsName_page34",
+        "message": "Page Bill Balle",
+        "attribute": "04000000680F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page35": {
+        "name": "im_mn_goodsName_page35",
+        "message": "Page Cheep Cheep",
+        "attribute": "040000006A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page36": {
+        "name": "im_mn_goodsName_page36",
+        "message": "Page Pic-Pic",
+        "attribute": "040000006C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page37": {
+        "name": "im_mn_goodsName_page37",
+        "message": "Page Topi Taupe",
+        "attribute": "040000006E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page38": {
+        "name": "im_mn_goodsName_page38",
+        "message": "Page Swooper",
+        "attribute": "04000000700F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page39": {
+        "name": "im_mn_goodsName_page39",
+        "message": "Page Pingouin",
+        "attribute": "04000000720F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page40": {
+        "name": "im_mn_goodsName_page40",
+        "message": "Page Thwomp",
+        "attribute": "04000000740F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page41": {
+        "name": "im_mn_goodsName_page41",
+        "message": "Page Bruyinsecte",
+        "attribute": "04000000760F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page42": {
+        "name": "im_mn_goodsName_page42",
+        "message": "Page Lakitu",
+        "attribute": "04000000780F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page43": {
+        "name": "im_mn_goodsName_page43",
+        "message": "Page Bowser Jr.",
+        "attribute": "040000007A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page44": {
+        "name": "im_mn_goodsName_page44",
+        "message": "Page Bloups",
+        "attribute": "040000007C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page45": {
+        "name": "im_mn_goodsName_page45",
+        "message": "Page Boo",
+        "attribute": "040000007E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page46": {
+        "name": "im_mn_goodsName_page46",
+        "message": "Page Chomp",
+        "attribute": "04000000800F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page47": {
+        "name": "im_mn_goodsName_page47",
+        "message": "Page Whomp",
+        "attribute": "04000000820F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page48": {
+        "name": "im_mn_goodsName_page48",
+        "message": "Page Roi Boo",
+        "attribute": "04000000840F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page49": {
+        "name": "im_mn_goodsName_page49",
+        "message": "Page Oursin",
+        "attribute": "04000000860F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page50": {
+        "name": "im_mn_goodsName_page50",
+        "message": "Page Pincemi",
+        "attribute": "04000000880F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page51": {
+        "name": "im_mn_goodsName_page51",
+        "message": "Page Fr\u00e8re Marto",
+        "attribute": "040000008A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page52": {
+        "name": "im_mn_goodsName_page52",
+        "message": "Page Pokey",
+        "attribute": "040000008C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page53": {
+        "name": "im_mn_goodsName_page53",
+        "message": "Page M. \u0152il",
+        "attribute": "040000008E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page54": {
+        "name": "im_mn_goodsName_page54",
+        "message": "Page Paltrak",
+        "attribute": "04000000900F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page55": {
+        "name": "im_mn_goodsName_page55",
+        "message": "Page Kamek",
+        "attribute": "04000000920F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page56": {
+        "name": "im_mn_goodsName_page56",
+        "message": "Page Paratroopa",
+        "attribute": "04000000940F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page57": {
+        "name": "im_mn_goodsName_page57",
+        "message": "Page Cheep Chomp",
+        "attribute": "04000000960F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page58": {
+        "name": "im_mn_goodsName_page58",
+        "message": "Page Snifit",
+        "attribute": "04000000980F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page59": {
+        "name": "im_mn_goodsName_page59",
+        "message": "Page Flora Piranha",
+        "attribute": "040000009A0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page60": {
+        "name": "im_mn_goodsName_page60",
+        "message": "Page Galoomba",
+        "attribute": "040000009C0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page61": {
+        "name": "im_mn_goodsName_page61",
+        "message": "Page Petit Pingouin",
+        "attribute": "040000009E0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page62": {
+        "name": "im_mn_goodsName_page62",
+        "message": "Page Ukiki",
+        "attribute": "04000000A00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_page63": {
+        "name": "im_mn_goodsName_page63",
+        "message": "Page Junior-mobile",
+        "attribute": "04000000A20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips00": {
+        "name": "im_mn_goodsName_tips00",
+        "message": "Page Continuez \u00e0 jouer !",
+        "attribute": "04000000A40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips01": {
+        "name": "im_mn_goodsName_tips01",
+        "message": "Page Aux fraises",
+        "attribute": "04000000A60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips02": {
+        "name": "im_mn_goodsName_tips02",
+        "message": "Page Le raccourci de Bowser",
+        "attribute": "04000000A80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips03": {
+        "name": "im_mn_goodsName_tips03",
+        "message": "Page La superstar sur le g\u00e2teau",
+        "attribute": "04000000AA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips04": {
+        "name": "im_mn_goodsName_tips04",
+        "message": "Page Gare au rayon de Bowser",
+        "attribute": "04000000AC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips05": {
+        "name": "im_mn_goodsName_tips05",
+        "message": "Page Myst\u00e8re d'outre-espace",
+        "attribute": "04000000AE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips06": {
+        "name": "im_mn_goodsName_tips06",
+        "message": "Page R\u00e8gles de circulation spatiale",
+        "attribute": "04000000B00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips07": {
+        "name": "im_mn_goodsName_tips07",
+        "message": "Page Les panneaux de Topi Taupe",
+        "attribute": "04000000B20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips08": {
+        "name": "im_mn_goodsName_tips08",
+        "message": "Page Balade dans les bois de Woody",
+        "attribute": "04000000B40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips09": {
+        "name": "im_mn_goodsName_tips09",
+        "message": "Page La g\u00e9n\u00e9rosit\u00e9 des arbres",
+        "attribute": "04000000B60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips10": {
+        "name": "im_mn_goodsName_tips10",
+        "message": "Page Des \u00e9toiles espi\u00e8gles",
+        "attribute": "04000000B80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips11": {
+        "name": "im_mn_goodsName_tips11",
+        "message": "Page Une abondance de fruits",
+        "attribute": "04000000BA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips12": {
+        "name": "im_mn_goodsName_tips12",
+        "message": "Page Les \u00eeles fruit\u00e9es",
+        "attribute": "04000000BC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips13": {
+        "name": "im_mn_goodsName_tips13",
+        "message": "Page F\u00eatards d'outre-tombe",
+        "attribute": "04000000BE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips14": {
+        "name": "im_mn_goodsName_tips14",
+        "message": "Page M. \u0152il s'en charge",
+        "attribute": "04000000C00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips15": {
+        "name": "im_mn_goodsName_tips15",
+        "message": "Page Nuit de terreur",
+        "attribute": "04000000C20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips16": {
+        "name": "im_mn_goodsName_tips16",
+        "message": "Page Des mini-jeux \u00e0 volont\u00e9 !",
+        "attribute": "04000000C40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips17": {
+        "name": "im_mn_goodsName_tips17",
+        "message": "Page Le sport, c'est s\u00e9rieux !",
+        "attribute": "04000000C60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips18": {
+        "name": "im_mn_goodsName_tips18",
+        "message": "Page Puzzle apr\u00e8s puzzle",
+        "attribute": "04000000C80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips19": {
+        "name": "im_mn_goodsName_tips19",
+        "message": "Page Amassez les pi\u00e8ces",
+        "attribute": "04000000CA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips20": {
+        "name": "im_mn_goodsName_tips20",
+        "message": "Page La puissance des paires",
+        "attribute": "04000000CC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips21": {
+        "name": "im_mn_goodsName_tips21",
+        "message": "Page Victoire en trio",
+        "attribute": "04000000CE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips22": {
+        "name": "im_mn_goodsName_tips22",
+        "message": "Page Terrassez vos rivaux",
+        "attribute": "04000000D00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips23": {
+        "name": "im_mn_goodsName_tips23",
+        "message": "Page Comp\u00e9tition mondiale",
+        "attribute": "04000000D20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips24": {
+        "name": "im_mn_goodsName_tips24",
+        "message": "Page Challenge quotidien",
+        "attribute": "04000000D40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips25": {
+        "name": "im_mn_goodsName_tips25",
+        "message": "Page Ne pas finir en pi\u00e8ces",
+        "attribute": "04000000D60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips26": {
+        "name": "im_mn_goodsName_tips26",
+        "message": "Page Se concentrer sur la victoire",
+        "attribute": "04000000D80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips27": {
+        "name": "im_mn_goodsName_tips27",
+        "message": "Page La survie du plus rapide",
+        "attribute": "04000000DA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips28": {
+        "name": "im_mn_goodsName_tips28",
+        "message": "Page Comme une puce",
+        "attribute": "04000000DC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips29": {
+        "name": "im_mn_goodsName_tips29",
+        "message": "Page Sans piti\u00e9",
+        "attribute": "04000000DE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips30": {
+        "name": "im_mn_goodsName_tips30",
+        "message": "Page Vigilance de rigueur",
+        "attribute": "04000000E00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips31": {
+        "name": "im_mn_goodsName_tips31",
+        "message": "Page Pr\u00e9cision et pers\u00e9v\u00e9rance",
+        "attribute": "04000000E20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips32": {
+        "name": "im_mn_goodsName_tips32",
+        "message": "Page La t\u00eate froide",
+        "attribute": "04000000E40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_tips33": {
+        "name": "im_mn_goodsName_tips33",
+        "message": "Page Ajout de tours et bourse stellaire",
+        "attribute": "04000000E60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm00": {
+        "name": "im_mn_goodsName_bgm00",
+        "message": "Place du village",
+        "attribute": "04000000E80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm01": {
+        "name": "im_mn_goodsName_bgm01",
+        "message": "\u00cele tropicale de Yoshi",
+        "attribute": "04000000EA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm02": {
+        "name": "im_mn_goodsName_bgm02",
+        "message": "Station spatiale",
+        "attribute": "04000000EC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm03": {
+        "name": "im_mn_goodsName_bgm03",
+        "message": "G\u00e2teau d'anniversaire de Peach",
+        "attribute": "04000000EE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm04": {
+        "name": "im_mn_goodsName_bgm04",
+        "message": "Bois de Woody",
+        "attribute": "04000000F00F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm05": {
+        "name": "im_mn_goodsName_bgm05",
+        "message": "Pays de l'horreur",
+        "attribute": "04000000F20F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm06": {
+        "name": "im_mn_goodsName_bgm06",
+        "message": "\u00c9v\u00e9nements",
+        "attribute": "04000000F40F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm07": {
+        "name": "im_mn_goodsName_bgm07",
+        "message": "Mario Party",
+        "attribute": "04000000F60F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm08": {
+        "name": "im_mn_goodsName_bgm08",
+        "message": "Mario Party 2",
+        "attribute": "04000000F80F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm09": {
+        "name": "im_mn_goodsName_bgm09",
+        "message": "Mario Party 3",
+        "attribute": "04000000FA0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm10": {
+        "name": "im_mn_goodsName_bgm10",
+        "message": "Mario Party 4",
+        "attribute": "04000000FC0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm11": {
+        "name": "im_mn_goodsName_bgm11",
+        "message": "Mario Party 5",
+        "attribute": "04000000FE0F0000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm12": {
+        "name": "im_mn_goodsName_bgm12",
+        "message": "Mario Party 6",
+        "attribute": "0400000000100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm13": {
+        "name": "im_mn_goodsName_bgm13",
+        "message": "Mario Party 7",
+        "attribute": "0400000002100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm14": {
+        "name": "im_mn_goodsName_bgm14",
+        "message": "Mario Party 8",
+        "attribute": "0400000004100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm15": {
+        "name": "im_mn_goodsName_bgm15",
+        "message": "Mario Party 9",
+        "attribute": "0400000006100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm16": {
+        "name": "im_mn_goodsName_bgm16",
+        "message": "Mario Party 10",
+        "attribute": "0400000008100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm17": {
+        "name": "im_mn_goodsName_bgm17",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "040000000A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm18": {
+        "name": "im_mn_goodsName_bgm18",
+        "message": "Tous des h\u00e9ros !",
+        "attribute": "040000000C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm19": {
+        "name": "im_mn_goodsName_bgm19",
+        "message": "Le nom du monde",
+        "attribute": "040000000E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_bgm20": {
+        "name": "im_mn_goodsName_bgm20",
+        "message": "\u00c9toile mill\u00e9naire",
+        "attribute": "0400000010100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card00": {
+        "name": "im_mn_goodsName_card00",
+        "message": "Pop",
+        "attribute": "0400000012100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card01": {
+        "name": "im_mn_goodsName_card01",
+        "message": "G\u00e2teau d'anniversaire de Peach",
+        "attribute": "0400000014100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card02": {
+        "name": "im_mn_goodsName_card02",
+        "message": "Station spatiale",
+        "attribute": "0400000016100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card03": {
+        "name": "im_mn_goodsName_card03",
+        "message": "Bois de Woody",
+        "attribute": "0400000018100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card04": {
+        "name": "im_mn_goodsName_card04",
+        "message": "\u00cele tropicale de Yoshi",
+        "attribute": "040000001A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card05": {
+        "name": "im_mn_goodsName_card05",
+        "message": "Pays de l'horreur",
+        "attribute": "040000001C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card06": {
+        "name": "im_mn_goodsName_card06",
+        "message": "R\u00e9tro",
+        "attribute": "040000001E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card07": {
+        "name": "im_mn_goodsName_card07",
+        "message": "Digital",
+        "attribute": "0400000020100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card08": {
+        "name": "im_mn_goodsName_card08",
+        "message": "N\u00e9on",
+        "attribute": "0400000022100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card09": {
+        "name": "im_mn_goodsName_card09",
+        "message": "Champignon",
+        "attribute": "0400000024100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card10": {
+        "name": "im_mn_goodsName_card10",
+        "message": "Illumination",
+        "attribute": "0400000026100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card11": {
+        "name": "im_mn_goodsName_card11",
+        "message": "Tuyau",
+        "attribute": "0400000028100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card12": {
+        "name": "im_mn_goodsName_card12",
+        "message": "Usine",
+        "attribute": "040000002A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card13": {
+        "name": "im_mn_goodsName_card13",
+        "message": "Superbe",
+        "attribute": "040000002C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_goodsName_card14": {
+        "name": "im_mn_goodsName_card14",
+        "message": "Luxueux",
+        "attribute": "040000002E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name00": {
+        "name": "im_mn_pointer_name00",
+        "message": "Carte Mario Party",
+        "attribute": "0400000030100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name01": {
+        "name": "im_mn_pointer_name01",
+        "message": "Encyclop\u00e9die",
+        "attribute": "0400000032100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name02": {
+        "name": "im_mn_pointer_name02",
+        "message": "Musiques",
+        "attribute": "0400000034100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name03": {
+        "name": "im_mn_pointer_name03",
+        "message": "Records du jeu",
+        "attribute": "0400000036100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name04": {
+        "name": "im_mn_pointer_name04",
+        "message": "Cr\u00e9dits",
+        "attribute": "0400000038100000",
+        "style_index": 4294967295
+    },
+    "im_mn_pointer_name05": {
+        "name": "im_mn_pointer_name05",
+        "message": "Exploits",
+        "attribute": "040000003A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header00": {
+        "name": "im_mn_mu_header00",
+        "message": "Place du village",
+        "attribute": "040000003C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header01": {
+        "name": "im_mn_mu_header01",
+        "message": "Classique",
+        "attribute": "040000003E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header02": {
+        "name": "im_mn_mu_header02",
+        "message": "Moderne",
+        "attribute": "0400000040100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header03": {
+        "name": "im_mn_mu_header03",
+        "message": "Mario Party",
+        "attribute": "0400000042100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header04": {
+        "name": "im_mn_mu_header04",
+        "message": "Mario Party 2",
+        "attribute": "0400000044100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header05": {
+        "name": "im_mn_mu_header05",
+        "message": "Mario Party 3",
+        "attribute": "0400000046100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header06": {
+        "name": "im_mn_mu_header06",
+        "message": "Mario Party 4",
+        "attribute": "0400000048100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header07": {
+        "name": "im_mn_mu_header07",
+        "message": "Mario Party 5",
+        "attribute": "040000004A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header08": {
+        "name": "im_mn_mu_header08",
+        "message": "Mario Party 6",
+        "attribute": "040000004C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header09": {
+        "name": "im_mn_mu_header09",
+        "message": "Mario Party 7",
+        "attribute": "040000004E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header10": {
+        "name": "im_mn_mu_header10",
+        "message": "Mario Party 8",
+        "attribute": "0400000050100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header11": {
+        "name": "im_mn_mu_header11",
+        "message": "Mario Party 9",
+        "attribute": "0400000052100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header12": {
+        "name": "im_mn_mu_header12",
+        "message": "Mario Party 10",
+        "attribute": "0400000054100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header13": {
+        "name": "im_mn_mu_header13",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "0400000056100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header14": {
+        "name": "im_mn_mu_header14",
+        "message": "Derni\u00e8re ligne droite",
+        "attribute": "0400000058100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mu_header15": {
+        "name": "im_mn_mu_header15",
+        "message": "\u00c9v\u00e9nements",
+        "attribute": "040000005A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption00": {
+        "name": "im_mn_tips_caption00",
+        "message": "Continuez \u00e0 jouer !",
+        "attribute": "040000005C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption01": {
+        "name": "im_mn_tips_caption01",
+        "message": "Aux fraises",
+        "attribute": "040000005E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption02": {
+        "name": "im_mn_tips_caption02",
+        "message": "Le raccourci de Bowser",
+        "attribute": "0400000060100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption03": {
+        "name": "im_mn_tips_caption03",
+        "message": "La superstar sur le g\u00e2teau",
+        "attribute": "0400000062100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption04": {
+        "name": "im_mn_tips_caption04",
+        "message": "Gare au rayon de Bowser",
+        "attribute": "0400000064100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption05": {
+        "name": "im_mn_tips_caption05",
+        "message": "Myst\u00e8re d'outre-espace",
+        "attribute": "0400000066100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption06": {
+        "name": "im_mn_tips_caption06",
+        "message": "R\u00e8gles de circulation spatiale",
+        "attribute": "0400000068100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption07": {
+        "name": "im_mn_tips_caption07",
+        "message": "Les panneaux de Topi Taupe",
+        "attribute": "040000006A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption08": {
+        "name": "im_mn_tips_caption08",
+        "message": "Balade dans les bois de Woody",
+        "attribute": "040000006C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption09": {
+        "name": "im_mn_tips_caption09",
+        "message": "La g\u00e9n\u00e9rosit\u00e9 des arbres",
+        "attribute": "040000006E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption10": {
+        "name": "im_mn_tips_caption10",
+        "message": "Des \u00e9toiles espi\u00e8gles",
+        "attribute": "0400000070100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption11": {
+        "name": "im_mn_tips_caption11",
+        "message": "Une abondance de fruits",
+        "attribute": "0400000072100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption12": {
+        "name": "im_mn_tips_caption12",
+        "message": "Les \u00eeles fruit\u00e9es",
+        "attribute": "0400000074100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption13": {
+        "name": "im_mn_tips_caption13",
+        "message": "F\u00eatards d'outre-tombe",
+        "attribute": "0400000076100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption14": {
+        "name": "im_mn_tips_caption14",
+        "message": "M. \u0152il s'en charge",
+        "attribute": "0400000078100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption15": {
+        "name": "im_mn_tips_caption15",
+        "message": "Nuit de terreur",
+        "attribute": "040000007A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption16": {
+        "name": "im_mn_tips_caption16",
+        "message": "Des mini-jeux \u00e0 volont\u00e9 !",
+        "attribute": "040000007C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption17": {
+        "name": "im_mn_tips_caption17",
+        "message": "Le sport, c'est s\u00e9rieux !",
+        "attribute": "040000007E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption18": {
+        "name": "im_mn_tips_caption18",
+        "message": "Puzzle apr\u00e8s puzzle",
+        "attribute": "0400000080100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption19": {
+        "name": "im_mn_tips_caption19",
+        "message": "Amassez les pi\u00e8ces",
+        "attribute": "0400000082100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption20": {
+        "name": "im_mn_tips_caption20",
+        "message": "La puissance des paires",
+        "attribute": "0400000084100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption21": {
+        "name": "im_mn_tips_caption21",
+        "message": "Victoire en trio",
+        "attribute": "0400000086100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption22": {
+        "name": "im_mn_tips_caption22",
+        "message": "Terrassez vos rivaux",
+        "attribute": "0400000088100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption23": {
+        "name": "im_mn_tips_caption23",
+        "message": "Comp\u00e9tition mondiale",
+        "attribute": "040000008A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption24": {
+        "name": "im_mn_tips_caption24",
+        "message": "Challenge quotidien",
+        "attribute": "040000008C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption25": {
+        "name": "im_mn_tips_caption25",
+        "message": "Ne pas finir en pi\u00e8ces",
+        "attribute": "040000008E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption26": {
+        "name": "im_mn_tips_caption26",
+        "message": "Se concentrer sur la victoire",
+        "attribute": "0400000090100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption27": {
+        "name": "im_mn_tips_caption27",
+        "message": "La survie du plus rapide",
+        "attribute": "0400000092100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption28": {
+        "name": "im_mn_tips_caption28",
+        "message": "Comme une puce",
+        "attribute": "0400000094100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption29": {
+        "name": "im_mn_tips_caption29",
+        "message": "Sans piti\u00e9",
+        "attribute": "0400000096100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption30": {
+        "name": "im_mn_tips_caption30",
+        "message": "Vigilance de rigueur",
+        "attribute": "0400000098100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption31": {
+        "name": "im_mn_tips_caption31",
+        "message": "Pr\u00e9cision et pers\u00e9v\u00e9rance",
+        "attribute": "040000009A100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption32": {
+        "name": "im_mn_tips_caption32",
+        "message": "La t\u00eate froide",
+        "attribute": "040000009C100000",
+        "style_index": 4294967295
+    },
+    "im_mn_tips_caption33": {
+        "name": "im_mn_tips_caption33",
+        "message": "Ajout de tours et bourse stellaire",
+        "attribute": "040000009E100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm00": {
+        "name": "im_mn_mainName_bgm00",
+        "message": "Pr\u00e9paration",
+        "attribute": "04000000A0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm01": {
+        "name": "im_mn_mainName_bgm01",
+        "message": "Le voyage commence",
+        "attribute": "04000000A2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm03": {
+        "name": "im_mn_mainName_bgm03",
+        "message": "Place du village",
+        "attribute": "04000000A4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm04": {
+        "name": "im_mn_mainName_bgm04",
+        "message": "Param\u00e9trage",
+        "attribute": "04000000A6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm05": {
+        "name": "im_mn_mainName_bgm05",
+        "message": "Une visite \u00e0 des amis",
+        "attribute": "04000000A8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm06": {
+        "name": "im_mn_mainName_bgm06",
+        "message": "L'heure du shopping",
+        "attribute": "04000000AA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm07": {
+        "name": "im_mn_mainName_bgm07",
+        "message": "Tendres souvenirs",
+        "attribute": "04000000AC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm08": {
+        "name": "im_mn_mainName_bgm08",
+        "message": "T\u00e9l\u00e9portation vers l'aventure",
+        "attribute": "04000000AE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm09": {
+        "name": "im_mn_mainName_bgm09",
+        "message": "En route vers la montagne aux mini-jeux",
+        "attribute": "04000000B0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm010": {
+        "name": "im_mn_mainName_bgm010",
+        "message": "Vers les \u00e9toiles",
+        "attribute": "04000000B2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm011": {
+        "name": "im_mn_mainName_bgm011",
+        "message": "Cr\u00e9dits",
+        "attribute": "04000000B4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm012": {
+        "name": "im_mn_mainName_bgm012",
+        "message": "Classement en ligne",
+        "attribute": "04000000B6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm013": {
+        "name": "im_mn_mainName_bgm013",
+        "message": "Mario Party Superstars (Mario Party)",
+        "attribute": "04000000B8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm014": {
+        "name": "im_mn_mainName_bgm014",
+        "message": "Mario Party Superstars (Mario Party 2)",
+        "attribute": "04000000BA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_mainName_bgm015": {
+        "name": "im_mn_mainName_bgm015",
+        "message": "Mario Party Superstars (Mario Party 3)",
+        "attribute": "04000000BC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_staffName_bgm00": {
+        "name": "im_mn_staffName_bgm00",
+        "message": "Tous des h\u00e9ros !",
+        "attribute": "04000000BE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_staffName_bgm01": {
+        "name": "im_mn_staffName_bgm01",
+        "message": "Le nom du monde",
+        "attribute": "04000000C0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_staffName_bgm02": {
+        "name": "im_mn_staffName_bgm02",
+        "message": "\u00c9toile mill\u00e9naire",
+        "attribute": "04000000C2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm00": {
+        "name": "im_mn_bdName_bgm00",
+        "message": "\u00cele tropicale de Yoshi (classique)",
+        "attribute": "04000000C4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm01": {
+        "name": "im_mn_bdName_bgm01",
+        "message": "Station spatiale (classique)",
+        "attribute": "04000000C6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm02": {
+        "name": "im_mn_bdName_bgm02",
+        "message": "G\u00e2teau d'anniversaire de Peach (classique)",
+        "attribute": "04000000C8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm03": {
+        "name": "im_mn_bdName_bgm03",
+        "message": "Bois de Woody (classique)",
+        "attribute": "04000000CA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm04": {
+        "name": "im_mn_bdName_bgm04",
+        "message": "Pays de l'horreur (classique)",
+        "attribute": "04000000CC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm05": {
+        "name": "im_mn_bdName_bgm05",
+        "message": "\u00cele tropicale de Yoshi",
+        "attribute": "04000000CE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm06": {
+        "name": "im_mn_bdName_bgm06",
+        "message": "Station spatiale",
+        "attribute": "04000000D0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm07": {
+        "name": "im_mn_bdName_bgm07",
+        "message": "G\u00e2teau d'anniversaire de Peach",
+        "attribute": "04000000D2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm08": {
+        "name": "im_mn_bdName_bgm08",
+        "message": "Bois de Woody",
+        "attribute": "04000000D4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm16": {
+        "name": "im_mn_bdName_bgm16",
+        "message": "Pays de l'horreur (jour)",
+        "attribute": "04000000D6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm09": {
+        "name": "im_mn_bdName_bgm09",
+        "message": "Pays de l'horreur (nuit)",
+        "attribute": "04000000D8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm10": {
+        "name": "im_mn_bdName_bgm10",
+        "message": "\u00cele tropicale de Yoshi (derni\u00e8re ligne droite)",
+        "attribute": "04000000DA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm11": {
+        "name": "im_mn_bdName_bgm11",
+        "message": "Station spatiale (derni\u00e8re ligne droite)",
+        "attribute": "04000000DC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm12": {
+        "name": "im_mn_bdName_bgm12",
+        "message": "G\u00e2teau d'anniversaire de Peach (derni\u00e8re ligne droite)",
+        "attribute": "04000000DE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm13": {
+        "name": "im_mn_bdName_bgm13",
+        "message": "Bois de Woody (derni\u00e8re ligne droite)",
+        "attribute": "04000000E0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm14": {
+        "name": "im_mn_bdName_bgm14",
+        "message": "Pays de l'horreur (derni\u00e8re ligne droite - jour)",
+        "attribute": "04000000E2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_bdName_bgm15": {
+        "name": "im_mn_bdName_bgm15",
+        "message": "Pays de l'horreur (derni\u00e8re ligne droite - nuit)",
+        "attribute": "04000000E4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm00": {
+        "name": "im_mn_evName_bgm00",
+        "message": "O\u00f9 est l'\u00e9toile ?",
+        "attribute": "04000000E6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm01": {
+        "name": "im_mn_evName_bgm01",
+        "message": "Voil\u00e0 Boo !",
+        "attribute": "04000000E8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm02": {
+        "name": "im_mn_evName_bgm02",
+        "message": "Poursuite palpitante",
+        "attribute": "04000000EA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm03": {
+        "name": "im_mn_evName_bgm03",
+        "message": "Rayon cacophonique",
+        "attribute": "04000000EC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm04": {
+        "name": "im_mn_evName_bgm04",
+        "message": "Panneau de Topi Taupe",
+        "attribute": "04000000EE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm05": {
+        "name": "im_mn_evName_bgm05",
+        "message": "Le cadeau de l'arbre amical",
+        "attribute": "04000000F0100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm06": {
+        "name": "im_mn_evName_bgm06",
+        "message": "Le tour de l'arbre malicieux",
+        "attribute": "04000000F2100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm07": {
+        "name": "im_mn_evName_bgm07",
+        "message": "Ruse de Cheep Chomp",
+        "attribute": "04000000F4100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm08": {
+        "name": "im_mn_evName_bgm08",
+        "message": "T\u00e9l\u00e9portation de M. \u0152il",
+        "attribute": "04000000F6100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm09": {
+        "name": "im_mn_evName_bgm09",
+        "message": "Arriv\u00e9e du Roi Boo",
+        "attribute": "04000000F8100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm10": {
+        "name": "im_mn_evName_bgm10",
+        "message": "F\u00eate au manoir myst\u00e9rieux",
+        "attribute": "04000000FA100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm11": {
+        "name": "im_mn_evName_bgm11",
+        "message": "C'est ta chance !",
+        "attribute": "04000000FC100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm12": {
+        "name": "im_mn_evName_bgm12",
+        "message": "L'heure du mini-jeu !",
+        "attribute": "04000000FE100000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm13": {
+        "name": "im_mn_evName_bgm13",
+        "message": "Bowser fait son entr\u00e9e",
+        "attribute": "0400000000110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm14": {
+        "name": "im_mn_evName_bgm14",
+        "message": "Duel !",
+        "attribute": "0400000002110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm15": {
+        "name": "im_mn_evName_bgm15",
+        "message": "Derni\u00e8re ligne droite !",
+        "attribute": "0400000004110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm16": {
+        "name": "im_mn_evName_bgm16",
+        "message": "Bons moments",
+        "attribute": "0400000006110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm17": {
+        "name": "im_mn_evName_bgm17",
+        "message": "Tourne la roue",
+        "attribute": "0400000008110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm18": {
+        "name": "im_mn_evName_bgm18",
+        "message": "Que la f\u00eate commence !",
+        "attribute": "040000000A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm20": {
+        "name": "im_mn_evName_bgm20",
+        "message": "Tu es une superstar !",
+        "attribute": "040000000C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm21": {
+        "name": "im_mn_evName_bgm21",
+        "message": "Que le mini-jeu commence !",
+        "attribute": "040000000E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_evName_bgm22": {
+        "name": "im_mn_evName_bgm22",
+        "message": "Attention au Chomp !",
+        "attribute": "0400000010110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm00": {
+        "name": "im_mn_mgName_bgm00",
+        "message": "Arm\u00e9 de courage",
+        "attribute": "0400000012110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm01": {
+        "name": "im_mn_mgName_bgm01",
+        "message": "Le vaste oc\u00e9an",
+        "attribute": "0400000014110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm03": {
+        "name": "im_mn_mgName_bgm03",
+        "message": "\u00c9viter le danger",
+        "attribute": "0400000016110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm04": {
+        "name": "im_mn_mgName_bgm04",
+        "message": "Allons-y doucement",
+        "attribute": "0400000018110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm05": {
+        "name": "im_mn_mgName_bgm05",
+        "message": "Toujours plus vite",
+        "attribute": "040000001A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm06": {
+        "name": "im_mn_mgName_bgm06",
+        "message": "C'est jouable ?",
+        "attribute": "040000001C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm07": {
+        "name": "im_mn_mgName_bgm07",
+        "message": "L'esquive",
+        "attribute": "040000001E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm08": {
+        "name": "im_mn_mgName_bgm08",
+        "message": "Toutes les pi\u00e8ces du monde",
+        "attribute": "0400000020110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm09": {
+        "name": "im_mn_mgName_bgm09",
+        "message": "Limbo",
+        "attribute": "0400000022110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm10": {
+        "name": "im_mn_mgName_bgm10",
+        "message": "Pas par l\u00e0 !",
+        "attribute": "0400000024110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm11": {
+        "name": "im_mn_mgName_bgm11",
+        "message": "Gain d'objet",
+        "attribute": "0400000026110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm12": {
+        "name": "im_mn_mgName_bgm12",
+        "message": "Le ciel bleu",
+        "attribute": "0400000028110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm13": {
+        "name": "im_mn_mgName_bgm13",
+        "message": "Comme ci, comme \u00e7a",
+        "attribute": "040000002A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm14": {
+        "name": "im_mn_mgName_bgm14",
+        "message": "Rien de mieux",
+        "attribute": "040000002C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm15": {
+        "name": "im_mn_mgName_bgm15",
+        "message": "Polka !!!",
+        "attribute": "040000002E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm16": {
+        "name": "im_mn_mgName_bgm16",
+        "message": "Prends la pi\u00e8ce",
+        "attribute": "0400000030110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm17": {
+        "name": "im_mn_mgName_bgm17",
+        "message": "C'est tout",
+        "attribute": "0400000032110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm18": {
+        "name": "im_mn_mgName_bgm18",
+        "message": "M\u00eame pas peur !",
+        "attribute": "0400000034110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm19": {
+        "name": "im_mn_mgName_bgm19",
+        "message": "Sur les sentiers battus",
+        "attribute": "0400000036110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm20": {
+        "name": "im_mn_mgName_bgm20",
+        "message": "La voie des airs",
+        "attribute": "0400000038110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm21": {
+        "name": "im_mn_mgName_bgm21",
+        "message": "La d\u00e9faite n'est pas une option",
+        "attribute": "040000003A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm22": {
+        "name": "im_mn_mgName_bgm22",
+        "message": "On va rigoler",
+        "attribute": "040000003C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm23": {
+        "name": "im_mn_mgName_bgm23",
+        "message": "T'as compris ?",
+        "attribute": "040000003E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm24": {
+        "name": "im_mn_mgName_bgm24",
+        "message": "Mini-jeu \u00e0 objet",
+        "attribute": "0400000040110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm25": {
+        "name": "im_mn_mgName_bgm25",
+        "message": "Prenons notre temps",
+        "attribute": "0400000042110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm26": {
+        "name": "im_mn_mgName_bgm26",
+        "message": "On ne panique pas",
+        "attribute": "0400000044110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm27": {
+        "name": "im_mn_mgName_bgm27",
+        "message": "Y a urgence !",
+        "attribute": "0400000046110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm28": {
+        "name": "im_mn_mgName_bgm28",
+        "message": "C\u0153ur vaillant",
+        "attribute": "0400000048110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm29": {
+        "name": "im_mn_mgName_bgm29",
+        "message": "Prudence",
+        "attribute": "040000004A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm30": {
+        "name": "im_mn_mgName_bgm30",
+        "message": "Anticipation",
+        "attribute": "040000004C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm31": {
+        "name": "im_mn_mgName_bgm31",
+        "message": "De gros soucis !",
+        "attribute": "040000004E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm32": {
+        "name": "im_mn_mgName_bgm32",
+        "message": "On se magne !",
+        "attribute": "0400000050110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm33": {
+        "name": "im_mn_mgName_bgm33",
+        "message": "Que faire ?!",
+        "attribute": "0400000052110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm34": {
+        "name": "im_mn_mgName_bgm34",
+        "message": "Vis\u00e9e",
+        "attribute": "0400000054110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm35": {
+        "name": "im_mn_mgName_bgm35",
+        "message": "Tu me suis ?",
+        "attribute": "0400000056110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm36": {
+        "name": "im_mn_mgName_bgm36",
+        "message": "Lentement mais s\u00fbrement",
+        "attribute": "0400000058110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm37": {
+        "name": "im_mn_mgName_bgm37",
+        "message": "D\u00e9p\u00eache-toi !",
+        "attribute": "040000005A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm38": {
+        "name": "im_mn_mgName_bgm38",
+        "message": "Sueurs froides",
+        "attribute": "040000005C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm39": {
+        "name": "im_mn_mgName_bgm39",
+        "message": "Essayez, les gars !",
+        "attribute": "040000005E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm40": {
+        "name": "im_mn_mgName_bgm40",
+        "message": "Doux et fort",
+        "attribute": "0400000060110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm41": {
+        "name": "im_mn_mgName_bgm41",
+        "message": "Par-ci, par-l\u00e0...",
+        "attribute": "0400000062110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm42": {
+        "name": "im_mn_mgName_bgm42",
+        "message": "Pr\u00e9cipitation",
+        "attribute": "0400000064110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm43": {
+        "name": "im_mn_mgName_bgm43",
+        "message": "L'angoisse",
+        "attribute": "0400000066110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm44": {
+        "name": "im_mn_mgName_bgm44",
+        "message": "Pression pression !",
+        "attribute": "0400000068110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm45": {
+        "name": "im_mn_mgName_bgm45",
+        "message": "Agitation g\u00e9n\u00e9rale",
+        "attribute": "040000006A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm47": {
+        "name": "im_mn_mgName_bgm47",
+        "message": "Course joyeuse",
+        "attribute": "040000006C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm48": {
+        "name": "im_mn_mgName_bgm48",
+        "message": "Jazz",
+        "attribute": "040000006E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm49": {
+        "name": "im_mn_mgName_bgm49",
+        "message": "Duel et r\u00e9compenses",
+        "attribute": "0400000070110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm50": {
+        "name": "im_mn_mgName_bgm50",
+        "message": "Jouer avec Bowser",
+        "attribute": "0400000072110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm51": {
+        "name": "im_mn_mgName_bgm51",
+        "message": "Destins moroses",
+        "attribute": "0400000074110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm52": {
+        "name": "im_mn_mgName_bgm52",
+        "message": "Rythme lent (Mario Party 6)",
+        "attribute": "0400000076110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm53": {
+        "name": "im_mn_mgName_bgm53",
+        "message": "Relax",
+        "attribute": "0400000078110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm54": {
+        "name": "im_mn_mgName_bgm54",
+        "message": "Les bienheureux",
+        "attribute": "040000007A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm55": {
+        "name": "im_mn_mgName_bgm55",
+        "message": "Pas de soucis",
+        "attribute": "040000007C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm56": {
+        "name": "im_mn_mgName_bgm56",
+        "message": "Lentement mais s\u00fbrement (Mario Party 7)",
+        "attribute": "040000007E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm57": {
+        "name": "im_mn_mgName_bgm57",
+        "message": "Attention !",
+        "attribute": "0400000080110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm58": {
+        "name": "im_mn_mgName_bgm58",
+        "message": "Amusons-nous !",
+        "attribute": "0400000082110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm59": {
+        "name": "im_mn_mgName_bgm59",
+        "message": "Un mini-jeu rare",
+        "attribute": "0400000084110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm60": {
+        "name": "im_mn_mgName_bgm60",
+        "message": "Sens dessus dessous",
+        "attribute": "0400000086110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm61": {
+        "name": "im_mn_mgName_bgm61",
+        "message": "Comp\u00e9tition amicale",
+        "attribute": "0400000088110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm62": {
+        "name": "im_mn_mgName_bgm62",
+        "message": "Un peu de sport",
+        "attribute": "040000008A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm63": {
+        "name": "im_mn_mgName_bgm63",
+        "message": "D\u00e9fi neurones",
+        "attribute": "040000008C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm64": {
+        "name": "im_mn_mgName_bgm64",
+        "message": "\u00c9motions fortes",
+        "attribute": "040000008E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm65": {
+        "name": "im_mn_mgName_bgm65",
+        "message": "Les merveilleux fr\u00e8res Mario",
+        "attribute": "0400000090110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm66": {
+        "name": "im_mn_mgName_bgm66",
+        "message": "Esquivez sans tra\u00eenasser",
+        "attribute": "0400000092110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm67": {
+        "name": "im_mn_mgName_bgm67",
+        "message": "Slalomer sans se piquer",
+        "attribute": "0400000094110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mgName_bgm68": {
+        "name": "im_mn_mgName_bgm68",
+        "message": "Laissez-moi passer !",
+        "attribute": "0400000096110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm00": {
+        "name": "im_mn_mmName_bgm00",
+        "message": "Bienvenue sur la montagne aux mini-jeux !",
+        "attribute": "0400000098110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm01": {
+        "name": "im_mn_mmName_bgm01",
+        "message": "Commencez l'ascension !",
+        "attribute": "040000009A110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm02": {
+        "name": "im_mn_mmName_bgm02",
+        "message": "C'est l'heure de redescendre !",
+        "attribute": "040000009C110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm03": {
+        "name": "im_mn_mmName_bgm03",
+        "message": "On remballe...",
+        "attribute": "040000009E110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm04": {
+        "name": "im_mn_mmName_bgm04",
+        "message": "Meilleur grimpeur",
+        "attribute": "04000000A0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm05": {
+        "name": "im_mn_mmName_bgm05",
+        "message": "\u00c9trangers sur la montagne",
+        "attribute": "04000000A2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm06": {
+        "name": "im_mn_mmName_bgm06",
+        "message": "Jeu libre sur la montagne",
+        "attribute": "04000000A4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm07": {
+        "name": "im_mn_mmName_bgm07",
+        "message": "D\u00e9but du combat de pi\u00e8ces",
+        "attribute": "04000000A6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm08": {
+        "name": "im_mn_mmName_bgm08",
+        "message": "Que le combat commence",
+        "attribute": "04000000A8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm09": {
+        "name": "im_mn_mmName_bgm09",
+        "message": "Plus loin, plus haut",
+        "attribute": "04000000AA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm10": {
+        "name": "im_mn_mmName_bgm10",
+        "message": "Le sommet",
+        "attribute": "04000000AC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm11": {
+        "name": "im_mn_mmName_bgm11",
+        "message": "Une autre fois !",
+        "attribute": "04000000AE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm12": {
+        "name": "im_mn_mmName_bgm12",
+        "message": "Viser de nouveaux horizons",
+        "attribute": "04000000B0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm13": {
+        "name": "im_mn_mmName_bgm13",
+        "message": "D\u00e9but de la survie",
+        "attribute": "04000000B2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm14": {
+        "name": "im_mn_mmName_bgm14",
+        "message": "Continue comme \u00e7a !",
+        "attribute": "04000000B4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm15": {
+        "name": "im_mn_mmName_bgm15",
+        "message": "C'\u00e9tait trop dur...",
+        "attribute": "04000000B6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_mmName_bgm16": {
+        "name": "im_mn_mmName_bgm16",
+        "message": "L'\u00e9preuve finale",
+        "attribute": "04000000B8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieveFirst_name": {
+        "name": "im_mn_achieveFirst_name",
+        "message": "D\u00e9butant",
+        "attribute": "04000000BA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve000_name": {
+        "name": "im_mn_achieve000_name",
+        "message": "Fan d'\u00e9toiles",
+        "attribute": "04000000BC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve001_name": {
+        "name": "im_mn_achieve001_name",
+        "message": "Ru\u00e9e c\u00e9leste",
+        "attribute": "04000000BE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve002_name": {
+        "name": "im_mn_achieve002_name",
+        "message": "Architecte galactique",
+        "attribute": "04000000C0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve003_name": {
+        "name": "im_mn_achieve003_name",
+        "message": "Fan de pi\u00e8ces",
+        "attribute": "04000000C2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve004_name": {
+        "name": "im_mn_achieve004_name",
+        "message": "Enthousiaste des pi\u00e8ces",
+        "attribute": "04000000C4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve005_name": {
+        "name": "im_mn_achieve005_name",
+        "message": "Magnat des pi\u00e8ces",
+        "attribute": "04000000C6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve006_name": {
+        "name": "im_mn_achieve006_name",
+        "message": "Trouble-f\u00eate",
+        "attribute": "04000000C8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve007_name": {
+        "name": "im_mn_achieve007_name",
+        "message": "Pour l'honneur",
+        "attribute": "04000000CA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve008_name": {
+        "name": "im_mn_achieve008_name",
+        "message": "T\u00eate br\u00fbl\u00e9e",
+        "attribute": "04000000CC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve009_name": {
+        "name": "im_mn_achieve009_name",
+        "message": "Acolyte de Bowser",
+        "attribute": "04000000CE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve010_name": {
+        "name": "im_mn_achieve010_name",
+        "message": "Retraits sans compter",
+        "attribute": "04000000D0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve011_name": {
+        "name": "im_mn_achieve011_name",
+        "message": "Mod\u00e8le de g\u00e9n\u00e9rosit\u00e9",
+        "attribute": "04000000D2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve012_name": {
+        "name": "im_mn_achieve012_name",
+        "message": "Cleptomane d'\u00e9toiles",
+        "attribute": "04000000D4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve013_name": {
+        "name": "im_mn_achieve013_name",
+        "message": "Voyou stellaire",
+        "attribute": "04000000D6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve014_name": {
+        "name": "im_mn_achieve014_name",
+        "message": "Tire-laine",
+        "attribute": "04000000D8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve015_name": {
+        "name": "im_mn_achieve015_name",
+        "message": "Pickpocket sans remords",
+        "attribute": "04000000DA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve016_name": {
+        "name": "im_mn_achieve016_name",
+        "message": "Mat\u00e9rialiste",
+        "attribute": "04000000DC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve017_name": {
+        "name": "im_mn_achieve017_name",
+        "message": "Athl\u00e8te du double d\u00e9",
+        "attribute": "04000000DE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve018_name": {
+        "name": "im_mn_achieve018_name",
+        "message": "\u00c0 la chasse au tr\u00e9sor",
+        "attribute": "04000000E0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve019_name": {
+        "name": "im_mn_achieve019_name",
+        "message": "Mon amie la cl\u00e9",
+        "attribute": "04000000E2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve020_name": {
+        "name": "im_mn_achieve020_name",
+        "message": "D\u00e9tecteur de pi\u00e8ces",
+        "attribute": "04000000E4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve021_name": {
+        "name": "im_mn_achieve021_name",
+        "message": "Radar \u00e0 \u00e9toiles",
+        "attribute": "04000000E6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve022_name": {
+        "name": "im_mn_achieve022_name",
+        "message": "Deux \u00e9toiles, c'est mieux",
+        "attribute": "04000000E8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve023_name": {
+        "name": "im_mn_achieve023_name",
+        "message": "Sp\u00e9cialiste des soldes",
+        "attribute": "04000000EA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve024_name": {
+        "name": "im_mn_achieve024_name",
+        "message": "Insolvable",
+        "attribute": "04000000EC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve025_name": {
+        "name": "im_mn_achieve025_name",
+        "message": "Redoutable duelliste",
+        "attribute": "04000000EE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve026_name": {
+        "name": "im_mn_achieve026_name",
+        "message": "Cible \u00e0 battre",
+        "attribute": "04000000F0110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve027_name": {
+        "name": "im_mn_achieve027_name",
+        "message": "Cauchemar de Bowser",
+        "attribute": "04000000F2110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve028_name": {
+        "name": "im_mn_achieve028_name",
+        "message": "Moisson de bonus",
+        "attribute": "04000000F4110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve029_name": {
+        "name": "im_mn_achieve029_name",
+        "message": "Main verte et avide",
+        "attribute": "04000000F6110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve030_name": {
+        "name": "im_mn_achieve030_name",
+        "message": "Fuite spatiale",
+        "attribute": "04000000F8110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve031_name": {
+        "name": "im_mn_achieve031_name",
+        "message": "R\u00e9colte fructueuse",
+        "attribute": "04000000FA110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve032_name": {
+        "name": "im_mn_achieve032_name",
+        "message": "Complice de Cheep Chomp",
+        "attribute": "04000000FC110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve033_name": {
+        "name": "im_mn_achieve033_name",
+        "message": "Noctambule",
+        "attribute": "04000000FE110000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve034_name": {
+        "name": "im_mn_achieve034_name",
+        "message": "Fan de mini-jeux",
+        "attribute": "0400000000120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve035_name": {
+        "name": "im_mn_achieve035_name",
+        "message": "Pro des mini-jeux",
+        "attribute": "0400000002120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve038_name": {
+        "name": "im_mn_achieve038_name",
+        "message": "Partenaire en or",
+        "attribute": "0400000004120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve039_name": {
+        "name": "im_mn_achieve039_name",
+        "message": "Victoires en s\u00e9rie",
+        "attribute": "0400000006120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve040_name": {
+        "name": "im_mn_achieve040_name",
+        "message": "Meilleur grimpeur",
+        "attribute": "0400000008120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve042_name": {
+        "name": "im_mn_achieve042_name",
+        "message": "Numismate \u00e0 succ\u00e8s",
+        "attribute": "040000000A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve044_name": {
+        "name": "im_mn_achieve044_name",
+        "message": "Boss de Thwompuzzle",
+        "attribute": "040000000C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve045_name": {
+        "name": "im_mn_achieve045_name",
+        "message": "Boss de Blocs \u00e9toil\u00e9s",
+        "attribute": "040000000E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve046_name": {
+        "name": "im_mn_achieve046_name",
+        "message": "Boss de Magn\u00e9puzzle",
+        "attribute": "0400000010120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve047_name": {
+        "name": "im_mn_achieve047_name",
+        "message": "Superstar",
+        "attribute": "0400000012120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve048_name": {
+        "name": "im_mn_achieve048_name",
+        "message": "\u00c9conome",
+        "attribute": "0400000014120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve049_name": {
+        "name": "im_mn_achieve049_name",
+        "message": "As des mini-jeux",
+        "attribute": "0400000016120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve050_name": {
+        "name": "im_mn_achieve050_name",
+        "message": "L\u00e9gende de rang A",
+        "attribute": "0400000018120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve051_name": {
+        "name": "im_mn_achieve051_name",
+        "message": "Sp\u00e9cialiste de rang B",
+        "attribute": "040000001A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve052_name": {
+        "name": "im_mn_achieve052_name",
+        "message": "Pro des 10 \u00e0 la suite",
+        "attribute": "040000001C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve053_name": {
+        "name": "im_mn_achieve053_name",
+        "message": "Pro des 5 \u00e0 la suite",
+        "attribute": "040000001E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve054_name": {
+        "name": "im_mn_achieve054_name",
+        "message": "\u00c9l\u00e8ve studieux",
+        "attribute": "0400000020120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve055_name": {
+        "name": "im_mn_achieve055_name",
+        "message": "\u00c9lite du mini-jeu",
+        "attribute": "0400000022120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve056_name": {
+        "name": "im_mn_achieve056_name",
+        "message": "Honorable adversaire",
+        "attribute": "0400000024120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve057_name": {
+        "name": "im_mn_achieve057_name",
+        "message": "Mon nom dans le classement !",
+        "attribute": "0400000026120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve058_name": {
+        "name": "im_mn_achieve058_name",
+        "message": "Adversaire populaire",
+        "attribute": "0400000028120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve059_name": {
+        "name": "im_mn_achieve059_name",
+        "message": "Chouchou de la foule",
+        "attribute": "040000002A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve060_name": {
+        "name": "im_mn_achieve060_name",
+        "message": "Toucher d'or",
+        "attribute": "040000002C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve061_name": {
+        "name": "im_mn_achieve061_name",
+        "message": "Pro de Thwompuzzle",
+        "attribute": "040000002E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve062_name": {
+        "name": "im_mn_achieve062_name",
+        "message": "Pro de Blocs \u00e9toil\u00e9s",
+        "attribute": "0400000030120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve063_name": {
+        "name": "im_mn_achieve063_name",
+        "message": "Pro de Magn\u00e9puzzle",
+        "attribute": "0400000032120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieveFirst_details": {
+        "name": "im_mn_achieveFirst_details",
+        "message": "Participer \u00e0 la f\u00eate",
+        "attribute": "0400000034120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve000_details": {
+        "name": "im_mn_achieve000_details",
+        "message": "Obtenir 3 \u00e9toiles \ue021 ou plus en une partie",
+        "attribute": "0400000036120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve001_details": {
+        "name": "im_mn_achieve001_details",
+        "message": "Obtenir 5 \u00e9toiles \ue021 ou plus en une partie",
+        "attribute": "0400000038120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve002_details": {
+        "name": "im_mn_achieve002_details",
+        "message": "Obtenir 7 \u00e9toiles \ue021 ou plus en une partie",
+        "attribute": "040000003A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve003_details": {
+        "name": "im_mn_achieve003_details",
+        "message": "Obtenir 100 pi\u00e8ces \ue020 ou plus\r\nen une partie",
+        "attribute": "040000003C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve004_details": {
+        "name": "im_mn_achieve004_details",
+        "message": "Obtenir 150 pi\u00e8ces \ue020 ou plus\r\nen une partie",
+        "attribute": "040000003E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve005_details": {
+        "name": "im_mn_achieve005_details",
+        "message": "Obtenir 200 pi\u00e8ces \ue020 ou plus\r\nen une partie",
+        "attribute": "0400000040120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve006_details": {
+        "name": "im_mn_achieve006_details",
+        "message": "S'arr\u00eater 30 fois sur une case \u00e9v\u00e9nement",
+        "attribute": "0400000042120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve007_details": {
+        "name": "im_mn_achieve007_details",
+        "message": "S'arr\u00eater 15 fois sur une case combat",
+        "attribute": "0400000044120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve008_details": {
+        "name": "im_mn_achieve008_details",
+        "message": "S'arr\u00eater 15 fois sur\r\nune case coup du sort",
+        "attribute": "0400000046120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve009_details": {
+        "name": "im_mn_achieve009_details",
+        "message": "S'arr\u00eater 15 fois sur une case Bowser",
+        "attribute": "0400000048120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve010_details": {
+        "name": "im_mn_achieve010_details",
+        "message": "S'arr\u00eater 15 fois \u00e0 la banque Koopa",
+        "attribute": "040000004A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve011_details": {
+        "name": "im_mn_achieve011_details",
+        "message": "Effectuer 50 d\u00e9p\u00f4ts de pi\u00e8ces \ue020\r\n\u00e0 la banque Koopa",
+        "attribute": "040000004C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve012_details": {
+        "name": "im_mn_achieve012_details",
+        "message": "Voler 1 \u00e9toile \ue021 \u00e0 un adversaire\r\nen une partie",
+        "attribute": "040000004E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve013_details": {
+        "name": "im_mn_achieve013_details",
+        "message": "Voler 3 \u00e9toiles \ue021 \u00e0 des adversaires\r\nen une partie",
+        "attribute": "0400000050120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve014_details": {
+        "name": "im_mn_achieve014_details",
+        "message": "Voler 30 pi\u00e8ces \ue020 \u00e0 des adversaires\r\nen une partie",
+        "attribute": "0400000052120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve015_details": {
+        "name": "im_mn_achieve015_details",
+        "message": "Voler 50 pi\u00e8ces \ue020 \u00e0 des adversaires\r\nen une partie",
+        "attribute": "0400000054120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve016_details": {
+        "name": "im_mn_achieve016_details",
+        "message": "Utiliser 8 objets en une partie",
+        "attribute": "0400000056120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve017_details": {
+        "name": "im_mn_achieve017_details",
+        "message": "Lancer un d\u00e9 double et obtenir un double",
+        "attribute": "0400000058120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve018_details": {
+        "name": "im_mn_achieve018_details",
+        "message": "Utiliser un objet sp\u00e9cial",
+        "attribute": "040000005A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve019_details": {
+        "name": "im_mn_achieve019_details",
+        "message": "Conserver une cl\u00e9 squelette\r\njusqu'\u00e0 la fin d'une partie",
+        "attribute": "040000005C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve020_details": {
+        "name": "im_mn_achieve020_details",
+        "message": "Trouver des pi\u00e8ces \ue020 dans un bloc cach\u00e9",
+        "attribute": "040000005E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve021_details": {
+        "name": "im_mn_achieve021_details",
+        "message": "Trouver 1 \u00e9toile \ue021 dans un bloc cach\u00e9",
+        "attribute": "0400000060120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve022_details": {
+        "name": "im_mn_achieve022_details",
+        "message": "Obtenir 2 \u00e9toiles \ue021 en un seul tour",
+        "attribute": "0400000062120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve023_details": {
+        "name": "im_mn_achieve023_details",
+        "message": "Obtenir 1 \u00e9toile \ue021 \u00e0 moiti\u00e9 prix",
+        "attribute": "0400000064120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve024_details": {
+        "name": "im_mn_achieve024_details",
+        "message": "Rater 1 \u00e9toile \ue021 par manque de pi\u00e8ces \ue020",
+        "attribute": "0400000066120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve025_details": {
+        "name": "im_mn_achieve025_details",
+        "message": "Remporter un duel",
+        "attribute": "0400000068120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve026_details": {
+        "name": "im_mn_achieve026_details",
+        "message": "Se voir pr\u00e9dire la victoire\r\ndans la derni\u00e8re ligne droite",
+        "attribute": "040000006A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve027_details": {
+        "name": "im_mn_achieve027_details",
+        "message": "Remporter un mini-jeu de Bowser",
+        "attribute": "040000006C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve028_details": {
+        "name": "im_mn_achieve028_details",
+        "message": "R\u00e9cup\u00e9rer toutes les \u00e9toiles \ue021 bonus\r\nd'une partie",
+        "attribute": "040000006E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve029_details": {
+        "name": "im_mn_achieve029_details",
+        "message": "Voler 1 \u00e9toile \ue021 \u00e0 l'aide d'une fraise",
+        "attribute": "0400000070120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve030_details": {
+        "name": "im_mn_achieve030_details",
+        "message": "Se faire poursuivre trois fois par\r\nun vaisseau spatial en une partie",
+        "attribute": "0400000072120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve031_details": {
+        "name": "im_mn_achieve031_details",
+        "message": "Obtenir 3 fruits ou plus en une partie",
+        "attribute": "0400000074120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve032_details": {
+        "name": "im_mn_achieve032_details",
+        "message": "\u00c9changer les places de Toadette\r\net Bowser pendant une partie",
+        "attribute": "0400000076120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve033_details": {
+        "name": "im_mn_achieve033_details",
+        "message": "Passer du jour \u00e0 la nuit\r\ndans le manoir myst\u00e9rieux",
+        "attribute": "0400000078120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve034_details": {
+        "name": "im_mn_achieve034_details",
+        "message": "Remporter la moiti\u00e9 des mini-jeux\r\nd'une partie",
+        "attribute": "040000007A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve035_details": {
+        "name": "im_mn_achieve035_details",
+        "message": "Remporter tous les mini-jeux d'une partie",
+        "attribute": "040000007C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve038_details": {
+        "name": "im_mn_achieve038_details",
+        "message": "Gagner sans laisser l'\u00e9quipe adverse\r\nremporter une seule victoire",
+        "attribute": "040000007E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve039_details": {
+        "name": "im_mn_achieve039_details",
+        "message": "Terminer le stage s\u00e9lectionn\u00e9",
+        "attribute": "0400000080120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve040_details": {
+        "name": "im_mn_achieve040_details",
+        "message": "Terminer le stage s\u00e9lectionn\u00e9\r\navec un rang A",
+        "attribute": "0400000082120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve042_details": {
+        "name": "im_mn_achieve042_details",
+        "message": "Gagner en r\u00e9cup\u00e9rant 50 pi\u00e8ces \ue020\r\nou plus en une partie",
+        "attribute": "0400000084120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve044_details": {
+        "name": "im_mn_achieve044_details",
+        "message": "Obtenir 600 points dans Thwompuzzle",
+        "attribute": "0400000086120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve045_details": {
+        "name": "im_mn_achieve045_details",
+        "message": "Atteindre le niveau 99 dans Blocs \u00e9toil\u00e9s",
+        "attribute": "0400000088120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve046_details": {
+        "name": "im_mn_achieve046_details",
+        "message": "Atteindre le niveau 99 dans Magn\u00e9puzzle",
+        "attribute": "040000008A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve047_details": {
+        "name": "im_mn_achieve047_details",
+        "message": "Jouer 50 fois au mode Mario Party",
+        "attribute": "040000008C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve048_details": {
+        "name": "im_mn_achieve048_details",
+        "message": "R\u00e9cup\u00e9rer un total de 1 000 pi\u00e8ces \ue020",
+        "attribute": "040000008E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve049_details": {
+        "name": "im_mn_achieve049_details",
+        "message": "Remporter un total de 100 mini-jeux",
+        "attribute": "0400000090120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve050_details": {
+        "name": "im_mn_achieve050_details",
+        "message": "Obtenir la qualification rang A\r\n\u00e0 un mini-jeu",
+        "attribute": "0400000092120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve051_details": {
+        "name": "im_mn_achieve051_details",
+        "message": "Obtenir la qualification rang B\r\n\u00e0 un mini-jeu",
+        "attribute": "0400000094120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve052_details": {
+        "name": "im_mn_achieve052_details",
+        "message": "Remporter 10 victoires d'affil\u00e9e",
+        "attribute": "0400000096120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve053_details": {
+        "name": "im_mn_achieve053_details",
+        "message": "Remporter 5 victoires d'affil\u00e9e",
+        "attribute": "0400000098120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve054_details": {
+        "name": "im_mn_achieve054_details",
+        "message": "Obtenir 3 \u00e9toiles \ue021\r\nen un seul pack de mini-jeux",
+        "attribute": "040000009A120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve055_details": {
+        "name": "im_mn_achieve055_details",
+        "message": "Finir dans les 1 000 premiers\r\ndans un mini-jeu",
+        "attribute": "040000009C120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve056_details": {
+        "name": "im_mn_achieve056_details",
+        "message": "Finir dans les 10 000 premiers\r\ndans un mini-jeu",
+        "attribute": "040000009E120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve057_details": {
+        "name": "im_mn_achieve057_details",
+        "message": "Finir dans les 50 000 premiers\r\ndans un mini-jeu",
+        "attribute": "04000000A0120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve058_details": {
+        "name": "im_mn_achieve058_details",
+        "message": "Recevoir 5 000 applaudissements",
+        "attribute": "04000000A2120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve059_details": {
+        "name": "im_mn_achieve059_details",
+        "message": "Recevoir 1 000 applaudissements",
+        "attribute": "04000000A4120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve060_details": {
+        "name": "im_mn_achieve060_details",
+        "message": "Gagner en terminant avec au moins\r\n100 pi\u00e8ces \ue020 en une partie",
+        "attribute": "04000000A6120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve061_details": {
+        "name": "im_mn_achieve061_details",
+        "message": "Obtenir 300 points dans Thwompuzzle",
+        "attribute": "04000000A8120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve062_details": {
+        "name": "im_mn_achieve062_details",
+        "message": "Atteindre le niveau 50 dans Blocs \u00e9toil\u00e9s",
+        "attribute": "04000000AA120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve063_details": {
+        "name": "im_mn_achieve063_details",
+        "message": "Atteindre le niveau 50 dans Magn\u00e9puzzle",
+        "attribute": "04000000AC120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve_mode00": {
+        "name": "im_mn_achieve_mode00",
+        "message": "Jeux de plateau",
+        "attribute": "04000000AE120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve_mode01": {
+        "name": "im_mn_achieve_mode01",
+        "message": "G\u00e9n\u00e9ral",
+        "attribute": "04000000B0120000",
+        "style_index": 4294967295
+    },
+    "im_mn_achieve_mode03": {
+        "name": "im_mn_achieve_mode03",
+        "message": "Nouveau record",
+        "attribute": "04000000B2120000",
+        "style_index": 4294967295
+    }
+}

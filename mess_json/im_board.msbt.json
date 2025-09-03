@@ -1,0 +1,770 @@
+{
+    "im_bd02_gmk01_title": {
+        "name": "im_bd02_gmk01_title",
+        "message": "rayon de pi\u00e8ces de Bowser",
+        "attribute": "0400000008040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk02_title": {
+        "name": "im_bd02_gmk02_title",
+        "message": "vaisseau spatial hors de contr\u00f4le",
+        "attribute": "040000000A040000",
+        "style_index": 4294967295
+    },
+    "im_bd04_gmk01_title": {
+        "name": "im_bd04_gmk01_title",
+        "message": "ruse de Cheep Chomp",
+        "attribute": "040000000C040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk05_title": {
+        "name": "im_bd05_gmk05_title",
+        "message": "t\u00e9l\u00e9portation de M. \u0152il",
+        "attribute": "040000000E040000",
+        "style_index": 4294967295
+    },
+    "im_c00_name": {
+        "name": "im_c00_name",
+        "message": "case d\u00e9part",
+        "attribute": "0400000010040000",
+        "style_index": 4294967295
+    },
+    "im_c01_name": {
+        "name": "im_c01_name",
+        "message": "case bleue",
+        "attribute": "0400000012040000",
+        "style_index": 4294967295
+    },
+    "im_c02_name": {
+        "name": "im_c02_name",
+        "message": "case rouge",
+        "attribute": "0400000014040000",
+        "style_index": 4294967295
+    },
+    "im_c03_name": {
+        "name": "im_c03_name",
+        "message": "case objet",
+        "attribute": "0400000016040000",
+        "style_index": 4294967295
+    },
+    "im_c04_name": {
+        "name": "im_c04_name",
+        "message": "case \u00e9v\u00e9nement",
+        "attribute": "0400000018040000",
+        "style_index": 4294967295
+    },
+    "im_c05_name": {
+        "name": "im_c05_name",
+        "message": "case coup du sort",
+        "attribute": "040000001A040000",
+        "style_index": 4294967295
+    },
+    "im_c06_name": {
+        "name": "im_c06_name",
+        "message": "case chance",
+        "attribute": "040000001C040000",
+        "style_index": 4294967295
+    },
+    "im_c07_name": {
+        "name": "im_c07_name",
+        "message": "case Bowser",
+        "attribute": "040000001E040000",
+        "style_index": 4294967295
+    },
+    "im_c08_name": {
+        "name": "im_c08_name",
+        "message": "case combat",
+        "attribute": "0400000020040000",
+        "style_index": 4294967295
+    },
+    "im_c09_name": {
+        "name": "im_c09_name",
+        "message": "banque Koopa",
+        "attribute": "0400000022040000",
+        "style_index": 4294967295
+    },
+    "im_s00_name": {
+        "name": "im_s00_name",
+        "message": "bourse stellaire",
+        "attribute": "0400000024040000",
+        "style_index": 4294967295
+    },
+    "im_s01_name": {
+        "name": "im_s01_name",
+        "message": "boutique des objets",
+        "attribute": "0400000026040000",
+        "style_index": 4294967295
+    },
+    "im_s02_name": {
+        "name": "im_s02_name",
+        "message": "carrefour",
+        "attribute": "0400000028040000",
+        "style_index": 4294967295
+    },
+    "im_s03_name": {
+        "name": "im_s03_name",
+        "message": "Koopa",
+        "attribute": "040000002A040000",
+        "style_index": 4294967295
+    },
+    "im_s04_name": {
+        "name": "im_s04_name",
+        "message": "Bowser",
+        "attribute": "040000002C040000",
+        "style_index": 4294967295
+    },
+    "im_s05_name": {
+        "name": "im_s05_name",
+        "message": "portail",
+        "attribute": "040000002E040000",
+        "style_index": 4294967295
+    },
+    "im_s06_name": {
+        "name": "im_s06_name",
+        "message": "Boo",
+        "attribute": "0400000030040000",
+        "style_index": 4294967295
+    },
+    "im_bd01_gmk02_sName": {
+        "name": "im_bd01_gmk02_sName",
+        "message": "loterie fleur",
+        "attribute": "0400000032040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk01_sName": {
+        "name": "im_bd02_gmk01_sName",
+        "message": "croisement Bowser",
+        "attribute": "0400000034040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk02_sName": {
+        "name": "im_bd02_gmk02_sName",
+        "message": "poste Snifit",
+        "attribute": "0400000036040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk01_arrow_name": {
+        "name": "im_bd03_gmk01_arrow_name",
+        "message": "panneau",
+        "attribute": "0400000038040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk01_choropoo_name": {
+        "name": "im_bd03_gmk01_choropoo_name",
+        "message": "Topi Taupini\u00e8re",
+        "attribute": "040000003A040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk03_name": {
+        "name": "im_bd03_gmk03_name",
+        "message": "magasin de la for\u00eat",
+        "attribute": "040000003C040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk03_name": {
+        "name": "im_bd05_gmk03_name",
+        "message": "manoir myst\u00e9rieux",
+        "attribute": "040000003E040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk04_name": {
+        "name": "im_bd05_gmk04_name",
+        "message": "piste de danse",
+        "attribute": "0400000040040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk05_name": {
+        "name": "im_bd05_gmk05_name",
+        "message": "pierre de M. \u0152il",
+        "attribute": "0400000042040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk06_name": {
+        "name": "im_bd05_gmk06_name",
+        "message": "obstacle Whomp",
+        "attribute": "0400000044040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk07_name": {
+        "name": "im_bd05_gmk07_name",
+        "message": "pierre du Roi Boo",
+        "attribute": "0400000046040000",
+        "style_index": 4294967295
+    },
+    "im_bd04_gmk02_name": {
+        "name": "im_bd04_gmk02_name",
+        "message": "Thwomp",
+        "attribute": "0400000048040000",
+        "style_index": 4294967295
+    },
+    "im_item00_name": {
+        "name": "im_item00_name",
+        "message": "champignon",
+        "attribute": "040000004A040000",
+        "style_index": 4294967295
+    },
+    "im_item01_name": {
+        "name": "im_item01_name",
+        "message": "d\u00e9 double",
+        "attribute": "040000004C040000",
+        "style_index": 4294967295
+    },
+    "im_item02_name": {
+        "name": "im_item02_name",
+        "message": "d\u00e9 triple",
+        "attribute": "040000004E040000",
+        "style_index": 4294967295
+    },
+    "im_item03_name": {
+        "name": "im_item03_name",
+        "message": "d\u00e9 hant\u00e9",
+        "attribute": "0400000050040000",
+        "style_index": 4294967295
+    },
+    "im_item04_name": {
+        "name": "im_item04_name",
+        "message": "d\u00e9 de t\u00e9l\u00e9portation",
+        "attribute": "0400000052040000",
+        "style_index": 4294967295
+    },
+    "im_item05_name": {
+        "name": "im_item05_name",
+        "message": "d\u00e9 sur mesure",
+        "attribute": "0400000054040000",
+        "style_index": 4294967295
+    },
+    "im_item06_name": {
+        "name": "im_item06_name",
+        "message": "tuyau d'or",
+        "attribute": "0400000056040000",
+        "style_index": 4294967295
+    },
+    "im_item07_name": {
+        "name": "im_item07_name",
+        "message": "cl\u00e9 squelette",
+        "attribute": "0400000058040000",
+        "style_index": 4294967295
+    },
+    "im_item08_name": {
+        "name": "im_item08_name",
+        "message": "coffre pillage",
+        "attribute": "040000005A040000",
+        "style_index": 4294967295
+    },
+    "im_item09_name": {
+        "name": "im_item09_name",
+        "message": "carte bloc cach\u00e9",
+        "attribute": "040000005C040000",
+        "style_index": 4294967295
+    },
+    "im_item10_name": {
+        "name": "im_item10_name",
+        "message": "gant de duel",
+        "attribute": "040000005E040000",
+        "style_index": 4294967295
+    },
+    "im_item11_name": {
+        "name": "im_item11_name",
+        "message": "sifflet \u00e0 Ultra-Chomp",
+        "attribute": "0400000060040000",
+        "style_index": 4294967295
+    },
+    "im_item12_name": {
+        "name": "im_item12_name",
+        "message": "cloche Boo",
+        "attribute": "0400000062040000",
+        "style_index": 4294967295
+    },
+    "im_item13_name": {
+        "name": "im_item13_name",
+        "message": "carte double",
+        "attribute": "0400000064040000",
+        "style_index": 4294967295
+    },
+    "im_item14_name": {
+        "name": "im_item14_name",
+        "message": "sac \u00e0 objets",
+        "attribute": "0400000066040000",
+        "style_index": 4294967295
+    },
+    "im_item15_name": {
+        "name": "im_item15_name",
+        "message": "super bloc de t\u00e9l\u00e9portation",
+        "attribute": "0400000068040000",
+        "style_index": 4294967295
+    },
+    "im_item00_details": {
+        "name": "im_item00_details",
+        "message": "Ajoute 5 \u00e0 votre lancer et\r\nvous fait avancer du total.",
+        "attribute": "040000006A040000",
+        "style_index": 4294967295
+    },
+    "im_item01_details": {
+        "name": "im_item01_details",
+        "message": "Lancez deux d\u00e9s et avancez du total.",
+        "attribute": "040000006C040000",
+        "style_index": 4294967295
+    },
+    "im_item02_details": {
+        "name": "im_item02_details",
+        "message": "Lancez trois d\u00e9s et avancez du total.",
+        "attribute": "040000006E040000",
+        "style_index": 4294967295
+    },
+    "im_item03_details": {
+        "name": "im_item03_details",
+        "message": "Ce d\u00e9 ne peut donner\r\nqu'un chiffre entre 1 et 3.",
+        "attribute": "0400000070040000",
+        "style_index": 4294967295
+    },
+    "im_item04_details": {
+        "name": "im_item04_details",
+        "message": "Changez de place avec\r\nun adversaire au hasard.",
+        "attribute": "0400000072040000",
+        "style_index": 4294967295
+    },
+    "im_item05_details": {
+        "name": "im_item05_details",
+        "message": "Obtenez le r\u00e9sultat de votre\r\nchoix, entre 1 et 10.",
+        "attribute": "0400000074040000",
+        "style_index": 4294967295
+    },
+    "im_item06_details": {
+        "name": "im_item06_details",
+        "message": "Vous t\u00e9l\u00e9porte pr\u00e8s de l'\u00e9toile \ue021.",
+        "attribute": "0400000076040000",
+        "style_index": 4294967295
+    },
+    "im_item07_details": {
+        "name": "im_item07_details",
+        "message": "Ouvre un portail. Ne peut \u00eatre\r\nutilis\u00e9e qu'\u00e0 c\u00f4t\u00e9 d'un portail.",
+        "attribute": "0400000078040000",
+        "style_index": 4294967295
+    },
+    "im_item08_details": {
+        "name": "im_item08_details",
+        "message": "Volez un objet \u00e0 l'adversaire\r\nde votre choix.",
+        "attribute": "040000007A040000",
+        "style_index": 4294967295
+    },
+    "im_item09_details": {
+        "name": "im_item09_details",
+        "message": "Fait appara\u00eetre un bloc cach\u00e9.",
+        "attribute": "040000007C040000",
+        "style_index": 4294967295
+    },
+    "im_item10_details": {
+        "name": "im_item10_details",
+        "message": "Lancez un d\u00e9fi \u00e0 l'adversaire\r\nde votre choix.",
+        "attribute": "040000007E040000",
+        "style_index": 4294967295
+    },
+    "im_item11_details": {
+        "name": "im_item11_details",
+        "message": "Demandez \u00e0 Chomp\r\nde d\u00e9placer l'\u00e9toile \ue021.",
+        "attribute": "0400000080040000",
+        "style_index": 4294967295
+    },
+    "im_item12_details": {
+        "name": "im_item12_details",
+        "message": "Boo peut voler une \u00e9toile \ue021 (pour 50 pi\u00e8ces \ue020)\r\nou des pi\u00e8ces \ue020 (gratuitement) \u00e0 un adversaire.",
+        "attribute": "0400000082040000",
+        "style_index": 55
+    },
+    "im_item13_details": {
+        "name": "im_item13_details",
+        "message": "Doublez le nombre d'\u00e9toiles \ue021 \u00e0 l'\u00e9change.\r\nNe peut \u00eatre utilis\u00e9e qu'\u00e0 une bourse stellaire.",
+        "attribute": "0400000084040000",
+        "style_index": 4294967295
+    },
+    "im_item14_details": {
+        "name": "im_item14_details",
+        "message": "Ramassez autant d'objets\r\nque vous pouvez en porter !",
+        "attribute": "0400000086040000",
+        "style_index": 4294967295
+    },
+    "im_item15_details": {
+        "name": "im_item15_details",
+        "message": "\u00c9changez votre place avec celle\r\nd'un adversaire de votre choix.",
+        "attribute": "0400000088040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar00_name": {
+        "name": "im_bonusStar00_name",
+        "message": "bonus des objets",
+        "attribute": "040000008A040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar01_name": {
+        "name": "im_bonusStar01_name",
+        "message": "bonus des pi\u00e8ces",
+        "attribute": "040000008C040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar02_name": {
+        "name": "im_bonusStar02_name",
+        "message": "bonus des mini-jeux",
+        "attribute": "040000008E040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar03_name": {
+        "name": "im_bonusStar03_name",
+        "message": "bonus du li\u00e8vre",
+        "attribute": "0400000090040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar04_name": {
+        "name": "im_bonusStar04_name",
+        "message": "bonus de la tortue",
+        "attribute": "0400000092040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar05_name": {
+        "name": "im_bonusStar05_name",
+        "message": "bonus des \u00e9v\u00e9nements",
+        "attribute": "0400000094040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar06_name": {
+        "name": "im_bonusStar06_name",
+        "message": "bonus du pas de chance",
+        "attribute": "0400000096040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar07_name": {
+        "name": "im_bonusStar07_name",
+        "message": "bonus d'achat",
+        "attribute": "0400000098040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar08_name": {
+        "name": "im_bonusStar08_name",
+        "message": "bonus de case Bowser",
+        "attribute": "040000009A040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette00": {
+        "name": "im_c06_roulette00",
+        "message": "Gain de 7 pi\u00e8ces \ue020.",
+        "attribute": "040000009C040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette01": {
+        "name": "im_c06_roulette01",
+        "message": "Gain de 10 pi\u00e8ces \ue020.",
+        "attribute": "040000009E040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette02": {
+        "name": "im_c06_roulette02",
+        "message": "Gain de 15 pi\u00e8ces \ue020.",
+        "attribute": "04000000A0040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette03": {
+        "name": "im_c06_roulette03",
+        "message": "Gain de 20 pi\u00e8ces \ue020.",
+        "attribute": "04000000A2040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette04": {
+        "name": "im_c06_roulette04",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]champignon[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000A4040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette05": {
+        "name": "im_c06_roulette05",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]d\u00e9 hant\u00e9[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000A6040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette06": {
+        "name": "im_c06_roulette06",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]d\u00e9 double[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000A8040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette07": {
+        "name": "im_c06_roulette07",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]d\u00e9 triple[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000AA040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette08": {
+        "name": "im_c06_roulette08",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]d\u00e9 sur mesure[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000AC040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette09": {
+        "name": "im_c06_roulette09",
+        "message": "Votre prochaine \u00e9toile \ue021 est \u00e0 moiti\u00e9 prix !",
+        "attribute": "04000000AE040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette10": {
+        "name": "im_c06_roulette10",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'une [0:3 00-00-00-FF][0:3 FF-DF-00-FF]cl\u00e9 squelette[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000B0040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette11": {
+        "name": "im_c06_roulette11",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]sac \u00e0 objets[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000B2040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette12": {
+        "name": "im_c06_roulette12",
+        "message": "Gain de 12 pi\u00e8ces \ue020.",
+        "attribute": "04000000B4040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette13": {
+        "name": "im_c06_roulette13",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]sifflet \u00e0 Ultra-Chomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000B6040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette14": {
+        "name": "im_c06_roulette14",
+        "message": "Gain de 5 pi\u00e8ces \ue020.",
+        "attribute": "04000000B8040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette15": {
+        "name": "im_c06_roulette15",
+        "message": "Gain de 17 pi\u00e8ces \ue020.",
+        "attribute": "04000000BA040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette16": {
+        "name": "im_c06_roulette16",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]d\u00e9 de t\u00e9l\u00e9portation[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000BC040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette17": {
+        "name": "im_c06_roulette17",
+        "message": "[0:3 FF-FF-FF-FF]Gain d'un [0:3 00-00-00-FF][0:3 FF-DF-00-FF]gant de duel[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000BE040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette18": {
+        "name": "im_c06_roulette18",
+        "message": "[0:3 FF-FF-FF-FF]Le prix \u00e0 payer au [0:3 FF-DF-00-FF]Thwomp [0:3 FF-FF-FF-FF]est divis\u00e9 par deux.[0:3 00-00-00-FF]",
+        "attribute": "04000000C0040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette00": {
+        "name": "im_c07_roulette00",
+        "message": "Don de 10 pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000C2040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette01": {
+        "name": "im_c07_roulette01",
+        "message": "Don de 15 pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000C4040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette02": {
+        "name": "im_c07_roulette02",
+        "message": "Don de 20 pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000C6040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette03": {
+        "name": "im_c07_roulette03",
+        "message": "Don de 30 pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000C8040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette04": {
+        "name": "im_c07_roulette04",
+        "message": "Don de la moiti\u00e9 de vos pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000CA040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette05": {
+        "name": "im_c07_roulette05",
+        "message": "Tout le monde fait un don de 10 pi\u00e8ces \ue020 \u00e0 Bowser.",
+        "attribute": "04000000CC040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette06": {
+        "name": "im_c07_roulette06",
+        "message": "R\u00e9volution Bowser",
+        "attribute": "04000000CE040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette07": {
+        "name": "im_c07_roulette07",
+        "message": "Dispersion Bowser",
+        "attribute": "04000000D0040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette08": {
+        "name": "im_c07_roulette08",
+        "message": "Gain de 100 \u00e9toiles \ue021.",
+        "attribute": "04000000D2040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette09": {
+        "name": "im_c07_roulette09",
+        "message": "Gain de 1 000 pi\u00e8ces \ue020.",
+        "attribute": "04000000D4040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette10": {
+        "name": "im_c07_roulette10",
+        "message": "Perte d'une \u00e9toile \ue021.",
+        "attribute": "04000000D6040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette11": {
+        "name": "im_c07_roulette11",
+        "message": "Mini-jeu de Bowser",
+        "attribute": "04000000D8040000",
+        "style_index": 4294967295
+    },
+    "im_result_header00": {
+        "name": "im_result_header00",
+        "message": "R\u00e9sultats finaux",
+        "attribute": "04000000DA040000",
+        "style_index": 4294967295
+    },
+    "im_result_header01": {
+        "name": "im_result_header01",
+        "message": "\u00c9toiles \ue021",
+        "attribute": "04000000DC040000",
+        "style_index": 4294967295
+    },
+    "im_result_header02": {
+        "name": "im_result_header02",
+        "message": "D\u00e9tails",
+        "attribute": "04000000DE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName00": {
+        "name": "im_bdResult_listName00",
+        "message": "\u00c9toiles \ue021 r\u00e9cup\u00e9r\u00e9es",
+        "attribute": "04000000E0040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName01": {
+        "name": "im_bdResult_listName01",
+        "message": "Pi\u00e8ces \ue020 r\u00e9cup\u00e9r\u00e9es",
+        "attribute": "04000000E2040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName02": {
+        "name": "im_bdResult_listName02",
+        "message": "Pi\u00e8ces \ue020 gagn\u00e9es dans des mini-jeux",
+        "attribute": "04000000E4040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName03": {
+        "name": "im_bdResult_listName03",
+        "message": "Blocs cach\u00e9s trouv\u00e9s",
+        "attribute": "04000000E6040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName04": {
+        "name": "im_bdResult_listName04",
+        "message": "Objets achet\u00e9s",
+        "attribute": "04000000E8040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName05": {
+        "name": "im_bdResult_listName05",
+        "message": "Objets utilis\u00e9s",
+        "attribute": "04000000EA040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName06": {
+        "name": "im_bdResult_listName06",
+        "message": "Cases parcourues",
+        "attribute": "04000000EC040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName07": {
+        "name": "im_bdResult_listName07",
+        "message": "Arr\u00eats sur une case bleue",
+        "attribute": "04000000EE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName08": {
+        "name": "im_bdResult_listName08",
+        "message": "Arr\u00eats sur une case rouge",
+        "attribute": "04000000F0040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName09": {
+        "name": "im_bdResult_listName09",
+        "message": "Arr\u00eats sur une case objet",
+        "attribute": "04000000F2040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName10": {
+        "name": "im_bdResult_listName10",
+        "message": "Arr\u00eats sur une case \u00e9v\u00e9nement",
+        "attribute": "04000000F4040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName11": {
+        "name": "im_bdResult_listName11",
+        "message": "Arr\u00eats sur une case coup du sort",
+        "attribute": "04000000F6040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName12": {
+        "name": "im_bdResult_listName12",
+        "message": "Arr\u00eats sur une case chance",
+        "attribute": "04000000F8040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName13": {
+        "name": "im_bdResult_listName13",
+        "message": "Arr\u00eats sur une case Bowser",
+        "attribute": "04000000FA040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName14": {
+        "name": "im_bdResult_listName14",
+        "message": "Arr\u00eats sur une case combat",
+        "attribute": "04000000FC040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName15": {
+        "name": "im_bdResult_listName15",
+        "message": "Arr\u00eats \u00e0 la banque Koopa",
+        "attribute": "04000000FE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName16": {
+        "name": "im_bdResult_listName16",
+        "message": "Nombre d'autocollants utilis\u00e9s",
+        "attribute": "0400000000050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus00": {
+        "name": "im_lastSpBonus00",
+        "message": "[0:3 11-0C-1D-FF]10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "0400000002050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus01": {
+        "name": "im_lastSpBonus01",
+        "message": "[0:3 11-0C-1D-FF]20 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "0400000004050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus02": {
+        "name": "im_lastSpBonus02",
+        "message": "[0:3 11-0C-1D-FF]30 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "0400000006050000",
+        "style_index": 4294967295
+    }
+}

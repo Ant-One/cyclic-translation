@@ -1,0 +1,152 @@
+{
+    "hsmm06_mw_op00": {
+        "name": "hsmm06_mw_op00",
+        "message": "Essaie d'encha\u00eener les victoires\r\ncontre des adversaires en ligne.",
+        "attribute": "04040018D0000000",
+        "style_index": 4
+    },
+    "hsmm06_mw_op01": {
+        "name": "hsmm06_mw_op01",
+        "message": "La [0:3 FF-35-02-FF]survie[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]commence maintenant ![0:3 00-00-00-FF]",
+        "attribute": "04040018F4000000",
+        "style_index": 4
+    },
+    "hsmm06_mw_mg01": {
+        "name": "hsmm06_mw_mg01",
+        "message": "On commence par un mini-jeu en duel\r\nen un contre un.",
+        "attribute": "0404001810010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_mg10": {
+        "name": "hsmm06_mw_mg10",
+        "message": "C'est moi le patron ici, donc\r\nje choisis le mini-jeu. Voyons\r\ncomment tu vas t'en sortir !",
+        "attribute": "0405001834010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry00": {
+        "name": "hsmm06_mw_rtry00",
+        "message": "Tu veux pas jeter l'\u00e9ponge ? ... Dans ce\r\ncas, c'est reparti pour la [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]![0:3 00-00-00-FF]",
+        "attribute": "0404001848010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry10": {
+        "name": "hsmm06_mw_rtry10",
+        "message": "Comme quoi, la pers\u00e9v\u00e9rance paie ! Tu\r\npenses pouvoir gagner le prochain aussi ?",
+        "attribute": "0404001868010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry11": {
+        "name": "hsmm06_mw_rtry11",
+        "message": "Continue comme \u00e7a ! Tu peux pas\r\nt'arr\u00eater en si bon chemin !",
+        "attribute": "0404001882010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry12": {
+        "name": "hsmm06_mw_rtry12",
+        "message": "Regardez-moi \u00e7a ! Tu pourrais bien faire\r\nmieux que ce que j'imaginais.",
+        "attribute": "040400189A010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose00": {
+        "name": "hsmm06_mw_lose00",
+        "message": "\u00c7a te fait [0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00]. On a vu mieux, mais\r\nc'est pas une raison pour abandonner !",
+        "attribute": "04040018B4010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose01": {
+        "name": "hsmm06_mw_lose01",
+        "message": "[0] victoire ? Arf, quel dommage...\r\nMais la prochaine sera la bonne !",
+        "attribute": "04040018CE010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose02": {
+        "name": "hsmm06_mw_lose02",
+        "message": "\u00c7a nous fait combien de victoires ? [0] ?\r\nMouais... enfin tu vas t'am\u00e9liorer.",
+        "attribute": "04040018E8010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose03": {
+        "name": "hsmm06_mw_lose03",
+        "message": "C'\u00e9tait pas un adversaire facile. \u00c7a te fait\r\n[0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00], mais ne te d\u00e9courage pas !",
+        "attribute": "0404001802020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose04": {
+        "name": "hsmm06_mw_lose04",
+        "message": "[0] victoires avant de t'incliner ?\r\nPas mal ! J'ai vu pire en tout cas.",
+        "attribute": "040400181C020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose05": {
+        "name": "hsmm06_mw_lose05",
+        "message": "[0] victoires... Dur. Enfin tu feras mieux\r\nla prochaine fois. Peut-\u00eatre.",
+        "attribute": "0404001836020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose06": {
+        "name": "hsmm06_mw_lose06",
+        "message": "\u00c7a te fait seulement [0] victoires ?\r\nUn record pareil, je le bats quand tu veux.",
+        "attribute": "0404001850020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose07": {
+        "name": "hsmm06_mw_lose07",
+        "message": "[0] victoires ! C'est plut\u00f4t bien !\r\nEnfin, tu aurais pu faire mieux, mais bon...",
+        "attribute": "040400186A020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose08": {
+        "name": "hsmm06_mw_lose08",
+        "message": "[0] victoires...\r\nJe n'en attendais pas moins de toi !",
+        "attribute": "0404001884020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose09": {
+        "name": "hsmm06_mw_lose09",
+        "message": "[0] victoires ? Pas mal du tout ! J'aurais\r\nbien aim\u00e9 plus, mais on va faire avec.",
+        "attribute": "04040018A8020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose10": {
+        "name": "hsmm06_mw_lose10",
+        "message": "Regardez-moi un peu \u00e7a ! Tu peux \u00eatre\r\nfier de tes [0] victoires !",
+        "attribute": "04040018CC020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose11": {
+        "name": "hsmm06_mw_lose11",
+        "message": "[0] victoires ? C'est pas facile d'arriver\r\n\u00e0 un tel r\u00e9sultat. \u00c0 part pour moi, bien s\u00fbr.",
+        "attribute": "04040018F0020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose12": {
+        "name": "hsmm06_mw_lose12",
+        "message": "[0] victoires ! Alors l\u00e0, tu\r\nm'impressionnes... un peu.",
+        "attribute": "0404001814030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose13": {
+        "name": "hsmm06_mw_lose13",
+        "message": "[0] victoires ?! Si on m'avait dit \u00e7a, je n'y\r\naurais pas cru ! Je suis presque jaloux !",
+        "attribute": "040400182E030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose14": {
+        "name": "hsmm06_mw_lose14",
+        "message": "Tu plaisantes ?! Comment tu as fait \u00e7a ?\r\n[0] victoires... Ouah...",
+        "attribute": "0404001848030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose15": {
+        "name": "hsmm06_mw_lose15",
+        "message": "Euh... j'ai bien vu l\u00e0 ? [0] victoires...\r\nJe savais m\u00eame pas que c'\u00e9tait possible !",
+        "attribute": "0404001862030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_update00": {
+        "name": "hsmm06_mw_update00",
+        "message": "Tu as vu \u00e7a ?! C'est un nouveau record !\r\nJ'ai h\u00e2te de d\u00e9couvrir ton classement !",
+        "attribute": "040400187C030000",
+        "style_index": 4
+    }
+}

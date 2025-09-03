@@ -1,0 +1,884 @@
+{
+    "hsmmet_tlp_course00": {
+        "name": "hsmmet_tlp_course00",
+        "message": "[0]",
+        "attribute": "04000000A0040000",
+        "style_index": 223
+    },
+    "hsmmet_mw_crs01": {
+        "name": "hsmmet_mw_crs01",
+        "message": "Jouez au mini-jeu de votre choix !",
+        "attribute": "04010019A2040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs01b": {
+        "name": "hsmmet_mw_crs01b",
+        "message": "C'est l'heure des pr\u00e9paratifs !\r\nEntra\u00eenez-vous aux mini-jeux\r\nqui vous int\u00e9ressent !",
+        "attribute": "04010019A4040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs01_rule00": {
+        "name": "hsmmet_mw_crs01_rule00",
+        "message": "Il y a 100 mini-jeux au total !\r\nChoisissez celui que vous voulez.",
+        "attribute": "04010019A6040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs01_rule02": {
+        "name": "hsmmet_mw_crs01_rule02",
+        "message": "Si vous ne trouvez pas votre bonheur,\r\nessayez de trier les mini-jeux par genre !",
+        "attribute": "04010019D2040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs01_rule01": {
+        "name": "hsmmet_mw_crs01_rule01",
+        "message": "Ajoutez vos mini-jeux pr\u00e9f\u00e9r\u00e9s \u00e0 vos\r\nfavoris pour y acc\u00e9der plus rapidement !",
+        "attribute": "04010019D4040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02": {
+        "name": "hsmmet_mw_crs02",
+        "message": "Jouez avec des joueurs du monde entier\r\net am\u00e9liorez votre qualification.",
+        "attribute": "04010019F2040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02_rule01": {
+        "name": "hsmmet_mw_crs02_rule01",
+        "message": "Affrontez des joueurs du monde entier et\r\nessayez d'obtenir la qualification rang A !",
+        "attribute": "04010019F4040000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02_rule00": {
+        "name": "hsmmet_mw_crs02_rule00",
+        "message": "Gagnez des mini-jeux pour remplir\r\nla jauge de qualification.",
+        "attribute": "0401001920050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02_rule02": {
+        "name": "hsmmet_mw_crs02_rule02",
+        "message": "Mais votre fa\u00e7on de jouer aussi peut\r\nvous aider \u00e0 passer au rang sup\u00e9rieur !",
+        "attribute": "040100193A050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02b": {
+        "name": "hsmmet_mw_crs02b",
+        "message": "Amusez-vous aux mini-jeux de sport\r\nou jouez aux puzzles [0:3 FF-35-02-FF]pour le score [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100193C050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02b_rule00": {
+        "name": "hsmmet_mw_crs02b_rule00",
+        "message": "[0:3 11-0C-1D-FF]Lancez-vous dans des mini-jeux de la\r\ncat\u00e9gorie [0:3 FF-35-02-FF]Sports et puzzles[0:3 11-0C-1D-FF]. Vous pouvez\r\naussi modifier les param\u00e8tres de jeu.[0:3 00-00-00-FF]",
+        "attribute": "040100193E050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs02b_rule01": {
+        "name": "hsmmet_mw_crs02b_rule01",
+        "message": "Si vous jouez en solo aux mini-jeux\r\nde la cat\u00e9gorie Puzzles, essayez\r\nl'aventure \u00ab [0:3 FF-35-02-FF]Pour le score[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]\u00bb.[0:3 00-00-00-FF]",
+        "attribute": "040100196C050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs03": {
+        "name": "hsmmet_mw_crs03",
+        "message": "R\u00e9cup\u00e9rez le plus de pi\u00e8ces\r\npossible pour l'emporter !",
+        "attribute": "0401001990050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs03_rule00": {
+        "name": "hsmmet_mw_crs03_rule00",
+        "message": "Jouez avec trois autres joueurs, et tentez\r\nd'engranger le plus de pi\u00e8ces !",
+        "attribute": "0401001792050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs03_rule01": {
+        "name": "hsmmet_mw_crs03_rule01",
+        "message": "[0:3 11-0C-1D-FF]Affrontez-vous dans des [0:3 FF-35-02-FF]mini-jeux pi\u00e8ces\r\nen folie[0:3 11-0C-1D-FF], des [0:3 FF-35-02-FF]mini-jeux bonus[0:3 11-0C-1D-FF] et bien plus.[0:3 00-00-00-FF]",
+        "attribute": "04010017B6050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs03_rule03": {
+        "name": "hsmmet_mw_crs03_rule03",
+        "message": "[0:3 11-0C-1D-FF]Dans les [0:3 FF-35-02-FF]mini-jeux seul contre tous[0:3 11-0C-1D-FF], le\r\njoueur en t\u00eate affronte seul les autres.[0:3 00-00-00-FF]",
+        "attribute": "04010017CA050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs03_rule02": {
+        "name": "hsmmet_mw_crs03_rule02",
+        "message": "\u00c0 la fin du temps imparti, le joueur avec\r\nle plus de pi\u00e8ces l'emporte !",
+        "attribute": "04010017CC050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs04": {
+        "name": "hsmmet_mw_crs04",
+        "message": "[0:3 11-0C-1D-FF]Dans les[0:3 FF-35-02-FF] mini-jeux 2 contre 2[0:3 11-0C-1D-FF], formez\r\ndeux \u00e9quipes et disputez-vous la victoire ![0:3 00-00-00-FF]",
+        "attribute": "04010019F0050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs04_b": {
+        "name": "hsmmet_mw_crs04_b",
+        "message": "[0:3 11-0C-1D-FF]Ici, vous pouvez jouer aux [0:3 FF-35-02-FF]mini-jeux 2\r\ncontre 2[0:3 11-0C-1D-FF]. Essayez-les avec des amis ![0:3 00-00-00-FF]",
+        "attribute": "04010019F2050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs04_not": {
+        "name": "hsmmet_mw_crs04_not",
+        "message": "Si un ami vous accompagne,\r\nvous pouvez jouer ensemble\r\nen ligne.",
+        "attribute": "04000000F4050000",
+        "style_index": 8
+    },
+    "hsmmet_mw_crs04_rule00": {
+        "name": "hsmmet_mw_crs04_rule00",
+        "message": "Dans les [0:3 FF-35-02-FF]mini-jeux 2 contre 2[0:3 00-00-00-FF][0:3 11-0C-1D-FF], tout\r\nest question de travail d'\u00e9quipe.[0:3 00-00-00-FF]",
+        "attribute": "04010023F6050000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs04_rule01": {
+        "name": "hsmmet_mw_crs04_rule01",
+        "message": "Heureusement que vous pouvez choisir\r\nvotre partenaire !",
+        "attribute": "040100230E060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs04_rule02": {
+        "name": "hsmmet_mw_crs04_rule02",
+        "message": "D\u00e9cidez du nombre d'\u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\nn\u00e9cessaires pour gagner.[0:3 00-00-00-FF]",
+        "attribute": "0401002332060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05": {
+        "name": "hsmmet_mw_crs05",
+        "message": "Encha\u00eenez les victoires dans les [0:3 FF-35-02-FF]mini-jeux\r\nseul contre tous[0:3 00-00-00-FF][0:3 11-0C-1D-FF], en solo ou en \u00e9quipe ![0:3 00-00-00-FF]",
+        "attribute": "0401001934060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05_b": {
+        "name": "hsmmet_mw_crs05_b",
+        "message": "[0:3 11-0C-1D-FF]Ici, vous pouvez jouer aux [0:3 FF-35-02-FF]mini-jeux seul\r\ncontre tous[0:3 11-0C-1D-FF]. Essayez-les avec des amis ![0:3 00-00-00-FF]",
+        "attribute": "0401001936060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05_not": {
+        "name": "hsmmet_mw_crs05_not",
+        "message": "Si un ami vous accompagne,\r\nvous pouvez jouer ensemble\r\nen ligne.",
+        "attribute": "0400000038060000",
+        "style_index": 8
+    },
+    "hsmmet_mw_crs05_mc00": {
+        "name": "hsmmet_mw_crs05_mc00",
+        "message": "Je ne vous ferai pas\r\nde cadeaux !",
+        "attribute": "040100223A060000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs05_mc01": {
+        "name": "hsmmet_mw_crs05_mc01",
+        "message": "Finissez un stage pour\r\npasser au suivant !",
+        "attribute": "040100223C060000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs05_mc02": {
+        "name": "hsmmet_mw_crs05_mc02",
+        "message": "Il ne reste que\r\nle dernier stage !",
+        "attribute": "040100223E060000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs05_mc03": {
+        "name": "hsmmet_mw_crs05_mc03",
+        "message": "Bien jou\u00e9 ! Vous avez\r\nfini tous les stages !",
+        "attribute": "0401002240060000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs05_rule00": {
+        "name": "hsmmet_mw_crs05_rule00",
+        "message": "Gagnez cinq [0:3 FF-35-02-FF]mini-jeux seul contre tous[0:3 00-00-00-FF]\r\n[0:3 11-0C-1D-FF]d'affil\u00e9e pour terminer un stage.[0:3 00-00-00-FF]",
+        "attribute": "0401002242060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05_rule03": {
+        "name": "hsmmet_mw_crs05_rule03",
+        "message": "Apr\u00e8s chaque stage termin\u00e9, je vous\r\nenverrai des adversaires plus coriaces !",
+        "attribute": "040100225A060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05_rule01": {
+        "name": "hsmmet_mw_crs05_rule01",
+        "message": "Terminez un stage et je vous\r\nattribuerai un rang.",
+        "attribute": "040100225C060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs05_rule02": {
+        "name": "hsmmet_mw_crs05_rule02",
+        "message": "Mais si vous perdez, vous devrez\r\nrecommencer du d\u00e9but. \u00c7a vous dit ?",
+        "attribute": "040100227A060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06": {
+        "name": "hsmmet_mw_crs06",
+        "message": "Mesurez-vous \u00e0 des joueurs\r\ndu monde entier et essayez\r\nd'empocher le plus de victoires !",
+        "attribute": "0401001994060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06_b": {
+        "name": "hsmmet_mw_crs06_b",
+        "message": "Jeu en ligne pour un joueur seulement.\r\nAffrontez des joueurs du monde entier\r\net tentez d'encha\u00eener les victoires !",
+        "attribute": "0401001996060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06_not": {
+        "name": "hsmmet_mw_crs06_not",
+        "message": "Cette aventure se joue en ligne\r\nexclusivement. Elle ne peut\r\naccueillir qu'un seul joueur\r\npar console.",
+        "attribute": "0400000098060000",
+        "style_index": 8
+    },
+    "hsmmet_mw_crs06_mc00": {
+        "name": "hsmmet_mw_crs06_mc00",
+        "message": "Voyons voir comment\r\ntu te d\u00e9brouilles !",
+        "attribute": "04010018B2060000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs06_rule00": {
+        "name": "hsmmet_mw_crs06_rule00",
+        "message": "Affronte des joueurs du monde entier !",
+        "attribute": "04010018B4060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06_rule01": {
+        "name": "hsmmet_mw_crs06_rule01",
+        "message": "Tu penses pouvoir garder le record\r\nmondial de victoires d'affil\u00e9e ?",
+        "attribute": "04010018C8060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06_rule03": {
+        "name": "hsmmet_mw_crs06_rule03",
+        "message": "Tant que tu gagnes, tu peux m\u00eame faire\r\nune pause et reprendre plus tard.",
+        "attribute": "04010018E2060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06_rule02": {
+        "name": "hsmmet_mw_crs06_rule02",
+        "message": "Tu ne perds rien \u00e0 essayer, alors bats-toi !",
+        "attribute": "04010018E4060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06b": {
+        "name": "hsmmet_mw_crs06b",
+        "message": "Si tu veux, tu peux reprendre ta s\u00e9rie\r\no\u00f9 tu l'avais arr\u00eat\u00e9e la derni\u00e8re fois.",
+        "attribute": "04010019FE060000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs06b_rty00": {
+        "name": "hsmmet_mw_crs06b_rty00",
+        "message": "Voulez-vous reprendre la partie\r\nl\u00e0 o\u00f9 vous l'avez interrompue ?\r\nUne fois la partie reprise, les\r\ndonn\u00e9es seront effac\u00e9es.",
+        "attribute": "0400000000070000",
+        "style_index": 8
+    },
+    "hsmmet_mw_crs06b_rty00_a0": {
+        "name": "hsmmet_mw_crs06b_rty00_a0",
+        "message": "Reprendre",
+        "attribute": "0400000002070000",
+        "style_index": 9
+    },
+    "hsmmet_mw_crs06b_rty00_a1": {
+        "name": "hsmmet_mw_crs06b_rty00_a1",
+        "message": "Recommencer",
+        "attribute": "0400000004070000",
+        "style_index": 9
+    },
+    "hsmmet_mw_crs07": {
+        "name": "hsmmet_mw_crs07",
+        "message": "Voici les packs de mini-jeux que nous\r\nvous recommandons aujourd'hui.\r\nLancez-vous et essayez-les !",
+        "attribute": "0401001906070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs07_b": {
+        "name": "hsmmet_mw_crs07_b",
+        "message": "Jeu en ligne pour un joueur seulement.\r\nVous y trouverez divers packs de\r\nmini-jeux regroup\u00e9s par th\u00e8me.",
+        "attribute": "0401001908070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs07_not": {
+        "name": "hsmmet_mw_crs07_not",
+        "message": "Cette aventure se joue en ligne\r\nexclusivement. Elle ne peut\r\naccueillir qu'un seul joueur\r\npar console.",
+        "attribute": "040000000A070000",
+        "style_index": 8
+    },
+    "hsmmet_mw_crs07_mc00": {
+        "name": "hsmmet_mw_crs07_mc00",
+        "message": "Essayer le pack\r\n[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] ?[0:3 00-00-00-FF]",
+        "attribute": "0401001724070000",
+        "style_index": 224
+    },
+    "hsmmet_mw_crs07_rule00": {
+        "name": "hsmmet_mw_crs07_rule00",
+        "message": "Ces sets de mini-jeux changent\r\ntous les jours. Profitez-en bien !",
+        "attribute": "0401001726070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs07_rule01": {
+        "name": "hsmmet_mw_crs07_rule01",
+        "message": "Une \u00e9toile [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]est offerte aux gagnants.\r\nTu peux en remporter trois par pack ![0:3 00-00-00-FF]",
+        "attribute": "0401001744070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_crs07_rule02": {
+        "name": "hsmmet_mw_crs07_rule02",
+        "message": "Les mini-jeux changent tous les jours,\r\nalors reviens pour gagner des \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401001746070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_dialog_rm00": {
+        "name": "hsmmet_mw_dialog_rm00",
+        "message": "Voulez-vous vous connecter \u00e0\r\nInternet afin d'affronter des\r\njoueurs du monde entier ?",
+        "attribute": "040000006A070000",
+        "style_index": 8
+    },
+    "hsmmet_mw_dialog_rm00_a0": {
+        "name": "hsmmet_mw_dialog_rm00_a0",
+        "message": "Oui",
+        "attribute": "040000006C070000",
+        "style_index": 9
+    },
+    "hsmmet_mw_dialog_rm00t_a1": {
+        "name": "hsmmet_mw_dialog_rm00t_a1",
+        "message": "Non",
+        "attribute": "040000006E070000",
+        "style_index": 9
+    },
+    "hsmmet_crs_rule_img00": {
+        "name": "hsmmet_crs_rule_img00",
+        "message": "[0]",
+        "attribute": "0400000070070000",
+        "style_index": 236
+    },
+    "hsmmet_crs_rule_img01": {
+        "name": "hsmmet_crs_rule_img01",
+        "message": "[0]",
+        "attribute": "0400000072070000",
+        "style_index": 237
+    },
+    "hsmmet_crs_rule_img02": {
+        "name": "hsmmet_crs_rule_img02",
+        "message": "[0]",
+        "attribute": "0400000074070000",
+        "style_index": 238
+    },
+    "hsmmet_crs_rule_img03": {
+        "name": "hsmmet_crs_rule_img03",
+        "message": "J[0]",
+        "attribute": "0400000076070000",
+        "style_index": 239
+    },
+    "hsmmet_crs_rule_img04": {
+        "name": "hsmmet_crs_rule_img04",
+        "message": "[0]",
+        "attribute": "0400000078070000",
+        "style_index": 239
+    },
+    "hsmmet_crs_rule_img05": {
+        "name": "hsmmet_crs_rule_img05",
+        "message": "[0]",
+        "attribute": "040000007A070000",
+        "style_index": 240
+    },
+    "hsmmet_crs_rule_img06": {
+        "name": "hsmmet_crs_rule_img06",
+        "message": "[0]",
+        "attribute": "040000007C070000",
+        "style_index": 241
+    },
+    "hsmmet_crs_rule_img07": {
+        "name": "hsmmet_crs_rule_img07",
+        "message": "+ [0]",
+        "attribute": "050000007E070000",
+        "style_index": 242
+    },
+    "hsmmet_myRec01": {
+        "name": "hsmmet_myRec01",
+        "message": "Mini-jeux jou\u00e9s",
+        "attribute": "0400000080070000",
+        "style_index": 243
+    },
+    "hsmmet_myRec02": {
+        "name": "hsmmet_myRec02",
+        "message": "Victoires et records",
+        "attribute": "0400000082070000",
+        "style_index": 244
+    },
+    "hsmmet_myRec02rm": {
+        "name": "hsmmet_myRec02rm",
+        "message": "Qualification",
+        "attribute": "0400000084070000",
+        "style_index": 244
+    },
+    "hsmmet_myRec03": {
+        "name": "hsmmet_myRec03",
+        "message": "Record",
+        "attribute": "0400000086070000",
+        "style_index": 243
+    },
+    "hsmmet_myRec_name": {
+        "name": "hsmmet_myRec_name",
+        "message": "[0]",
+        "attribute": "0400000088070000",
+        "style_index": 247
+    },
+    "hsmmet_myRec01_a": {
+        "name": "hsmmet_myRec01_a",
+        "message": "[0]",
+        "attribute": "040000008A070000",
+        "style_index": 248
+    },
+    "hsmmet_myRec01_b": {
+        "name": "hsmmet_myRec01_b",
+        "message": "/100",
+        "attribute": "040000008C070000",
+        "style_index": 249
+    },
+    "hsmmet_myRec02_mgtype": {
+        "name": "hsmmet_myRec02_mgtype",
+        "message": "[0]",
+        "attribute": "050000008E070000",
+        "style_index": 250
+    },
+    "hsmmet_myRec02_win999": {
+        "name": "hsmmet_myRec02_win999",
+        "message": "[0] vict.",
+        "attribute": "0500000090070000",
+        "style_index": 251
+    },
+    "hsmmet_myRec02_best9999": {
+        "name": "hsmmet_myRec02_best9999",
+        "message": "[0] points",
+        "attribute": "0500000092070000",
+        "style_index": 252
+    },
+    "hsmmet_myRec02_rank": {
+        "name": "hsmmet_myRec02_rank",
+        "message": "[0]",
+        "attribute": "0400000094070000",
+        "style_index": 253
+    },
+    "hsmmet_myRec03_a": {
+        "name": "hsmmet_myRec03_a",
+        "message": "[0] \ue020",
+        "attribute": "0500000096070000",
+        "style_index": 254
+    },
+    "hsmmet_myRec03_b": {
+        "name": "hsmmet_myRec03_b",
+        "message": "[0] manches",
+        "attribute": "0300000098070000",
+        "style_index": 245
+    },
+    "hsmmet_myRec06_win": {
+        "name": "hsmmet_myRec06_win",
+        "message": "Record",
+        "attribute": "030000009A070000",
+        "style_index": 245
+    },
+    "hsmmet_myRec06_rank": {
+        "name": "hsmmet_myRec06_rank",
+        "message": "Class. mondial",
+        "attribute": "030000009C070000",
+        "style_index": 245
+    },
+    "hsmmet_myRec06_guide": {
+        "name": "hsmmet_myRec06_guide",
+        "message": "\ue002 Classement mondial",
+        "attribute": "040000009E070000",
+        "style_index": 246
+    },
+    "hsmmet_myRec06_b": {
+        "name": "hsmmet_myRec06_b",
+        "message": "[0] vict.",
+        "attribute": "05000000A0070000",
+        "style_index": 255
+    },
+    "hsmmet_myRec06_c": {
+        "name": "hsmmet_myRec06_c",
+        "message": "[0]",
+        "attribute": "05000000A2070000",
+        "style_index": 255
+    },
+    "hsmmet_myRec06_top3": {
+        "name": "hsmmet_myRec06_top3",
+        "message": "[0]",
+        "attribute": "05000000A4070000",
+        "style_index": 256
+    },
+    "hsmmet_myRec06_top3_name": {
+        "name": "hsmmet_myRec06_top3_name",
+        "message": "[0]",
+        "attribute": "04000000A6070000",
+        "style_index": 257
+    },
+    "hsmmet_cfg_mgpk_today": {
+        "name": "hsmmet_cfg_mgpk_today",
+        "message": "S\u00e9lection du jour",
+        "attribute": "04000000A8070000",
+        "style_index": 225
+    },
+    "hsmmet_cfg_mgpk_time": {
+        "name": "hsmmet_cfg_mgpk_time",
+        "message": "Mise \u00e0 jour des packs dans [0][1]:[2][3]:[4][5]",
+        "attribute": "05000000AA070000",
+        "style_index": 226
+    },
+    "hsmmet_cfg_mgpk": {
+        "name": "hsmmet_cfg_mgpk",
+        "message": "[0]",
+        "attribute": "04000000AC070000",
+        "style_index": 227
+    },
+    "hsmmet_cfg_team1": {
+        "name": "hsmmet_cfg_team1",
+        "message": "Jeu en solo",
+        "attribute": "04000000AE070000",
+        "style_index": 228
+    },
+    "hsmmet_cfg_team3": {
+        "name": "hsmmet_cfg_team3",
+        "message": "Jeu en \u00e9quipe",
+        "attribute": "04000000B0070000",
+        "style_index": 228
+    },
+    "hsmmet_cfg_record01": {
+        "name": "hsmmet_cfg_record01",
+        "message": "Mini-jeux termin\u00e9s : [0]",
+        "attribute": "05000000B2070000",
+        "style_index": 229
+    },
+    "hsmmet_cfg_record10": {
+        "name": "hsmmet_cfg_record10",
+        "message": "Rang atteint : [0]",
+        "attribute": "05000000B4070000",
+        "style_index": 229
+    },
+    "hsmmet_cfg_stage00": {
+        "name": "hsmmet_cfg_stage00",
+        "message": "[0]",
+        "attribute": "04000000B6070000",
+        "style_index": 230
+    },
+    "hsmmet_cfg_stage01": {
+        "name": "hsmmet_cfg_stage01",
+        "message": "[0]",
+        "attribute": "03000000B8070000",
+        "style_index": 231
+    },
+    "hsmmet_cfg_rank00": {
+        "name": "hsmmet_cfg_rank00",
+        "message": "[0]",
+        "attribute": "04000000BA070000",
+        "style_index": 232
+    },
+    "hsmmet_cfg_6mg_rank": {
+        "name": "hsmmet_cfg_6mg_rank",
+        "message": "[0]",
+        "attribute": "04000000BC070000",
+        "style_index": 233
+    },
+    "hsmmet_rule_OK": {
+        "name": "hsmmet_rule_OK",
+        "message": "Jouer",
+        "attribute": "04000000BE070000",
+        "style_index": 234
+    },
+    "hsmmet_rule_save00": {
+        "name": "hsmmet_rule_save00",
+        "message": "Tu vas reprendre \u00e0 [0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00].",
+        "attribute": "04000000C0070000",
+        "style_index": 235
+    },
+    "hsmmet_mw_op00": {
+        "name": "hsmmet_mw_op00",
+        "message": "Bienvenue sur la [0:3 FF-35-02-FF]montagne aux mini-jeux[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019C2070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_op02": {
+        "name": "hsmmet_mw_op02",
+        "message": "Choisissez une aventure.",
+        "attribute": "04010019DA070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_menuOK": {
+        "name": "hsmmet_mw_menuOK",
+        "message": "Retourner \u00e0 la place du village ?",
+        "attribute": "04000000DC070000",
+        "style_index": 6
+    },
+    "hsmmet_mw_menuOK_a0": {
+        "name": "hsmmet_mw_menuOK_a0",
+        "message": "Non",
+        "attribute": "04000000DE070000",
+        "style_index": 9
+    },
+    "hsmmet_mw_menuOK_a1": {
+        "name": "hsmmet_mw_menuOK_a1",
+        "message": "Oui",
+        "attribute": "04000000E0070000",
+        "style_index": 9
+    },
+    "hsmmet_mw_ed00": {
+        "name": "hsmmet_mw_ed00",
+        "message": "La victoire revient \u00e0...[1:6 1E-00]",
+        "attribute": "04010019E2070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed01": {
+        "name": "hsmmet_mw_ed01",
+        "message": "[1:6 00-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][1:6 0C-00][1:6 01-00][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019FA070000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed02": {
+        "name": "hsmmet_mw_ed02",
+        "message": "[1:6 00-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][1:6 0C-00][1:6 00-00] [0:3 11-0C-1D-FF]et[0:3 00-00-00-FF] [0:3 FF-35-02-FF][1][0:3 00-00-00-FF][1:6 0C-00][1:6 01-00][0:3 11-0C-1D-FF] !\r\nMagnifique ![0:3 00-00-00-FF]",
+        "attribute": "0401001916080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed03": {
+        "name": "hsmmet_mw_ed03",
+        "message": "[1:6 00-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF],[0:3 00-00-00-FF] [1:6 0C-00][1:6 00-00][0:3 FF-35-02-FF][1][0:3 00-00-00-FF]\r\n[1:6 0C-00][0:3 11-0C-1D-FF]et[0:3 00-00-00-FF] [0:3 FF-35-02-FF][2][0:3 00-00-00-FF][1:6 0C-00][1:6 01-00] [0:3 11-0C-1D-FF]! Incroyable ![0:3 00-00-00-FF]",
+        "attribute": "0401001932080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed04": {
+        "name": "hsmmet_mw_ed04",
+        "message": "Q-Quoi ?! [1:6 00-00]J'y crois pas ![1:6 1E-00]\r\n[1:6 01-00]Tout le monde est ex \u00e6quo !",
+        "attribute": "040100194E080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed10": {
+        "name": "hsmmet_mw_ed10",
+        "message": "F\u00e9licitations !\r\nVous avez termin\u00e9 le [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "040100196A080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed11": {
+        "name": "hsmmet_mw_ed11",
+        "message": "Oh non... Vous n'avez pas r\u00e9ussi\r\n\u00e0 terminer tous les mini-jeux.",
+        "attribute": "040100198A080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed12": {
+        "name": "hsmmet_mw_ed12",
+        "message": "Bien jou\u00e9 ! Vous avez termin\u00e9 tous les\r\nstages du d\u00e9fi \u00e0 trois !",
+        "attribute": "04010019AA080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed13": {
+        "name": "hsmmet_mw_ed13",
+        "message": "Tu peux maintenant t'essayer aux stages\r\ndu d\u00e9fi en solitaire !",
+        "attribute": "04010019CA080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed14": {
+        "name": "hsmmet_mw_ed14",
+        "message": "Superbe ! Ne t'arr\u00eate pas en si bon\r\nchemin et continue avec le stage suivant !",
+        "attribute": "04010019CC080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed15": {
+        "name": "hsmmet_mw_ed15",
+        "message": "Tu as r\u00e9ussi !\r\nTu as termin\u00e9 tous les stages !",
+        "attribute": "04010019F0080000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed16": {
+        "name": "hsmmet_mw_ed16",
+        "message": "Joue aux stages que tu as d\u00e9j\u00e0 termin\u00e9s,\r\net essaie d'am\u00e9liorer ton rang !",
+        "attribute": "0401001910090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed17": {
+        "name": "hsmmet_mw_ed17",
+        "message": "Tu as termin\u00e9 plus de mini-jeux que les\r\npr\u00e9c\u00e9dentes fois ! Continue comme \u00e7a !",
+        "attribute": "0401001912090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed20": {
+        "name": "hsmmet_mw_ed20",
+        "message": "Content de te revoir ! Voici le classement\r\net le record pour cette aventure !",
+        "attribute": "0401001926090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed21": {
+        "name": "hsmmet_mw_ed21",
+        "message": "Super ! Tu as am\u00e9lior\u00e9 ton record !",
+        "attribute": "0401001944090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed22": {
+        "name": "hsmmet_mw_ed22",
+        "message": "Magnifique ! Tu as atteint le rang [0] !\r\nTu m'impressionnes !",
+        "attribute": "0401001960090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed30": {
+        "name": "hsmmet_mw_ed30",
+        "message": "Te voil\u00e0 de retour ! Le pack\r\n[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] t'a plu ?[0:3 00-00-00-FF]",
+        "attribute": "040100197C090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed31": {
+        "name": "hsmmet_mw_ed31",
+        "message": "C'\u00e9tait du tr\u00e8s beau boulot !\r\nTu as obtenu [0] [1:1 1C-00-E9-00-74-00-6F-00-69-00-6C-00-65-00-2C-00-E9-00-74-00-6F-00-69-00-6C-00-65-00-73-00] [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401001990090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed36": {
+        "name": "hsmmet_mw_ed36",
+        "message": "Merci d'avoir jou\u00e9 \u00e0 tous\r\nles mini-jeux du jour !",
+        "attribute": "04010019B4090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed37": {
+        "name": "hsmmet_mw_ed37",
+        "message": "C'\u00e9tait la premi\u00e8re fois que tu jouais\r\n\u00e0 ce pack, je crois. C'est bien de faire\r\nde nouvelles exp\u00e9riences !",
+        "attribute": "04010019CE090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed40": {
+        "name": "hsmmet_mw_ed40",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] finit \u00e0 la...[1:6 1E-00][0:3 00-00-00-FF]",
+        "attribute": "04010019EC090000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed41": {
+        "name": "hsmmet_mw_ed41",
+        "message": "[1:6 00-00]premi\u00e8re place[1:6 0C-00][1:6 01-00] !",
+        "attribute": "04010019040A0000",
+        "style_index": 4
+    },
+    "hsmmet_mw_ed42": {
+        "name": "hsmmet_mw_ed42",
+        "message": "[1:6 00-00][0]\ue030 place [1:6 0C-00][1:6 01-00]!",
+        "attribute": "040100191E0A0000",
+        "style_index": 4
+    },
+    "hsmmet_rslt01": {
+        "name": "hsmmet_rslt01",
+        "message": "[0]",
+        "attribute": "04000000420A0000",
+        "style_index": 259
+    },
+    "hsmmet_rslt02": {
+        "name": "hsmmet_rslt02",
+        "message": "[0] termin\u00e9 !",
+        "attribute": "04000000440A0000",
+        "style_index": 259
+    },
+    "hsmmet_rslt03": {
+        "name": "hsmmet_rslt03",
+        "message": "[0] non termin\u00e9.",
+        "attribute": "04000000460A0000",
+        "style_index": 259
+    },
+    "hsmmet_rslt_wins": {
+        "name": "hsmmet_rslt_wins",
+        "message": "Record (session)",
+        "attribute": "03000000480A0000",
+        "style_index": 258
+    },
+    "hsmmet_rslt_wr": {
+        "name": "hsmmet_rslt_wr",
+        "message": "Classement mondial",
+        "attribute": "030000004A0A0000",
+        "style_index": 258
+    },
+    "hsmmet_rslt_update": {
+        "name": "hsmmet_rslt_update",
+        "message": "Nouveau record !",
+        "attribute": "050000004C0A0000",
+        "style_index": 260
+    },
+    "hsmmet_rslt_num00": {
+        "name": "hsmmet_rslt_num00",
+        "message": "[0] [0:2 4B-00][1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00][0:2 64-00]",
+        "attribute": "050000004E0A0000",
+        "style_index": 261
+    },
+    "hsmmet_rslt_num01": {
+        "name": "hsmmet_rslt_num01",
+        "message": "[0:2 4B-00]Place :[0:2 64-00] [0]",
+        "attribute": "05000000500A0000",
+        "style_index": 262
+    },
+    "hsmmet_rslt_rank00": {
+        "name": "hsmmet_rslt_rank00",
+        "message": "[0]",
+        "attribute": "04000000520A0000",
+        "style_index": 263
+    },
+    "hsmmet_rslt_rank01": {
+        "name": "hsmmet_rslt_rank01",
+        "message": "[0]",
+        "attribute": "04000000540A0000",
+        "style_index": 264
+    },
+    "hsmmet_rslt_win00": {
+        "name": "hsmmet_rslt_win00",
+        "message": "Victoire",
+        "attribute": "04000000560A0000",
+        "style_index": 264
+    },
+    "hsmmet_rslt_lose00": {
+        "name": "hsmmet_rslt_lose00",
+        "message": "D\u00e9faite",
+        "attribute": "04000000580A0000",
+        "style_index": 264
+    },
+    "hsmmet_rslt_clear00": {
+        "name": "hsmmet_rslt_clear00",
+        "message": "Rang [0] atteint",
+        "attribute": "040000005A0A0000",
+        "style_index": 265
+    },
+    "hsmmet_rslt_retire00": {
+        "name": "hsmmet_rslt_retire00",
+        "message": "Abandon",
+        "attribute": "040000005C0A0000",
+        "style_index": 265
+    },
+    "hsmmet_rslt_name00": {
+        "name": "hsmmet_rslt_name00",
+        "message": "[0]",
+        "attribute": "040000005E0A0000",
+        "style_index": 266
+    },
+    "hsmmet_rslt_name01": {
+        "name": "hsmmet_rslt_name01",
+        "message": "[0]",
+        "attribute": "03000000600A0000",
+        "style_index": 267
+    },
+    "hsmmet_rslt_pt999": {
+        "name": "hsmmet_rslt_pt999",
+        "message": "[0]",
+        "attribute": "04000000620A0000",
+        "style_index": 268
+    },
+    "hsmmet_rslt_pt99": {
+        "name": "hsmmet_rslt_pt99",
+        "message": "[0]",
+        "attribute": "04000000640A0000",
+        "style_index": 269
+    },
+    "hsmmet_rslt_pt99_minus": {
+        "name": "hsmmet_rslt_pt99_minus",
+        "message": "- [0]",
+        "attribute": "04000000660A0000",
+        "style_index": 269
+    },
+    "hsmmet_rslt_st_rank00": {
+        "name": "hsmmet_rslt_st_rank00",
+        "message": "Rang sur le stage :",
+        "attribute": "04000000680A0000",
+        "style_index": 270
+    },
+    "hsmmet_rslt_st_rank01": {
+        "name": "hsmmet_rslt_st_rank01",
+        "message": "[0]",
+        "attribute": "040000006A0A0000",
+        "style_index": 271
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "mn_OP_mw_opening00": {
+        "name": "mn_OP_mw_opening00",
+        "message": "Alors, \u00e7a vous rappelle des souvenirs ?",
+        "attribute": "0400000060000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening01": {
+        "name": "mn_OP_mw_opening01",
+        "message": "C'est avec ce tuyau que tout a commenc\u00e9...\r\nL'aventure pour devenir la superstar.",
+        "attribute": "0400000062000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening02": {
+        "name": "mn_OP_mw_opening02",
+        "message": "\u00c0 moins que vous n'ayez tout oubli\u00e9 ? Ce n'est pas\r\ngrave. Apr\u00e8s tout, cela ne date pas d'hier.",
+        "attribute": "0400000064000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening03": {
+        "name": "mn_OP_mw_opening03",
+        "message": "Entrez dans ce tuyau et le voyage recommence !",
+        "attribute": "0400000066000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening04": {
+        "name": "mn_OP_mw_opening04",
+        "message": "\u00c7a y est, le moment est enfin venu.\r\nJ'imagine que je reprends du service !",
+        "attribute": "0400000F68000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening05": {
+        "name": "mn_OP_mw_opening05",
+        "message": "O\u00f9 peuvent-ils tous bien \u00eatre ?\r\nIl est presque l'heure !",
+        "attribute": "0400000F86000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening06": {
+        "name": "mn_OP_mw_opening06",
+        "message": "Cela fait si longtemps... Ce cher Koopa\r\nm'a l'air un peu nerveux.",
+        "attribute": "04000000AA000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening07": {
+        "name": "mn_OP_mw_opening07",
+        "message": "Tout d'abord, je voudrais remercier\r\ntout le monde d'\u00eatre l\u00e0.",
+        "attribute": "0400000FAC000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening08": {
+        "name": "mn_OP_mw_opening08",
+        "message": "\u00c0 l'aide de ce tuyau, nous pouvons partir \u00e0 l'aventure.\r\nVoyons qui sera la prochaine superstar !",
+        "attribute": "0400000FD0000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening09": {
+        "name": "mn_OP_mw_opening09",
+        "message": "Nous verrons m\u00eame des paysages familiers\r\nque nous n'avions pas visit\u00e9s depuis longtemps.",
+        "attribute": "0400000FEA000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening10": {
+        "name": "mn_OP_mw_opening10",
+        "message": "Ne perdons pas de temps. Vieux habitu\u00e9s ou nouveaux\r\narrivants... Voyageons vers le monde de Mario Party !",
+        "attribute": "0400000FFE000000",
+        "style_index": 429
+    }
+}

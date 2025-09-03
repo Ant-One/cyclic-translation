@@ -1,0 +1,176 @@
+{
+    "bd02_OP_mw_past00": {
+        "name": "bd02_OP_mw_past00",
+        "message": "Il y a bien longtemps, dans cette station\r\nspatiale \u00e9loign\u00e9e, une bataille a d\u00e9but\u00e9...",
+        "attribute": "0401000FF0000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_past01": {
+        "name": "bd02_OP_mw_past01",
+        "message": "Une superstar vaillante a vaincu un tyran\r\net ramen\u00e9 ainsi la paix dans la galaxie.",
+        "attribute": "0401000FF2000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose00": {
+        "name": "bd02_OP_mw_purpose00",
+        "message": "Mais en ces temps de paix, des signes\r\nd'agitation pointent leur nez \u00e0 l'horizon.",
+        "attribute": "0401000FF4000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose01": {
+        "name": "bd02_OP_mw_purpose01",
+        "message": "Voil\u00e0 pourquoi, plus que jamais, quelqu'un\r\ndoit aider les habitants de la galaxie.",
+        "attribute": "0401000F12010000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose02": {
+        "name": "bd02_OP_mw_purpose02",
+        "message": "Y a-t-il des volontaires pour relever le d\u00e9fi\r\net devenir la superstar tant attendue ?",
+        "attribute": "0401000F2C010000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose03": {
+        "name": "bd02_OP_mw_purpose03",
+        "message": "Excellent. Je vois que vous convenez\r\nparfaitement pour cette mission.",
+        "attribute": "0401000F40010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination00": {
+        "name": "bd02_p01_mw_explaination00",
+        "message": "Ce bouton active une sorte de\r\nd\u00e9compte... Qu'est-ce que \u00e7a peut \u00eatre ?",
+        "attribute": "0404000164010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination01": {
+        "name": "bd02_p01_mw_explaination01",
+        "message": "Un satellite en forme de [0:3 FF-35-02-FF]Bowser[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] orbite\r\nau-dessus du plateau... Gardez-le \u00e0 l'\u0153il ![0:3 00-00-00-FF]",
+        "attribute": "040400017E010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination02": {
+        "name": "bd02_p01_mw_explaination02",
+        "message": "[0:3 FF-FF-FF-FF]La [0:3 FF-35-02-FF]patrouille Snifit[0:3 FF-FF-FF-FF] surveille deux endroits.\r\nEst-elle l\u00e0 pour combattre le crime ?[0:3 00-00-00-FF]",
+        "attribute": "0404000196010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination03": {
+        "name": "bd02_p01_mw_explaination03",
+        "message": "Il se passe beaucoup de choses, par ici.\r\nNe baissez pas votre garde !",
+        "attribute": "04010019AA010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC067_00": {
+        "name": "bd02_p02_mw_lastSpNPC067_00",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]roule sur les mini-jeux.\r\nJe suis s\u00fbr que la victoire lui reviendra ![0:3 00-00-00-FF]",
+        "attribute": "04010124C8010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC067_01": {
+        "name": "bd02_p02_mw_lastSpNPC067_01",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]ma\u00eetrise les mini-jeux !\r\n\u00c0 mon avis, la victoire lui tend les bras ![0:3 00-00-00-FF]",
+        "attribute": "04010124DC010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC027_01": {
+        "name": "bd02_p02_mw_lastSpNPC027_01",
+        "message": "Si je traduis... \u00e7a donne : \u00ab [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] a\r\ntoutes les chances de l'emporter ! \u00bb[0:3 00-00-00-FF]",
+        "attribute": "04010019F4010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC027_02": {
+        "name": "bd02_p02_mw_lastSpNPC027_02",
+        "message": "[0:3 11-0C-1D-FF]Pour moi, \u00e7a veut dire :\r\n\u00ab [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] va gagner, c'est certain ! \u00bb[0:3 00-00-00-FF]",
+        "attribute": "0401001908020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon00": {
+        "name": "bd02_gmk01_mw_cannon00",
+        "message": "[0:3 FF-FF-FF-FF]\u00c9nergie charg\u00e9e \u00e0 300 % !\r\n[0:3 FF-35-02-FF]Super rayon de pi\u00e8ces de Bowser[0:3 FF-FF-FF-FF] par\u00e9...\r\nFEU ![0:3 00-00-00-FF]",
+        "attribute": "0404080C1C020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon01": {
+        "name": "bd02_gmk01_mw_cannon01",
+        "message": "Hm ?! Aucun signe de vie !\r\nR\u00e9initialisez le rayon ! Grr... !",
+        "attribute": "0404040C3A020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon02": {
+        "name": "bd02_gmk01_mw_cannon02",
+        "message": "[0:3 FF-FF-FF-FF]Touch\u00e9 ! Touch\u00e9 ! Toutes les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF]\r\nsont \u00e0 moi ! BOUAHAHA ![0:3 00-00-00-FF]",
+        "attribute": "0404020C52020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police00": {
+        "name": "bd02_gmk02_mw_police00",
+        "message": "La [0:3 FF-35-02-FF]patrouille Snifit[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] poursuit\r\nles chauffards pour 5 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "040401246A020000",
+        "style_index": 6
+    },
+    "bd02_gmk02_mw_police00_a0": {
+        "name": "bd02_gmk02_mw_police00_a0",
+        "message": "Poursuis-les !",
+        "attribute": "0300000084020000",
+        "style_index": 9
+    },
+    "bd02_gmk02_mw_police00_a1": {
+        "name": "bd02_gmk02_mw_police00_a1",
+        "message": "Laisse tomber",
+        "attribute": "0300000086020000",
+        "style_index": 9
+    },
+    "bd02_gmk02_mw_police01": {
+        "name": "bd02_gmk02_mw_police01",
+        "message": "Oh ? Tu n'as pas 5 pi\u00e8ces \ue020 ? Hmm...\r\nJe... On m'appelle, c'est une urgence !",
+        "attribute": "0404012488020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police02": {
+        "name": "bd02_gmk02_mw_police02",
+        "message": "[0:3 FF-FF-FF-FF]On dirait que la [0:3 FF-35-02-FF]patrouille Snifit[0:3 FF-FF-FF-FF]\r\nest en intervention...[0:3 00-00-00-FF]",
+        "attribute": "04040000A6020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police03": {
+        "name": "bd02_gmk02_mw_police03",
+        "message": "Compris.\r\nAucun chauffard ne nous \u00e9chappera !",
+        "attribute": "04040124A8020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police04": {
+        "name": "bd02_gmk02_mw_police04",
+        "message": "Bien re\u00e7u. Gare \u00e0 vous, chauffards !",
+        "attribute": "04040124BC020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police05": {
+        "name": "bd02_gmk02_mw_police05",
+        "message": "Oh, vraiment ? De toute fa\u00e7on, j'ai de la\r\npaperasse en retard. \u00c0 une prochaine !",
+        "attribute": "04040124D6020000",
+        "style_index": 4
+    },
+    "bd02_map_gmk01_spot_details": {
+        "name": "bd02_map_gmk01_spot_details",
+        "message": "Chaque passage active le\r\ncompte \u00e0 rebours. \u00c0 la fin...",
+        "attribute": "04000000F0020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_spot_details00": {
+        "name": "bd02_map_gmk02_spot_details00",
+        "message": "[0:3 FF-FF-FF-FF]Arr\u00eatez-vous ici pour donner\r\nun ordre \u00e0 la [0:3 FF-35-02-FF]patrouille Snifit[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000F2020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_spot_details01": {
+        "name": "bd02_map_gmk02_spot_details01",
+        "message": "[0:3 FF-FF-FF-FF]Si la [0:3 FF-35-02-FF]patrouille Snifit[0:3 FF-FF-FF-FF] \u00e9tait l\u00e0, elle\r\npourrait pi\u00e9ger les chauffards.[0:3 00-00-00-FF]",
+        "attribute": "04000000F4020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_c04_details": {
+        "name": "bd02_map_gmk02_c04_details",
+        "message": "Si vous voyez un vaisseau spatial\r\nfiler \u00e0 toute allure... courez !",
+        "attribute": "04000000F6020000",
+        "style_index": 61
+    }
+}

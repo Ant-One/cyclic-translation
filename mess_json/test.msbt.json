@@ -1,0 +1,32 @@
+{
+    "test": {
+        "name": "test",
+        "message": "\u30c6\u30b9\u30c8\u30c6\u30b9\u30c8",
+        "attribute": "0400000030000000",
+        "style_index": 4
+    },
+    "test_1449_2": {
+        "name": "test_1449_2",
+        "message": "testtesttestestesttestsetestestestestestestesttsetestt\r\ntesttesttestestesttestsetestestestestestestesttsetestt\r\ntesttesttestestesttestsetestestestestestestesttsetestt",
+        "attribute": "0400000044000000",
+        "style_index": 2
+    },
+    "test_1449_3": {
+        "name": "test_1449_3",
+        "message": "testtesttestestesttestsetestestestestestestesttse[0:2 55-00]\r\n[0:2 64-00]testtesttestestesttestsetestestestestestesteetset[0:2 55-00]\r\n[0:2 64-00]testtesttestestesttestsetestestestesttestestestest",
+        "attribute": "0400000046000000",
+        "style_index": 2
+    },
+    "test_1478_correct": {
+        "name": "test_1478_correct",
+        "message": "[0:2 82-00][0:1 04-00][0:3 FF-35-02-FF][0][0:2 64-00]\r\n[0:2 82-00][0:3 00-00-00-FF][0:1 FF-FF][0:2 64-00][0:3 11-0C-1D-FF][0:2 64-00][0:1 02-00]desconectou-se.\r\n[0:1 FF-FF][0:2 64-00][0:2 82-00][0:1 04-00][0:3 FF-35-02-FF][1][0:2 64-00]\r\n[0:2 82-00][0:3 11-0C-1D-FF][0:1 FF-FF][0:2 64-00][0:2 64-00]passou a ser o jogador principal.[0:2 64-00][0:3 00-00-00-FF]",
+        "attribute": "0400000048000000",
+        "style_index": 8
+    },
+    "test_1478_incorrect": {
+        "name": "test_1478_incorrect",
+        "message": "[0:2 82-00][0:1 04-00][0:3 FF-35-02-FF][0]\r\n[0:3 00-00-00-FF][0:1 FF-FF][0:2 64-00][0:3 11-0C-1D-FF]desconectou-se.\r\n[0:2 82-00][0:1 04-00][0:3 FF-35-02-FF][1]\r\n[0:3 11-0C-1D-FF][0:1 FF-FF][0:2 64-00]passou a ser o jogador principal.[0:3 00-00-00-FF]",
+        "attribute": "040000004A000000",
+        "style_index": 8
+    }
+}

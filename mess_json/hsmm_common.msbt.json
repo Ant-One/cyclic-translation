@@ -1,0 +1,356 @@
+{
+    "hsmm_ctrl_cancel": {
+        "name": "hsmm_ctrl_cancel",
+        "message": "\ue003 Retour",
+        "attribute": "04000000E0010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_next": {
+        "name": "hsmm_ctrl_next",
+        "message": "\ue000 Suite",
+        "attribute": "04000000E2010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_rule": {
+        "name": "hsmm_ctrl_rule",
+        "message": "\ue001 R\u00e8gles",
+        "attribute": "04000000E4010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_rm": {
+        "name": "hsmm_ctrl_rm",
+        "message": "\ue002 Jouer en ligne",
+        "attribute": "04000000E6010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_random": {
+        "name": "hsmm_ctrl_random",
+        "message": "\ue001 Al\u00e9atoire",
+        "attribute": "04000000E8010000",
+        "style_index": 198
+    },
+    "hsmm_ctrl_fav": {
+        "name": "hsmm_ctrl_fav",
+        "message": "\ue002 Favoris \ue023",
+        "attribute": "04000000EA010000",
+        "style_index": 198
+    },
+    "hsmm_tlp_round": {
+        "name": "hsmm_tlp_round",
+        "message": "Manche [0]/[1]",
+        "attribute": "03000000EC010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_rdFinal": {
+        "name": "hsmm_tlp_rdFinal",
+        "message": "Derni\u00e8re manche",
+        "attribute": "03000000EE010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_round01": {
+        "name": "hsmm_tlp_round01",
+        "message": "Manche [0]",
+        "attribute": "03000000F0010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal01": {
+        "name": "hsmm_tlp_chal01",
+        "message": "[0]-1",
+        "attribute": "03000000F2010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal02": {
+        "name": "hsmm_tlp_chal02",
+        "message": "[0]-2",
+        "attribute": "03000000F4010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal03": {
+        "name": "hsmm_tlp_chal03",
+        "message": "[0]-3",
+        "attribute": "03000000F6010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal04": {
+        "name": "hsmm_tlp_chal04",
+        "message": "[0]-[1]",
+        "attribute": "03000000F8010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_1vs3Mg": {
+        "name": "hsmm_tlp_1vs3Mg",
+        "message": "Mini-jeu seul contre tous !",
+        "attribute": "04000000FA010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_battleMg": {
+        "name": "hsmm_tlp_battleMg",
+        "message": "Mini-jeu combat !",
+        "attribute": "04000000FC010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_bonusMg": {
+        "name": "hsmm_tlp_bonusMg",
+        "message": "Mini-jeu bonus !",
+        "attribute": "04000000FE010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_coinMg": {
+        "name": "hsmm_tlp_coinMg",
+        "message": "Mini-jeu pi\u00e8ces \ue020 en folie !",
+        "attribute": "0400000000020000",
+        "style_index": 14
+    },
+    "hsmm_tlp_duelMg": {
+        "name": "hsmm_tlp_duelMg",
+        "message": "Mini-jeu en duel !",
+        "attribute": "0400000002020000",
+        "style_index": 14
+    },
+    "hsmm_tlp_3chal_clear": {
+        "name": "hsmm_tlp_3chal_clear",
+        "message": "[0]-[1] termin\u00e9 !",
+        "attribute": "0400000004020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_3chal_rank": {
+        "name": "hsmm_tlp_3chal_rank",
+        "message": "Rang [0]",
+        "attribute": "0400000006020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_survival": {
+        "name": "hsmm_tlp_survival",
+        "message": "Survie r\u00e9ussie !",
+        "attribute": "0400000008020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_survival_win": {
+        "name": "hsmm_tlp_survival_win",
+        "message": "[0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00]",
+        "attribute": "040000000A020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_gratz": {
+        "name": "hsmm_tlp_gratz",
+        "message": "F\u00e9licitations !",
+        "attribute": "040000000C020000",
+        "style_index": 36
+    },
+    "hsmm_tlp_starget": {
+        "name": "hsmm_tlp_starget",
+        "message": "[0:3 11-0C-1D-FF]\u00c9toile [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] gagn\u00e9e ![0:3 00-00-00-FF]",
+        "attribute": "040000000E020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_op00": {
+        "name": "hsmm_tlp_op00",
+        "message": "[0]",
+        "attribute": "0500000010020000",
+        "style_index": 200
+    },
+    "hsmm_tlp_op01": {
+        "name": "hsmm_tlp_op01",
+        "message": "[0]",
+        "attribute": "0500000012020000",
+        "style_index": 201
+    },
+    "hsmm_tlp_op10": {
+        "name": "hsmm_tlp_op10",
+        "message": "[0] victoires pour l'emporter",
+        "attribute": "0500000014020000",
+        "style_index": 201
+    },
+    "hsmm_tlp_op20": {
+        "name": "hsmm_tlp_op20",
+        "message": "[0] manches",
+        "attribute": "0500000016020000",
+        "style_index": 201
+    },
+    "hsmm_pt999": {
+        "name": "hsmm_pt999",
+        "message": "[0]",
+        "attribute": "0500000018020000",
+        "style_index": 202
+    },
+    "hsmm_win999": {
+        "name": "hsmm_win999",
+        "message": "[0][0:2 4B-00] vict.[0:2 64-00]",
+        "attribute": "050000001A020000",
+        "style_index": 203
+    },
+    "hsmm_pt_wins": {
+        "name": "hsmm_pt_wins",
+        "message": "S\u00e9rie en cours",
+        "attribute": "040000001C020000",
+        "style_index": 204
+    },
+    "hsmm_pt_top": {
+        "name": "hsmm_pt_top",
+        "message": "Joueur en t\u00eate",
+        "attribute": "040000001E020000",
+        "style_index": 204
+    },
+    "hsmm_pt_name": {
+        "name": "hsmm_pt_name",
+        "message": "[0]",
+        "attribute": "0400000020020000",
+        "style_index": 205
+    },
+    "hsmm_pt_coin": {
+        "name": "hsmm_pt_coin",
+        "message": "\ue020",
+        "attribute": "0400000022020000",
+        "style_index": 206
+    },
+    "hsmm_pt_best999": {
+        "name": "hsmm_pt_best999",
+        "message": "[0] vict.",
+        "attribute": "0400000024020000",
+        "style_index": 207
+    },
+    "hsmm_pt_best999_l": {
+        "name": "hsmm_pt_best999_l",
+        "message": "[0][0:2 4B-00] vict.[0:2 64-00]",
+        "attribute": "0400000026020000",
+        "style_index": 208
+    },
+    "hsmm_pt_best_update": {
+        "name": "hsmm_pt_best_update",
+        "message": "Nouveau record !",
+        "attribute": "0400000028020000",
+        "style_index": 209
+    },
+    "hsmm_mgsl_cinx2": {
+        "name": "hsmm_mgsl_cinx2",
+        "message": "\ue020 \u00d7 2",
+        "attribute": "040000002A020000",
+        "style_index": 210
+    },
+    "hsmm_mgsl_hd00": {
+        "name": "hsmm_mgsl_hd00",
+        "message": "[0]",
+        "attribute": "040000002C020000",
+        "style_index": 211
+    },
+    "hsmm_mgsl_runk00": {
+        "name": "hsmm_mgsl_runk00",
+        "message": "[0]",
+        "attribute": "040000002E020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_win00": {
+        "name": "hsmm_mgsl_win00",
+        "message": "Victoire",
+        "attribute": "0400000030020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_lose00": {
+        "name": "hsmm_mgsl_lose00",
+        "message": "D\u00e9faite",
+        "attribute": "0400000032020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_clear00": {
+        "name": "hsmm_mgsl_clear00",
+        "message": "Rang : [0]",
+        "attribute": "0400000034020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_mgname00": {
+        "name": "hsmm_mgsl_mgname00",
+        "message": "[0]",
+        "attribute": "0400000036020000",
+        "style_index": 213
+    },
+    "hsmm_pop_mgname": {
+        "name": "hsmm_pop_mgname",
+        "message": "[0]",
+        "attribute": "0400000038020000",
+        "style_index": 214
+    },
+    "hsmm_mgrslt_rank": {
+        "name": "hsmm_mgrslt_rank",
+        "message": "[0]",
+        "attribute": "050000003A020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_win": {
+        "name": "hsmm_mgrslt_win",
+        "message": "Victoire",
+        "attribute": "050000003C020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_lose": {
+        "name": "hsmm_mgrslt_lose",
+        "message": "D\u00e9faite",
+        "attribute": "050000003E020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_draw": {
+        "name": "hsmm_mgrslt_draw",
+        "message": "\u00c9galit\u00e9",
+        "attribute": "0500000040020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_coin999": {
+        "name": "hsmm_mgrslt_coin999",
+        "message": "+ [0] \ue020",
+        "attribute": "0300000042020000",
+        "style_index": 216
+    },
+    "hsmm_mgrslt_win999": {
+        "name": "hsmm_mgrslt_win999",
+        "message": "[0] vict.",
+        "attribute": "0300000044020000",
+        "style_index": 216
+    },
+    "hsmm_mgrslt_star": {
+        "name": "hsmm_mgrslt_star",
+        "message": "\ue021",
+        "attribute": "0400000046020000",
+        "style_index": 217
+    },
+    "hsmm_name00": {
+        "name": "hsmm_name00",
+        "message": "[0]",
+        "attribute": "0400000048020000",
+        "style_index": 218
+    },
+    "hsmm_cpu00": {
+        "name": "hsmm_cpu00",
+        "message": "[0]",
+        "attribute": "040000004A020000",
+        "style_index": 219
+    },
+    "hsmm_rty02": {
+        "name": "hsmm_rty02",
+        "message": "Prochain d\u00e9fi",
+        "attribute": "040000004C020000",
+        "style_index": 222
+    },
+    "hsmm_rty03": {
+        "name": "hsmm_rty03",
+        "message": "Faire une pause",
+        "attribute": "040000004E020000",
+        "style_index": 222
+    },
+    "hsmm_rty04": {
+        "name": "hsmm_rty04",
+        "message": "Recommencer",
+        "attribute": "0400000050020000",
+        "style_index": 222
+    },
+    "hsmm_rty05": {
+        "name": "hsmm_rty05",
+        "message": "Quitter",
+        "attribute": "0400000052020000",
+        "style_index": 222
+    },
+    "hsmm_mw_rty00": {
+        "name": "hsmm_mw_rty00",
+        "message": "Vous pourrez reprendre\r\nl'aventure [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\nla prochaine fois.[0:3 00-00-00-FF]",
+        "attribute": "0400000054020000",
+        "style_index": 8
+    }
+}

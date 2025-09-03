@@ -1,0 +1,80 @@
+{
+    "mn_mgM_mw_introA": {
+        "name": "mn_mgM_mw_introA",
+        "message": "Bienvenue \u00e0 bord ! Nous sommes en\r\npartance pour la [0:3 FF-35-02-FF]montagne aux mini-jeux[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401002E70000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_introB": {
+        "name": "mn_mgM_mw_introB",
+        "message": "Embarquez ! On l\u00e8ve l'ancre.",
+        "attribute": "0401002E84000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_introC": {
+        "name": "mn_mgM_mw_introC",
+        "message": "Ce bateau est \u00e0 destination de la\r\n[0:3 FF-35-02-FF]montagne aux mini-jeux[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401002E98000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_chara_select": {
+        "name": "mn_mgM_mw_chara_select",
+        "message": "Qui se joindra \u00e0 nous aujourd'hui ?",
+        "attribute": "0401002EAC000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_com_select": {
+        "name": "mn_mgM_mw_com_select",
+        "message": "Il manque encore [0] [1:1 1C-00-6A-00-6F-00-75-00-65-00-75-00-72-00-2C-00-6A-00-6F-00-75-00-65-00-75-00-72-00-73-00].",
+        "attribute": "0401002EC8000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_chara_check": {
+        "name": "mn_mgM_mw_chara_check",
+        "message": "Tout le monde est pr\u00eat ?",
+        "attribute": "0401002ECA000000",
+        "style_index": 6
+    },
+    "mn_mgM_mw_chara_check_a0": {
+        "name": "mn_mgM_mw_chara_check_a0",
+        "message": "Oui",
+        "attribute": "04000000CC000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_chara_check_a1": {
+        "name": "mn_mgM_mw_chara_check_a1",
+        "message": "Non",
+        "attribute": "04000000CE000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_chara_check_a2": {
+        "name": "mn_mgM_mw_chara_check_a2",
+        "message": "ORDI al\u00e9atoires",
+        "attribute": "04000000D0000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_check": {
+        "name": "mn_mgM_mw_check",
+        "message": "[0:3 11-0C-1D-FF]En route pour la [0:3 FF-35-02-FF]montagne\r\naux mini-jeux[0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401002ED2000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_online_check": {
+        "name": "mn_mgM_mw_online_check",
+        "message": "Des joueurs du monde entier\r\nvous attendent ! Voulez-vous\r\nles affronter ?",
+        "attribute": "0401002EEC000000",
+        "style_index": 6
+    },
+    "mn_mgM_check_a0": {
+        "name": "mn_mgM_check_a0",
+        "message": "Oui",
+        "attribute": "0300000006010000",
+        "style_index": 9
+    },
+    "mn_mgM_check_a1": {
+        "name": "mn_mgM_check_a1",
+        "message": "Non",
+        "attribute": "0300000008010000",
+        "style_index": 9
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "hsmm01_mgtype": {
+        "name": "hsmm01_mgtype",
+        "message": "[0]",
+        "attribute": "0400000098010000",
+        "style_index": 272
+    },
+    "hsmm01_winHist": {
+        "name": "hsmm01_winHist",
+        "message": "Victoires/d\u00e9faites",
+        "attribute": "040000009A010000",
+        "style_index": 273
+    },
+    "hsmm01_ctlr_iconL": {
+        "name": "hsmm01_ctlr_iconL",
+        "message": "\ue008",
+        "attribute": "040000009C010000",
+        "style_index": 274
+    },
+    "hsmm01_ctlr_iconR": {
+        "name": "hsmm01_ctlr_iconR",
+        "message": "\ue009",
+        "attribute": "040000009E010000",
+        "style_index": 274
+    },
+    "hsmm01_ctlr_iconL01": {
+        "name": "hsmm01_ctlr_iconL01",
+        "message": "\ue008",
+        "attribute": "04000000A0010000",
+        "style_index": 275
+    },
+    "hsmm01_ctlr_iconR01": {
+        "name": "hsmm01_ctlr_iconR01",
+        "message": "\ue009",
+        "attribute": "04000000A2010000",
+        "style_index": 275
+    },
+    "hsmm01_mg_ctrl_winHist": {
+        "name": "hsmm01_mg_ctrl_winHist",
+        "message": "\ue002 Victoires/d\u00e9faites",
+        "attribute": "04000000A4010000",
+        "style_index": 276
+    },
+    "hsmm01_mg_ctrl_random": {
+        "name": "hsmm01_mg_ctrl_random",
+        "message": "\ue001 Al\u00e9atoire",
+        "attribute": "04000000A6010000",
+        "style_index": 276
+    },
+    "hsmm01_mgname0": {
+        "name": "hsmm01_mgname0",
+        "message": "[0]",
+        "attribute": "04000000A8010000",
+        "style_index": 277
+    },
+    "hsmm01_mgname1": {
+        "name": "hsmm01_mgname1",
+        "message": "[0]",
+        "attribute": "04000000AA010000",
+        "style_index": 278
+    },
+    "hsmm01_vs00": {
+        "name": "hsmm01_vs00",
+        "message": "VS",
+        "attribute": "04000000AC010000",
+        "style_index": 279
+    },
+    "hsmm01_rule_mgname": {
+        "name": "hsmm01_rule_mgname",
+        "message": "[0]",
+        "attribute": "03000000AE010000",
+        "style_index": 280
+    },
+    "hsmm01_rule_mgtype": {
+        "name": "hsmm01_rule_mgtype",
+        "message": "[0]",
+        "attribute": "03000000B0010000",
+        "style_index": 281
+    },
+    "hsmm01_match00": {
+        "name": "hsmm01_match00",
+        "message": "Partie en [0] [1:1 18-00-70-00-6F-00-69-00-6E-00-74-00-2C-00-70-00-6F-00-69-00-6E-00-74-00-73-00]",
+        "attribute": "04000000B2010000",
+        "style_index": 282
+    },
+    "hsmm01_match01": {
+        "name": "hsmm01_match01",
+        "message": "Partie de [0] min",
+        "attribute": "04000000B4010000",
+        "style_index": 282
+    },
+    "hsmm01_plyNum00": {
+        "name": "hsmm01_plyNum00",
+        "message": "Jou\u00e9",
+        "attribute": "04000000B6010000",
+        "style_index": 283
+    },
+    "hsmm01_record00": {
+        "name": "hsmm01_record00",
+        "message": "Record",
+        "attribute": "04000000B8010000",
+        "style_index": 283
+    },
+    "hsmm01_record01": {
+        "name": "hsmm01_record01",
+        "message": "Victoires",
+        "attribute": "04000000BA010000",
+        "style_index": 283
+    },
+    "hsmm01_plyNum00_0": {
+        "name": "hsmm01_plyNum00_0",
+        "message": "[0] fois",
+        "attribute": "04000000BC010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_0": {
+        "name": "hsmm01_record00_0",
+        "message": "[0]",
+        "attribute": "04000000BE010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_0_m": {
+        "name": "hsmm01_record00_0_m",
+        "message": "[0] m",
+        "attribute": "04000000C0010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_0_point_m": {
+        "name": "hsmm01_record00_0_point_m",
+        "message": "[0],[1] m",
+        "attribute": "04000000C2010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_0_degree": {
+        "name": "hsmm01_record00_0_degree",
+        "message": "[0] \u00b0",
+        "attribute": "04000000C4010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_0_timer": {
+        "name": "hsmm01_record00_0_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000C6010000",
+        "style_index": 284
+    },
+    "hsmm01_record00_1": {
+        "name": "hsmm01_record00_1",
+        "message": "Stage [0]",
+        "attribute": "04000000C8010000",
+        "style_index": 283
+    },
+    "hsmm01_record00_2_timer": {
+        "name": "hsmm01_record00_2_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000CA010000",
+        "style_index": 283
+    },
+    "hsmm01_record00_3": {
+        "name": "hsmm01_record00_3",
+        "message": "[0]",
+        "attribute": "04000000CC010000",
+        "style_index": 284
+    },
+    "hsmm01_rule03": {
+        "name": "hsmm01_rule03",
+        "message": "Objectif",
+        "attribute": "04000000CE010000",
+        "style_index": 285
+    },
+    "hsmm01_rule04": {
+        "name": "hsmm01_rule04",
+        "message": "Temps",
+        "attribute": "04000000D0010000",
+        "style_index": 285
+    },
+    "hsmm01_rule06": {
+        "name": "hsmm01_rule06",
+        "message": "points gagnants",
+        "attribute": "04000000D2010000",
+        "style_index": 285
+    },
+    "hsmm01_rule10": {
+        "name": "hsmm01_rule10",
+        "message": "manches",
+        "attribute": "04000000D4010000",
+        "style_index": 285
+    },
+    "hsmm01_rule11": {
+        "name": "hsmm01_rule11",
+        "message": "gagnantes",
+        "attribute": "04000000D6010000",
+        "style_index": 285
+    },
+    "hsmm01_rule12": {
+        "name": "hsmm01_rule12",
+        "message": "Mode",
+        "attribute": "04000000D8010000",
+        "style_index": 285
+    },
+    "hsmm01_rule00_0": {
+        "name": "hsmm01_rule00_0",
+        "message": "J[0]",
+        "attribute": "04000000DA010000",
+        "style_index": 286
+    },
+    "hsmm01_rule00_1": {
+        "name": "hsmm01_rule00_1",
+        "message": "ORDI",
+        "attribute": "04000000DC010000",
+        "style_index": 286
+    },
+    "hsmm01_rule02_0": {
+        "name": "hsmm01_rule02_0",
+        "message": "Stage [0]",
+        "attribute": "04000000DE010000",
+        "style_index": 285
+    },
+    "hsmm01_rule03_0": {
+        "name": "hsmm01_rule03_0",
+        "message": "[0] pts",
+        "attribute": "04000000E0010000",
+        "style_index": 287
+    },
+    "hsmm01_rule04_0": {
+        "name": "hsmm01_rule04_0",
+        "message": "[0] min",
+        "attribute": "04000000E2010000",
+        "style_index": 287
+    },
+    "hsmm01_rule06_0": {
+        "name": "hsmm01_rule06_0",
+        "message": "[0]",
+        "attribute": "04000000E4010000",
+        "style_index": 287
+    },
+    "hsmm01_rule08_0": {
+        "name": "hsmm01_rule08_0",
+        "message": "ORDI [0]",
+        "attribute": "04000000E6010000",
+        "style_index": 285
+    },
+    "hsmm01_rule09_0": {
+        "name": "hsmm01_rule09_0",
+        "message": "Avec aide",
+        "attribute": "04000000E8010000",
+        "style_index": 285
+    },
+    "hsmm01_rule09_1": {
+        "name": "hsmm01_rule09_1",
+        "message": "Sans aide",
+        "attribute": "04000000EA010000",
+        "style_index": 285
+    },
+    "hsmm01_rule10_0": {
+        "name": "hsmm01_rule10_0",
+        "message": "[0]",
+        "attribute": "04000000EC010000",
+        "style_index": 287
+    },
+    "hsmm01_rule11_0": {
+        "name": "hsmm01_rule11_0",
+        "message": "[0]",
+        "attribute": "04000000EE010000",
+        "style_index": 287
+    },
+    "hsmm01_rule12_0": {
+        "name": "hsmm01_rule12_0",
+        "message": "Normal",
+        "attribute": "04000000F0010000",
+        "style_index": 287
+    },
+    "hsmm01_rule12_1": {
+        "name": "hsmm01_rule12_1",
+        "message": "Infini",
+        "attribute": "04000000F2010000",
+        "style_index": 287
+    },
+    "hsmm01_addFav": {
+        "name": "hsmm01_addFav",
+        "message": "Ajout\u00e9 aux [0:3 FF-35-02-FF][0][0:3 00-00-00-FF]",
+        "attribute": "04000000F4010000",
+        "style_index": 288
+    },
+    "hsmm01_blankFav": {
+        "name": "hsmm01_blankFav",
+        "message": "Il n'y a aucun mini-jeu enregistr\u00e9\r\ndans les [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000F6010000",
+        "style_index": 289
+    },
+    "hsmm01_blankWinlist": {
+        "name": "hsmm01_blankWinlist",
+        "message": "Vous pourrez consulter vos statistiques de victoires\r\net d\u00e9faites apr\u00e8s avoir termin\u00e9 quelques mini-jeux.",
+        "attribute": "04000000F8010000",
+        "style_index": 289
+    },
+    "hsmm01_mw00": {
+        "name": "hsmm01_mw00",
+        "message": "Voici [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF], bienvenue !\r\nEntra\u00eenez-vous aux mini-jeux\r\nde votre choix.[0:3 00-00-00-FF]",
+        "attribute": "04040019FA010000",
+        "style_index": 4
+    }
+}

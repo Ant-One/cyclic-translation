@@ -1,0 +1,128 @@
+{
+    "mn_mainM_mw_card00a": {
+        "name": "mn_mainM_mw_card00a",
+        "message": "Si vous achetez un motif de cartes Mario\r\nParty, vous pourrez modifier le v\u00f4tre\r\n\u00e0 la [0:3 FF-35-02-FF]maison des donn\u00e9es[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04030119B0000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card00c": {
+        "name": "mn_mainM_mw_card00c",
+        "message": "Si vous avez un plateau favori, ajoutez-le\r\n\u00e0 votre carte Mario Party !",
+        "attribute": "04030119CA000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card00d": {
+        "name": "mn_mainM_mw_card00d",
+        "message": "Ajoutez vos mini-jeux favoris \u00e0 votre\r\ncarte Mario Party \u00e0 l'occasion !",
+        "attribute": "04030119DE000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card01a": {
+        "name": "mn_mainM_mw_card01a",
+        "message": "Oh ! Vous avez achet\u00e9 un motif de cartes.\r\nServez-vous-en pour modifier\r\nvotre carte Mario Party !",
+        "attribute": "0403011902010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card01b": {
+        "name": "mn_mainM_mw_card01b",
+        "message": "Sur votre carte Mario Party, vous pouvez\r\nafficher un exploit que vous avez r\u00e9alis\u00e9 !",
+        "attribute": "040301191C010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details00": {
+        "name": "mn_mainM_mw_details00",
+        "message": "Partez \u00e0 l'aventure et devenez\r\nla nouvelle superstar !",
+        "attribute": "0403011936010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details01": {
+        "name": "mn_mainM_mw_details01",
+        "message": "D\u00e9pensez les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] gagn\u00e9es en jeu\r\net sur la [0:3 00-00-00-FF][0:3 FF-35-02-FF]montagne aux mini-jeux[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0403011968010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details02": {
+        "name": "mn_mainM_mw_details02",
+        "message": "[0:3 11-0C-1D-FF]Demandez \u00e0 [0:3 FF-35-02-FF]Maskass[0:3 11-0C-1D-FF] pour ajuster\r\nl'exp\u00e9rience de jeu avec diverses options.[0:3 00-00-00-FF]",
+        "attribute": "040301199A010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details03": {
+        "name": "mn_mainM_mw_details03",
+        "message": "Consultez les souvenirs de pr\u00e9c\u00e9dentes\r\naventures et vos records.",
+        "attribute": "04030119CC010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details04": {
+        "name": "mn_mainM_mw_details04",
+        "message": "Embarquez pour un voyage vers\r\nla [0:3 FF-35-02-FF]montagne aux mini-jeux [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04030119FE010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details05": {
+        "name": "mn_mainM_mw_details05",
+        "message": "C'est ici que vous pourrez\r\njouer avec des amis.",
+        "attribute": "0403011930020000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details06": {
+        "name": "mn_mainM_mw_details06",
+        "message": "Il n'y a personne pour le moment. Vous\r\ndevez d'abord vous connecter \u00e0 Internet.",
+        "attribute": "0403011962020000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details09": {
+        "name": "mn_mainM_mw_details09",
+        "message": "Si vous voulez jouer avec quelqu'un\r\nd'autre, terminez d'abord la session\r\nen cours en appuyant sur \ue003.",
+        "attribute": "0403011994020000",
+        "style_index": 4
+    },
+    "mn_mainM_pointer": {
+        "name": "mn_mainM_pointer",
+        "message": "[0]",
+        "attribute": "04000000C6020000",
+        "style_index": 482
+    },
+    "mn_mainM_ctrl_back": {
+        "name": "mn_mainM_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "04000000C8020000",
+        "style_index": 610
+    },
+    "mn_mainM_ui_connect_offline": {
+        "name": "mn_mainM_ui_connect_offline",
+        "message": "Jeu hors ligne",
+        "attribute": "04000000CA020000",
+        "style_index": 483
+    },
+    "mn_mainM_ui_connect_local": {
+        "name": "mn_mainM_ui_connect_local",
+        "message": "Multijoueur local",
+        "attribute": "04000000CC020000",
+        "style_index": 483
+    },
+    "mn_mainM_ui_connect_online": {
+        "name": "mn_mainM_ui_connect_online",
+        "message": "Jeu en ligne",
+        "attribute": "04000000CE020000",
+        "style_index": 483
+    },
+    "mn_mainM_ctrl_status": {
+        "name": "mn_mainM_ctrl_status",
+        "message": "\ue002 Niveau Mario Party",
+        "attribute": "04000000D0020000",
+        "style_index": 11
+    },
+    "mn_mainM_ui_new": {
+        "name": "mn_mainM_ui_new",
+        "message": "Nouveau !",
+        "attribute": "04000000D2020000",
+        "style_index": 607
+    },
+    "mn_mainM_ctrl_title_press": {
+        "name": "mn_mainM_ctrl_title_press",
+        "message": "Appuyez sur \ue008 + \ue009 !",
+        "attribute": "04000000D4020000",
+        "style_index": 602
+    }
+}

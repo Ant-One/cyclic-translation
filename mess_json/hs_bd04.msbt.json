@@ -1,0 +1,242 @@
+{
+    "bd04_OP_mw_past00": {
+        "name": "bd04_OP_mw_past00",
+        "message": "Jadis, une superstar de passage trouva\r\ndes [0:3 FF-35-02-FF]Yoshis[0:3 00-00-00-FF][0:3 11-0C-1D-FF] \u00e9chou\u00e9s sur ces \u00eeles.[0:3 00-00-00-FF]",
+        "attribute": "0401000F48010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_past01": {
+        "name": "bd04_OP_mw_past01",
+        "message": "N'\u00e9coutant que son courage, elle sauva\r\ntous les [0:3 FF-35-02-FF]Yoshis[0:3 00-00-00-FF][0:3 11-0C-1D-FF]. Quel acte h\u00e9ro\u00efque ![0:3 00-00-00-FF]",
+        "attribute": "0401000F4A010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose00": {
+        "name": "bd04_OP_mw_purpose00",
+        "message": "[0:3 11-0C-1D-FF]La bont\u00e9 de cette superstar toucha\r\nbeaucoup les [0:3 FF-35-02-FF]Yoshis[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000F4C010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose01": {
+        "name": "bd04_OP_mw_purpose01",
+        "message": "Si bien qu'ils d\u00e9cid\u00e8rent de rester ici et\r\nd'attendre la venue d'une autre superstar.",
+        "attribute": "0401000F6A010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose02": {
+        "name": "bd04_OP_mw_purpose02",
+        "message": "Leur attente fut longue, mais elle prend\r\nfin aujourd'hui !",
+        "attribute": "0401000F84010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose03": {
+        "name": "bd04_OP_mw_purpose03",
+        "message": "Le moment est venu de d\u00e9couvrir qui\r\nsera la nouvelle superstar. C'est parti !",
+        "attribute": "0401000F98010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination00": {
+        "name": "bd04_p01_mw_explaination00",
+        "message": "[0:3 FF-FF-FF-FF]Voici l'[0:3 FF-35-02-FF]\u00eele melon[0:3 FF-FF-FF-FF]. Cette \u00eele tropicale est un\r\nvrai paradis pour les amateurs de fruits ![0:3 00-00-00-FF]",
+        "attribute": "04040001BC010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination01": {
+        "name": "bd04_p01_mw_explaination01",
+        "message": "[0:3 FF-FF-FF-FF]Et voici l'[0:3 FF-35-02-FF]\u00eele past\u00e8que[0:3 FF-FF-FF-FF]... Regardez l\u00e0-bas !\r\n[0:3 FF-35-02-FF]Bowser[0:3 FF-FF-FF-FF] fait bronzette ![0:3 00-00-00-FF]",
+        "attribute": "04040001E0010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination02": {
+        "name": "bd04_p01_mw_explaination02",
+        "message": "Deux ponts relient les \u00eeles. Payez\r\nle [0:3 FF-35-02-FF]Thwomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] et il vous laissera passer.[0:3 00-00-00-FF]",
+        "attribute": "04040001F8010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination03": {
+        "name": "bd04_p01_mw_explaination03",
+        "message": "Il y a des [0:3 FF-35-02-FF]Yoshis[0:3 00-00-00-FF][0:3 11-0C-1D-FF] un peu partout.\r\nOn semble \u00e9veiller leur curiosit\u00e9 ![0:3 00-00-00-FF]",
+        "attribute": "0401001916020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC007_00": {
+        "name": "bd04_p02_mw_lastSpNPC007_00",
+        "message": "[0:3 11-0C-1D-FF]\u00c9coutons un peu la voix de la sagesse\r\ndes oc\u00e9ans avec [0:3 FF-35-02-FF]Cheep Cheep[0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401001930020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC007_01": {
+        "name": "bd04_p02_mw_lastSpNPC007_01",
+        "message": "Comment ? Avec le clapotis, je n'ai pas\r\nbien entendu. Il a dit [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] ?[0:3 00-00-00-FF]",
+        "attribute": "040100194E020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_00": {
+        "name": "bd04_p02_mw_lastSpNPC035_00",
+        "message": "\u00c9coutons cette fois-ci notre ami \u00e0\r\npiquants !",
+        "attribute": "0401001972020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_01": {
+        "name": "bd04_p02_mw_lastSpNPC035_01",
+        "message": "Bloub, bloub... Bloub bloub bloub...",
+        "attribute": "0401000090020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_02": {
+        "name": "bd04_p02_mw_lastSpNPC035_02",
+        "message": "Alors... \u00ab Compte tenu des circonstances,\r\n[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] devrait l'emporter. \u00bb[0:3 00-00-00-FF]",
+        "attribute": "0401001992020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat00": {
+        "name": "bd01_s04_mw_koopaFloat00",
+        "message": "BOUAHAHA ! \u00c7a d\u00e9tend de se laisser\r\nflotter sur l'oc\u00e9an... Tu devrais essayer !",
+        "attribute": "0404000CAA020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat01": {
+        "name": "bd01_s04_mw_koopaFloat01",
+        "message": "[0:3 FF-FF-FF-FF]Tu pourras pas trouver mieux que cette\r\n[0:3 FF-35-02-FF]chambre \u00e0 air Bowser[0:3 FF-FF-FF-FF] pour te baigner ![0:3 00-00-00-FF]",
+        "attribute": "0404000CBE020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat02": {
+        "name": "bd01_s04_mw_koopaFloat02",
+        "message": "Alors tu penses bien que ce n'est pas\r\ngratuit ! Par ici les [0] pi\u00e8ces \ue020 !",
+        "attribute": "0404000CDC020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat03": {
+        "name": "bd01_s04_mw_koopaFloat03",
+        "message": "Elle a d\u00e9j\u00e0 \u00e9clat\u00e9 ? Ne me regarde pas\r\ncomme \u00e7a, c'est toi qui l'as achet\u00e9e !",
+        "attribute": "0404000CF4020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat04": {
+        "name": "bd01_s04_mw_koopaFloat04",
+        "message": "Si tu ne peux pas te la payer, je me\r\ncontenterai de ce que tu as ! Bouahaha !",
+        "attribute": "0404000C0C030000",
+        "style_index": 4
+    },
+    "bd04_gmk01_mw_bakubaku00": {
+        "name": "bd04_gmk01_mw_bakubaku00",
+        "message": "[0:3 11-0C-1D-FF]Oh, vous avez vu ? [0:3 FF-35-02-FF]Bowser[0:3 11-0C-1D-FF] et l'\u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF]\r\nont \u00e9chang\u00e9 leurs places ![0:3 00-00-00-FF]",
+        "attribute": "040303192A030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun00": {
+        "name": "bd04_gmk02_mw_dossun00",
+        "message": "Le prix \u00e0 payer au [0:3 FF-35-02-FF]Thwomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] a \u00e9t\u00e9 divis\u00e9\r\npar deux.[0:3 00-00-00-FF]",
+        "attribute": "0404000058030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun01": {
+        "name": "bd04_gmk02_mw_dossun01",
+        "message": "On dirait que tu vas devoir payer au\r\nmoins [0] pi\u00e8ce \ue020 pour passer.",
+        "attribute": "040400015A030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun01p": {
+        "name": "bd04_gmk02_mw_dossun01p",
+        "message": "On dirait que tu vas devoir payer au\r\nmoins [0] pi\u00e8ces \ue020 pour passer.",
+        "attribute": "040400015C030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun01_a0": {
+        "name": "bd04_gmk02_mw_dossun01_a0",
+        "message": "Payer",
+        "attribute": "040400005E030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_dossun01_a1": {
+        "name": "bd04_gmk02_mw_dossun01_a1",
+        "message": "Ne pas payer",
+        "attribute": "0404000060030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_firstDossun00": {
+        "name": "bd04_gmk02_mw_firstDossun00",
+        "message": "\u00c0 chaque passage, il faudra payer\r\nplus de pi\u00e8ces \ue020 au Thwomp.",
+        "attribute": "0404000162030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_firstDossun01": {
+        "name": "bd04_gmk02_mw_firstDossun01",
+        "message": "La bonne nouvelle, c'est que personne\r\nn'est pass\u00e9 avant toi...",
+        "attribute": "0404000164030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun02": {
+        "name": "bd04_gmk02_mw_dossun02",
+        "message": "On dirait que tu vas devoir payer au\r\nmoins [0] pi\u00e8ces \ue020 pour passer.",
+        "attribute": "0404000166030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun03": {
+        "name": "bd04_gmk02_mw_dossun03",
+        "message": "[0:3 FF-FF-FF-FF]Le [0:3 FF-35-02-FF]Thwomp [0:3 FF-FF-FF-FF]m'a tout l'air d\u00e9\u00e7u.[0:3 00-00-00-FF]",
+        "attribute": "0404000168030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun04": {
+        "name": "bd04_gmk02_mw_dossun04",
+        "message": "[0:3 FF-FF-FF-FF]Combien de pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] veux-tu\r\ndonner au [0:3 00-00-00-FF][0:3 FF-35-02-FF]Thwomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ?[0:3 00-00-00-FF]",
+        "attribute": "040400016A030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_betCoin00": {
+        "name": "bd04_gmk02_mw_betCoin00",
+        "message": "\u00c7a nous fait [0] pi\u00e8ce \ue020, d'accord ?",
+        "attribute": "040400016C030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_betCoin00p": {
+        "name": "bd04_gmk02_mw_betCoin00p",
+        "message": "\u00c7a nous fait [0] pi\u00e8ces \ue020, d'accord ?",
+        "attribute": "040400016E030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_betCoin00_a0": {
+        "name": "bd04_gmk02_mw_betCoin00_a0",
+        "message": "Oui",
+        "attribute": "0404000170030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_betCoin00_a1": {
+        "name": "bd04_gmk02_mw_betCoin00_a1",
+        "message": "Non",
+        "attribute": "0404000172030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_dossun05": {
+        "name": "bd04_gmk02_mw_dossun05",
+        "message": "[0:3 FF-FF-FF-FF]Le [0:3 FF-35-02-FF]Thwomp[0:3 FF-FF-FF-FF] accepte de te laisser passer ![0:3 00-00-00-FF]",
+        "attribute": "0404000174030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun06": {
+        "name": "bd04_gmk02_mw_dossun06",
+        "message": "Si tu ne payes pas [0] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] \ue020, tu ne\r\npourras pas traverser le pont.",
+        "attribute": "0404000176030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun07": {
+        "name": "bd04_gmk02_mw_dossun07",
+        "message": "Ooh ! Tu ne pourras pas traverser ce pont\r\n\u00e0 moins de payer 999 pi\u00e8ces \ue020 !",
+        "attribute": "0404000178030000",
+        "style_index": 4
+    },
+    "bd04_map_gmk01_c04_details": {
+        "name": "bd04_map_gmk01_c04_details",
+        "message": "Attention, la ruse de [0:3 FF-35-02-FF]Cheep\r\nChomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] est tra\u00eetre ![0:3 00-00-00-FF]",
+        "attribute": "040000007A030000",
+        "style_index": 61
+    },
+    "bd04_map_gmk02_details": {
+        "name": "bd04_map_gmk02_details",
+        "message": "[0:3 FF-FF-FF-FF]Donnez des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] au\r\n[0:3 FF-35-02-FF]Thwomp[0:3 FF-FF-FF-FF] pour passer.[0:3 00-00-00-FF]",
+        "attribute": "040000007C030000",
+        "style_index": 61
+    }
+}

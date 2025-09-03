@@ -1,0 +1,2918 @@
+{
+    "sys_ctrl_skip": {
+        "name": "sys_ctrl_skip",
+        "message": "\ue00f/\ue00e Passer",
+        "attribute": "04000000380F0000",
+        "style_index": 10
+    },
+    "sys_info_operatAccount": {
+        "name": "sys_info_operatAccount",
+        "message": "[0] est aux commandes.",
+        "attribute": "040000003A0F0000",
+        "style_index": 16
+    },
+    "sys_mw_chaname": {
+        "name": "sys_mw_chaname",
+        "message": "[0]",
+        "attribute": "030000003C0F0000",
+        "style_index": 5
+    },
+    "sys_mw_back": {
+        "name": "sys_mw_back",
+        "message": "\ue003 Retour",
+        "attribute": "040000003E0F0000",
+        "style_index": 522
+    },
+    "sys_pause_slct_resume": {
+        "name": "sys_pause_slct_resume",
+        "message": "Continuer la partie",
+        "attribute": "04000000400F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_restart": {
+        "name": "sys_pause_slct_restart",
+        "message": "Recommencer",
+        "attribute": "04000000420F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_restart": {
+        "name": "sys_pause_mw_restart",
+        "message": "Recommencer la partie sur\r\n[0] ?",
+        "attribute": "04000000440F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_restart_a0": {
+        "name": "sys_pause_mw_restart_a0",
+        "message": "Oui",
+        "attribute": "04000000460F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_restart_a1": {
+        "name": "sys_pause_mw_restart_a1",
+        "message": "Non",
+        "attribute": "04000000480F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mainM": {
+        "name": "sys_pause_slct_mainM",
+        "message": "Place du village",
+        "attribute": "040000004A0F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mainM": {
+        "name": "sys_pause_mw_mainM",
+        "message": "Retourner \u00e0 la place du village ?",
+        "attribute": "040000004C0F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_mainM_bdM": {
+        "name": "sys_pause_mw_mainM_bdM",
+        "message": "Retourner \u00e0 la place du village ?\r\n[0:2 4C-00][0:3 4B-46-5A-FF]Quand vous reviendrez ici, vous pourrez\r\nreprendre la partie au d\u00e9but de ce tour.[0:3 00-00-00-FF][0:2 64-00]",
+        "attribute": "040000004E0F0000",
+        "style_index": 8
+    },
+    "sys_pause_slct_mgM_bdM": {
+        "name": "sys_pause_slct_mgM_bdM",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "04000000500F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mgM_bdM": {
+        "name": "sys_pause_mw_mgM_bdM",
+        "message": "[0:2 5F-00]Aller \u00e0 la montagne aux mini-jeux ?[0:2 64-00]\r\n[0:3 4B-46-5A-FF][0:2 4C-00]\u00c0 votre retour, vous pourrez continuer\r\nla partie depuis le d\u00e9but du tour actuel.[0:2 64-00][0:3 00-00-00-FF]",
+        "attribute": "04000000520F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_mgM_bdM_a0": {
+        "name": "sys_pause_mw_mgM_bdM_a0",
+        "message": "Oui",
+        "attribute": "04000000540F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mgM_bdM_a1": {
+        "name": "sys_pause_mw_mgM_bdM_a1",
+        "message": "Non",
+        "attribute": "04000000560F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mainM_a0": {
+        "name": "sys_pause_mw_mainM_a0",
+        "message": "Oui",
+        "attribute": "04000000580F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mainM_a1": {
+        "name": "sys_pause_mw_mainM_a1",
+        "message": "Non",
+        "attribute": "040000005A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mgM": {
+        "name": "sys_pause_slct_mgM",
+        "message": "Nouvelle aventure",
+        "attribute": "040000005C0F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_mgSlct": {
+        "name": "sys_pause_slct_mgSlct",
+        "message": "Choix du mini-jeu",
+        "attribute": "040000005E0F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_turn": {
+        "name": "sys_pause_slct_turn",
+        "message": "Prolonger la partie",
+        "attribute": "04000000600F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_turn00": {
+        "name": "sys_pause_mw_turn00",
+        "message": "Combien de tours la partie\r\ndoit-elle durer ?",
+        "attribute": "04000000620F0000",
+        "style_index": 6
+    },
+    "sys_pause_mw_turn00_a0": {
+        "name": "sys_pause_mw_turn00_a0",
+        "message": "15 tours",
+        "attribute": "04000000640F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a1": {
+        "name": "sys_pause_mw_turn00_a1",
+        "message": "20 tours",
+        "attribute": "04000000660F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a2": {
+        "name": "sys_pause_mw_turn00_a2",
+        "message": "25 tours",
+        "attribute": "04000000680F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a3": {
+        "name": "sys_pause_mw_turn00_a3",
+        "message": "30 tours",
+        "attribute": "040000006A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn01": {
+        "name": "sys_pause_mw_turn01",
+        "message": "Ajouter des tours ? Cela n'est\r\npossible qu'une fois par partie.\r\n\u3000[0]\u3000\u2192\u3000[1]",
+        "attribute": "040000006C0F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn01_a0": {
+        "name": "sys_pause_mw_turn01_a0",
+        "message": "Oui",
+        "attribute": "040000006E0F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn01_a1": {
+        "name": "sys_pause_mw_turn01_a1",
+        "message": "Non",
+        "attribute": "04000000700F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn02": {
+        "name": "sys_pause_mw_turn02",
+        "message": "La partie a \u00e9t\u00e9 prolong\u00e9e !\r\nLe nombre de tours total sera\r\nmis \u00e0 jour au prochain tour.",
+        "attribute": "04000000720F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03": {
+        "name": "sys_pause_mw_turn03",
+        "message": "Ajouter des tours pour\r\nprolonger la partie ?",
+        "attribute": "04000000740F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03_multi": {
+        "name": "sys_pause_mw_turn03_multi",
+        "message": "Ajouter des tours pour prolonger\r\nla partie ? Discutez-en avec les\r\nautres joueurs et d\u00e9cidez.",
+        "attribute": "04000000760F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03_a0": {
+        "name": "sys_pause_mw_turn03_a0",
+        "message": "Oui",
+        "attribute": "04000000780F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn03_a1": {
+        "name": "sys_pause_mw_turn03_a1",
+        "message": "Non",
+        "attribute": "040000007A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mesSp": {
+        "name": "sys_pause_slct_mesSp",
+        "message": "Vitesse du texte",
+        "attribute": "040000007C0F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mesSp": {
+        "name": "sys_pause_mw_mesSp",
+        "message": "Choisissez la vitesse de\r\nd\u00e9filement des messages.",
+        "attribute": "040000007E0F0000",
+        "style_index": 6
+    },
+    "sys_pause_mw_mesSp_a0": {
+        "name": "sys_pause_mw_mesSp_a0",
+        "message": "Rapide",
+        "attribute": "04000000800F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mesSp_a1": {
+        "name": "sys_pause_mw_mesSp_a1",
+        "message": "Normale",
+        "attribute": "04000000820F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mesSp_a2": {
+        "name": "sys_pause_mw_mesSp_a2",
+        "message": "Lente",
+        "attribute": "04000000840F0000",
+        "style_index": 9
+    },
+    "sys_pause_playerName": {
+        "name": "sys_pause_playerName",
+        "message": "[0]",
+        "attribute": "04000000860F0000",
+        "style_index": 387
+    },
+    "sys_pause_modeName": {
+        "name": "sys_pause_modeName",
+        "message": "[0]",
+        "attribute": "04000000880F0000",
+        "style_index": 389
+    },
+    "sys_pause_mgName": {
+        "name": "sys_pause_mgName",
+        "message": "[0]",
+        "attribute": "040000008A0F0000",
+        "style_index": 390
+    },
+    "sys_pause_mapName": {
+        "name": "sys_pause_mapName",
+        "message": "[0]",
+        "attribute": "040000008C0F0000",
+        "style_index": 392
+    },
+    "sys_pause_mapDetails": {
+        "name": "sys_pause_mapDetails",
+        "message": "[0]",
+        "attribute": "040000008E0F0000",
+        "style_index": 393
+    },
+    "sys_bdm_mw_save01": {
+        "name": "sys_bdm_mw_save01",
+        "message": "\u00c9craser les donn\u00e9es de\r\nsauvegarde ? Les donn\u00e9es\r\neffac\u00e9es ne peuvent pas\r\n\u00eatre r\u00e9cup\u00e9r\u00e9es.",
+        "attribute": "04000000900F0000",
+        "style_index": 8
+    },
+    "sys_bdm_mw_save01_a0": {
+        "name": "sys_bdm_mw_save01_a0",
+        "message": "Oui",
+        "attribute": "04000000920F0000",
+        "style_index": 9
+    },
+    "sys_bdm_mw_save01_a1": {
+        "name": "sys_bdm_mw_save01_a1",
+        "message": "Non",
+        "attribute": "04000000940F0000",
+        "style_index": 9
+    },
+    "sys_bdm_mw_save03": {
+        "name": "sys_bdm_mw_save03",
+        "message": "S\u00e9lectionnez les donn\u00e9es relatives\r\n\u00e0 la partie que vous voulez \u00e9craser.",
+        "attribute": "04010000960F0000",
+        "style_index": 506
+    },
+    "sys_retry_slct_mapSlct": {
+        "name": "sys_retry_slct_mapSlct",
+        "message": "Changer de plateau",
+        "attribute": "04000000980F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mainM": {
+        "name": "sys_retry_slct_mainM",
+        "message": "Place du village",
+        "attribute": "040000009A0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mgM01": {
+        "name": "sys_retry_slct_mgM01",
+        "message": "Choix de l'aventure",
+        "attribute": "040000009C0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mgSlct": {
+        "name": "sys_retry_slct_mgSlct",
+        "message": "Choix du mini-jeu",
+        "attribute": "040000009E0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_randomSlct": {
+        "name": "sys_retry_slct_randomSlct",
+        "message": "Al\u00e9atoire",
+        "attribute": "04000000A00F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_play": {
+        "name": "sys_retry_slct_play",
+        "message": "Rejouer",
+        "attribute": "04000000A20F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_levelX": {
+        "name": "sys_retry_slct_levelX",
+        "message": "Commencer au niv. [0]",
+        "attribute": "04000000A40F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_level1": {
+        "name": "sys_retry_slct_level1",
+        "message": "Commencer au niv. 1",
+        "attribute": "04000000A60F0000",
+        "style_index": 395
+    },
+    "sys_retry_fav_mg": {
+        "name": "sys_retry_fav_mg",
+        "message": "Mini-jeu actuel",
+        "attribute": "04000000A80F0000",
+        "style_index": 396
+    },
+    "sys_retry_fav_mgName": {
+        "name": "sys_retry_fav_mgName",
+        "message": "[0]",
+        "attribute": "04000000AA0F0000",
+        "style_index": 397
+    },
+    "sys_retry_fav_ctrl00": {
+        "name": "sys_retry_fav_ctrl00",
+        "message": "\ue002 Ajouter aux favoris",
+        "attribute": "04000000AC0F0000",
+        "style_index": 398
+    },
+    "sys_retry_fav_ctrl01": {
+        "name": "sys_retry_fav_ctrl01",
+        "message": "\ue002 Retirer des favoris",
+        "attribute": "04000000AE0F0000",
+        "style_index": 398
+    },
+    "sys_retry_slct_bdM": {
+        "name": "sys_retry_slct_bdM",
+        "message": "Mario Party",
+        "attribute": "04000000B00F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_hsmmet": {
+        "name": "sys_retry_slct_hsmmet",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "04000000B20F0000",
+        "style_index": 395
+    },
+    "sys_retry_mw_hsmmet": {
+        "name": "sys_retry_mw_hsmmet",
+        "message": "Se rendre sur la montagne\r\naux mini-jeux ?",
+        "attribute": "04000000B40F0000",
+        "style_index": 8
+    },
+    "sys_mgM_scoreCard_score": {
+        "name": "sys_mgM_scoreCard_score",
+        "message": "[0]",
+        "attribute": "04000000B60F0000",
+        "style_index": 517
+    },
+    "sys_reward_mp_level0": {
+        "name": "sys_reward_mp_level0",
+        "message": "Niv. Mario Party",
+        "attribute": "04000000B80F0000",
+        "style_index": 379
+    },
+    "sys_reward_mp_level1": {
+        "name": "sys_reward_mp_level1",
+        "message": "[0]",
+        "attribute": "04000000BA0F0000",
+        "style_index": 380
+    },
+    "sys_reward_mp_next": {
+        "name": "sys_reward_mp_next",
+        "message": "Jusqu'au niveau suivant : [0] [1:1 18-00-70-00-6F-00-69-00-6E-00-74-00-2C-00-70-00-6F-00-69-00-6E-00-74-00-73-00]",
+        "attribute": "04000000BC0F0000",
+        "style_index": 381
+    },
+    "sys_reward_mp_titleName": {
+        "name": "sys_reward_mp_titleName",
+        "message": "[0]",
+        "attribute": "04000000BE0F0000",
+        "style_index": 383
+    },
+    "sys_reward_mp_add": {
+        "name": "sys_reward_mp_add",
+        "message": "+ [0]",
+        "attribute": "04000000C00F0000",
+        "style_index": 385
+    },
+    "sys_reward_mw_get": {
+        "name": "sys_reward_mw_get",
+        "message": "[0:2 60-00]Vous avez gagn\u00e9 des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]et\r\ndes points de niveau Mario Party ![0:3 00-00-00-FF][0:2 64-00]",
+        "attribute": "04000000C20F0000",
+        "style_index": 8
+    },
+    "sys_reward_mw_name": {
+        "name": "sys_reward_mw_name",
+        "message": "[0]",
+        "attribute": "04000000C40F0000",
+        "style_index": 386
+    },
+    "im_sys_modeName00": {
+        "name": "im_sys_modeName00",
+        "message": "Mario Party",
+        "attribute": "04000000C60F0000",
+        "style_index": 4294967295
+    },
+    "im_sys_modeName01": {
+        "name": "im_sys_modeName01",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "04000000C80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_mw_hsmn00": {
+        "name": "sys_reward_mw_hsmn00",
+        "message": "[0:2 61-00]Vous avez gagn\u00e9 des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]et\r\ndes points de niveau Mario Party ![0:3 00-00-00-FF][0:2 64-00]",
+        "attribute": "04000000CA0F0000",
+        "style_index": 8
+    },
+    "sys_reward_info": {
+        "name": "sys_reward_info",
+        "message": "[0]",
+        "attribute": "04000000CC0F0000",
+        "style_index": 521
+    },
+    "sys_reward_info_mes00": {
+        "name": "sys_reward_info_mes00",
+        "message": "Niveau Mario Party 5 : nouveaux autocollants au magasin de Toad !",
+        "attribute": "04000000CE0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes01": {
+        "name": "sys_reward_info_mes01",
+        "message": "Niveau Mario Party 10 : nouveaux motifs de cartes au magasin de Toad !",
+        "attribute": "04000000D00F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes02": {
+        "name": "sys_reward_info_mes02",
+        "message": "Niveau Mario Party 15 : nouveaux autocollants au magasin de Toad !",
+        "attribute": "04000000D20F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes03": {
+        "name": "sys_reward_info_mes03",
+        "message": "Niveau Mario Party 20 : nouveaux motifs de cartes au magasin de Toad !",
+        "attribute": "04000000D40F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes04": {
+        "name": "sys_reward_info_mes04",
+        "message": "Niveau Mario Party 25 : nouveaux autocollants au magasin de Toad !",
+        "attribute": "04000000D60F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes05": {
+        "name": "sys_reward_info_mes05",
+        "message": "Niveau Mario Party 30 : nouveaux motifs de cartes au magasin de Toad !",
+        "attribute": "04000000D80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes06": {
+        "name": "sys_reward_info_mes06",
+        "message": "Niveau Mario Party 35 : nouveaux autocollants au magasin de Toad !",
+        "attribute": "04000000DA0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes07": {
+        "name": "sys_reward_info_mes07",
+        "message": "Niveau Mario Party 40 : nouveaux autocollants au magasin de Toad !",
+        "attribute": "04000000DC0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes08": {
+        "name": "sys_reward_info_mes08",
+        "message": "Niveau Mario Party 50 : ajout des cr\u00e9dits dans la maison des donn\u00e9es !",
+        "attribute": "04000000DE0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes09": {
+        "name": "sys_reward_info_mes09",
+        "message": "Niveau Mario Party 60 : nouvelles pages de l'encyclop\u00e9die au magasin de Toad !",
+        "attribute": "04000000E00F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes10": {
+        "name": "sys_reward_info_mes10",
+        "message": "Niveau Mario Party 70 : nouvelles pages de l'encyclop\u00e9die au magasin de Toad !",
+        "attribute": "04000000E20F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes11": {
+        "name": "sys_reward_info_mes11",
+        "message": "Niveau Mario Party 80 : nouvelles pages de l'encyclop\u00e9die au magasin de Toad !",
+        "attribute": "04000000E40F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes12": {
+        "name": "sys_reward_info_mes12",
+        "message": "Niveau Mario Party 90 : nouvelles pages de l'encyclop\u00e9die au magasin de Toad !",
+        "attribute": "04000000E60F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes13": {
+        "name": "sys_reward_info_mes13",
+        "message": "Niveau Mario Party 99 : nouvelles pages de l'encyclop\u00e9die au magasin de Toad !",
+        "attribute": "04000000E80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_ctrl_next": {
+        "name": "sys_reward_ctrl_next",
+        "message": "\ue000 Suite",
+        "attribute": "04000000EA0F0000",
+        "style_index": 608
+    },
+    "sys_reward_coin_have": {
+        "name": "sys_reward_coin_have",
+        "message": "[0]",
+        "attribute": "04000000EC0F0000",
+        "style_index": 376
+    },
+    "sys_reward_coin_add": {
+        "name": "sys_reward_coin_add",
+        "message": "+ [0]",
+        "attribute": "04000000EE0F0000",
+        "style_index": 377
+    },
+    "sys_reward_coin_detailCoin": {
+        "name": "sys_reward_coin_detailCoin",
+        "message": "[0] \ue020",
+        "attribute": "04000000F00F0000",
+        "style_index": 593
+    },
+    "sys_reward_coin_haveStar": {
+        "name": "sys_reward_coin_haveStar",
+        "message": "[0] [1:1 1C-00-E9-00-74-00-6F-00-69-00-6C-00-65-00-2C-00-E9-00-74-00-6F-00-69-00-6C-00-65-00-73-00] \ue021",
+        "attribute": "04000000F20F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_handClap": {
+        "name": "sys_reward_coin_handClap",
+        "message": "Bonus de popularit\u00e9",
+        "attribute": "04000000F40F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_MG_streak": {
+        "name": "sys_reward_coin_MG_streak",
+        "message": "Bonus vict. d'affil\u00e9e",
+        "attribute": "04000000F60F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_3win": {
+        "name": "sys_reward_coin_hsmm04_3win",
+        "message": "3 victoires d'affil\u00e9e",
+        "attribute": "04000000F80F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_5win": {
+        "name": "sys_reward_coin_hsmm04_5win",
+        "message": "5 victoires d'affil\u00e9e",
+        "attribute": "04000000FA0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_10win": {
+        "name": "sys_reward_coin_hsmm04_10win",
+        "message": "10 victoires d'affil\u00e9e",
+        "attribute": "04000000FC0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage1": {
+        "name": "sys_reward_coin_hsmm05_stage1",
+        "message": "Stage 1 termin\u00e9",
+        "attribute": "04000000FE0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage2": {
+        "name": "sys_reward_coin_hsmm05_stage2",
+        "message": "Stage 2 termin\u00e9",
+        "attribute": "0400000000100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage3": {
+        "name": "sys_reward_coin_hsmm05_stage3",
+        "message": "Stage 3 termin\u00e9",
+        "attribute": "0400000002100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage4": {
+        "name": "sys_reward_coin_hsmm05_stage4",
+        "message": "Stage 4 termin\u00e9",
+        "attribute": "0400000004100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage5": {
+        "name": "sys_reward_coin_hsmm05_stage5",
+        "message": "Stage 5 termin\u00e9",
+        "attribute": "0400000006100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage6": {
+        "name": "sys_reward_coin_hsmm05_stage6",
+        "message": "Stage 6 termin\u00e9",
+        "attribute": "0400000008100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm02_rankUP": {
+        "name": "sys_reward_coin_hsmm02_rankUP",
+        "message": "Qualification am\u00e9lior\u00e9e",
+        "attribute": "040000000A100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_bdm_bonus1": {
+        "name": "sys_reward_coin_bdm_bonus1",
+        "message": "[0:3 FF-35-02-FF]Bonus de victoire[0:3 00-00-00-FF]",
+        "attribute": "040000000C100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_bdm_bonus_x": {
+        "name": "sys_reward_coin_bdm_bonus_x",
+        "message": "[0:3 FF-35-02-FF]\u00d7 [0][0:3 00-00-00-FF]",
+        "attribute": "040000000E100000",
+        "style_index": 593
+    },
+    "sys_reward_exp_bdm_10_1st": {
+        "name": "sys_reward_exp_bdm_10_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 10 tours",
+        "attribute": "0400000010100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_2nd": {
+        "name": "sys_reward_exp_bdm_10_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 10 tours",
+        "attribute": "0400000012100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_3rd": {
+        "name": "sys_reward_exp_bdm_10_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 10 tours",
+        "attribute": "0400000014100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_4th": {
+        "name": "sys_reward_exp_bdm_10_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 10 tours",
+        "attribute": "0400000016100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_1st": {
+        "name": "sys_reward_exp_bdm_15_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 15 tours",
+        "attribute": "0400000018100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_2nd": {
+        "name": "sys_reward_exp_bdm_15_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 15 tours",
+        "attribute": "040000001A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_3rd": {
+        "name": "sys_reward_exp_bdm_15_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 15 tours",
+        "attribute": "040000001C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_4th": {
+        "name": "sys_reward_exp_bdm_15_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 15 tours",
+        "attribute": "040000001E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_1st": {
+        "name": "sys_reward_exp_bdm_20_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 20 tours",
+        "attribute": "0400000020100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_2nd": {
+        "name": "sys_reward_exp_bdm_20_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 20 tours",
+        "attribute": "0400000022100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_3rd": {
+        "name": "sys_reward_exp_bdm_20_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 20 tours",
+        "attribute": "0400000024100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_4th": {
+        "name": "sys_reward_exp_bdm_20_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 20 tours",
+        "attribute": "0400000026100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_1st": {
+        "name": "sys_reward_exp_bdm_25_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 25 tours",
+        "attribute": "0400000028100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_2nd": {
+        "name": "sys_reward_exp_bdm_25_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 25 tours",
+        "attribute": "040000002A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_3rd": {
+        "name": "sys_reward_exp_bdm_25_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 25 tours",
+        "attribute": "040000002C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_4th": {
+        "name": "sys_reward_exp_bdm_25_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 25 tours",
+        "attribute": "040000002E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_1st": {
+        "name": "sys_reward_exp_bdm_30_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 30 tours",
+        "attribute": "0400000030100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_2nd": {
+        "name": "sys_reward_exp_bdm_30_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 30 tours",
+        "attribute": "0400000032100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_3rd": {
+        "name": "sys_reward_exp_bdm_30_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 30 tours",
+        "attribute": "0400000034100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_4th": {
+        "name": "sys_reward_exp_bdm_30_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 30 tours",
+        "attribute": "0400000036100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_play": {
+        "name": "sys_reward_exp_mgm_play",
+        "message": "Mini-jeu jou\u00e9",
+        "attribute": "0400000038100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_win": {
+        "name": "sys_reward_exp_mgm_win",
+        "message": "Mini-jeu gagn\u00e9",
+        "attribute": "040000003A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_lose": {
+        "name": "sys_reward_exp_mgm_lose",
+        "message": "Pas de victoire dans un mini-jeu",
+        "attribute": "040000003C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_master": {
+        "name": "sys_reward_exp_mgm_master",
+        "message": "ORDI niveau ma\u00eetre vaincu",
+        "attribute": "040000003E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win1": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win1",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 7 pts gagn\u00e9e",
+        "attribute": "0400000040100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win2": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win2",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 14 pts gagn\u00e9e",
+        "attribute": "0400000042100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win3": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win3",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 21 pts gagn\u00e9e",
+        "attribute": "0400000044100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose1": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose1",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 7 pts sans victoire",
+        "attribute": "0400000046100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose2": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose2",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 14 pts sans victoire",
+        "attribute": "0400000048100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose3": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose3",
+        "message": "Beach-volley d\u00e9lire : partie \u00e0 21 pts sans victoire",
+        "attribute": "040000004A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win1": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win1",
+        "message": "Hockey f\u00e9roce : partie de 1 minute gagn\u00e9e",
+        "attribute": "040000004C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win2": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win2",
+        "message": "Hockey f\u00e9roce : partie de 3 minutes gagn\u00e9e",
+        "attribute": "040000004E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win3": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win3",
+        "message": "Hockey f\u00e9roce : partie de 5 minutes gagn\u00e9e",
+        "attribute": "0400000050100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose1": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose1",
+        "message": "Hockey f\u00e9roce : partie de 1 minute sans victoire",
+        "attribute": "0400000052100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose2": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose2",
+        "message": "Hockey f\u00e9roce : partie de 3 minutes sans victoire",
+        "attribute": "0400000054100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose3": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose3",
+        "message": "Hockey f\u00e9roce : partie de 5 minutes sans victoire",
+        "attribute": "0400000056100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankC": {
+        "name": "sys_reward_exp_hsmm02_rankC",
+        "message": "Qualification rang D atteinte",
+        "attribute": "0400000058100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankB": {
+        "name": "sys_reward_exp_hsmm02_rankB",
+        "message": "Qualification rang C atteinte",
+        "attribute": "040000005A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankA": {
+        "name": "sys_reward_exp_hsmm02_rankA",
+        "message": "Qualification rang B atteinte",
+        "attribute": "040000005C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankS": {
+        "name": "sys_reward_exp_hsmm02_rankS",
+        "message": "Qualification rang A atteinte",
+        "attribute": "040000005E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankMAX": {
+        "name": "sys_reward_exp_hsmm02_rankMAX",
+        "message": "Qualification maximale atteinte",
+        "attribute": "0400000060100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_1st": {
+        "name": "sys_reward_exp_hsmm03_5_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 5 manches",
+        "attribute": "0400000062100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_2nd": {
+        "name": "sys_reward_exp_hsmm03_5_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 5 manches",
+        "attribute": "0400000064100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_3rd": {
+        "name": "sys_reward_exp_hsmm03_5_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 5 manches",
+        "attribute": "0400000066100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_4th": {
+        "name": "sys_reward_exp_hsmm03_5_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 5 manches",
+        "attribute": "0400000068100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_1st": {
+        "name": "sys_reward_exp_hsmm03_10_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 10 manches",
+        "attribute": "040000006A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_2nd": {
+        "name": "sys_reward_exp_hsmm03_10_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 10 manches",
+        "attribute": "040000006C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_3rd": {
+        "name": "sys_reward_exp_hsmm03_10_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 10 manches",
+        "attribute": "040000006E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_4th": {
+        "name": "sys_reward_exp_hsmm03_10_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 10 manches",
+        "attribute": "0400000070100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_1st": {
+        "name": "sys_reward_exp_hsmm03_15_1st",
+        "message": "Termin\u00e9 en 1\ue032 place apr\u00e8s 15 manches",
+        "attribute": "0400000072100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_2nd": {
+        "name": "sys_reward_exp_hsmm03_15_2nd",
+        "message": "Termin\u00e9 en 2\ue030 place apr\u00e8s 15 manches",
+        "attribute": "0400000074100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_3rd": {
+        "name": "sys_reward_exp_hsmm03_15_3rd",
+        "message": "Termin\u00e9 en 3\ue030 place apr\u00e8s 15 manches",
+        "attribute": "0400000076100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_4th": {
+        "name": "sys_reward_exp_hsmm03_15_4th",
+        "message": "Termin\u00e9 en 4\ue030 place apr\u00e8s 15 manches",
+        "attribute": "0400000078100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_3_win": {
+        "name": "sys_reward_exp_hsmm04_3_win",
+        "message": "Victoire avec la r\u00e8gle des 3 \u00e9toiles gagnantes",
+        "attribute": "040000007A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_5_win": {
+        "name": "sys_reward_exp_hsmm04_5_win",
+        "message": "Victoire avec la r\u00e8gle des 5 \u00e9toiles gagnantes",
+        "attribute": "040000007C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_10_win": {
+        "name": "sys_reward_exp_hsmm04_10_win",
+        "message": "Victoire avec la r\u00e8gle des 10 \u00e9toiles gagnantes",
+        "attribute": "040000007E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_3_lose": {
+        "name": "sys_reward_exp_hsmm04_3_lose",
+        "message": "D\u00e9faite avec la r\u00e8gle des 3 \u00e9toiles gagnantes",
+        "attribute": "0400000080100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_5_lose": {
+        "name": "sys_reward_exp_hsmm04_5_lose",
+        "message": "D\u00e9faite avec la r\u00e8gle des 5 \u00e9toiles gagnantes",
+        "attribute": "0400000082100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_10_lose": {
+        "name": "sys_reward_exp_hsmm04_10_lose",
+        "message": "D\u00e9faite avec la r\u00e8gle des 10 \u00e9toiles gagnantes",
+        "attribute": "0400000084100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg1": {
+        "name": "sys_reward_exp_hsmm05_stg1",
+        "message": "Stage 1 termin\u00e9",
+        "attribute": "0400000086100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg2": {
+        "name": "sys_reward_exp_hsmm05_stg2",
+        "message": "Stage 2 termin\u00e9",
+        "attribute": "0400000088100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg3": {
+        "name": "sys_reward_exp_hsmm05_stg3",
+        "message": "Stage 3 termin\u00e9",
+        "attribute": "040000008A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg4": {
+        "name": "sys_reward_exp_hsmm05_stg4",
+        "message": "Stage 4 termin\u00e9",
+        "attribute": "040000008C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg5": {
+        "name": "sys_reward_exp_hsmm05_stg5",
+        "message": "Stage 5 termin\u00e9",
+        "attribute": "040000008E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg6": {
+        "name": "sys_reward_exp_hsmm05_stg6",
+        "message": "Stage 6 termin\u00e9",
+        "attribute": "0400000090100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm06_duel_win": {
+        "name": "sys_reward_exp_hsmm06_duel_win",
+        "message": "Mini-jeu en duel gagn\u00e9",
+        "attribute": "0400000092100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm06_duel_lose": {
+        "name": "sys_reward_exp_hsmm06_duel_lose",
+        "message": "Pas de victoire dans un mini-jeu en duel",
+        "attribute": "0400000094100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bonus_friend": {
+        "name": "sys_reward_exp_bonus_friend",
+        "message": "[0:3 FF-35-02-FF]Bonus en ligne[0:3 00-00-00-FF]",
+        "attribute": "0400000096100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_takeout": {
+        "name": "sys_reward_exp_takeout",
+        "message": "Points d'exp\u00e9rience obtenus",
+        "attribute": "0400000098100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bonus_x": {
+        "name": "sys_reward_exp_bonus_x",
+        "message": "[0:3 FF-35-02-FF]\u00d7 [0][0:3 00-00-00-FF]",
+        "attribute": "040000009A100000",
+        "style_index": 385
+    },
+    "sys_unlock_mw_name": {
+        "name": "sys_unlock_mw_name",
+        "message": "[0]",
+        "attribute": "040000009C100000",
+        "style_index": 503
+    },
+    "sys_unlock_mw_type00": {
+        "name": "sys_unlock_mw_type00",
+        "message": "Des musiques, un motif de cartes et la page\r\nPlateau [0]\r\npour l'encyclop\u00e9die sont arriv\u00e9s au\r\nmagasin de Toad !",
+        "attribute": "040000009E100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type01": {
+        "name": "sys_unlock_mw_type01",
+        "message": "La page [0] a \u00e9t\u00e9 ajout\u00e9e\r\n\u00e0 la section Personnages\r\nde l'encyclop\u00e9die !",
+        "attribute": "04000000A0100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type02": {
+        "name": "sys_unlock_mw_type02",
+        "message": "Le mini-jeu [0]\r\na \u00e9t\u00e9 ajout\u00e9 aux d\u00e9fis \u00e0 trois !",
+        "attribute": "04000000A2100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type03": {
+        "name": "sys_unlock_mw_type03",
+        "message": "Le magasin de Toad a re\u00e7u\r\nde nouveaux autocollants !",
+        "attribute": "04000000A4100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type04": {
+        "name": "sys_unlock_mw_type04",
+        "message": "Les cr\u00e9dits du jeu sont\r\nmaintenant disponibles !",
+        "attribute": "04000000A6100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type05": {
+        "name": "sys_unlock_mw_type05",
+        "message": "Le magasin de Toad a re\u00e7u de\r\nnouveaux motifs de cartes !",
+        "attribute": "04000000A8100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type06": {
+        "name": "sys_unlock_mw_type06",
+        "message": "Le magasin de Toad a re\u00e7u de nouvelles\r\npages de l'encyclop\u00e9die !",
+        "attribute": "04000000AA100000",
+        "style_index": 504
+    },
+    "sys_rank_userName": {
+        "name": "sys_rank_userName",
+        "message": "[0]",
+        "attribute": "04000000AC100000",
+        "style_index": 440
+    },
+    "sys_rank_bonus": {
+        "name": "sys_rank_bonus",
+        "message": "[0]",
+        "attribute": "04000000AE100000",
+        "style_index": 441
+    },
+    "sys_rank_bonus_plus": {
+        "name": "sys_rank_bonus_plus",
+        "message": "+ [0]",
+        "attribute": "04000000B0100000",
+        "style_index": 442
+    },
+    "sys_rank_bonus_minus": {
+        "name": "sys_rank_bonus_minus",
+        "message": "- [0]",
+        "attribute": "04000000B2100000",
+        "style_index": 442
+    },
+    "sys_rank_rivalName": {
+        "name": "sys_rank_rivalName",
+        "message": "[0]",
+        "attribute": "04000000B4100000",
+        "style_index": 443
+    },
+    "sys_rank_tier_s": {
+        "name": "sys_rank_tier_s",
+        "message": "A",
+        "attribute": "04000000B6100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_a": {
+        "name": "sys_rank_tier_a",
+        "message": "B",
+        "attribute": "04000000B8100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_b": {
+        "name": "sys_rank_tier_b",
+        "message": "C",
+        "attribute": "04000000BA100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_c": {
+        "name": "sys_rank_tier_c",
+        "message": "D",
+        "attribute": "04000000BC100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_d": {
+        "name": "sys_rank_tier_d",
+        "message": "E",
+        "attribute": "04000000BE100000",
+        "style_index": 444
+    },
+    "sys_rank_hsmg000_bonus00": {
+        "name": "sys_rank_hsmg000_bonus00",
+        "message": "Victoire",
+        "attribute": "04000000C0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus01": {
+        "name": "sys_rank_hsmg000_bonus01",
+        "message": "Victoire inattendue",
+        "attribute": "04000000C2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus02": {
+        "name": "sys_rank_hsmg000_bonus02",
+        "message": "D\u00e9faite",
+        "attribute": "04000000C4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus03": {
+        "name": "sys_rank_hsmg000_bonus03",
+        "message": "\u00c9galit\u00e9",
+        "attribute": "04000000C6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus00": {
+        "name": "sys_rank_hsmg501_bonus00",
+        "message": "Bonus de smash",
+        "attribute": "04000000C8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus01": {
+        "name": "sys_rank_hsmg501_bonus01",
+        "message": "Joli contre !",
+        "attribute": "04000000CA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus02": {
+        "name": "sys_rank_hsmg501_bonus02",
+        "message": "Parfait !",
+        "attribute": "04000000CC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus00": {
+        "name": "sys_rank_hsmg502_bonus00",
+        "message": "Bonus de score",
+        "attribute": "04000000CE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus01": {
+        "name": "sys_rank_hsmg502_bonus01",
+        "message": "Jolie charge !",
+        "attribute": "04000000D0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus02": {
+        "name": "sys_rank_hsmg502_bonus02",
+        "message": "Coup du chapeau",
+        "attribute": "04000000D2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus03": {
+        "name": "sys_rank_hsmg502_bonus03",
+        "message": "Parfait !",
+        "attribute": "04000000D4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus00": {
+        "name": "sys_rank_hsmg503_bonus00",
+        "message": "Bonus de score",
+        "attribute": "04000000D6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus01": {
+        "name": "sys_rank_hsmg503_bonus01",
+        "message": "Multibut !",
+        "attribute": "04000000D8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus02": {
+        "name": "sys_rank_hsmg503_bonus02",
+        "message": "Tir parfait !",
+        "attribute": "04000000DA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus03": {
+        "name": "sys_rank_hsmg503_bonus03",
+        "message": "Coup du chapeau",
+        "attribute": "04000000DC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus04": {
+        "name": "sys_rank_hsmg503_bonus04",
+        "message": "Parfait !",
+        "attribute": "04000000DE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus00": {
+        "name": "sys_rank_hsmg601_bonus00",
+        "message": "Bonus de combo",
+        "attribute": "04000000E0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus01": {
+        "name": "sys_rank_hsmg601_bonus01",
+        "message": "Bonus de victoire \u00e9crasante",
+        "attribute": "04000000E2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus02": {
+        "name": "sys_rank_hsmg601_bonus02",
+        "message": "Bonus sur le fil",
+        "attribute": "04000000E4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus00": {
+        "name": "sys_rank_hsmg602_bonus00",
+        "message": "Bonus de combo",
+        "attribute": "04000000E6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus01": {
+        "name": "sys_rank_hsmg602_bonus01",
+        "message": "Bonus de victoire \u00e9crasante",
+        "attribute": "04000000E8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus02": {
+        "name": "sys_rank_hsmg602_bonus02",
+        "message": "Bonus sur le fil",
+        "attribute": "04000000EA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus00": {
+        "name": "sys_rank_hsmg603_bonus00",
+        "message": "Bonus de combo",
+        "attribute": "04000000EC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus01": {
+        "name": "sys_rank_hsmg603_bonus01",
+        "message": "Bonus de victoire \u00e9crasante",
+        "attribute": "04000000EE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus02": {
+        "name": "sys_rank_hsmg603_bonus02",
+        "message": "Bonus sur le fil",
+        "attribute": "04000000F0100000",
+        "style_index": 4294967295
+    },
+    "sys_error_mw_B00": {
+        "name": "sys_error_mw_B00",
+        "message": "La connexion a \u00e9t\u00e9 interrompue.\r\nVous allez jouer hors ligne.",
+        "attribute": "04000000F2100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B01": {
+        "name": "sys_error_mw_B01",
+        "message": "[0:2 55-00]La connexion avec [0:2 64-00][0:2 6E-00][0:1 04-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:1 FF-FF][0:2 64-00]\r\n[0:2 55-00][0:3 11-0C-1D-FF]a \u00e9t\u00e9 interrompue.[0:3 00-00-00-FF][0:2 64-00]",
+        "attribute": "04000000F4100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B02": {
+        "name": "sys_error_mw_B02",
+        "message": "[0:2 55-00]La connexion avec [0:2 64-00][0:2 6E-00][0:1 04-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:1 FF-FF][0:2 64-00]\r\n[0:3 11-0C-1D-FF][0:2 55-00]a \u00e9t\u00e9 interrompue.[0:2 64-00]\r\n[0:2 6E-00][0:1 04-00][0:3 FF-35-02-FF][1][0:3 11-0C-1D-FF][0:1 FF-FF][0:2 64-00][0:2 55-00] est maintenant\r\nl'h\u00f4te de la partie.[0:2 64-00][0:3 00-00-00-FF]",
+        "attribute": "04000000F6100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B03": {
+        "name": "sys_error_mw_B03",
+        "message": "La connexion a \u00e9t\u00e9 interrompue.\r\nVous allez quitter le mode\r\nen ligne.",
+        "attribute": "04000000F8100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B05": {
+        "name": "sys_error_mw_B05",
+        "message": "Le temps de r\u00e9ponse de\r\nla connexion a \u00e9t\u00e9 d\u00e9pass\u00e9.",
+        "attribute": "04000000FA100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B06": {
+        "name": "sys_error_mw_B06",
+        "message": "[0:2 55-00]La connexion avec [0:2 64-00][0:2 6E-00][0:1 04-00][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:1 FF-FF][0:2 64-00][0:2 55-00][0:3 11-0C-1D-FF]\r\na \u00e9t\u00e9 interrompue. Vous prenez le\r\nrelais en tant qu'h\u00f4te de la partie !\r\nDes donn\u00e9es relatives \u00e0 cette partie\r\nvont \u00eatre cr\u00e9\u00e9es au d\u00e9but du tour.[0:3 00-00-00-FF][0:2 64-00]",
+        "attribute": "04000000FC100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B07": {
+        "name": "sys_error_mw_B07",
+        "message": "La connexion a \u00e9t\u00e9 interrompue.",
+        "attribute": "04000000FE100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B08": {
+        "name": "sys_error_mw_B08",
+        "message": "Il n'y a plus d'autres participants.\r\nLa partie est termin\u00e9e.",
+        "attribute": "0400000000110000",
+        "style_index": 8
+    },
+    "sys_error_mw_C00": {
+        "name": "sys_error_mw_C00",
+        "message": "Impossible de rejoindre le salon.",
+        "attribute": "0400000002110000",
+        "style_index": 8
+    },
+    "sys_error_mw_C02": {
+        "name": "sys_error_mw_C02",
+        "message": "Le salon est plein. Veuillez\r\nchanger le nombre de joueurs.",
+        "attribute": "0400000004110000",
+        "style_index": 8
+    },
+    "sys_error_mw_D00": {
+        "name": "sys_error_mw_D00",
+        "message": "Aucun salon n'a \u00e9t\u00e9 trouv\u00e9.",
+        "attribute": "0400000006110000",
+        "style_index": 8
+    },
+    "sys_error_mw_H01": {
+        "name": "sys_error_mw_H01",
+        "message": "Aucun joueur n'a \u00e9t\u00e9 trouv\u00e9.\r\nRelancer la recherche ?",
+        "attribute": "0400000008110000",
+        "style_index": 8
+    },
+    "sys_error_mw_H01_a0": {
+        "name": "sys_error_mw_H01_a0",
+        "message": "Oui",
+        "attribute": "040000000A110000",
+        "style_index": 9
+    },
+    "sys_error_mw_H01_a2": {
+        "name": "sys_error_mw_H01_a2",
+        "message": "Non",
+        "attribute": "040000000C110000",
+        "style_index": 9
+    },
+    "sys_error_mw_I00": {
+        "name": "sys_error_mw_I00",
+        "message": "Le chargement des donn\u00e9es\r\nde classement a \u00e9chou\u00e9.",
+        "attribute": "040000000E110000",
+        "style_index": 8
+    },
+    "sys_error_mw_J00": {
+        "name": "sys_error_mw_J00",
+        "message": "Le lancement du chat\r\nvocal a \u00e9chou\u00e9. Associez\r\nce titre \u00e0 l'application\r\nNintendo Switch Online.",
+        "attribute": "0400000010110000",
+        "style_index": 8
+    },
+    "sys_error_mw_K00": {
+        "name": "sys_error_mw_K00",
+        "message": "Chat vocal indisponible.",
+        "attribute": "0400000012110000",
+        "style_index": 8
+    },
+    "sys_retry_play_team": {
+        "name": "sys_retry_play_team",
+        "message": "VS",
+        "attribute": "0400000014110000",
+        "style_index": 472
+    },
+    "sys_retry_play_stage": {
+        "name": "sys_retry_play_stage",
+        "message": "Choix du stage",
+        "attribute": "0400000016110000",
+        "style_index": 473
+    },
+    "sys_retry_play_start": {
+        "name": "sys_retry_play_start",
+        "message": "C'est parti !",
+        "attribute": "0400000018110000",
+        "style_index": 474
+    },
+    "sys_retry_play_normal": {
+        "name": "sys_retry_play_normal",
+        "message": "Mode normal",
+        "attribute": "040000001A110000",
+        "style_index": 603
+    },
+    "sys_retry_play_endless": {
+        "name": "sys_retry_play_endless",
+        "message": "Mode infini",
+        "attribute": "040000001C110000",
+        "style_index": 603
+    },
+    "sys_retry_play_next": {
+        "name": "sys_retry_play_next",
+        "message": "Suivant",
+        "attribute": "040000001E110000",
+        "style_index": 474
+    },
+    "sys_pause_mgRank_header": {
+        "name": "sys_pause_mgRank_header",
+        "message": "Conditions de rangs",
+        "attribute": "0400000020110000",
+        "style_index": 487
+    },
+    "sys_pause_mgRank_A": {
+        "name": "sys_pause_mgRank_A",
+        "message": "A",
+        "attribute": "0400000022110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_B": {
+        "name": "sys_pause_mgRank_B",
+        "message": "B",
+        "attribute": "0400000024110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_C": {
+        "name": "sys_pause_mgRank_C",
+        "message": "C",
+        "attribute": "0400000026110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_D": {
+        "name": "sys_pause_mgRank_D",
+        "message": "D",
+        "attribute": "0400000028110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_details": {
+        "name": "sys_pause_mgRank_details",
+        "message": "[0]",
+        "attribute": "040000002A110000",
+        "style_index": 485
+    },
+    "sys_mgRank_hsmg102_3_A": {
+        "name": "sys_mgRank_hsmg102_3_A",
+        "message": "15 secondes restantes ou plus",
+        "attribute": "040000002C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_B": {
+        "name": "sys_mgRank_hsmg102_3_B",
+        "message": "10-14 secondes restantes",
+        "attribute": "040000002E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_C": {
+        "name": "sys_mgRank_hsmg102_3_C",
+        "message": "5-9 secondes restantes",
+        "attribute": "0400000030110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_D": {
+        "name": "sys_mgRank_hsmg102_3_D",
+        "message": "Moins de 4 secondes restantes",
+        "attribute": "0400000032110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_A": {
+        "name": "sys_mgRank_hsmg111_3_A",
+        "message": "81-90 points\r\n(selon le temps restant)",
+        "attribute": "0400000034110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_B": {
+        "name": "sys_mgRank_hsmg111_3_B",
+        "message": "61-80 points",
+        "attribute": "0400000036110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_C": {
+        "name": "sys_mgRank_hsmg111_3_C",
+        "message": "41-60 points",
+        "attribute": "0400000038110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_D": {
+        "name": "sys_mgRank_hsmg111_3_D",
+        "message": "30-40 points",
+        "attribute": "040000003A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_A": {
+        "name": "sys_mgRank_hsmg106_3_A",
+        "message": "20 secondes restantes ou plus",
+        "attribute": "040000003C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_B": {
+        "name": "sys_mgRank_hsmg106_3_B",
+        "message": "13-19 secondes restantes",
+        "attribute": "040000003E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_C": {
+        "name": "sys_mgRank_hsmg106_3_C",
+        "message": "6-12 secondes restantes",
+        "attribute": "0400000040110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_D": {
+        "name": "sys_mgRank_hsmg106_3_D",
+        "message": "Moins de 5 secondes restantes",
+        "attribute": "0400000042110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_A": {
+        "name": "sys_mgRank_hsmg113_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000044110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_B": {
+        "name": "sys_mgRank_hsmg113_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000046110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_C": {
+        "name": "sys_mgRank_hsmg113_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000048110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_D": {
+        "name": "sys_mgRank_hsmg113_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "040000004A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_A": {
+        "name": "sys_mgRank_hsmg109_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000004C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_B": {
+        "name": "sys_mgRank_hsmg109_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000004E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_C": {
+        "name": "sys_mgRank_hsmg109_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000050110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_D": {
+        "name": "sys_mgRank_hsmg109_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "0400000052110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_A": {
+        "name": "sys_mgRank_hsmg101_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000054110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_B": {
+        "name": "sys_mgRank_hsmg101_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000056110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_C": {
+        "name": "sys_mgRank_hsmg101_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000058110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_D": {
+        "name": "sys_mgRank_hsmg101_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "040000005A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_A": {
+        "name": "sys_mgRank_hsmg114_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000005C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_B": {
+        "name": "sys_mgRank_hsmg114_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000005E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_C": {
+        "name": "sys_mgRank_hsmg114_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000060110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_D": {
+        "name": "sys_mgRank_hsmg114_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "0400000062110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_A": {
+        "name": "sys_mgRank_hsmg110_3_A",
+        "message": "Le joueur tacle en\r\nmoins de 10 secondes",
+        "attribute": "0400000064110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_B": {
+        "name": "sys_mgRank_hsmg110_3_B",
+        "message": "Le joueur tacle en moins de 20 s\r\nou l'ORDI tacle en moins de 10 s",
+        "attribute": "0400000066110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_C": {
+        "name": "sys_mgRank_hsmg110_3_C",
+        "message": "Le joueur tacle avant la fin ou\r\nl'ORDI tacle en moins de 20 s",
+        "attribute": "0400000068110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_D": {
+        "name": "sys_mgRank_hsmg110_3_D",
+        "message": "Le joueur l'emporte dans le temps\r\nimparti ou l'ORDI tacle avant la fin",
+        "attribute": "040000006A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_A": {
+        "name": "sys_mgRank_hsmg115_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000006C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_B": {
+        "name": "sys_mgRank_hsmg115_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "040000006E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_C": {
+        "name": "sys_mgRank_hsmg115_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000070110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_D": {
+        "name": "sys_mgRank_hsmg115_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "0400000072110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_A": {
+        "name": "sys_mgRank_hsmg103_3_A",
+        "message": "Le joueur touche l'adversaire\r\nen moins de 10 secondes",
+        "attribute": "0400000074110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_B": {
+        "name": "sys_mgRank_hsmg103_3_B",
+        "message": "Le joueur touche en moins de\r\n20 s, ou l'ORDI en moins de 10 s",
+        "attribute": "0400000076110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_C": {
+        "name": "sys_mgRank_hsmg103_3_C",
+        "message": "Le joueur touche avant la\r\nfin, ou l'ORDI en moins de 20 s",
+        "attribute": "0400000078110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_D": {
+        "name": "sys_mgRank_hsmg103_3_D",
+        "message": "L'ORDI touche avant la fin",
+        "attribute": "040000007A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_A": {
+        "name": "sys_mgRank_hsmg107_3_A",
+        "message": "Le joueur \u00e9crase l'adversaire\r\nen moins de 10 secondes",
+        "attribute": "040000007C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_B": {
+        "name": "sys_mgRank_hsmg107_3_B",
+        "message": "Le joueur \u00e9crase l'adversaire en\r\n20 s, ou l'ORDI l'\u00e9crase en 10 s",
+        "attribute": "040000007E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_C": {
+        "name": "sys_mgRank_hsmg107_3_C",
+        "message": "Le joueur \u00e9crase l'adversaire avant\r\nla fin, ou l'ORDI l'\u00e9crase en 20 s",
+        "attribute": "0400000080110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_D": {
+        "name": "sys_mgRank_hsmg107_3_D",
+        "message": "L'ORDI \u00e9crase l'adversaire\r\navant la fin du temps imparti",
+        "attribute": "0400000082110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_A": {
+        "name": "sys_mgRank_hsmg105_3_A",
+        "message": "Victoire en moins de 8 secondes",
+        "attribute": "0400000084110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_B": {
+        "name": "sys_mgRank_hsmg105_3_B",
+        "message": "Victoire en moins de 12 secondes",
+        "attribute": "0400000086110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_C": {
+        "name": "sys_mgRank_hsmg105_3_C",
+        "message": "Victoire en moins de 16 secondes",
+        "attribute": "0400000088110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_D": {
+        "name": "sys_mgRank_hsmg105_3_D",
+        "message": "Victoire dans le temps imparti",
+        "attribute": "040000008A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_A": {
+        "name": "sys_mgRank_hsmg112_3_A",
+        "message": "Victoire avec 18-30 secondes restantes",
+        "attribute": "040000008C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_B": {
+        "name": "sys_mgRank_hsmg112_3_B",
+        "message": "Victoire avec 11-17 secondes restantes",
+        "attribute": "040000008E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_C": {
+        "name": "sys_mgRank_hsmg112_3_C",
+        "message": "Victoire avec 6-10 secondes restantes",
+        "attribute": "0400000090110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_D": {
+        "name": "sys_mgRank_hsmg112_3_D",
+        "message": "Victoire avec 1-5 secondes restantes,\r\nou l'ORDI marque tous les buts",
+        "attribute": "0400000092110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_A": {
+        "name": "sys_mgRank_hsmg108_3_A",
+        "message": "Les trois membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000094110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_B": {
+        "name": "sys_mgRank_hsmg108_3_B",
+        "message": "Deux membres de l'\u00e9quipe l'emportent",
+        "attribute": "0400000096110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_C": {
+        "name": "sys_mgRank_hsmg108_3_C",
+        "message": "Un membre de l'\u00e9quipe l'emporte\r\n(ORDI exclu)",
+        "attribute": "0400000098110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_D": {
+        "name": "sys_mgRank_hsmg108_3_D",
+        "message": "Un ORDI de l'\u00e9quipe l'emporte",
+        "attribute": "040000009A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_A": {
+        "name": "sys_mgRank_hsmg104_3_A",
+        "message": "Victoire en moins de 38 secondes",
+        "attribute": "040000009C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_B": {
+        "name": "sys_mgRank_hsmg104_3_B",
+        "message": "Victoire en moins de 43 secondes",
+        "attribute": "040000009E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_C": {
+        "name": "sys_mgRank_hsmg104_3_C",
+        "message": "Victoire en moins de 48 secondes",
+        "attribute": "04000000A0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_D": {
+        "name": "sys_mgRank_hsmg104_3_D",
+        "message": "Victoire en plus de 48 secondes",
+        "attribute": "04000000A2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_A": {
+        "name": "sys_mgRank_hsmg102_1_A",
+        "message": "150 %-300 %\r\n(distance de l'\u00e9quipe jusqu'au but)",
+        "attribute": "04000000A4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_B": {
+        "name": "sys_mgRank_hsmg102_1_B",
+        "message": "100 %-149 %",
+        "attribute": "04000000A6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_C": {
+        "name": "sys_mgRank_hsmg102_1_C",
+        "message": "50 %-99 %",
+        "attribute": "04000000A8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_D": {
+        "name": "sys_mgRank_hsmg102_1_D",
+        "message": "1 %-49 %",
+        "attribute": "04000000AA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_A": {
+        "name": "sys_mgRank_hsmg111_1_A",
+        "message": "Toutes les cibles touch\u00e9es\r\navec plus de 11 s restantes",
+        "attribute": "04000000AC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_B": {
+        "name": "sys_mgRank_hsmg111_1_B",
+        "message": "Victoire avec plus de 11 s restantes,\r\nsans toucher toutes les cibles",
+        "attribute": "04000000AE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_C": {
+        "name": "sys_mgRank_hsmg111_1_C",
+        "message": "5-10 s restantes",
+        "attribute": "04000000B0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_D": {
+        "name": "sys_mgRank_hsmg111_1_D",
+        "message": "Moins de 4 s restantes",
+        "attribute": "04000000B2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_A": {
+        "name": "sys_mgRank_hsmg106_1_A",
+        "message": "T\u00eate hors de l'eau pendant\r\nplus de 20 secondes",
+        "attribute": "04000000B4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_B": {
+        "name": "sys_mgRank_hsmg106_1_B",
+        "message": "T\u00eate hors de l'eau pendant\r\n15-19 secondes",
+        "attribute": "04000000B6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_C": {
+        "name": "sys_mgRank_hsmg106_1_C",
+        "message": "T\u00eate hors de l'eau pendant\r\n10-14 secondes",
+        "attribute": "04000000B8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_D": {
+        "name": "sys_mgRank_hsmg106_1_D",
+        "message": "T\u00eate hors de l'eau pendant\r\n5-9 secondes",
+        "attribute": "04000000BA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_A": {
+        "name": "sys_mgRank_hsmg113_1_A",
+        "message": "Victoire en moins de 8 secondes",
+        "attribute": "04000000BC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_B": {
+        "name": "sys_mgRank_hsmg113_1_B",
+        "message": "Victoire en moins de 12 secondes",
+        "attribute": "04000000BE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_C": {
+        "name": "sys_mgRank_hsmg113_1_C",
+        "message": "Victoire en moins de 16 secondes",
+        "attribute": "04000000C0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_D": {
+        "name": "sys_mgRank_hsmg113_1_D",
+        "message": "Victoire dans le temps imparti",
+        "attribute": "04000000C2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_A": {
+        "name": "sys_mgRank_hsmg109_1_A",
+        "message": "Victoire en moins de 15 secondes",
+        "attribute": "04000000C4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_B": {
+        "name": "sys_mgRank_hsmg109_1_B",
+        "message": "Victoire en moins de 20 secondes",
+        "attribute": "04000000C6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_C": {
+        "name": "sys_mgRank_hsmg109_1_C",
+        "message": "Victoire en moins de 25 secondes",
+        "attribute": "04000000C8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_D": {
+        "name": "sys_mgRank_hsmg109_1_D",
+        "message": "Victoire dans le temps imparti",
+        "attribute": "04000000CA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_A": {
+        "name": "sys_mgRank_hsmg101_1_A",
+        "message": "Victoire avec 21-30 secondes restantes",
+        "attribute": "04000000CC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_B": {
+        "name": "sys_mgRank_hsmg101_1_B",
+        "message": "Victoire avec 11-20 secondes restantes",
+        "attribute": "04000000CE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_C": {
+        "name": "sys_mgRank_hsmg101_1_C",
+        "message": "Victoire avec 6-10 secondes restantes",
+        "attribute": "04000000D0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_D": {
+        "name": "sys_mgRank_hsmg101_1_D",
+        "message": "Victoire avec 1-5 secondes restantes",
+        "attribute": "04000000D2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_A": {
+        "name": "sys_mgRank_hsmg114_1_A",
+        "message": "Tous les adversaires trouv\u00e9s\r\navant la 2\ue030 manche",
+        "attribute": "04000000D4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_B": {
+        "name": "sys_mgRank_hsmg114_1_B",
+        "message": "Tous les adversaires trouv\u00e9s\r\navant la 3\ue030 manche",
+        "attribute": "04000000D6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_C": {
+        "name": "sys_mgRank_hsmg114_1_C",
+        "message": "-",
+        "attribute": "04000000D8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_D": {
+        "name": "sys_mgRank_hsmg114_1_D",
+        "message": "-",
+        "attribute": "04000000DA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_A": {
+        "name": "sys_mgRank_hsmg110_1_A",
+        "message": "Essai marqu\u00e9 en moins\r\nde 15 secondes",
+        "attribute": "04000000DC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_B": {
+        "name": "sys_mgRank_hsmg110_1_B",
+        "message": "Essai marqu\u00e9 en moins\r\nde 20 secondes",
+        "attribute": "04000000DE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_C": {
+        "name": "sys_mgRank_hsmg110_1_C",
+        "message": "Essai marqu\u00e9 en moins\r\nde 25 secondes",
+        "attribute": "04000000E0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_D": {
+        "name": "sys_mgRank_hsmg110_1_D",
+        "message": "Essai marqu\u00e9 avant la\r\nfin du temps imparti",
+        "attribute": "04000000E2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_A": {
+        "name": "sys_mgRank_hsmg115_1_A",
+        "message": "Victoire en 2 manches",
+        "attribute": "04000000E4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_B": {
+        "name": "sys_mgRank_hsmg115_1_B",
+        "message": "Victoire \u00e0 la troisi\u00e8me manche",
+        "attribute": "04000000E6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_C": {
+        "name": "sys_mgRank_hsmg115_1_C",
+        "message": "Victoire \u00e0 la quatri\u00e8me manche",
+        "attribute": "04000000E8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_D": {
+        "name": "sys_mgRank_hsmg115_1_D",
+        "message": "Victoire \u00e0 la cinqui\u00e8me manche",
+        "attribute": "04000000EA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_A": {
+        "name": "sys_mgRank_hsmg103_1_A",
+        "message": "Victoire",
+        "attribute": "04000000EC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_B": {
+        "name": "sys_mgRank_hsmg103_1_B",
+        "message": "-",
+        "attribute": "04000000EE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_C": {
+        "name": "sys_mgRank_hsmg103_1_C",
+        "message": "-",
+        "attribute": "04000000F0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_D": {
+        "name": "sys_mgRank_hsmg103_1_D",
+        "message": "-",
+        "attribute": "04000000F2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_A": {
+        "name": "sys_mgRank_hsmg107_1_A",
+        "message": "Victoire",
+        "attribute": "04000000F4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_B": {
+        "name": "sys_mgRank_hsmg107_1_B",
+        "message": "-",
+        "attribute": "04000000F6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_C": {
+        "name": "sys_mgRank_hsmg107_1_C",
+        "message": "-",
+        "attribute": "04000000F8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_D": {
+        "name": "sys_mgRank_hsmg107_1_D",
+        "message": "-",
+        "attribute": "04000000FA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_A": {
+        "name": "sys_mgRank_hsmg105_1_A",
+        "message": "Victoire en moins de 8 secondes",
+        "attribute": "04000000FC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_B": {
+        "name": "sys_mgRank_hsmg105_1_B",
+        "message": "Victoire en moins de 12 secondes",
+        "attribute": "04000000FE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_C": {
+        "name": "sys_mgRank_hsmg105_1_C",
+        "message": "Victoire en moins de 16 secondes",
+        "attribute": "0400000000120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_D": {
+        "name": "sys_mgRank_hsmg105_1_D",
+        "message": "Victoire dans le temps imparti",
+        "attribute": "0400000002120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_A": {
+        "name": "sys_mgRank_hsmg112_1_A",
+        "message": "Seulement 0-2 buts encaiss\u00e9s",
+        "attribute": "0400000004120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_B": {
+        "name": "sys_mgRank_hsmg112_1_B",
+        "message": "Seulement 3-4 buts encaiss\u00e9s",
+        "attribute": "0400000006120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_C": {
+        "name": "sys_mgRank_hsmg112_1_C",
+        "message": "5-7 buts encaiss\u00e9s",
+        "attribute": "0400000008120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_D": {
+        "name": "sys_mgRank_hsmg112_1_D",
+        "message": "8-9 buts encaiss\u00e9s",
+        "attribute": "040000000A120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_A": {
+        "name": "sys_mgRank_hsmg108_1_A",
+        "message": "Victoire avant la\r\npremi\u00e8re souche",
+        "attribute": "040000000C120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_B": {
+        "name": "sys_mgRank_hsmg108_1_B",
+        "message": "Victoire avant la\r\ndeuxi\u00e8me rampe",
+        "attribute": "040000000E120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_C": {
+        "name": "sys_mgRank_hsmg108_1_C",
+        "message": "Victoire avant la cl\u00f4ture\r\npr\u00e8s de l'arriv\u00e9e",
+        "attribute": "0400000010120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_D": {
+        "name": "sys_mgRank_hsmg108_1_D",
+        "message": "Victoire avant l'arriv\u00e9e",
+        "attribute": "0400000012120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_A": {
+        "name": "sys_mgRank_hsmg104_1_A",
+        "message": "Jeu termin\u00e9 sans erreur",
+        "attribute": "0400000014120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_B": {
+        "name": "sys_mgRank_hsmg104_1_B",
+        "message": "Jeu termin\u00e9 avec\r\nune seule erreur",
+        "attribute": "0400000016120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_C": {
+        "name": "sys_mgRank_hsmg104_1_C",
+        "message": "Jeu termin\u00e9 avec\r\ndeux erreurs",
+        "attribute": "0400000018120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_D": {
+        "name": "sys_mgRank_hsmg104_1_D",
+        "message": "Jeu termin\u00e9 avec\r\ntrois erreurs ou plus",
+        "attribute": "040000001A120000",
+        "style_index": 4294967295
+    },
+    "sys_pause_bd00_text01": {
+        "name": "sys_pause_bd00_text01",
+        "message": "Si vous voulez jouer plus longtemps, vous pouvez\r\najouter des tours une fois par partie. Cela n'est\r\ncependant pas possible pendant le dernier tour.",
+        "attribute": "040000001C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text02": {
+        "name": "sys_pause_bd00_text02",
+        "message": "Quand vous jouez avec un ami, seul le joueur\r\nqui a cr\u00e9\u00e9 le salon peut ajouter des tours.",
+        "attribute": "040000001E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text03": {
+        "name": "sys_pause_bd00_text03",
+        "message": "En cas d'ajout de tours, les effets des cinq derniers\r\ntours, comme les duels et l'augmentation du nombre de\r\npi\u00e8ces \ue020 re\u00e7ues sur certaines cases, seront d\u00e9sactiv\u00e9s.",
+        "attribute": "0400000020120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text04": {
+        "name": "sys_pause_bd00_text04",
+        "message": "Les points jaunes sur la carte indiquent o\u00f9 la bourse\r\nstellaire peut appara\u00eetre. Lorsque Toadette s'envole,\r\nelle atterrit ensuite sur l'un de ces points jaunes.",
+        "attribute": "0400000022120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text05": {
+        "name": "sys_pause_bd00_text05",
+        "message": "Appuyez sur \ue002 ou \ue001 pour utiliser des autocollants\r\npendant un jeu de plateau. Il y en a beaucoup \u00e0\r\nessayer, alors changez-les avec \ue015.",
+        "attribute": "0400000024120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text00": {
+        "name": "sys_pause_bd01_text00",
+        "message": "R\u00e9cup\u00e9rez des \u00e9toiles \ue021 sur un d\u00e9licieux g\u00e2teau !\r\nMais interdiction de l'entamer avant la fin de la\r\npartie et la victoire d'une superstar !",
+        "attribute": "0400000026120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text01": {
+        "name": "sys_pause_bd01_text01",
+        "message": "D\u00e9corez le g\u00e2teau de fraises pour gagner des\r\npi\u00e8ces \ue020 ou des \u00e9toiles \ue021 ! Les petites fraises\r\nco\u00fbtent 5 pi\u00e8ces \ue020 et les grosses 30.",
+        "attribute": "0400000028120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text02": {
+        "name": "sys_pause_bd01_text02",
+        "message": "Il y a toujours une graine gagnante parmi celles de la\r\nloterie organis\u00e9e par le Goomba. Si les trois premi\u00e8res\r\ns'av\u00e8rent perdantes, la derni\u00e8re devrait \u00eatre la bonne.",
+        "attribute": "040000002A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text03": {
+        "name": "sys_pause_bd01_text03",
+        "message": "Atterrissez sur la case d'un de vos fraisiers pour\r\nr\u00e9cup\u00e9rer des pi\u00e8ces \ue020. Et en plus, la plante\r\nrestera l\u00e0 !",
+        "attribute": "040000002C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text04": {
+        "name": "sys_pause_bd01_text04",
+        "message": "Les petites fraises donnent de robustes petites\r\nplantes. Parfois, elles ne disparaissent pas apr\u00e8s\r\navoir vol\u00e9 des pi\u00e8ces \ue020.",
+        "attribute": "040000002E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text05": {
+        "name": "sys_pause_bd01_text05",
+        "message": "Au sommet du g\u00e2teau se trouve une couronne\r\nen chocolat. C'est peut-\u00eatre une r\u00e9compense\r\ndestin\u00e9e \u00e0 la superstar !",
+        "attribute": "0400000030120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text06": {
+        "name": "sys_pause_bd01_text06",
+        "message": "Bowser est perch\u00e9 sur le flan. Comment r\u00e9ussit-il\r\n\u00e0 garder son allure royale et \u00e0 ne pas sombrer\r\ndans la cr\u00e8me ?",
+        "attribute": "0400000032120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text00": {
+        "name": "sys_pause_bd02_text00",
+        "message": "Faites tout ce que vous pouvez pour rester\r\nen dehors de la ligne de mire du rayon de\r\npi\u00e8ces de Bowser !",
+        "attribute": "0400000034120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text01": {
+        "name": "sys_pause_bd02_text01",
+        "message": "Si vous \u00eates touch\u00e9s par le rayon de pi\u00e8ces\r\nde Bowser, vous perdrez toutes vos pi\u00e8ces \ue020.\r\nCette station spatiale est bien dangereuse...",
+        "attribute": "0400000036120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text02": {
+        "name": "sys_pause_bd02_text02",
+        "message": "La patrouille Snifit ne manque jamais \u00e0 son devoir\r\net se lancera \u00e0 la poursuite des chauffards.",
+        "attribute": "0400000038120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text03": {
+        "name": "sys_pause_bd02_text03",
+        "message": "Faites attention quand le compteur affiche 1 !\r\nTrouvez vite un chemin pour ne pas rester dans\r\nla ligne de mire.",
+        "attribute": "040000003A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text04": {
+        "name": "sys_pause_bd02_text04",
+        "message": "Si vous voyez un vaisseau spatial hors de\r\ncontr\u00f4le, vous apercevrez peut-\u00eatre un\r\nWhomp ou un Thwomp aux commandes !",
+        "attribute": "040000003C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text05": {
+        "name": "sys_pause_bd02_text05",
+        "message": "Un OVNI s'est \u00e9cras\u00e9 quelque part sur le plateau.\r\nMais o\u00f9 sont les extraterrestres ?",
+        "attribute": "040000003E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text06": {
+        "name": "sys_pause_bd02_text06",
+        "message": "Le rayon de pi\u00e8ces de Bowser fonctionne\r\n\u00e0 l'\u00e9nergie solaire. C'est du moins ce qu'il\r\npr\u00e9tend...",
+        "attribute": "0400000040120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text00": {
+        "name": "sys_pause_bd03_text00",
+        "message": "Les chemins de ce plateau s'enfoncent dans les\r\nprofondeurs de la for\u00eat. On dit m\u00eame que certains\r\naventuriers s'y seraient perdus. Faites attention.",
+        "attribute": "0400000042120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text01": {
+        "name": "sys_pause_bd03_text01",
+        "message": "Les panneaux semblent constamment changer de\r\ndirection. Si vous n'y pr\u00eatez pas attention, vous\r\npourriez bien vous retrouver sur le mauvais chemin.",
+        "attribute": "0400000044120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text02": {
+        "name": "sys_pause_bd03_text02",
+        "message": "Vous pouvez prendre les fruits des grands arbres.\r\nCela n'est cependant pas sans cons\u00e9quence, alors\r\nchoisissez-en un bien m\u00fbr.",
+        "attribute": "0400000046120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text03": {
+        "name": "sys_pause_bd03_text03",
+        "message": "Si vous vous aventurez plus profond\u00e9ment\r\ndans les bois, ne baissez pas votre garde.\r\nUn arbre malveillant s'y trouve.",
+        "attribute": "0400000048120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text04": {
+        "name": "sys_pause_bd03_text04",
+        "message": "La for\u00eat est verte et luxuriante, et elle abrite de\r\nnombreuses cr\u00e9atures. Cependant, m\u00eame les\r\nanimaux de la for\u00eat s'y perdent parfois.",
+        "attribute": "040000004A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text05": {
+        "name": "sys_pause_bd03_text05",
+        "message": "Topi Taupe peut modifier la direction des panneaux\r\nen \u00e9change de quelques pi\u00e8ces \ue020. Quant au prix,\r\nil change selon son bon vouloir !",
+        "attribute": "040000004C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text06": {
+        "name": "sys_pause_bd03_text06",
+        "message": "Deux fruits de diff\u00e9rentes sortes tombent des\r\narbres en m\u00eame temps. Vous ne pourrez en choisir\r\nqu'un, alors choisissez sagement !",
+        "attribute": "040000004E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text00": {
+        "name": "sys_pause_bd04_text00",
+        "message": "Vous aurez besoin de passer d'une \u00eele \u00e0 l'autre pour\r\nr\u00e9cup\u00e9rer l'\u00e9toile \ue021. Faites attention, le chemin\r\npourrait bien \u00eatre compliqu\u00e9.",
+        "attribute": "0400000050120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text01": {
+        "name": "sys_pause_bd04_text01",
+        "message": "Vous pouvez augmenter le prix \u00e0 payer au Thwomp\r\nautant que vous le voulez, mais il ne pourra pas\r\nbaisser. Alors attention \u00e0 ne pas trop l'augmenter !",
+        "attribute": "0400000052120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text02": {
+        "name": "sys_pause_bd04_text02",
+        "message": "La ruse de Cheep Chomp d\u00e9placera l'\u00e9toile \ue021\r\nd'une \u00eele \u00e0 l'autre. R\u00e9cup\u00e9rez-la avant qu'elle\r\nne change de place !",
+        "attribute": "0400000054120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text03": {
+        "name": "sys_pause_bd04_text03",
+        "message": "Si vous y regardez de plus pr\u00e8s, les deux \u00eeles ont la\r\nforme de Yoshis ! Celle avec les past\u00e8ques\r\ns'appelle l'\u00eele past\u00e8que.",
+        "attribute": "0400000056120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text04": {
+        "name": "sys_pause_bd04_text04",
+        "message": "Si vous y regardez de plus pr\u00e8s, les deux \u00eeles\r\nont la forme de Yoshis ! Celle avec les melons\r\ns'appelle l'\u00eele melon.",
+        "attribute": "0400000058120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text05": {
+        "name": "sys_pause_bd04_text05",
+        "message": "Il y a une \u00e9pave au large du plateau. Personne ne\r\nsait quand a eu lieu le naufrage, ni comment, mais\r\nselon la l\u00e9gende, le navire transportait des fruits !",
+        "attribute": "040000005A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text06": {
+        "name": "sys_pause_bd04_text06",
+        "message": "Des past\u00e8ques, des melons, des pommes, des\r\nbananes... Ce plateau regorge de fruits ! Peut-\u00eatre\r\nest-ce la r\u00e9compense de la superstar ?",
+        "attribute": "040000005C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text00": {
+        "name": "sys_pause_bd05_text00",
+        "message": "Des fant\u00f4mes se rassemblent ici, la nuit ! Si vous\r\nvoulez les voir, voyagez de jour vers les endroits\r\no\u00f9 ils pourraient se montrer.",
+        "attribute": "040000005E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text01": {
+        "name": "sys_pause_bd05_text01",
+        "message": "Quand ils dorment, la nuit, les Whomps ne bougent\r\npas. Afin de ne pas rester coinc\u00e9s, profitez de la\r\njourn\u00e9e pour prendre les chemins qu'ils bloquent.",
+        "attribute": "0400000060120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text02": {
+        "name": "sys_pause_bd05_text02",
+        "message": "La t\u00e9l\u00e9portation de M. \u0152il est moins ch\u00e8re la nuit\r\nque le jour, alors essayez de vous y arr\u00eater\r\napr\u00e8s le coucher du soleil !",
+        "attribute": "0400000062120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text03": {
+        "name": "sys_pause_bd05_text03",
+        "message": "Les fant\u00f4mes sortent principalement la nuit,\r\nmais il y a un endroit o\u00f9 Boo se montre en journ\u00e9e.\r\nLe trouverez-vous ?",
+        "attribute": "0400000064120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text04": {
+        "name": "sys_pause_bd05_text04",
+        "message": "Quel est ce vacarme qui provient du manoir\r\nmyst\u00e9rieux chaque nuit ? C'est comme si\r\nune f\u00eate s'y d\u00e9roulait...",
+        "attribute": "0400000066120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text05": {
+        "name": "sys_pause_bd05_text05",
+        "message": "Il y a une balan\u00e7oire qui est immobile pendant le\r\njour, et qui bouge la nuit. Mais personne n'y est\r\nassis ! De quoi donner la chair de poule !",
+        "attribute": "0400000068120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text06": {
+        "name": "sys_pause_bd05_text06",
+        "message": "Si une t\u00e9l\u00e9portation de M. \u0152il croise votre chemin,\r\nvous pourriez bien \u00eatre t\u00e9l\u00e9port\u00e9s avec !\r\nEt gratuitement en plus !",
+        "attribute": "040000006A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text00": {
+        "name": "sys_pause_hsmm01_text00",
+        "message": "Vous pouvez jouer aux mini-jeux de votre choix\r\nparmi la centaine de mini-jeux disponibles.\r\nC'est un bon moyen de s'entra\u00eener !",
+        "attribute": "040000006C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text01": {
+        "name": "sys_pause_hsmm01_text01",
+        "message": "Entra\u00eenez-vous ici autant que vous le d\u00e9sirez\r\navant d'affronter des joueurs du monde entier !",
+        "attribute": "040000006E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text02": {
+        "name": "sys_pause_hsmm01_text02",
+        "message": "Jouez \u00e0 tous vos mini-jeux favoris, d\u00e8s que\r\nl'envie vous prend !",
+        "attribute": "0400000070120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text00": {
+        "name": "sys_pause_hsmm02_text00",
+        "message": "Faites monter la pression dans d'intenses jeux de\r\nsport, ou d\u00e9tendez-vous avec des jeux de puzzle.",
+        "attribute": "0400000072120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text01": {
+        "name": "sys_pause_hsmm02_text01",
+        "message": "Cramponnez-vous \u00e0 votre manette et ne la l\u00e2chez\r\npas dans ces palpitants jeux de sport 2 contre 2 !",
+        "attribute": "0400000074120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text02": {
+        "name": "sys_pause_hsmm02_text02",
+        "message": "Mettez vos m\u00e9ninges \u00e0 l'\u00e9preuve dans ces puzzles\r\ncomp\u00e9titifs ! Donnez-vous \u00e0 fond pour atteindre\r\nla victoire !",
+        "attribute": "0400000076120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text03": {
+        "name": "sys_pause_hsmm02_text03",
+        "message": "Relevez un d\u00e9fi contre vous-m\u00eame\r\ndans le mode Pour le score !",
+        "attribute": "0400000078120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text00": {
+        "name": "sys_pause_hsmm03_text00",
+        "message": "Gagnez des pi\u00e8ces \ue020 en fonction de vos\r\nperformances dans les mini-jeux. L'objectif est\r\nsimple : r\u00e9cup\u00e9rez plus de pi\u00e8ces \ue020 que les autres !",
+        "attribute": "040000007A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text01": {
+        "name": "sys_pause_hsmm03_text01",
+        "message": "Vous gardez les pi\u00e8ces \ue020 que vous gagnez dans\r\nles mini-jeux pi\u00e8ces en folie. C'est l'occasion de\r\nprendre la t\u00eate de la comp\u00e9tition !",
+        "attribute": "040000007C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text02": {
+        "name": "sys_pause_hsmm03_text02",
+        "message": "Vous remportez deux fois plus de pi\u00e8ces \ue020 dans\r\nles mini-jeux bonus. C'est parfait pour rattraper\r\nson retard sur les adversaires !",
+        "attribute": "040000007E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text00": {
+        "name": "sys_pause_hsmm04_text00",
+        "message": "Un combat entre deux \u00e9quipes de deux !\r\nCoop\u00e9rez pour vaincre vos adversaires !",
+        "attribute": "0400000080120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text01": {
+        "name": "sys_pause_hsmm04_text01",
+        "message": "Le travail d'\u00e9quipe, c'est avant tout une question de\r\nconfiance et de communication. Ne l'oubliez pas,\r\nsi vous voulez sortir vainqueurs !",
+        "attribute": "0400000082120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text02": {
+        "name": "sys_pause_hsmm04_text02",
+        "message": "Travaillez ensemble et serrez-vous les coudes\r\npour l'emporter ensemble !",
+        "attribute": "0400000084120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_3_text00": {
+        "name": "sys_pause_hsmm05_3_text00",
+        "message": "Coop\u00e9rez avec vos deux partenaires et\r\nessayez de rester invaincus dans des\r\nmini-jeux seul contre tous !",
+        "attribute": "0400000086120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_3_text01": {
+        "name": "sys_pause_hsmm05_3_text01",
+        "message": "\u00c0 la premi\u00e8re d\u00e9faite, c'est la fin !\r\nVous devrez coop\u00e9rer au sein de\r\nvotre \u00e9quipe de trois pour l'emporter !",
+        "attribute": "0400000088120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_1_text00": {
+        "name": "sys_pause_hsmm05_1_text00",
+        "message": "C'est votre tour de vous battre en solitaire\r\ncontre une \u00e9quipe de trois dans des mini-jeux\r\nseul contre tous !",
+        "attribute": "040000008A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_1_text01": {
+        "name": "sys_pause_hsmm05_1_text01",
+        "message": "\u00c0 la premi\u00e8re d\u00e9faite, c'est la fin ! Ne c\u00e9dez\r\nrien contre une \u00e9quipe de trois, si vous voulez\r\ncontinuer l'aventure !",
+        "attribute": "040000008C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text00": {
+        "name": "sys_pause_hsmm06_text00",
+        "message": "Visez le haut du classement parmi des joueurs\r\ndu monde entier. Attention, \u00e0 la premi\u00e8re\r\nd\u00e9faite, l'aventure se terminera.",
+        "attribute": "040000008E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text01": {
+        "name": "sys_pause_hsmm06_text01",
+        "message": "Mettez vos talents \u00e0 l'\u00e9preuve en affrontant\r\ndes joueurs du monde entier !",
+        "attribute": "0400000090120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text02": {
+        "name": "sys_pause_hsmm06_text02",
+        "message": "Battez des adversaires du monde entier\r\nles uns apr\u00e8s les autres, et montrez\r\nde quoi vous \u00eates capable !",
+        "attribute": "0400000092120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text00": {
+        "name": "sys_pause_hsmm07_text00",
+        "message": "Affrontez des adversaires du monde entier\r\nau travers de packs quotidiens de mini-jeux !",
+        "attribute": "0400000094120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text01": {
+        "name": "sys_pause_hsmm07_text01",
+        "message": "Ne perdez pas votre concentration, sinon\r\nvous devrez vous en remettre \u00e0 la chance.",
+        "attribute": "0400000096120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text02": {
+        "name": "sys_pause_hsmm07_text02",
+        "message": "Terminez les mini-jeux avant vos adversaires\r\ndans cette course \u00e0 la premi\u00e8re place !",
+        "attribute": "0400000098120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text03": {
+        "name": "sys_pause_hsmm07_text03",
+        "message": "Pour l'emporter, r\u00e9cup\u00e9rez plus de pi\u00e8ces \ue020\r\nque vos adversaires.",
+        "attribute": "040000009A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text04": {
+        "name": "sys_pause_hsmm07_text04",
+        "message": "Restez en jeu plus longtemps que vos\r\nadversaires. Le dernier l'emportera !",
+        "attribute": "040000009C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text05": {
+        "name": "sys_pause_hsmm07_text05",
+        "message": "Avoir un bon sens de l'observation sera essentiel\r\npour l'emporter. Gardez vos yeux riv\u00e9s sur le jeu\r\net faites travailler vos m\u00e9ninges !",
+        "attribute": "040000009E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text06": {
+        "name": "sys_pause_hsmm07_text06",
+        "message": "Une confrontation en face \u00e0 face.\r\nEn sortirez-vous vainqueur ?",
+        "attribute": "04000000A0120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text07": {
+        "name": "sys_pause_hsmm07_text07",
+        "message": "Ne ralentissez pas et franchissez\r\nla ligne d'arriv\u00e9e avant les autres.\r\nPr\u00eats, feu... partez !",
+        "attribute": "04000000A2120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text08": {
+        "name": "sys_pause_hsmm07_text08",
+        "message": "Vos adversaires ne sont pas les seuls \u00e0\r\ns'opposer \u00e0 votre victoire. Restez en jeu\r\nplus longtemps que les autres !",
+        "attribute": "04000000A4120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text09": {
+        "name": "sys_pause_hsmm07_text09",
+        "message": "Les conditions de jeu ne sont peut-\u00eatre pas\r\nen votre faveur, mais n'abandonnez jamais\r\ndans ces mini-jeux seul contre tous.",
+        "attribute": "04000000A6120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text10": {
+        "name": "sys_pause_hsmm07_text10",
+        "message": "Sautez toujours plus vite et toujours\r\nplus haut que vos adversaires afin de\r\ntriompher !",
+        "attribute": "04000000A8120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text11": {
+        "name": "sys_pause_hsmm07_text11",
+        "message": "D\u00e9marquez-vous du reste de la comp\u00e9tition\r\ndans ces mini-jeux de sport !",
+        "attribute": "04000000AA120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text12": {
+        "name": "sys_pause_hsmm07_text12",
+        "message": "Ramassez plus de pi\u00e8ces \ue020 que vos\r\nadversaires dans des mini-jeux pi\u00e8ces\r\nen folie seul contre tous.",
+        "attribute": "04000000AC120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text13": {
+        "name": "sys_pause_hsmm07_text13",
+        "message": "Envoyez valser vos adversaires avant\r\nqu'ils ne s'occupent de votre cas !",
+        "attribute": "04000000AE120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text14": {
+        "name": "sys_pause_hsmm07_text14",
+        "message": "Votre technique sera mise \u00e0 l'\u00e9preuve dans\r\nces mini-jeux o\u00f9 la pr\u00e9cision est la cl\u00e9 !",
+        "attribute": "04000000B0120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text15": {
+        "name": "sys_pause_hsmm07_text15",
+        "message": "Mettez-vous en chasse ou fuyez.\r\nCela d\u00e9pendra de votre camp !",
+        "attribute": "04000000B2120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text16": {
+        "name": "sys_pause_hsmm07_text16",
+        "message": "Ne vous pr\u00e9occupez pas des autres.\r\nVotre objectif est de rester en jeu !",
+        "attribute": "04000000B4120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text17": {
+        "name": "sys_pause_hsmm07_text17",
+        "message": "Testez vos r\u00e9flexes avec ces mini-jeux.\r\nNe perdez pas de temps pour vous d\u00e9cider !",
+        "attribute": "04000000B6120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text18": {
+        "name": "sys_pause_hsmm07_text18",
+        "message": "Visez vos adversaires et tirez\r\nsans h\u00e9siter pour l'emporter !",
+        "attribute": "04000000B8120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text19": {
+        "name": "sys_pause_hsmm07_text19",
+        "message": "Quoi qu'il faille r\u00e9cup\u00e9rer, r\u00e9cup\u00e9rez-en\r\nplus que vos adversaires pour sortir\r\nvainqueur !",
+        "attribute": "04000000BA120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text20": {
+        "name": "sys_pause_hsmm07_text20",
+        "message": "Frayez-vous un passage dans des espaces\r\n\u00e9troits et dans la foule pour finir en t\u00eate !",
+        "attribute": "04000000BC120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text21": {
+        "name": "sys_pause_hsmm07_text21",
+        "message": "Gardez votre calme alors que la pression\r\nmonte dans ces mini-jeux seul contre tous.",
+        "attribute": "04000000BE120000",
+        "style_index": 393
+    },
+    "sys_checkNetwork_mw00": {
+        "name": "sys_checkNetwork_mw00",
+        "message": "Connexion \u00e0 Internet...",
+        "attribute": "04000000C0120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first": {
+        "name": "sys_check_Network_first",
+        "message": "[0:2 60-00]Une fois la connexion \u00e0 Internet\r\n\u00e9tablie, vos informations de joueur\r\nseront affich\u00e9es dans le jeu, ainsi\r\nque sur un site Internet associ\u00e9.[0:2 64-00]",
+        "attribute": "04000000C2120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first_2": {
+        "name": "sys_check_Network_first_2",
+        "message": "Les r\u00e8gles communautaires de\r\nNintendo, disponibles sur notre\r\nsite, s'appliquent lorsque vous\r\njouez en ligne. Traitez toujours\r\nles autres avec respect quand\r\nvous jouez en ligne.",
+        "attribute": "04000000C4120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first_a0": {
+        "name": "sys_check_Network_first_a0",
+        "message": "Se connecter",
+        "attribute": "04000000C6120000",
+        "style_index": 9
+    },
+    "sys_check_Network_first_a1": {
+        "name": "sys_check_Network_first_a1",
+        "message": "Ne pas se connecter",
+        "attribute": "04000000C8120000",
+        "style_index": 9
+    },
+    "sys_check_Network_ver": {
+        "name": "sys_check_Network_ver",
+        "message": "Vous devez mettre le logiciel\r\n\u00e0 jour pour jouer en ligne.",
+        "attribute": "04000000CA120000",
+        "style_index": 8
+    },
+    "sys_password_host_header": {
+        "name": "sys_password_host_header",
+        "message": "Choix du code",
+        "attribute": "04000000CC120000",
+        "style_index": 4294967295
+    },
+    "sys_password_host_order": {
+        "name": "sys_password_host_order",
+        "message": "Choisissez un code \u00e0 quatre chiffres.",
+        "attribute": "04000000CE120000",
+        "style_index": 4294967295
+    },
+    "sys_password_host_enter": {
+        "name": "sys_password_host_enter",
+        "message": "OK",
+        "attribute": "04000000D0120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_header": {
+        "name": "sys_password_client_header",
+        "message": "Saisie du code",
+        "attribute": "04000000D2120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_order": {
+        "name": "sys_password_client_order",
+        "message": "Entrez les quatre chiffres du code.",
+        "attribute": "04000000D4120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_enter": {
+        "name": "sys_password_client_enter",
+        "message": "OK",
+        "attribute": "04000000D6120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_header": {
+        "name": "sys_roomID_header",
+        "message": "Saisie de l'identifiant du salon",
+        "attribute": "04000000D8120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_order": {
+        "name": "sys_roomID_order",
+        "message": "Entrez l'identifiant du salon.",
+        "attribute": "04000000DA120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_enter": {
+        "name": "sys_roomID_enter",
+        "message": "OK",
+        "attribute": "04000000DC120000",
+        "style_index": 4294967295
+    },
+    "inst_hsmg901_rule": {
+        "name": "inst_hsmg901_rule",
+        "message": "Propulsez la fus\u00e9e\r\njusqu'\u00e0 l'objet voulu !",
+        "attribute": "04000000DE120000",
+        "style_index": 192
+    },
+    "inst_hsmg901_ctrl00": {
+        "name": "inst_hsmg901_ctrl00",
+        "message": "\ue000 (rapidement) Lever le marteau",
+        "attribute": "04000000E0120000",
+        "style_index": 191
+    },
+    "inst_hsmg901_ctrl01": {
+        "name": "inst_hsmg901_ctrl01",
+        "message": "\ue003 Frapper",
+        "attribute": "04000000E2120000",
+        "style_index": 191
+    },
+    "inst_hsmg902_rule": {
+        "name": "inst_hsmg902_rule",
+        "message": "Tirez pour toucher\r\nl'objet voulu !",
+        "attribute": "04000000E4120000",
+        "style_index": 192
+    },
+    "inst_hsmg902_ctrl00": {
+        "name": "inst_hsmg902_ctrl00",
+        "message": "\ue000 Tirer la fl\u00e8che",
+        "attribute": "04000000E6120000",
+        "style_index": 191
+    },
+    "inst_hsmg903_rule": {
+        "name": "inst_hsmg903_rule",
+        "message": "Arr\u00eatez la roue pour\r\ngagner un objet !",
+        "attribute": "04000000E8120000",
+        "style_index": 192
+    },
+    "inst_hsmg903_ctrl00": {
+        "name": "inst_hsmg903_ctrl00",
+        "message": "\ue000 Appuyer sur le bouton",
+        "attribute": "04000000EA120000",
+        "style_index": 191
+    },
+    "inst_hsmg904_rule": {
+        "name": "inst_hsmg904_rule",
+        "message": "Sautez et atterrissez\r\nsur un tonneau !",
+        "attribute": "04000000EC120000",
+        "style_index": 192
+    },
+    "inst_hsmg904_ctrl00": {
+        "name": "inst_hsmg904_ctrl00",
+        "message": "\ue000 Sauter",
+        "attribute": "04000000EE120000",
+        "style_index": 191
+    },
+    "inst_hsmg905_rule": {
+        "name": "inst_hsmg905_rule",
+        "message": "Ne perdez pas de vue l'objet voulu !",
+        "attribute": "04000000F0120000",
+        "style_index": 192
+    },
+    "inst_hsmg905_ctrl00": {
+        "name": "inst_hsmg905_ctrl00",
+        "message": "\ue015 Se d\u00e9placer",
+        "attribute": "04000000F2120000",
+        "style_index": 191
+    },
+    "inst_hsmg905_ctrl01": {
+        "name": "inst_hsmg905_ctrl01",
+        "message": "\ue003 Attaquer",
+        "attribute": "04000000F4120000",
+        "style_index": 191
+    },
+    "sys_ctrlSp_mes": {
+        "name": "sys_ctrlSp_mes",
+        "message": "Quitter la partie ?",
+        "attribute": "04000000F6120000",
+        "style_index": 8
+    },
+    "sys_ctrlSp_mes_a0": {
+        "name": "sys_ctrlSp_mes_a0",
+        "message": "Oui",
+        "attribute": "04000000F8120000",
+        "style_index": 9
+    },
+    "sys_ctrlSp_mes_a1": {
+        "name": "sys_ctrlSp_mes_a1",
+        "message": "Non",
+        "attribute": "04000000FA120000",
+        "style_index": 9
+    },
+    "sys_bdM_save_tlp": {
+        "name": "sys_bdM_save_tlp",
+        "message": "Sauvegarde effectu\u00e9e",
+        "attribute": "04000000FC120000",
+        "style_index": 537
+    },
+    "sys_RTT_high_tlp": {
+        "name": "sys_RTT_high_tlp",
+        "message": "La connexion est instable.",
+        "attribute": "04000000FE120000",
+        "style_index": 572
+    },
+    "mn_friend_mw_search": {
+        "name": "mn_friend_mw_search",
+        "message": "Recherche...",
+        "attribute": "0400000000130000",
+        "style_index": 8
+    },
+    "sys_random_AFK_mw00": {
+        "name": "sys_random_AFK_mw00",
+        "message": "Vous \u00eates inactif depuis trop\r\nlongtemps. La communication\r\na \u00e9t\u00e9 interrompue.\r\n[0:2 50-00]Vous ne pouvez plus rejoindre la partie.[0:2 64-00]",
+        "attribute": "0400000002130000",
+        "style_index": 8
+    }
+}

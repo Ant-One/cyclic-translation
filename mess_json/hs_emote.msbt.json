@@ -1,0 +1,38 @@
+{
+    "emo_ctrl_sendSt": {
+        "name": "emo_ctrl_sendSt",
+        "message": "\ue000 Utiliser autocollant",
+        "attribute": "0400000038000000",
+        "style_index": 73
+    },
+    "emo_ctrl_listOpen": {
+        "name": "emo_ctrl_listOpen",
+        "message": "\ue015 Autocollants",
+        "attribute": "040000003A000000",
+        "style_index": 74
+    },
+    "emo_ctrl_listClose": {
+        "name": "emo_ctrl_listClose",
+        "message": "\ue003 Masquer",
+        "attribute": "040000003C000000",
+        "style_index": 73
+    },
+    "emo_ctrl_mute": {
+        "name": "emo_ctrl_mute",
+        "message": "\ue00f/\ue00e Afficher autocollants",
+        "attribute": "040000003E000000",
+        "style_index": 75
+    },
+    "emo_ctrl_muteOff": {
+        "name": "emo_ctrl_muteOff",
+        "message": "Afficher",
+        "attribute": "0400000040000000",
+        "style_index": 76
+    },
+    "emo_ctrl_muteOn": {
+        "name": "emo_ctrl_muteOn",
+        "message": "Cacher",
+        "attribute": "0400000042000000",
+        "style_index": 76
+    }
+}

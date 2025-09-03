@@ -1,0 +1,350 @@
+{
+    "hsmn04_friend_host": {
+        "name": "hsmn04_friend_host",
+        "message": "Cr\u00e9er un salon ",
+        "attribute": "04000000D8010000",
+        "style_index": 509
+    },
+    "hsmn04_friend_clients": {
+        "name": "hsmn04_friend_clients",
+        "message": "Rejoindre un salon ",
+        "attribute": "04000000DA010000",
+        "style_index": 509
+    },
+    "hsmn04_friend_clients_FL": {
+        "name": "hsmn04_friend_clients_FL",
+        "message": "Chercher le salon d'un ami",
+        "attribute": "04000000DC010000",
+        "style_index": 323
+    },
+    "hsmn04_friend_clients_ID": {
+        "name": "hsmn04_friend_clients_ID",
+        "message": "Chercher avec un identifiant",
+        "attribute": "04000000DE010000",
+        "style_index": 323
+    },
+    "hsmn04_friend_host_details": {
+        "name": "hsmn04_friend_host_details",
+        "message": "Invitez des joueurs.",
+        "attribute": "04000000E0010000",
+        "style_index": 324
+    },
+    "hsmn04_friend_clients_details": {
+        "name": "hsmn04_friend_clients_details",
+        "message": "Rejoignez un salon existant.",
+        "attribute": "04000000E2010000",
+        "style_index": 324
+    },
+    "hsmn04_friend_clients_ID_details": {
+        "name": "hsmn04_friend_clients_ID_details",
+        "message": "Cherchez un salon \u00e0 partir\r\nde son identifiant.",
+        "attribute": "04000000E4010000",
+        "style_index": 324
+    },
+    "hsmn04_friend_host_limit": {
+        "name": "hsmn04_friend_host_limit",
+        "message": "Conditions d'acc\u00e8s",
+        "attribute": "04000000E6010000",
+        "style_index": 325
+    },
+    "hsmn04_friend_host_pass": {
+        "name": "hsmn04_friend_host_pass",
+        "message": "Code",
+        "attribute": "04000000E8010000",
+        "style_index": 325
+    },
+    "hsmn04_friend_host_limit_FL": {
+        "name": "hsmn04_friend_host_limit_FL",
+        "message": "Amis seulement",
+        "attribute": "04000000EA010000",
+        "style_index": 326
+    },
+    "hsmn04_friend_host_limit_any": {
+        "name": "hsmn04_friend_host_limit_any",
+        "message": "Ouvert \u00e0 tous",
+        "attribute": "04000000EC010000",
+        "style_index": 326
+    },
+    "hsmn04_friend_host_pass_on": {
+        "name": "hsmn04_friend_host_pass_on",
+        "message": "Avec",
+        "attribute": "04000000EE010000",
+        "style_index": 326
+    },
+    "hsmn04_friend_host_pass_off": {
+        "name": "hsmn04_friend_host_pass_off",
+        "message": "Sans",
+        "attribute": "04000000F0010000",
+        "style_index": 326
+    },
+    "hsmn04_friend_host_pl": {
+        "name": "hsmn04_friend_host_pl",
+        "message": "OK !",
+        "attribute": "04000000F2010000",
+        "style_index": 327
+    },
+    "hsmn04_friend_robby_info_limit": {
+        "name": "hsmn04_friend_robby_info_limit",
+        "message": "Conditions d'acc\u00e8s",
+        "attribute": "04000000F4010000",
+        "style_index": 328
+    },
+    "hsmn04_friend_robby_info_pass": {
+        "name": "hsmn04_friend_robby_info_pass",
+        "message": "Code du salon",
+        "attribute": "04000000F6010000",
+        "style_index": 328
+    },
+    "hsmn04_friend_robby_limit_FL": {
+        "name": "hsmn04_friend_robby_limit_FL",
+        "message": "Amis seulement",
+        "attribute": "04000000F8010000",
+        "style_index": 329
+    },
+    "hsmn04_friend_robby_limit_any": {
+        "name": "hsmn04_friend_robby_limit_any",
+        "message": "Ouvert \u00e0 tous",
+        "attribute": "04000000FA010000",
+        "style_index": 329
+    },
+    "hsmn04_friend_robby_pass": {
+        "name": "hsmn04_friend_robby_pass",
+        "message": "[0]",
+        "attribute": "04000000FC010000",
+        "style_index": 329
+    },
+    "hsmn04_friend_robby_notPass": {
+        "name": "hsmn04_friend_robby_notPass",
+        "message": "Aucun",
+        "attribute": "04000000FE010000",
+        "style_index": 329
+    },
+    "hsmn04_friend_roomSel_order": {
+        "name": "hsmn04_friend_roomSel_order",
+        "message": "Quel salon voulez-vous rejoindre ?",
+        "attribute": "0400000000020000",
+        "style_index": 330
+    },
+    "hsmn04_friend_roomSel_ctrl_redo": {
+        "name": "hsmn04_friend_roomSel_ctrl_redo",
+        "message": "\ue002 Nouvelle recherche",
+        "attribute": "0400000002020000",
+        "style_index": 331
+    },
+    "hsmn04_friend_roomSel_ctrl_back": {
+        "name": "hsmn04_friend_roomSel_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000004020000",
+        "style_index": 331
+    },
+    "hsmn04_friend_roomSel_name": {
+        "name": "hsmn04_friend_roomSel_name",
+        "message": "[0]",
+        "attribute": "0400000006020000",
+        "style_index": 332
+    },
+    "hsmn04_friend_roomSel_current": {
+        "name": "hsmn04_friend_roomSel_current",
+        "message": "[0]/4",
+        "attribute": "0400000008020000",
+        "style_index": 333
+    },
+    "hsmn04_connect_host_order": {
+        "name": "hsmn04_connect_host_order",
+        "message": "Combien de personnes joueront sur cette console ?",
+        "attribute": "040000000A020000",
+        "style_index": 338
+    },
+    "hsmn04_connect_host_order_a": {
+        "name": "hsmn04_connect_host_order_a",
+        "message": "[0]",
+        "attribute": "040000000C020000",
+        "style_index": 341
+    },
+    "hsmn04_connect_host_pl": {
+        "name": "hsmn04_connect_host_pl",
+        "message": "On y va !",
+        "attribute": "040000000E020000",
+        "style_index": 342
+    },
+    "hsmn04_connect_clients_order": {
+        "name": "hsmn04_connect_clients_order",
+        "message": "Combien de personnes rejoindront la partie depuis cette console ?",
+        "attribute": "0400000010020000",
+        "style_index": 338
+    },
+    "hsmn04_connect_clients_join": {
+        "name": "hsmn04_connect_clients_join",
+        "message": "Places disponibles :",
+        "attribute": "0400000012020000",
+        "style_index": 339
+    },
+    "hsmn04_connect_clients_order_a": {
+        "name": "hsmn04_connect_clients_order_a",
+        "message": "[0]",
+        "attribute": "0400000014020000",
+        "style_index": 341
+    },
+    "hsmn04_connect_clients_join_a": {
+        "name": "hsmn04_connect_clients_join_a",
+        "message": "encore [0]",
+        "attribute": "0400000016020000",
+        "style_index": 340
+    },
+    "hsmn04_connect_clients_pl": {
+        "name": "hsmn04_connect_clients_pl",
+        "message": "OK !",
+        "attribute": "0400000018020000",
+        "style_index": 342
+    },
+    "hsmn04_connect_account_name": {
+        "name": "hsmn04_connect_account_name",
+        "message": "[0]",
+        "attribute": "040000001A020000",
+        "style_index": 343
+    },
+    "hsmn04_friend_robby_ctrl_info": {
+        "name": "hsmn04_friend_robby_ctrl_info",
+        "message": "\ue001 D\u00e9tails du salon",
+        "attribute": "040000001C020000",
+        "style_index": 344
+    },
+    "hsmn04_friend_robby_ctrl_FL": {
+        "name": "hsmn04_friend_robby_ctrl_FL",
+        "message": "\ue002 Inviter des amis",
+        "attribute": "040000001E020000",
+        "style_index": 344
+    },
+    "hsmn04_friend_robby_ctrl_back": {
+        "name": "hsmn04_friend_robby_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000020020000",
+        "style_index": 344
+    },
+    "hsmn04_friend_robby_ctrl_VC": {
+        "name": "hsmn04_friend_robby_ctrl_VC",
+        "message": "\ue008/\ue009 Chat vocal",
+        "attribute": "0400000022020000",
+        "style_index": 345
+    },
+    "hsmn04_friend_robby_hostName": {
+        "name": "hsmn04_friend_robby_hostName",
+        "message": "Salon cr\u00e9\u00e9 par [0]",
+        "attribute": "0400000024020000",
+        "style_index": 346
+    },
+    "hsmn04_friend_robby_wait": {
+        "name": "hsmn04_friend_robby_wait",
+        "message": "[0] va bient\u00f4t lancer la partie.",
+        "attribute": "0400000026020000",
+        "style_index": 321
+    },
+    "hsmn04_friend_robby_pl": {
+        "name": "hsmn04_friend_robby_pl",
+        "message": "On y va !",
+        "attribute": "0400000028020000",
+        "style_index": 570
+    },
+    "sys_invite_mes": {
+        "name": "sys_invite_mes",
+        "message": "\u00c7a te dit, une partie de Mario Party Superstars ?",
+        "attribute": "040000002A020000",
+        "style_index": 4294967295
+    },
+    "hsmn04_host_header": {
+        "name": "hsmn04_host_header",
+        "message": "Cr\u00e9er un salon",
+        "attribute": "040000002C020000",
+        "style_index": 538
+    },
+    "hsmn04_clients_header": {
+        "name": "hsmn04_clients_header",
+        "message": "Rejoindre un salon",
+        "attribute": "040000002E020000",
+        "style_index": 538
+    },
+    "hsmn04_robby_roomID": {
+        "name": "hsmn04_robby_roomID",
+        "message": "Identifiant du salon : [0]",
+        "attribute": "0400000030020000",
+        "style_index": 539
+    },
+    "hsmn04_robby_mpCard": {
+        "name": "hsmn04_robby_mpCard",
+        "message": "Carte Mario Party",
+        "attribute": "0400000032020000",
+        "style_index": 540
+    },
+    "hsmn04_back_ctrl": {
+        "name": "hsmn04_back_ctrl",
+        "message": "\ue003 Retour",
+        "attribute": "0400000034020000",
+        "style_index": 542
+    },
+    "hsmn04_friend_robby_hostWait": {
+        "name": "hsmn04_friend_robby_hostWait",
+        "message": "En attente d'autres joueurs...",
+        "attribute": "0400000036020000",
+        "style_index": 321
+    },
+    "hsmn04_friend_mw_welcome0a": {
+        "name": "hsmn04_friend_mw_welcome0a",
+        "message": "Oh, bonjour !\r\nJustement, je vous attendais.",
+        "attribute": "0401002538020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_welcome0b": {
+        "name": "hsmn04_friend_mw_welcome0b",
+        "message": "Bonjour ! Comment \u00e7a va ?",
+        "attribute": "0401002550020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_welcome0c": {
+        "name": "hsmn04_friend_mw_welcome0c",
+        "message": "\u00c7a me fait plaisir de vous voir !",
+        "attribute": "0401002568020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_first0": {
+        "name": "hsmn04_friend_mw_first0",
+        "message": "Ici, vous pouvez retrouver des amis\r\nqui ne sont pas \u00e0 vos c\u00f4t\u00e9s !",
+        "attribute": "0401002580020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out0a": {
+        "name": "hsmn04_friend_mw_out0a",
+        "message": "Amusez-vous bien !",
+        "attribute": "0401002582020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out0b": {
+        "name": "hsmn04_friend_mw_out0b",
+        "message": "N'oubliez pas de vous amuser !",
+        "attribute": "04010025A6020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out0c": {
+        "name": "hsmn04_friend_mw_out0c",
+        "message": "\u00c0 vous de jouer !",
+        "attribute": "04010025CA020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out1a": {
+        "name": "hsmn04_friend_mw_out1a",
+        "message": "Au revoir ! N'h\u00e9sitez pas \u00e0 repasser !",
+        "attribute": "04010025EE020000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out1b": {
+        "name": "hsmn04_friend_mw_out1b",
+        "message": "Revenez quand vous voulez !",
+        "attribute": "0401002508030000",
+        "style_index": 4
+    },
+    "hsmn04_friend_mw_out1c": {
+        "name": "hsmn04_friend_mw_out1c",
+        "message": "Passez me rendre visite \u00e0 l'occasion !",
+        "attribute": "0401002522030000",
+        "style_index": 4
+    }
+}

@@ -1,0 +1,362 @@
+{
+    "hsmn00_ui_version": {
+        "name": "hsmn00_ui_version",
+        "message": "Ver. [0]",
+        "attribute": "04000000E8010000",
+        "style_index": 615
+    },
+    "mn_connect_join00": {
+        "name": "mn_connect_join00",
+        "message": "Combien de personnes joueront ?",
+        "attribute": "04000000EA010000",
+        "style_index": 302
+    },
+    "mn_connect_join01": {
+        "name": "mn_connect_join01",
+        "message": "Combien de personnes joueront sur cette console ?",
+        "attribute": "04000000EC010000",
+        "style_index": 302
+    },
+    "mn_connect_join02": {
+        "name": "mn_connect_join02",
+        "message": "[0]",
+        "attribute": "04000000EE010000",
+        "style_index": 303
+    },
+    "mn_connect_join03": {
+        "name": "mn_connect_join03",
+        "message": "Places disponibles :",
+        "attribute": "04000000F0010000",
+        "style_index": 304
+    },
+    "mn_connect_join04": {
+        "name": "mn_connect_join04",
+        "message": "encore [0]",
+        "attribute": "04000000F2010000",
+        "style_index": 305
+    },
+    "mn_connect_user_details": {
+        "name": "mn_connect_user_details",
+        "message": "Vous pouvez lier votre profil d'utilisateur.",
+        "attribute": "04000000F4010000",
+        "style_index": 530
+    },
+    "mn_connect_mw_details00": {
+        "name": "mn_connect_mw_details00",
+        "message": "Lier votre profil d'utilisateur vous permet\r\nde sauvegarder dans vos propres donn\u00e9es\r\nde sauvegarde les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF] [0:3 11-0C-1D-FF]et les points\r\nde niveau Mario Party que vous obtiendrez\r\nau cours de la partie.[0:3 00-00-00-FF]",
+        "attribute": "04000000F6010000",
+        "style_index": 306
+    },
+    "mn_connect_mw_details01": {
+        "name": "mn_connect_mw_details01",
+        "message": "OK !",
+        "attribute": "04000000F8010000",
+        "style_index": 307
+    },
+    "mn_connect_pl_userName00": {
+        "name": "mn_connect_pl_userName00",
+        "message": "[0]",
+        "attribute": "04000000FA010000",
+        "style_index": 308
+    },
+    "mn_connect_pl_userName01": {
+        "name": "mn_connect_pl_userName01",
+        "message": "Invit\u00e9",
+        "attribute": "04000000FC010000",
+        "style_index": 308
+    },
+    "mn_connect_pl_ok": {
+        "name": "mn_connect_pl_ok",
+        "message": "OK !",
+        "attribute": "04000000FE010000",
+        "style_index": 309
+    },
+    "mn_ctrl00": {
+        "name": "mn_ctrl00",
+        "message": "\ue001 Annuler",
+        "attribute": "0400000000020000",
+        "style_index": 301
+    },
+    "mn_ctrl01": {
+        "name": "mn_ctrl01",
+        "message": "\ue003 Retour",
+        "attribute": "0400000002020000",
+        "style_index": 301
+    },
+    "mn_ctrl02": {
+        "name": "mn_ctrl02",
+        "message": "\ue001 D\u00e9tails du salon",
+        "attribute": "0400000004020000",
+        "style_index": 301
+    },
+    "hsmn00_choices_offline": {
+        "name": "hsmn00_choices_offline",
+        "message": "Jeu hors ligne ",
+        "attribute": "0400000006020000",
+        "style_index": 310
+    },
+    "hsmn00_choices_local": {
+        "name": "hsmn00_choices_local",
+        "message": "Multijoueur local ",
+        "attribute": "0400000008020000",
+        "style_index": 310
+    },
+    "hsmn00_choices_online": {
+        "name": "hsmn00_choices_online",
+        "message": "Jeu en ligne ",
+        "attribute": "040000000A020000",
+        "style_index": 310
+    },
+    "hsmn00_choices_offline_details": {
+        "name": "hsmn00_choices_offline_details",
+        "message": "Jouez sur une seule\r\nconsole Nintendo Switch.",
+        "attribute": "040000000C020000",
+        "style_index": 311
+    },
+    "hsmn00_choices_local_details": {
+        "name": "hsmn00_choices_local_details",
+        "message": "Connectez plusieurs consoles\r\nNintendo Switch en mode local.",
+        "attribute": "040000000E020000",
+        "style_index": 311
+    },
+    "hsmn00_choices_online_details": {
+        "name": "hsmn00_choices_online_details",
+        "message": "Connectez-vous \u00e0 Internet pour\r\njouer avec des joueurs \u00e0 distance.",
+        "attribute": "0400000010020000",
+        "style_index": 311
+    },
+    "hsmn00_local_header": {
+        "name": "hsmn00_local_header",
+        "message": "Multijoueur local",
+        "attribute": "0400000012020000",
+        "style_index": 538
+    },
+    "hsmn00_local_host": {
+        "name": "hsmn00_local_host",
+        "message": "Cr\u00e9er un salon ",
+        "attribute": "0400000014020000",
+        "style_index": 310
+    },
+    "hsmn00_local_clients": {
+        "name": "hsmn00_local_clients",
+        "message": "Rejoindre un salon ",
+        "attribute": "0400000016020000",
+        "style_index": 310
+    },
+    "hsmn00_local_host_details": {
+        "name": "hsmn00_local_host_details",
+        "message": "Attendez d'autres joueurs.",
+        "attribute": "0400000018020000",
+        "style_index": 311
+    },
+    "hsmn00_local_clients_details": {
+        "name": "hsmn00_local_clients_details",
+        "message": "Rejoignez un salon existant.",
+        "attribute": "040000001A020000",
+        "style_index": 311
+    },
+    "hsmn00_local_roomSel_order": {
+        "name": "hsmn00_local_roomSel_order",
+        "message": "Quel salon voulez-vous rejoindre ?",
+        "attribute": "040000001C020000",
+        "style_index": 312
+    },
+    "hsmn00_local_roomSel_ctrl_redo": {
+        "name": "hsmn00_local_roomSel_ctrl_redo",
+        "message": "\ue002 Nouvelle recherche",
+        "attribute": "040000001E020000",
+        "style_index": 313
+    },
+    "hsmn00_local_roomSel_ctrl_back": {
+        "name": "hsmn00_local_roomSel_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000020020000",
+        "style_index": 313
+    },
+    "hsmn00_local_roomSel_name": {
+        "name": "hsmn00_local_roomSel_name",
+        "message": "[0]",
+        "attribute": "0400000022020000",
+        "style_index": 316
+    },
+    "hsmn00_local_roomSel_current": {
+        "name": "hsmn00_local_roomSel_current",
+        "message": "[0]/4",
+        "attribute": "0400000024020000",
+        "style_index": 317
+    },
+    "hsmn00_local_robby_hostName": {
+        "name": "hsmn00_local_robby_hostName",
+        "message": "Salon cr\u00e9\u00e9 par [0]",
+        "attribute": "0400000026020000",
+        "style_index": 318
+    },
+    "hsmn00_local_robby_playerName": {
+        "name": "hsmn00_local_robby_playerName",
+        "message": "[0]",
+        "attribute": "0400000028020000",
+        "style_index": 320
+    },
+    "hsmn00_local_robby_wait": {
+        "name": "hsmn00_local_robby_wait",
+        "message": "[0] va bient\u00f4t lancer la partie.",
+        "attribute": "040000002A020000",
+        "style_index": 321
+    },
+    "hsmn00_local_robby_pl": {
+        "name": "hsmn00_local_robby_pl",
+        "message": "Commencer la partie",
+        "attribute": "040000002C020000",
+        "style_index": 322
+    },
+    "hsmn00_robby_mpCard": {
+        "name": "hsmn00_robby_mpCard",
+        "message": "Carte Mario Party",
+        "attribute": "040000002E020000",
+        "style_index": 541
+    },
+    "hsmn00_local_robby_hostWait": {
+        "name": "hsmn00_local_robby_hostWait",
+        "message": "En attente d'autres joueurs...",
+        "attribute": "0400000030020000",
+        "style_index": 321
+    },
+    "hsmn00_local_ctrl_back": {
+        "name": "hsmn00_local_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "0400000032020000",
+        "style_index": 562
+    },
+    "hsmn00_local_host_header": {
+        "name": "hsmn00_local_host_header",
+        "message": "Cr\u00e9er un salon",
+        "attribute": "0400000034020000",
+        "style_index": 563
+    },
+    "hsmn00_local_clients_header": {
+        "name": "hsmn00_local_clients_header",
+        "message": "Rejoindre un salon",
+        "attribute": "0400000036020000",
+        "style_index": 563
+    },
+    "hsmn00_local_robby_info_limit": {
+        "name": "hsmn00_local_robby_info_limit",
+        "message": "Conditions d'acc\u00e8s",
+        "attribute": "0400000038020000",
+        "style_index": 564
+    },
+    "hsmn00_local_robby_info_pass": {
+        "name": "hsmn00_local_robby_info_pass",
+        "message": "Code du salon",
+        "attribute": "040000003A020000",
+        "style_index": 564
+    },
+    "hsmn00_local_robby_limit_any": {
+        "name": "hsmn00_local_robby_limit_any",
+        "message": "Ouvert \u00e0 tous",
+        "attribute": "040000003C020000",
+        "style_index": 565
+    },
+    "hsmn00_local_robby_pass": {
+        "name": "hsmn00_local_robby_pass",
+        "message": "[0]",
+        "attribute": "040000003E020000",
+        "style_index": 565
+    },
+    "hsmn00_local_robby_notPass": {
+        "name": "hsmn00_local_robby_notPass",
+        "message": "Aucun",
+        "attribute": "0400000040020000",
+        "style_index": 565
+    },
+    "hsmn00_local_host_limit": {
+        "name": "hsmn00_local_host_limit",
+        "message": "Conditions d'acc\u00e8s",
+        "attribute": "0400000042020000",
+        "style_index": 566
+    },
+    "hsmn00_local_host_pass": {
+        "name": "hsmn00_local_host_pass",
+        "message": "Code",
+        "attribute": "0400000044020000",
+        "style_index": 566
+    },
+    "hsmn00_local_host_limit_any": {
+        "name": "hsmn00_local_host_limit_any",
+        "message": "Ouvert \u00e0 tous",
+        "attribute": "0400000046020000",
+        "style_index": 567
+    },
+    "hsmn00_local_host_pass_off": {
+        "name": "hsmn00_local_host_pass_off",
+        "message": "Sans",
+        "attribute": "0400000048020000",
+        "style_index": 567
+    },
+    "hsmn00_local_host_pass_on": {
+        "name": "hsmn00_local_host_pass_on",
+        "message": "Avec",
+        "attribute": "040000004A020000",
+        "style_index": 567
+    },
+    "hsmn00_online_header": {
+        "name": "hsmn00_online_header",
+        "message": "Jeu en ligne",
+        "attribute": "040000004C020000",
+        "style_index": 538
+    },
+    "hsmn00_online_choices_match": {
+        "name": "hsmn00_online_choices_match",
+        "message": "Tout le monde",
+        "attribute": "040000004E020000",
+        "style_index": 310
+    },
+    "hsmn00_online_choices_friend": {
+        "name": "hsmn00_online_choices_friend",
+        "message": "Amis seulement",
+        "attribute": "0400000050020000",
+        "style_index": 310
+    },
+    "hsmn00_online_choices_match_details": {
+        "name": "hsmn00_online_choices_match_details",
+        "message": "Jouez en ligne avec des\r\njoueurs au hasard.",
+        "attribute": "0400000052020000",
+        "style_index": 311
+    },
+    "hsmn00_online_choices_friend_details": {
+        "name": "hsmn00_online_choices_friend_details",
+        "message": "Jouez en ligne avec des amis.",
+        "attribute": "0400000054020000",
+        "style_index": 311
+    },
+    "hsmn00_reEntry_mw00": {
+        "name": "hsmn00_reEntry_mw00",
+        "message": "Voulez-vous retourner\r\n\u00e0 la partie en cours ?",
+        "attribute": "0400000056020000",
+        "style_index": 8
+    },
+    "hsmn00_reEntry_mw00_a0": {
+        "name": "hsmn00_reEntry_mw00_a0",
+        "message": "Oui",
+        "attribute": "0400000058020000",
+        "style_index": 9
+    },
+    "hsmn00_reEntry_mw00_a1": {
+        "name": "hsmn00_reEntry_mw00_a1",
+        "message": "Non",
+        "attribute": "040000005A020000",
+        "style_index": 9
+    },
+    "hsmn00_reEntry_mw01": {
+        "name": "hsmn00_reEntry_mw01",
+        "message": "Retour dans la partie...\r\nVeuillez patienter.",
+        "attribute": "040000005C020000",
+        "style_index": 8
+    },
+    "sys_reEntry_bdM": {
+        "name": "sys_reEntry_bdM",
+        "message": "Un joueur arrive.\r\nVeuillez patienter.",
+        "attribute": "040000005E020000",
+        "style_index": 8
+    }
+}

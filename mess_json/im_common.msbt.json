@@ -1,0 +1,404 @@
+{
+    "im_rank01": {
+        "name": "im_rank01",
+        "message": "1\ue031",
+        "attribute": "0400000020020000",
+        "style_index": 4294967295
+    },
+    "im_rank02": {
+        "name": "im_rank02",
+        "message": "2\ue030",
+        "attribute": "0400000022020000",
+        "style_index": 4294967295
+    },
+    "im_rank03": {
+        "name": "im_rank03",
+        "message": "3\ue030",
+        "attribute": "0400000024020000",
+        "style_index": 4294967295
+    },
+    "im_rank04": {
+        "name": "im_rank04",
+        "message": "4\ue030",
+        "attribute": "0400000026020000",
+        "style_index": 4294967295
+    },
+    "im_guest01_name": {
+        "name": "im_guest01_name",
+        "message": "Invit\u00e9 1",
+        "attribute": "0400000028020000",
+        "style_index": 4294967295
+    },
+    "im_guest02_name": {
+        "name": "im_guest02_name",
+        "message": "Invit\u00e9 2",
+        "attribute": "040000002A020000",
+        "style_index": 4294967295
+    },
+    "im_guest03_name": {
+        "name": "im_guest03_name",
+        "message": "Invit\u00e9 3",
+        "attribute": "040000002C020000",
+        "style_index": 4294967295
+    },
+    "im_pc01_name": {
+        "name": "im_pc01_name",
+        "message": "Mario",
+        "attribute": "040000002E020000",
+        "style_index": 4294967295
+    },
+    "im_pc02_name": {
+        "name": "im_pc02_name",
+        "message": "Luigi",
+        "attribute": "0400000030020000",
+        "style_index": 4294967295
+    },
+    "im_pc03_name": {
+        "name": "im_pc03_name",
+        "message": "Peach",
+        "attribute": "0400000032020000",
+        "style_index": 4294967295
+    },
+    "im_pc04_name": {
+        "name": "im_pc04_name",
+        "message": "Daisy",
+        "attribute": "0400000034020000",
+        "style_index": 4294967295
+    },
+    "im_pc05_name": {
+        "name": "im_pc05_name",
+        "message": "Wario",
+        "attribute": "0400000036020000",
+        "style_index": 4294967295
+    },
+    "im_pc06_name": {
+        "name": "im_pc06_name",
+        "message": "Waluigi",
+        "attribute": "0400000038020000",
+        "style_index": 4294967295
+    },
+    "im_pc07_name": {
+        "name": "im_pc07_name",
+        "message": "Yoshi",
+        "attribute": "040000003A020000",
+        "style_index": 4294967295
+    },
+    "im_pc11_name": {
+        "name": "im_pc11_name",
+        "message": "Harmonie",
+        "attribute": "040000003C020000",
+        "style_index": 4294967295
+    },
+    "im_pc12_name": {
+        "name": "im_pc12_name",
+        "message": "Donkey Kong",
+        "attribute": "040000003E020000",
+        "style_index": 4294967295
+    },
+    "im_pc13_name": {
+        "name": "im_pc13_name",
+        "message": "Birdo",
+        "attribute": "0400000040020000",
+        "style_index": 4294967295
+    },
+    "im_npc022_name": {
+        "name": "im_npc022_name",
+        "message": "Toad",
+        "attribute": "0400000042020000",
+        "style_index": 4294967295
+    },
+    "im_npc088_name": {
+        "name": "im_npc088_name",
+        "message": "Toadette",
+        "attribute": "0400000044020000",
+        "style_index": 4294967295
+    },
+    "im_npc000_name": {
+        "name": "im_npc000_name",
+        "message": "Bowser",
+        "attribute": "0400000046020000",
+        "style_index": 4294967295
+    },
+    "im_npc001_name": {
+        "name": "im_npc001_name",
+        "message": "Goomba",
+        "attribute": "0400000048020000",
+        "style_index": 4294967295
+    },
+    "im_npc002_name": {
+        "name": "im_npc002_name",
+        "message": "Maskass",
+        "attribute": "040000004A020000",
+        "style_index": 4294967295
+    },
+    "im_npc002a_name": {
+        "name": "im_npc002a_name",
+        "message": "H\u00e9lico Maskass",
+        "attribute": "040000004C020000",
+        "style_index": 4294967295
+    },
+    "im_npc003_name": {
+        "name": "im_npc003_name",
+        "message": "Koopa",
+        "attribute": "040000004E020000",
+        "style_index": 4294967295
+    },
+    "im_npc004_name": {
+        "name": "im_npc004_name",
+        "message": "Bob-omb",
+        "attribute": "0400000050020000",
+        "style_index": 4294967295
+    },
+    "im_npc005_name": {
+        "name": "im_npc005_name",
+        "message": "Plante Piranha",
+        "attribute": "0400000052020000",
+        "style_index": 4294967295
+    },
+    "im_npc006_name": {
+        "name": "im_npc006_name",
+        "message": "Bill Balle",
+        "attribute": "0400000054020000",
+        "style_index": 4294967295
+    },
+    "im_npc007_name": {
+        "name": "im_npc007_name",
+        "message": "Cheep Cheep",
+        "attribute": "0400000056020000",
+        "style_index": 4294967295
+    },
+    "im_npc008_name": {
+        "name": "im_npc008_name",
+        "message": "Pic-Pic",
+        "attribute": "0400000058020000",
+        "style_index": 4294967295
+    },
+    "im_npc009_name": {
+        "name": "im_npc009_name",
+        "message": "Topi Taupe",
+        "attribute": "040000005A020000",
+        "style_index": 4294967295
+    },
+    "im_npc010_name": {
+        "name": "im_npc010_name",
+        "message": "Swooper",
+        "attribute": "040000005C020000",
+        "style_index": 4294967295
+    },
+    "im_npc011_name": {
+        "name": "im_npc011_name",
+        "message": "Pingouin",
+        "attribute": "040000005E020000",
+        "style_index": 4294967295
+    },
+    "im_npc013_name": {
+        "name": "im_npc013_name",
+        "message": "Bruyinsecte",
+        "attribute": "0400000060020000",
+        "style_index": 4294967295
+    },
+    "im_npc017_name": {
+        "name": "im_npc017_name",
+        "message": "Lakitu",
+        "attribute": "0400000062020000",
+        "style_index": 4294967295
+    },
+    "im_npc025_name": {
+        "name": "im_npc025_name",
+        "message": "Boo",
+        "attribute": "0400000064020000",
+        "style_index": 4294967295
+    },
+    "im_npc067_name": {
+        "name": "im_npc067_name",
+        "message": "Snifit",
+        "attribute": "0400000066020000",
+        "style_index": 4294967295
+    },
+    "im_npc027_name": {
+        "name": "im_npc027_name",
+        "message": "Whomp",
+        "attribute": "0400000068020000",
+        "style_index": 4294967295
+    },
+    "im_npc012_name": {
+        "name": "im_npc012_name",
+        "message": "Thwomp",
+        "attribute": "040000006A020000",
+        "style_index": 4294967295
+    },
+    "im_npc021_name": {
+        "name": "im_npc021_name",
+        "message": "Bowser Jr.",
+        "attribute": "040000006C020000",
+        "style_index": 4294967295
+    },
+    "im_npc023_name": {
+        "name": "im_npc023_name",
+        "message": "Bloups",
+        "attribute": "040000006E020000",
+        "style_index": 4294967295
+    },
+    "im_npc026_name": {
+        "name": "im_npc026_name",
+        "message": "Chomp",
+        "attribute": "0400000070020000",
+        "style_index": 4294967295
+    },
+    "im_npc051_name": {
+        "name": "im_npc051_name",
+        "message": "Kamek",
+        "attribute": "0400000072020000",
+        "style_index": 4294967295
+    },
+    "im_npc053_name": {
+        "name": "im_npc053_name",
+        "message": "Paratroopa",
+        "attribute": "0400000074020000",
+        "style_index": 4294967295
+    },
+    "im_npc032_name": {
+        "name": "im_npc032_name",
+        "message": "Roi Boo",
+        "attribute": "0400000076020000",
+        "style_index": 4294967295
+    },
+    "im_npc035_name": {
+        "name": "im_npc035_name",
+        "message": "Oursin",
+        "attribute": "0400000078020000",
+        "style_index": 4294967295
+    },
+    "im_npc036_name": {
+        "name": "im_npc036_name",
+        "message": "Pincemi",
+        "attribute": "040000007A020000",
+        "style_index": 4294967295
+    },
+    "im_npc044_name": {
+        "name": "im_npc044_name",
+        "message": "Fr\u00e8re Marto",
+        "attribute": "040000007C020000",
+        "style_index": 4294967295
+    },
+    "im_npc046_name": {
+        "name": "im_npc046_name",
+        "message": "Pokey",
+        "attribute": "040000007E020000",
+        "style_index": 4294967295
+    },
+    "im_npc048_name": {
+        "name": "im_npc048_name",
+        "message": "Paltrak",
+        "attribute": "0400000080020000",
+        "style_index": 4294967295
+    },
+    "im_npc049_name": {
+        "name": "im_npc049_name",
+        "message": "M. \u0152il",
+        "attribute": "0400000082020000",
+        "style_index": 4294967295
+    },
+    "im_npc062_name": {
+        "name": "im_npc062_name",
+        "message": "Cheep Chomp",
+        "attribute": "0400000084020000",
+        "style_index": 4294967295
+    },
+    "im_npc072_name": {
+        "name": "im_npc072_name",
+        "message": "Flora Piranha",
+        "attribute": "0400000086020000",
+        "style_index": 4294967295
+    },
+    "im_npc079_name": {
+        "name": "im_npc079_name",
+        "message": "Galoomba",
+        "attribute": "0400000088020000",
+        "style_index": 4294967295
+    },
+    "im_npc091_name": {
+        "name": "im_npc091_name",
+        "message": "Petit Pingouin",
+        "attribute": "040000008A020000",
+        "style_index": 4294967295
+    },
+    "im_npc092_name": {
+        "name": "im_npc092_name",
+        "message": "Ukiki",
+        "attribute": "040000008C020000",
+        "style_index": 4294967295
+    },
+    "im_npc102_name": {
+        "name": "im_npc102_name",
+        "message": "Junior-mobile",
+        "attribute": "040000008E020000",
+        "style_index": 4294967295
+    },
+    "im_bd01_name": {
+        "name": "im_bd01_name",
+        "message": "G\u00e2teau d'anniversaire de Peach",
+        "attribute": "0400000090020000",
+        "style_index": 4294967295
+    },
+    "im_bd02_name": {
+        "name": "im_bd02_name",
+        "message": "Station spatiale",
+        "attribute": "0400000092020000",
+        "style_index": 4294967295
+    },
+    "im_bd03_name": {
+        "name": "im_bd03_name",
+        "message": "Bois de Woody",
+        "attribute": "0400000094020000",
+        "style_index": 4294967295
+    },
+    "im_bd04_name": {
+        "name": "im_bd04_name",
+        "message": "\u00cele tropicale de Yoshi",
+        "attribute": "0400000096020000",
+        "style_index": 4294967295
+    },
+    "im_bd05_name": {
+        "name": "im_bd05_name",
+        "message": "Pays de l'horreur",
+        "attribute": "0400000098020000",
+        "style_index": 4294967295
+    },
+    "im_mode01_name": {
+        "name": "im_mode01_name",
+        "message": "Mario Party",
+        "attribute": "040000009A020000",
+        "style_index": 4294967295
+    },
+    "im_mode02_name": {
+        "name": "im_mode02_name",
+        "message": "Montagne aux mini-jeux",
+        "attribute": "040000009C020000",
+        "style_index": 4294967295
+    },
+    "im_mode03_name": {
+        "name": "im_mode03_name",
+        "message": "Maison des options",
+        "attribute": "040000009E020000",
+        "style_index": 4294967295
+    },
+    "im_mode04_name": {
+        "name": "im_mode04_name",
+        "message": "Maison des amis",
+        "attribute": "04000000A0020000",
+        "style_index": 4294967295
+    },
+    "im_mode05_name": {
+        "name": "im_mode05_name",
+        "message": "Magasin de Toad",
+        "attribute": "04000000A2020000",
+        "style_index": 4294967295
+    },
+    "im_mode06_name": {
+        "name": "im_mode06_name",
+        "message": "Maison des donn\u00e9es",
+        "attribute": "04000000A4020000",
+        "style_index": 4294967295
+    }
+}

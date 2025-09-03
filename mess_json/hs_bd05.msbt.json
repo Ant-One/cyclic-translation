@@ -1,0 +1,434 @@
+{
+    "bd05_OP_mw_past00": {
+        "name": "bd05_OP_mw_past00",
+        "message": "Un sinistre magicien avait autrefois \u00e9tabli\r\nsa r\u00e9sidence dans ces bois lugubres...",
+        "attribute": "0401000F48020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_past01": {
+        "name": "bd05_OP_mw_past01",
+        "message": "Mais une superstar l'en a chass\u00e9 et les\r\nbois ont repris une apparence normale.",
+        "attribute": "0401000F4A020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose00": {
+        "name": "bd05_OP_mw_purpose00",
+        "message": "Depuis, d'effrayants esprits sont arriv\u00e9s\r\net ont rendu le lieu, eh bien, effrayant.",
+        "attribute": "0401000F4C020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose01": {
+        "name": "bd05_OP_mw_purpose01",
+        "message": "Si seulement une superstar pouvait\r\nsauver la for\u00eat de son macabre destin.",
+        "attribute": "0401000F6A020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose02": {
+        "name": "bd05_OP_mw_purpose02",
+        "message": "O\u00f9 donc pourrions-nous bien trouver\r\nune telle superstar ?",
+        "attribute": "0401000F84020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose03": {
+        "name": "bd05_OP_mw_purpose03",
+        "message": "Je dois vous faire un dessin ? Devenez\r\ncette superstar et sauvez la for\u00eat !",
+        "attribute": "0401000F98020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination00": {
+        "name": "bd05_p01_mw_explaination00",
+        "message": "Sur ce plateau, le jour se change en nuit,\r\net la nuit en jour, tous les deux tours.",
+        "attribute": "04040001BC020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination01": {
+        "name": "bd05_p01_mw_explaination01",
+        "message": "Les [0:3 FF-35-02-FF]Whomps[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]s'\u00e9cartent pour vous laisser\r\npasser. Mais la nuit, ils dorment...[0:3 00-00-00-FF]",
+        "attribute": "04040001D6020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination02": {
+        "name": "bd05_p01_mw_explaination02",
+        "message": "Vous trouverez aussi des pierres aux\r\nmarques \u00e9tranges. Percez leur secret !",
+        "attribute": "04040001EE020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination03": {
+        "name": "bd05_p01_mw_explaination03",
+        "message": "Rien qu'en vous en parlant, cet endroit\r\nme donne la chair de poule. Alors on y va !",
+        "attribute": "0401001908030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC051_00": {
+        "name": "bd05_p02_mw_lastSpNPC051_00",
+        "message": "Je vois... Je vois [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] gagner !\r\nEt ma magie ne se trompe jamais ![0:3 00-00-00-FF]",
+        "attribute": "0401002222030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC051_01": {
+        "name": "bd05_p02_mw_lastSpNPC051_01",
+        "message": "Avec une chance pareille, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\nl'emportera. Telle est ma pr\u00e9diction ![0:3 00-00-00-FF]",
+        "attribute": "040100223C030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC032_00": {
+        "name": "bd05_p02_mw_lastSpNPC032_00",
+        "message": "Je le d\u00e9cr\u00e8te ici-m\u00eame, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]\r\nl'emportera. C'est sans appel ![0:3 00-00-00-FF]",
+        "attribute": "0401001E56030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC032_01": {
+        "name": "bd05_p02_mw_lastSpNPC032_01",
+        "message": "C'est dans la poche pour [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] !\r\nNe discutez pas ! Mouahaha ![0:3 00-00-00-FF]",
+        "attribute": "0401001E74030000",
+        "style_index": 4
+    },
+    "bd05_gmk02_mw_dayToNight00": {
+        "name": "bd05_gmk02_mw_dayToNight00",
+        "message": "Oh ho ! La nuit vient de tomber !",
+        "attribute": "0404001998030000",
+        "style_index": 4
+    },
+    "bd05_gmk02_mw_NightToDay00": {
+        "name": "bd05_gmk02_mw_NightToDay00",
+        "message": "Ouah ! Le jour s'est lev\u00e9 !",
+        "attribute": "04040019B2030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_night00": {
+        "name": "bd05_gmk03_mw_night00",
+        "message": "Vous frappez, mais le son est \u00e9touff\u00e9 par\r\ndes rires mauvais venant de l'int\u00e9rieur.",
+        "attribute": "04040000CC030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_noCoin00": {
+        "name": "bd05_gmk03_mw_noCoin00",
+        "message": "Tu n'as pas beaucoup de pi\u00e8ces \ue020, hein ?\r\nDans ce cas, je n'ai rien \u00e0 te dire.",
+        "attribute": "04040022CE030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_daytime00": {
+        "name": "bd05_gmk03_mw_daytime00",
+        "message": "Bienvenue au [0:3 FF-35-02-FF]manoir myst\u00e9rieux[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].\r\nVeux-tu allumer la [0:3 FF-35-02-FF]lampe \u00e0 t\u00e9n\u00e8bres[0:3 FF-FF-FF-FF] ?[0:3 00-00-00-FF]",
+        "attribute": "04040022EC030000",
+        "style_index": 6
+    },
+    "bd05_gmk03_mw_daytime00_a0": {
+        "name": "bd05_gmk03_mw_daytime00_a0",
+        "message": "5 [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] : allumer[0:3 00-00-00-FF]",
+        "attribute": "0400000004040000",
+        "style_index": 9
+    },
+    "bd05_gmk03_mw_daytime00_a1": {
+        "name": "bd05_gmk03_mw_daytime00_a1",
+        "message": "Non, merci.",
+        "attribute": "0400000006040000",
+        "style_index": 9
+    },
+    "bd05_gmk03_mw_ask00": {
+        "name": "bd05_gmk03_mw_ask00",
+        "message": "Bien, n'attendons pas plus longtemps.\r\nQue tombe la nuit !",
+        "attribute": "0404002208040000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_ask01": {
+        "name": "bd05_gmk03_mw_ask01",
+        "message": "Ainsi arrivent les t\u00e9n\u00e8bres.",
+        "attribute": "040400222C040000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_noAsk00": {
+        "name": "bd05_gmk03_mw_noAsk00",
+        "message": "Vraiment ? Comme tu voudras.\r\nReviens si tu changes d'avis.",
+        "attribute": "0404002246040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_daytime00": {
+        "name": "bd05_gmk04_mw_daytime00",
+        "message": "C'est l'endroit id\u00e9al pour\r\norganiser une f\u00eate...",
+        "attribute": "0404000064040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_noCoin00": {
+        "name": "bd05_gmk04_mw_noCoin00",
+        "message": "Tu veux faire la f\u00eate avec nous ? T'as\r\n[0] pi\u00e8ces \ue020 ? Non ? Eh ben, \u00e0 plus !",
+        "attribute": "0404001B66040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_night00": {
+        "name": "bd05_gmk04_mw_night00",
+        "message": "[0:3 FF-FF-FF-FF]Aboule [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF], et on te laissera\r\npeut-\u00eatre rentrer. T'en dis quoi ?[0:3 00-00-00-FF]",
+        "attribute": "0404001B7E040000",
+        "style_index": 6
+    },
+    "bd05_gmk04_mw_night00_a0": {
+        "name": "bd05_gmk04_mw_night00_a0",
+        "message": "\u00c0 la f\u00eate !",
+        "attribute": "0400001B96040000",
+        "style_index": 9
+    },
+    "bd05_gmk04_mw_night00_a1": {
+        "name": "bd05_gmk04_mw_night00_a1",
+        "message": "Non, merci.",
+        "attribute": "0400001B98040000",
+        "style_index": 9
+    },
+    "bd05_gmk04_mw_join00": {
+        "name": "bd05_gmk04_mw_join00",
+        "message": "C'est ce que je voulais entendre ! On va\r\nfaire la f\u00eate jusqu'au bout de la nuit !",
+        "attribute": "0404001B9A040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_join01": {
+        "name": "bd05_gmk04_mw_join01",
+        "message": "Ouah... Il fait d\u00e9j\u00e0 jour ? Tu parles d'une\r\nf\u00eate ! Reviens, si tu as les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404001BAE040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_noJoin00": {
+        "name": "bd05_gmk04_mw_noJoin00",
+        "message": "Tant pis pour toi ! Niiii iii !",
+        "attribute": "0404001BCC040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_noCoin00": {
+        "name": "bd05_gmk05_mw_noCoin00",
+        "message": "M. \u0152il n'en a que pour les pi\u00e8ces \ue020.\r\nRevenez quand vous en aurez plus.",
+        "attribute": "04040000E0040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_eye00": {
+        "name": "bd05_gmk05_mw_eye00",
+        "message": "De son regard intense, l'\u0153il g\u00e9ant semble\r\ndire : \u00ab Donne-moi des pi\u00e8ces \ue020\r\net je te t\u00e9l\u00e9porterai. \u00bb",
+        "attribute": "04040000E2040000",
+        "style_index": 6
+    },
+    "bd05_gmk05_mw_eye01": {
+        "name": "bd05_gmk05_mw_eye01",
+        "message": "L'\u0153il vous fixe. Vous n'entendez rien,\r\nmais vous comprenez : \u00ab Je le vois bien.\r\nTu veux te t\u00e9l\u00e9porter, en fin de compte. \u00bb",
+        "attribute": "04040000E4040000",
+        "style_index": 6
+    },
+    "bd05_gmk05_mw_eye00_a0": {
+        "name": "bd05_gmk05_mw_eye00_a0",
+        "message": "[0:3 11-0C-1D-FF][0] [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] : t\u00e9l\u00e9portation[0:3 00-00-00-FF]",
+        "attribute": "04000000E6040000",
+        "style_index": 9
+    },
+    "bd05_gmk05_mw_eye00_a1": {
+        "name": "bd05_gmk05_mw_eye00_a1",
+        "message": "Non, merci.",
+        "attribute": "04000000E8040000",
+        "style_index": 9
+    },
+    "bd05_gmk05_mw_ask00": {
+        "name": "bd05_gmk05_mw_ask00",
+        "message": "L'\u0153il vous regarde intens\u00e9ment et semble\r\ndire : \u00ab Tout est pr\u00eat... On y va ! \u00bb",
+        "attribute": "04040000EA040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_noAsk00": {
+        "name": "bd05_gmk05_mw_noAsk00",
+        "message": "L'\u0153il regarde dans le vide et semble dire :\r\n\u00ab Pff... Quel dommage. \u00bb",
+        "attribute": "04040000EC040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_night00": {
+        "name": "bd05_gmk06_mw_night00",
+        "message": "La magie emp\u00eache le [0:3 FF-35-02-FF]Whomp[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]de bouger.\r\nIl ne pourra pas se d\u00e9placer la nuit.[0:3 00-00-00-FF]",
+        "attribute": "04040000EE040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_noCoin00": {
+        "name": "bd05_gmk06_mw_noCoin00",
+        "message": "[0:3 FF-FF-FF-FF]Je ne pense pas que le [0:3 FF-35-02-FF]Whomp[0:3 FF-FF-FF-FF] te laissera\r\npasser sans payer 5 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04040001F0040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_wal00": {
+        "name": "bd05_gmk06_mw_wal00",
+        "message": "[0:3 FF-FF-FF-FF]On dirait que le [0:3 FF-35-02-FF]Whomp [0:3 FF-FF-FF-FF]propose\r\nde bouger pour te laisser passer.[0:3 00-00-00-FF]",
+        "attribute": "04040001F2040000",
+        "style_index": 6
+    },
+    "bd05_gmk06_mw_wal00_a0": {
+        "name": "bd05_gmk06_mw_wal00_a0",
+        "message": "[0:3 11-0C-1D-FF]5 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] : oui ![0:3 00-00-00-FF]",
+        "attribute": "04000001F4040000",
+        "style_index": 9
+    },
+    "bd05_gmk06_mw_wal00_a1": {
+        "name": "bd05_gmk06_mw_wal00_a1",
+        "message": "Non, merci.",
+        "attribute": "04000001F6040000",
+        "style_index": 9
+    },
+    "bd05_gmk06_mw_noAsk00": {
+        "name": "bd05_gmk06_mw_noAsk00",
+        "message": "[0:3 FF-FF-FF-FF]Ce [0:3 FF-35-02-FF]Whomp [0:3 FF-FF-FF-FF]dit quelque chose comme :\r\n\u00ab Alors fais le tour, eh banane ! \u00bb Malpoli ![0:3 00-00-00-FF]",
+        "attribute": "04040001F8040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_ask00": {
+        "name": "bd05_gmk06_mw_ask00",
+        "message": "[0:3 FF-FF-FF-FF]Le [0:3 FF-35-02-FF]Whomp [0:3 FF-FF-FF-FF]dit qu'il te laisse passer\r\navec plaisir ![0:3 00-00-00-FF]",
+        "attribute": "04040001FA040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_daytime00": {
+        "name": "bd05_gmk07_mw_daytime00",
+        "message": "L'ambiance doit \u00eatre plus anim\u00e9e ici,\r\nla nuit.",
+        "attribute": "04040000FC040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_king00": {
+        "name": "bd05_gmk07_mw_king00",
+        "message": "Eh bien ! Quelle audace de te pr\u00e9senter\r\nde la sorte devant moi, le [0:3 FF-35-02-FF]Roi Boo[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404001EFE040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_firstKing00": {
+        "name": "bd05_gmk07_mw_firstKing00",
+        "message": "Je volerai une \u00e9toile \ue021 \u00e0 chacun de tes\r\nna\u00effs adversaires !",
+        "attribute": "0404001E16050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_firstKing01": {
+        "name": "bd05_gmk07_mw_firstKing01",
+        "message": "Ou simplement des pi\u00e8ces \ue020, si c'est ce\r\nque tu pr\u00e9f\u00e8res. Bien, qu'en dis-tu ?",
+        "attribute": "0404001E30050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_king01": {
+        "name": "bd05_gmk07_mw_king01",
+        "message": "Quel est ton d\u00e9sir le plus cher ?\r\nDes pi\u00e8ces \ue020 ou des \u00e9toiles \ue021 ?\r\nD\u00e9cide selon tes besoins.",
+        "attribute": "0404001E4A050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_king00_a0": {
+        "name": "bd05_gmk07_mw_king00_a0",
+        "message": "0 [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]: voler [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "040000004C050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_king00_a1": {
+        "name": "bd05_gmk07_mw_king00_a1",
+        "message": "[0:3 11-0C-1D-FF]150 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] : 3[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF]",
+        "attribute": "040000004E050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_rob00": {
+        "name": "bd05_gmk07_mw_rob00",
+        "message": "Fort bien. Laquais ! Voil\u00e0 une occasion\r\nde gagner votre pitance. Mouahaha !",
+        "attribute": "0404001E50050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_wait00": {
+        "name": "bd05_gmk07_mw_wait00",
+        "message": "Les sbires du [0:3 FF-35-02-FF]Roi Boo[0:3 00-00-00-FF][0:3 11-0C-1D-FF] viennent voler tes\r\npi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ! Appuie rapidement sur \ue000 ![0:3 00-00-00-FF]",
+        "attribute": "040303196E050000",
+        "style_index": 7
+    },
+    "bd05_gmk07_mw_giveCoin00": {
+        "name": "bd05_gmk07_mw_giveCoin00",
+        "message": "Regarde-moi \u00e7a ! Voil\u00e0 [0] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] \ue020 !\r\nSurtout ne me remercie pas !",
+        "attribute": "0404001E8C050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar00": {
+        "name": "bd05_gmk07_mw_giveStar00",
+        "message": "[0:3 FF-FF-FF-FF]C'est tellement beau, les \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] !\r\nChacune d'elle est un tr\u00e9sor. Voyons...\r\nOn en a trouv\u00e9 [0] ![0:3 00-00-00-FF]",
+        "attribute": "0404001EA0050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar01": {
+        "name": "bd05_gmk07_mw_giveStar01",
+        "message": "Hmm... Je ne peux apparemment pas voler\r\nune \u00e9toile \ue021 \u00e0 chaque joueur. Dommage !",
+        "attribute": "0404001EBA050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar02": {
+        "name": "bd05_gmk07_mw_giveStar02",
+        "message": "Tu n'auras qu'une \u00e9toile \ue021\r\nen \u00e9change de tes 150 pi\u00e8ces \ue020.\r\nDois-je malgr\u00e9 tout continuer ?",
+        "attribute": "0404001EBC050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_giveStar02p": {
+        "name": "bd05_gmk07_mw_giveStar02p",
+        "message": "Tu n'auras que 2 \u00e9toiles\r\npour tes 150 pi\u00e8ces \ue020.\r\n\u00c7a te va quand m\u00eame ?",
+        "attribute": "0404001EDA050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_giveStar02_a0": {
+        "name": "bd05_gmk07_mw_giveStar02_a0",
+        "message": "Oui",
+        "attribute": "04000000F8050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_giveStar02_a1": {
+        "name": "bd05_gmk07_mw_giveStar02_a1",
+        "message": "Non",
+        "attribute": "04000000FA050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_notRob00": {
+        "name": "bd05_gmk07_mw_notRob00",
+        "message": "Voil\u00e0 qui est... int\u00e9ressant. Personne n'a\r\nde pi\u00e8ces \ue020 \u00e0 voler. Quelle d\u00e9ception !",
+        "attribute": "0404001EFC050000",
+        "style_index": 4
+    },
+    "bd05_s06_mw_night00": {
+        "name": "bd05_s06_mw_night00",
+        "message": "Des esprits se reposent ici le jour.",
+        "attribute": "0404000010060000",
+        "style_index": 4
+    },
+    "bd05_s06_mw_daytime00": {
+        "name": "bd05_s06_mw_daytime00",
+        "message": "Des esprits se reposent ici la nuit.",
+        "attribute": "0404000012060000",
+        "style_index": 4
+    },
+    "bd05_map_gmk02_spot_details": {
+        "name": "bd05_map_gmk02_spot_details",
+        "message": "Ici, vous pouvez passer du\r\njour \u00e0 la nuit, et inversement.",
+        "attribute": "0400000014060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk03_spot_details": {
+        "name": "bd05_map_gmk03_spot_details",
+        "message": "En journ\u00e9e, un \u00e9v\u00e9nement\r\nmagique peut se produire ici.",
+        "attribute": "0400000016060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk04_spot_details": {
+        "name": "bd05_map_gmk04_spot_details",
+        "message": "Venez ici la nuit si vous\r\nvoulez vous joindre \u00e0 la f\u00eate.",
+        "attribute": "0400000018060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk05_spot_details": {
+        "name": "bd05_map_gmk05_spot_details",
+        "message": "Ici, [0:3 FF-35-02-FF]M. \u0152il[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]peut vous envoyer\r\n\u00e0 l'autre bout du plateau.[0:3 00-00-00-FF]",
+        "attribute": "040000001A060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk06_spot_details00": {
+        "name": "bd05_map_gmk06_spot_details00",
+        "message": "[0:3 FF-FF-FF-FF]Donnez des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] et le\r\n[0:3 FF-35-02-FF]Whomp[0:3 FF-FF-FF-FF] vous laissera passer.[0:3 00-00-00-FF]",
+        "attribute": "040000001C060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk06_spot_details01": {
+        "name": "bd05_map_gmk06_spot_details01",
+        "message": "Le [0:3 FF-35-02-FF]Whomp[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] s'est endormi et\r\nvous emp\u00eache de passer.[0:3 00-00-00-FF]",
+        "attribute": "040000001E060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk07_spot_details": {
+        "name": "bd05_map_gmk07_spot_details",
+        "message": "La nuit, payez 150 pi\u00e8ces [0:3 FF-FF-FF-FF][0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] pour\r\nvoler une \u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] \u00e0 tout le monde.[0:3 00-00-00-FF]",
+        "attribute": "0400000020060000",
+        "style_index": 61
+    }
+}

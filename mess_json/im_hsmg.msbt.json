@@ -1,0 +1,602 @@
+{
+    "im_hsmg401_name": {
+        "name": "im_hsmg401_name",
+        "message": "Champi-couleurs",
+        "attribute": "0400000028030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg402_name": {
+        "name": "im_hsmg402_name",
+        "message": "Boulets de neige",
+        "attribute": "040000002A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg403_name": {
+        "name": "im_hsmg403_name",
+        "message": "Attrape-note",
+        "attribute": "040000002C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg404_name": {
+        "name": "im_hsmg404_name",
+        "message": "Un, deux et trois !",
+        "attribute": "040000002E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg405_name": {
+        "name": "im_hsmg405_name",
+        "message": "Patinoire panique",
+        "attribute": "0400000030030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg406_name": {
+        "name": "im_hsmg406_name",
+        "message": "Pousse-ballon",
+        "attribute": "0400000032030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg407_name": {
+        "name": "im_hsmg407_name",
+        "message": "Corde allumeuse",
+        "attribute": "0400000034030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg408_name": {
+        "name": "im_hsmg408_name",
+        "message": "Bo\u00efng et bo\u00efng",
+        "attribute": "0400000036030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg409_name": {
+        "name": "im_hsmg409_name",
+        "message": "Batte la balle !",
+        "attribute": "0400000038030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg410_name": {
+        "name": "im_hsmg410_name",
+        "message": "Toujours plus haut !",
+        "attribute": "040000003A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg411_name": {
+        "name": "im_hsmg411_name",
+        "message": "Revanche des Taupes",
+        "attribute": "040000003C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg412_name": {
+        "name": "im_hsmg412_name",
+        "message": "Maskass a dit",
+        "attribute": "040000003E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg413_name": {
+        "name": "im_hsmg413_name",
+        "message": "Dingo-piqueurs",
+        "attribute": "0400000040030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg414_name": {
+        "name": "im_hsmg414_name",
+        "message": "Tour-toqu\u00e9e",
+        "attribute": "0400000042030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg415_name": {
+        "name": "im_hsmg415_name",
+        "message": "Suivez la ligne",
+        "attribute": "0400000044030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg416_name": {
+        "name": "im_hsmg416_name",
+        "message": "Tir au Chomp",
+        "attribute": "0400000046030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg417_name": {
+        "name": "im_hsmg417_name",
+        "message": "M\u00e9ka-marathon",
+        "attribute": "0400000048030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg418_name": {
+        "name": "im_hsmg418_name",
+        "message": "Pokey \u00e0 la masse",
+        "attribute": "040000004A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg419_name": {
+        "name": "im_hsmg419_name",
+        "message": "Bombes largu\u00e9es",
+        "attribute": "040000004C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg420_name": {
+        "name": "im_hsmg420_name",
+        "message": "Pluie poursuite",
+        "attribute": "040000004E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg421_name": {
+        "name": "im_hsmg421_name",
+        "message": "Champi colosse",
+        "attribute": "0400000050030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg422_name": {
+        "name": "im_hsmg422_name",
+        "message": "Pingouin-plage",
+        "attribute": "0400000052030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg423_name": {
+        "name": "im_hsmg423_name",
+        "message": "Objectif glace !",
+        "attribute": "0400000054030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg424_name": {
+        "name": "im_hsmg424_name",
+        "message": "Vite, facteur !",
+        "attribute": "0400000056030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg425_name": {
+        "name": "im_hsmg425_name",
+        "message": "Serre-livre extr\u00eame",
+        "attribute": "0400000058030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg426_name": {
+        "name": "im_hsmg426_name",
+        "message": "Cr\u00eate extr\u00eame",
+        "attribute": "040000005A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg427_name": {
+        "name": "im_hsmg427_name",
+        "message": "Carapace castagne",
+        "attribute": "040000005C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg428_name": {
+        "name": "im_hsmg428_name",
+        "message": "Furie de Bowser",
+        "attribute": "040000005E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg429_name": {
+        "name": "im_hsmg429_name",
+        "message": "Ruche ravage",
+        "attribute": "0400000060030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg430_name": {
+        "name": "im_hsmg430_name",
+        "message": "Mauvaise m\u00e9moire",
+        "attribute": "0400000062030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg431_name": {
+        "name": "im_hsmg431_name",
+        "message": "Lifting de Bowser",
+        "attribute": "0400000064030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg432_name": {
+        "name": "im_hsmg432_name",
+        "message": "Voitures-ballons !",
+        "attribute": "0400000066030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg433_name": {
+        "name": "im_hsmg433_name",
+        "message": "Gare au Cheep Cheep",
+        "attribute": "0400000068030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg434_name": {
+        "name": "im_hsmg434_name",
+        "message": "Rafale Bill Balle",
+        "attribute": "040000006A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg435_name": {
+        "name": "im_hsmg435_name",
+        "message": "Sauna Express",
+        "attribute": "040000006C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg436_name": {
+        "name": "im_hsmg436_name",
+        "message": "Boules piquantes",
+        "attribute": "040000006E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg437_name": {
+        "name": "im_hsmg437_name",
+        "message": "Compte \u00e0 rebours",
+        "attribute": "0400000070030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg438_name": {
+        "name": "im_hsmg438_name",
+        "message": "Photo-finish",
+        "attribute": "0400000072030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg439_name": {
+        "name": "im_hsmg439_name",
+        "message": "Pionce et ponce",
+        "attribute": "0400000074030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg440_name": {
+        "name": "im_hsmg440_name",
+        "message": "Course guid\u00e9e",
+        "attribute": "0400000076030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg441_name": {
+        "name": "im_hsmg441_name",
+        "message": "Golf de ouf'",
+        "attribute": "0400000078030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg442_name": {
+        "name": "im_hsmg442_name",
+        "message": "Pi\u00e8ge \u00e0 Goomba",
+        "attribute": "040000007A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg443_name": {
+        "name": "im_hsmg443_name",
+        "message": "Dans les nuages",
+        "attribute": "040000007C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg444_name": {
+        "name": "im_hsmg444_name",
+        "message": "H\u00e9lico twist",
+        "attribute": "040000007E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg445_name": {
+        "name": "im_hsmg445_name",
+        "message": "Dr\u00f4le d'hippodrome",
+        "attribute": "0400000080030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg446_name": {
+        "name": "im_hsmg446_name",
+        "message": "L'anneau de vitesse",
+        "attribute": "0400000082030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg447_name": {
+        "name": "im_hsmg447_name",
+        "message": "Pointes de vitesse",
+        "attribute": "0400000084030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg448_name": {
+        "name": "im_hsmg448_name",
+        "message": "Porte-\u00e0-porte",
+        "attribute": "0400000086030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg449_name": {
+        "name": "im_hsmg449_name",
+        "message": "1, 2, 3... Goomba !",
+        "attribute": "0400000088030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg101_name": {
+        "name": "im_hsmg101_name",
+        "message": "Raz-de-mar\u00e9e",
+        "attribute": "040000008A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg102_name": {
+        "name": "im_hsmg102_name",
+        "message": "Rocher danger !",
+        "attribute": "040000008C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg103_name": {
+        "name": "im_hsmg103_name",
+        "message": "Bombes coco",
+        "attribute": "040000008E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg104_name": {
+        "name": "im_hsmg104_name",
+        "message": "Piranha poursuite",
+        "attribute": "0400000090030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg105_name": {
+        "name": "im_hsmg105_name",
+        "message": "Tir \u00e0 la corde",
+        "attribute": "0400000092030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg106_name": {
+        "name": "im_hsmg106_name",
+        "message": "Loin des projecteurs",
+        "attribute": "0400000094030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg107_name": {
+        "name": "im_hsmg107_name",
+        "message": "Thwomp qui roule...",
+        "attribute": "0400000096030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg108_name": {
+        "name": "im_hsmg108_name",
+        "message": "Poursuite sur neige",
+        "attribute": "0400000098030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg109_name": {
+        "name": "im_hsmg109_name",
+        "message": "Pogo \u00e0 gogo",
+        "attribute": "040000009A030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg110_name": {
+        "name": "im_hsmg110_name",
+        "message": "Bien essay\u00e9 !",
+        "attribute": "040000009C030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg111_name": {
+        "name": "im_hsmg111_name",
+        "message": "Archerie zizanie",
+        "attribute": "040000009E030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg112_name": {
+        "name": "im_hsmg112_name",
+        "message": "BUUUUUUUUUUUT",
+        "attribute": "04000000A0030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg113_name": {
+        "name": "im_hsmg113_name",
+        "message": "\u00c9pines assassines",
+        "attribute": "04000000A2030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg114_name": {
+        "name": "im_hsmg114_name",
+        "message": "Cache-cache",
+        "attribute": "04000000A4030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg115_name": {
+        "name": "im_hsmg115_name",
+        "message": "Pas par l\u00e0 !",
+        "attribute": "04000000A6030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg201_name": {
+        "name": "im_hsmg201_name",
+        "message": "Donjon d\u00e9ment",
+        "attribute": "04000000A8030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg202_name": {
+        "name": "im_hsmg202_name",
+        "message": "Mange ta pizza !",
+        "attribute": "04000000AA030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg203_name": {
+        "name": "im_hsmg203_name",
+        "message": "Donjon pas bon",
+        "attribute": "04000000AC030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg204_name": {
+        "name": "im_hsmg204_name",
+        "message": "OK ? Hockey !",
+        "attribute": "04000000AE030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg205_name": {
+        "name": "im_hsmg205_name",
+        "message": "Usine \u00e0 bouffer",
+        "attribute": "04000000B0030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg206_name": {
+        "name": "im_hsmg206_name",
+        "message": "Bobsleigh \u00e0 l'aise",
+        "attribute": "04000000B2030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg207_name": {
+        "name": "im_hsmg207_name",
+        "message": "Dure-dure voiture",
+        "attribute": "04000000B4030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg208_name": {
+        "name": "im_hsmg208_name",
+        "message": "Entourez, c'est gagn\u00e9 !",
+        "attribute": "04000000B6030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg209_name": {
+        "name": "im_hsmg209_name",
+        "message": "Cerises pas tristes",
+        "attribute": "04000000B8030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg210_name": {
+        "name": "im_hsmg210_name",
+        "message": "Cr\u00e8ve-ballon",
+        "attribute": "04000000BA030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg211_name": {
+        "name": "im_hsmg211_name",
+        "message": "Bombe au prisonnier",
+        "attribute": "04000000BC030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg212_name": {
+        "name": "im_hsmg212_name",
+        "message": "Saute qui peut",
+        "attribute": "04000000BE030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg213_name": {
+        "name": "im_hsmg213_name",
+        "message": "Chute de pierres",
+        "attribute": "04000000C0030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg214_name": {
+        "name": "im_hsmg214_name",
+        "message": "Goomba et couleurs",
+        "attribute": "04000000C2030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg215_name": {
+        "name": "im_hsmg215_name",
+        "message": "Pilotes a\u00e9riens",
+        "attribute": "04000000C4030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg701_name": {
+        "name": "im_hsmg701_name",
+        "message": "Aiguilles sauteuses",
+        "attribute": "04000000C6030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg702_name": {
+        "name": "im_hsmg702_name",
+        "message": "De liane en liane",
+        "attribute": "04000000C8030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg703_name": {
+        "name": "im_hsmg703_name",
+        "message": "Course tourniquets",
+        "attribute": "04000000CA030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg704_name": {
+        "name": "im_hsmg704_name",
+        "message": "F-Dingo",
+        "attribute": "04000000CC030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg705_name": {
+        "name": "im_hsmg705_name",
+        "message": "Ast\u00e9ro-crawl",
+        "attribute": "04000000CE030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg801_name": {
+        "name": "im_hsmg801_name",
+        "message": "Marteau vole",
+        "attribute": "04000000D0030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg802_name": {
+        "name": "im_hsmg802_name",
+        "message": "Parapluie partie",
+        "attribute": "04000000D2030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg803_name": {
+        "name": "im_hsmg803_name",
+        "message": "Pr\u00eats ? Lancez !",
+        "attribute": "04000000D4030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg804_name": {
+        "name": "im_hsmg804_name",
+        "message": "Rien \u00e0 d\u00e9clarer",
+        "attribute": "04000000D6030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg805_name": {
+        "name": "im_hsmg805_name",
+        "message": "Sables \u00e9mouvants",
+        "attribute": "04000000D8030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg806_name": {
+        "name": "im_hsmg806_name",
+        "message": "Marins d'eau douce",
+        "attribute": "04000000DA030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg807_name": {
+        "name": "im_hsmg807_name",
+        "message": "Pi\u00e8ces et chocolats",
+        "attribute": "04000000DC030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg808_name": {
+        "name": "im_hsmg808_name",
+        "message": "Oasis sans issue",
+        "attribute": "04000000DE030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg809_name": {
+        "name": "im_hsmg809_name",
+        "message": "Cata-pi\u00e8ces",
+        "attribute": "04000000E0030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg810_name": {
+        "name": "im_hsmg810_name",
+        "message": "Radeaux radins",
+        "attribute": "04000000E2030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg501_name": {
+        "name": "im_hsmg501_name",
+        "message": "Beach-volley d\u00e9lire",
+        "attribute": "04000000E4030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg502_name": {
+        "name": "im_hsmg502_name",
+        "message": "Hockey f\u00e9roce",
+        "attribute": "04000000E6030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg503_name": {
+        "name": "im_hsmg503_name",
+        "message": "Cara-passes",
+        "attribute": "04000000E8030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg601_name": {
+        "name": "im_hsmg601_name",
+        "message": "Thwompuzzle",
+        "attribute": "04000000EA030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg602_name": {
+        "name": "im_hsmg602_name",
+        "message": "Blocs \u00e9toil\u00e9s",
+        "attribute": "04000000EC030000",
+        "style_index": 4294967295
+    },
+    "im_hsmg603_name": {
+        "name": "im_hsmg603_name",
+        "message": "Magn\u00e9puzzle",
+        "attribute": "04000000EE030000",
+        "style_index": 4294967295
+    }
+}

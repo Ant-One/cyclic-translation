@@ -1,0 +1,1952 @@
+{
+    "mn_dRoom_mw_introA": {
+        "name": "mn_dRoom_mw_introA",
+        "message": "Bienvenue \u00e0 la [0:3 FF-35-02-FF]maison des donn\u00e9es[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nNyahaha ![0:3 00-00-00-FF]",
+        "attribute": "04010022300A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_introB": {
+        "name": "mn_dRoom_mw_introB",
+        "message": "[0:3 11-0C-1D-FF]Nyahaha ! En voil\u00e0 une agr\u00e9able surprise ![0:3 00-00-00-FF]",
+        "attribute": "04010022480A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_introC": {
+        "name": "mn_dRoom_mw_introC",
+        "message": "La [0:3 FF-35-02-FF]maison des donn\u00e9es[0:3 00-00-00-FF][0:3 11-0C-1D-FF] attire du monde,\r\nces temps-ci. Nyahaha ![0:3 00-00-00-FF]",
+        "attribute": "04010022600A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_add_intro": {
+        "name": "mn_dRoom_mw_add_intro",
+        "message": "On dirait qu'il y a du nouveau !\r\nEt si vous y jetiez un \u0153il ?",
+        "attribute": "04010022780A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_add_introStaff": {
+        "name": "mn_dRoom_mw_add_introStaff",
+        "message": "La piste \u00ab Cr\u00e9dits \u00bb a \u00e9t\u00e9 ajout\u00e9e aux\r\nmusiques, dans la section Place du village.",
+        "attribute": "04010022960A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter00": {
+        "name": "mn_dRoom_mw_firstEnter00",
+        "message": "Oh, une nouvelle t\u00eate ! Dans ce cas, j'ai\r\nun petit quelque chose \u00e0 vous montrer...",
+        "attribute": "04010022B00A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter01": {
+        "name": "mn_dRoom_mw_firstEnter01",
+        "message": "C'est une carte Mario Party. Cette fiche\r\nmagique garde la trace de vos aventures.",
+        "attribute": "04010022B20A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter02": {
+        "name": "mn_dRoom_mw_firstEnter02",
+        "message": "Vous pouvez la personnaliser \u00e0 votre\r\nguise ici m\u00eame. Allez-y, ajoutez-y\r\nvotre touche perso !",
+        "attribute": "04010022D00A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter03": {
+        "name": "mn_dRoom_mw_firstEnter03",
+        "message": "Je vois... Alors \u00e7a ira pour le moment, mais\r\nn'oubliez pas que vous pouvez la modifier\r\nquand vous voulez.",
+        "attribute": "04010022D20A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_card_intro_back": {
+        "name": "mn_dRoom_mw_card_intro_back",
+        "message": "Une petite minute ! Vous devriez vraiment\r\nessayer de personnaliser votre carte.",
+        "attribute": "04010022EC0A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_card_intro": {
+        "name": "mn_dRoom_mw_card_intro",
+        "message": "Si vous vous connectez \u00e0\r\nInternet, tout le monde pourra\r\nvoir votre carte Mario Party.",
+        "attribute": "04000000000B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_mw_goTo00a": {
+        "name": "mn_dRoom_mw_goTo00a",
+        "message": "Voulez-vous jeter un \u0153il \u00e0\r\nvotre carte Mario Party ?",
+        "attribute": "04010022020B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00b": {
+        "name": "mn_dRoom_mw_goTo00b",
+        "message": "L'encyclop\u00e9die est remplie de doux\r\nsouvenirs. Prenez-en bien soin !",
+        "attribute": "04010022200B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00c": {
+        "name": "mn_dRoom_mw_goTo00c",
+        "message": "La musique adoucit les m\u0153urs, pas vrai ?\r\nEnfin, si on \u00e9coute la bonne musique !",
+        "attribute": "04010022440B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00d": {
+        "name": "mn_dRoom_mw_goTo00d",
+        "message": "Plein de donn\u00e9es sont enregistr\u00e9es ici.\r\nChoisissez un livre pour revivre\r\nun souvenir !",
+        "attribute": "040100225E0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00e": {
+        "name": "mn_dRoom_mw_goTo00e",
+        "message": "Jetez un \u0153il \u00e0 vos exploits. Il n'y a rien\r\nde mal \u00e0 \u00eatre fier de ses performances !",
+        "attribute": "04010022720B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00f": {
+        "name": "mn_dRoom_mw_goTo00f",
+        "message": "Affrontez des joueurs du monde entier\r\nen vous connectant \u00e0 Internet.",
+        "attribute": "04010022860B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeA": {
+        "name": "mn_dRoom_mw_byeA",
+        "message": "\u00c0 bient\u00f4t, revenez quand vous voulez !",
+        "attribute": "04010022AA0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeB": {
+        "name": "mn_dRoom_mw_byeB",
+        "message": "Vous partez d\u00e9j\u00e0 ? \u00c0 la prochaine.",
+        "attribute": "04010022BE0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeC": {
+        "name": "mn_dRoom_mw_byeC",
+        "message": "[0:3 11-0C-1D-FF]\u00c0 bient\u00f4t. Nyahaha ![0:3 00-00-00-FF]",
+        "attribute": "04010022D20B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_pointer": {
+        "name": "mn_dRoom_pointer",
+        "message": "[0]",
+        "attribute": "04000000E60B0000",
+        "style_index": 468
+    },
+    "mn_dRoom_ctrl": {
+        "name": "mn_dRoom_ctrl",
+        "message": "\ue003 Retour",
+        "attribute": "04000000E80B0000",
+        "style_index": 516
+    },
+    "mn_dRoom_mw_online00": {
+        "name": "mn_dRoom_mw_online00",
+        "message": "Envoi des donn\u00e9es...",
+        "attribute": "04000000EA0B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_mw_online01": {
+        "name": "mn_dRoom_mw_online01",
+        "message": "T\u00e9l\u00e9chargement des donn\u00e9es...",
+        "attribute": "04000000EC0B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_top_ctrl": {
+        "name": "mn_dRoom_top_ctrl",
+        "message": "\ue003 Retour",
+        "attribute": "04000000EE0B0000",
+        "style_index": 11
+    },
+    "mn_dRoom_book_category00": {
+        "name": "mn_dRoom_book_category00",
+        "message": "Jeux",
+        "attribute": "04000000F00B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category01": {
+        "name": "mn_dRoom_book_category01",
+        "message": "Plateaux",
+        "attribute": "04000000F20B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category02": {
+        "name": "mn_dRoom_book_category02",
+        "message": "Personnages",
+        "attribute": "04000000F40B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category03": {
+        "name": "mn_dRoom_book_category03",
+        "message": "Astuces",
+        "attribute": "04000000F60B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_shop_details": {
+        "name": "mn_dRoom_book_shop_details",
+        "message": "Vous pouvez remplir chaque\r\nsection en achetant des pages de\r\nl'encyclop\u00e9die au magasin de Toad.",
+        "attribute": "04000000F80B0000",
+        "style_index": 476
+    },
+    "mn_dRoom_book_listName": {
+        "name": "mn_dRoom_book_listName",
+        "message": "[0]",
+        "attribute": "04000000FA0B0000",
+        "style_index": 477
+    },
+    "mn_dRoom_book_captionName": {
+        "name": "mn_dRoom_book_captionName",
+        "message": "[0]",
+        "attribute": "04000000FC0B0000",
+        "style_index": 478
+    },
+    "mn_dRoom_book_seriesDetails00": {
+        "name": "mn_dRoom_book_seriesDetails00",
+        "message": "Mario et ses amis sautent dans le\r\ntuyau de t\u00e9l\u00e9portation pour leur\r\npremi\u00e8re aventure dans Mario\r\nParty. Qui sera la superstar ?",
+        "attribute": "04000000FE0B0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails01": {
+        "name": "mn_dRoom_book_seriesDetails01",
+        "message": "En d\u00e9saccord sur le nom \u00e0 donner\r\n\u00e0 leur parc d'attraction, Mario et\r\nses amis d\u00e9cident que celui qui bat\r\nBowser aura le dernier mot.",
+        "attribute": "04000000000C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails02": {
+        "name": "mn_dRoom_book_seriesDetails02",
+        "message": "Mario et ses camarades explorent\r\nun monde de jouets dans une\r\naventure unique centr\u00e9e sur\r\nl'\u00e9toile mill\u00e9naire.",
+        "attribute": "04000000020C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails03": {
+        "name": "mn_dRoom_book_seriesDetails03",
+        "message": "Toad invite Mario et sa troupe dans\r\nle LudiCube, o\u00f9 ils joueront les uns\r\ncontre les autres pour remporter\r\ndes cadeaux de Toad.",
+        "attribute": "04000000040C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails04": {
+        "name": "mn_dRoom_book_seriesDetails04",
+        "message": "Mario et ses amis sont invit\u00e9s dans\r\nl'UniR\u00eave. Apr\u00e8s avoir \u00e9t\u00e9 accueillis\r\npar les gardiens \u00e9toiles, ils se lancent\r\ndans une aventure d\u00e9lirante.",
+        "attribute": "04000000060C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails05": {
+        "name": "mn_dRoom_book_seriesDetails05",
+        "message": "Mario et ses amis partent r\u00e9cup\u00e9rer\r\ndes \u00e9toiles pour la banque \u00c9toile et\r\nse retrouvent au c\u0153ur d'un conflit\r\nentre C\u00e9lestin et S\u00e9l\u00e9na.",
+        "attribute": "04000000080C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails06": {
+        "name": "mn_dRoom_book_seriesDetails06",
+        "message": "Mario et ses compagnons sont invit\u00e9s\r\n\u00e0 se reposer le temps d'une croisi\u00e8re.\r\nM\u00e9content d'en avoir \u00e9t\u00e9 exclu, Bowser\r\nveut ruiner leurs vacances.",
+        "attribute": "040000000A0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails07": {
+        "name": "mn_dRoom_book_seriesDetails07",
+        "message": "Le Carnaval de l'\u00c9toile est arriv\u00e9 en\r\nville. Quiconque remporte la bataille\r\nstellaire sera couronn\u00e9 superstar\r\net gagnera un an de bonbons.",
+        "attribute": "040000000C0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails08": {
+        "name": "mn_dRoom_book_seriesDetails08",
+        "message": "Bowser a vol\u00e9 toutes les petites\r\n\u00e9toiles ! Mario et ses compagnons\r\nse lancent dans une aventure pour\r\nrepeupler le ciel \u00e9toil\u00e9.",
+        "attribute": "040000000E0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails09": {
+        "name": "mn_dRoom_book_seriesDetails09",
+        "message": "Mario et ses camarades s'opposent\r\naux troupes de Bowser, et le roi\r\ndes Koopas lui-m\u00eame se lance\r\n\u00e0 leur poursuite !",
+        "attribute": "04000000100C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails00": {
+        "name": "mn_dRoom_book_bdDetails00",
+        "message": "Un g\u00e2teau \u00e0 deux \u00e9tages couronn\u00e9\r\nde d\u00e9licieuses fraises. Attention\r\ncependant... Bowser pourrait bien\r\ntra\u00eener du c\u00f4t\u00e9 du flan !",
+        "attribute": "04000000120C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails01": {
+        "name": "mn_dRoom_book_bdDetails01",
+        "message": "Une station spatiale avec des routes\r\nqui partent de son centre tels des\r\nrayons. Attention au compte \u00e0\r\nrebours et au rayon de Bowser !",
+        "attribute": "04000000140C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails02": {
+        "name": "mn_dRoom_book_bdDetails02",
+        "message": "Une for\u00eat o\u00f9 se perdent tous ceux\r\nqui s'y aventurent, des panneaux qui\r\nindiquent diff\u00e9rentes directions et un\r\narbre malicieux comme ma\u00eetre des lieux.",
+        "attribute": "04000000160C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails03": {
+        "name": "mn_dRoom_book_bdDetails03",
+        "message": "Deux \u00eeles en forme de Yoshi et qui\r\nregorgent de fruits. L'\u00eele past\u00e8que\r\nest \u00e0 gauche, l'\u00eele melon, \u00e0 droite.",
+        "attribute": "04000000180C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails04": {
+        "name": "mn_dRoom_book_bdDetails04",
+        "message": "Dans ce pays, le jour et la nuit\r\nalternent de mani\u00e8re impr\u00e9visible.\r\n\u00c0 la tomb\u00e9e de la nuit, les fant\u00f4mes\r\nentrent dans la danse...",
+        "attribute": "040000001A0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_caraDetails00": {
+        "name": "mn_dRoom_book_caraDetails00",
+        "message": "Un fameux h\u00e9ros intr\u00e9pide,\r\nfacilement reconnaissable\r\n\u00e0 sa casquette rouge\r\net \u00e0 sa moustache.",
+        "attribute": "040000001C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails01": {
+        "name": "mn_dRoom_book_caraDetails01",
+        "message": "Le grand fr\u00e8re de Mario,\r\nconnu pour ses grands\r\nsauts et sa hantise des\r\nfant\u00f4mes.",
+        "attribute": "040000001E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails02": {
+        "name": "mn_dRoom_book_caraDetails02",
+        "message": "La princesse du royaume\r\nChampignon est tr\u00e8s\r\ngentille et adore tout\r\nce qui est rose.",
+        "attribute": "04000000200C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails03": {
+        "name": "mn_dRoom_book_caraDetails03",
+        "message": "Une princesse pleine\r\nd'\u00e9nergie et qui tient\r\n\u00e0 ses boucles d'oreille\r\nen forme de fleurs.",
+        "attribute": "04000000220C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails04": {
+        "name": "mn_dRoom_book_caraDetails04",
+        "message": "Un personnage avare\r\navec un penchant pour\r\nl'or. Il passe trop de\r\ntemps avec Waluigi.",
+        "attribute": "04000000240C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails05": {
+        "name": "mn_dRoom_book_caraDetails05",
+        "message": "Un personnage sournois,\r\ntoujours pr\u00eat \u00e0 jouer un\r\nmauvais tour. Souvent vu\r\nen compagnie de Wario.",
+        "attribute": "04000000260C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails06": {
+        "name": "mn_dRoom_book_caraDetails06",
+        "message": "Un alli\u00e9 insouciant et\r\nloyal de Mario, grand\r\namateur de fruits.",
+        "attribute": "04000000280C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails07": {
+        "name": "mn_dRoom_book_caraDetails07",
+        "message": "Un personnage d'un\r\nautre monde qui voyage\r\n\u00e0 travers l'espace avec\r\nsa famille, les Lumas.",
+        "attribute": "040000002A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails08": {
+        "name": "mn_dRoom_book_caraDetails08",
+        "message": "Le roi de la jungle. Il a\r\nune force surhumaine\r\net raffole de bananes.",
+        "attribute": "040000002C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails09": {
+        "name": "mn_dRoom_book_caraDetails09",
+        "message": "Un personnage jovial\r\nqui d\u00e9gage un charme\r\nmyst\u00e9rieux.",
+        "attribute": "040000002E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails10": {
+        "name": "mn_dRoom_book_caraDetails10",
+        "message": "Un sujet travailleur\r\net dynamique du\r\nroyaume Champignon.",
+        "attribute": "04000000300C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails11": {
+        "name": "mn_dRoom_book_caraDetails11",
+        "message": "Intelligente, pleine de\r\nvie et toujours joyeuse,\r\non la reconna\u00eet \u00e0 ses\r\ndeux couettes roses.",
+        "attribute": "04000000320C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails12": {
+        "name": "mn_dRoom_book_caraDetails12",
+        "message": "Le roi des Koopas,\r\n\u00e9go\u00efste et sans piti\u00e9.",
+        "attribute": "04000000340C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails13": {
+        "name": "mn_dRoom_book_caraDetails13",
+        "message": "Les larbins de Bowser\r\nse font pi\u00e9tiner sans\r\narr\u00eat... par leurs ennemis,\r\ncomme par leurs amis.",
+        "attribute": "04000000360C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails14": {
+        "name": "mn_dRoom_book_caraDetails14",
+        "message": "Ces sbires de Bowser\r\nsont de couleurs\r\nvari\u00e9es, parfois\r\nrouges.",
+        "attribute": "04000000380C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails15": {
+        "name": "mn_dRoom_book_caraDetails15",
+        "message": "Ces cr\u00e9atures peuvent\r\nvoler gr\u00e2ce \u00e0 l'h\u00e9lice\r\nfix\u00e9e sur leur t\u00eate.",
+        "attribute": "040000003A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails16": {
+        "name": "mn_dRoom_book_caraDetails16",
+        "message": "Ce larbin de Bowser se\r\nfait une joie de revenir\r\nguider les joueurs de\r\nMario Party.",
+        "attribute": "040000003C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails17": {
+        "name": "mn_dRoom_book_caraDetails17",
+        "message": "Cette cr\u00e9ature explosive\r\nclignote juste avant\r\nd'exploser, vous laissant\r\nainsi le temps de fuir.",
+        "attribute": "040000003E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails18": {
+        "name": "mn_dRoom_book_caraDetails18",
+        "message": "Ces plantes essaient de\r\ncroquer tout ce qui s'en\r\napproche. Ne pas les\r\nconfondre avec des fraises.",
+        "attribute": "04000000400C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails19": {
+        "name": "mn_dRoom_book_caraDetails19",
+        "message": "Ces cr\u00e9atures sont\r\ntir\u00e9es d'un canon.\r\nGardez vos distance,\r\nelles explosent \u00e0 l'impact.",
+        "attribute": "04000000420C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails20": {
+        "name": "mn_dRoom_book_caraDetails20",
+        "message": "On croise souvent ces\r\nnageurs agiles dans\r\nl'oc\u00e9an, mais aussi\r\ndans les rivi\u00e8res.",
+        "attribute": "04000000440C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails21": {
+        "name": "mn_dRoom_book_caraDetails21",
+        "message": "Ces boules h\u00e9riss\u00e9es\r\nsont jet\u00e9es par Lakitu.\r\nMieux vaut ne pas s'en\r\napprocher.",
+        "attribute": "04000000460C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails22": {
+        "name": "mn_dRoom_book_caraDetails22",
+        "message": "Dou\u00e9e pour creuser\r\ndes trous, cette vague\r\ncousine de la taupe\r\nsemble bien belliqueuse.",
+        "attribute": "04000000480C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails23": {
+        "name": "mn_dRoom_book_caraDetails23",
+        "message": "Cette cr\u00e9ature reste\r\ntapie dans l'ombre et\r\nattend son heure pour\r\ncauser du tort.",
+        "attribute": "040000004A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails24": {
+        "name": "mn_dRoom_book_caraDetails24",
+        "message": "Ce gros pingouin est\r\nconnu pour ses glissades\r\nsur le ventre. Il est le\r\nparent du Petit Pingouin.",
+        "attribute": "040000004C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails25": {
+        "name": "mn_dRoom_book_caraDetails25",
+        "message": "Une cr\u00e9ature tr\u00e8s\r\nlourde. Attention,\r\nplafond bas !",
+        "attribute": "040000004E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails26": {
+        "name": "mn_dRoom_book_caraDetails26",
+        "message": "Ces cr\u00e9atures sont\r\nprot\u00e9g\u00e9es par une\r\ncarapace sombre\r\net r\u00e9sistante.",
+        "attribute": "04000000500C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails27": {
+        "name": "mn_dRoom_book_caraDetails27",
+        "message": "Cette cr\u00e9ature vole\r\nsur son nuage et jette\r\ndes Pic-Pics avec une\r\npr\u00e9cision redoutable.",
+        "attribute": "04000000520C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails28": {
+        "name": "mn_dRoom_book_caraDetails28",
+        "message": "Ce vaurien aime jouer\r\nde mauvais tours. Apr\u00e8s\r\ntout, il est le fils de\r\nBowser, roi des Koopas.",
+        "attribute": "04000000540C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails29": {
+        "name": "mn_dRoom_book_caraDetails29",
+        "message": "Ces cr\u00e9atures nagent\r\net crachent de l'encre\r\nsi on les d\u00e9range.",
+        "attribute": "04000000560C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails30": {
+        "name": "mn_dRoom_book_caraDetails30",
+        "message": "Des \u00eatres trop timides\r\npour soutenir le regard\r\net qui se cachent si\r\nvous les voyez.",
+        "attribute": "04000000580C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails31": {
+        "name": "mn_dRoom_book_caraDetails31",
+        "message": "Cr\u00e9atures sph\u00e9riques\r\ntoujours encha\u00een\u00e9es,\r\nils ont un corps et\r\nune volont\u00e9 de fer.",
+        "attribute": "040000005A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails32": {
+        "name": "mn_dRoom_book_caraDetails32",
+        "message": "Ces imposantes\r\ncr\u00e9atures min\u00e9rales\r\nbloquent les passages.",
+        "attribute": "040000005C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails33": {
+        "name": "mn_dRoom_book_caraDetails33",
+        "message": "Le roi des Boos est\r\nfier de son imposante\r\nstature et de sa belle\r\ncouronne brillante.",
+        "attribute": "040000005E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails34": {
+        "name": "mn_dRoom_book_caraDetails34",
+        "message": "Ces cr\u00e9atures \u00e0 \u00e9pines\r\npassent leur temps \u00e0\r\nflotter entre deux eaux\r\net \u00e0 barrer la route.",
+        "attribute": "04000000600C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails35": {
+        "name": "mn_dRoom_book_caraDetails35",
+        "message": "On en croise parfois\r\nsur le littoral. Sa pince\r\nd\u00e9mesur\u00e9e est plut\u00f4t\r\nmignonne, bizarrement.",
+        "attribute": "04000000620C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails36": {
+        "name": "mn_dRoom_book_caraDetails36",
+        "message": "Ces cr\u00e9atures aiment\r\njouer du marteau et\r\nne peuvent s'emp\u00eacher\r\nde sauter.",
+        "attribute": "04000000640C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails37": {
+        "name": "mn_dRoom_book_caraDetails37",
+        "message": "Ces cr\u00e9atures cactiformes\r\nprennent un malin plaisir\r\n\u00e0 sortir de terre pour\r\nsurprendre les passants.",
+        "attribute": "04000000660C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails38": {
+        "name": "mn_dRoom_book_caraDetails38",
+        "message": "\u00c0 la diff\u00e9rence des\r\nBoos, ces \u00eatres ne se\r\ncachent pas quand on\r\nles regarde.",
+        "attribute": "04000000680C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails39": {
+        "name": "mn_dRoom_book_caraDetails39",
+        "message": "D'\u00e9normes globes\r\noculaires flottants que\r\nvous pouvez d\u00e9sorienter\r\nen leur tournant autour.",
+        "attribute": "040000006A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails40": {
+        "name": "mn_dRoom_book_caraDetails40",
+        "message": "Cr\u00e9ature \u00e0 lunettes\r\net habill\u00e9e d'une robe\r\nbleue, il est vers\u00e9 dans\r\nles arts magiques.",
+        "attribute": "040000006C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails41": {
+        "name": "mn_dRoom_book_caraDetails41",
+        "message": "Ces Koopas a\u00e9riens\r\npeuvent voler en\r\nbattant des ailes.",
+        "attribute": "040000006E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails42": {
+        "name": "mn_dRoom_book_caraDetails42",
+        "message": "Quiconque s'approche\r\ntrop de lui risque de finir\r\naspir\u00e9 par son \u00e9norme\r\ngueule.",
+        "attribute": "04000000700C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails43": {
+        "name": "mn_dRoom_book_caraDetails43",
+        "message": "On les confond souvent\r\navec des Maskass,\r\nm\u00eame s'ils portent des\r\nmasques diff\u00e9rents.",
+        "attribute": "04000000720C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails44": {
+        "name": "mn_dRoom_book_caraDetails44",
+        "message": "La cheffe des Plantes\r\nPiranha porte un short\r\nqui cache son nombril.",
+        "attribute": "04000000740C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails45": {
+        "name": "mn_dRoom_book_caraDetails45",
+        "message": "De par leur apparence,\r\non confond souvent\r\nces sbires de Bowser\r\navec des Goombas.",
+        "attribute": "04000000760C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails46": {
+        "name": "mn_dRoom_book_caraDetails46",
+        "message": "La prog\u00e9niture du\r\nPingouin vit sous des\r\nlatitudes glaciales.",
+        "attribute": "04000000780C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails47": {
+        "name": "mn_dRoom_book_caraDetails47",
+        "message": "Ces primates espi\u00e8gles\r\naiment passer du temps\r\n\u00e0 la cime des arbres.",
+        "attribute": "040000007A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails48": {
+        "name": "mn_dRoom_book_caraDetails48",
+        "message": "Le moyen de transport\r\nfavori de Bowser Jr.\r\nlui permet de s'envoler\r\nvers les cieux.",
+        "attribute": "040000007C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_bd00_text00": {
+        "name": "mn_dRoom_book_bd00_text00",
+        "message": "Si vous voulez jouer plus longtemps, vous pouvez\r\najouter des tours une fois par partie. Cela n'est\r\ncependant pas possible pendant le dernier tour.",
+        "attribute": "040000007E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text01": {
+        "name": "mn_dRoom_book_bd00_text01",
+        "message": "Quand vous jouez avec un ami, seul le joueur\r\nqui a cr\u00e9\u00e9 le salon peut ajouter des tours.",
+        "attribute": "04000000800C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text02": {
+        "name": "mn_dRoom_book_bd00_text02",
+        "message": "En cas d'ajout de tours, les effets des cinq derniers\r\ntours, comme les duels et l'augmentation du nombre de\r\npi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 0B-00-00-FF] re\u00e7ues sur certaines cases, seront d\u00e9sactiv\u00e9s.[0:3 00-00-00-FF]",
+        "attribute": "04000000820C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text03": {
+        "name": "mn_dRoom_book_bd00_text03",
+        "message": "Les points jaunes sur la carte indiquent o\u00f9 la bourse\r\nstellaire peut appara\u00eetre. Lorsque Toadette s'envole,\r\nelle atterrit ensuite sur l'un de ces points jaunes.",
+        "attribute": "04000000840C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text04": {
+        "name": "mn_dRoom_book_bd00_text04",
+        "message": "Appuyez sur \ue002 ou \ue001 pour utiliser des autocollants\r\npendant un jeu de plateau. Il y en a beaucoup \u00e0\r\nessayer, alors changez-les avec \ue015.",
+        "attribute": "04000000860C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text00": {
+        "name": "mn_dRoom_book_bd01_text00",
+        "message": "[0:3 0B-00-00-FF]D\u00e9corez le g\u00e2teau de fraises pour gagner des\r\npi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] ou des \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 0B-00-00-FF] ! Les petites fraises\r\nco\u00fbtent 5 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] et les grosses 30.[0:3 00-00-00-FF]",
+        "attribute": "04000000880C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text01": {
+        "name": "mn_dRoom_book_bd01_text01",
+        "message": "[0:3 0B-00-00-FF]Atterrissez sur la case d'un de vos fraisiers pour\r\nr\u00e9cup\u00e9rer des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF]. Et en plus, la plante\r\nrestera l\u00e0 ![0:3 00-00-00-FF]",
+        "attribute": "040000008A0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text02": {
+        "name": "mn_dRoom_book_bd01_text02",
+        "message": "[0:3 0B-00-00-FF]Les petites fraises donnent de robustes petites\r\nplantes. Parfois, elles ne disparaissent pas apr\u00e8s\r\navoir vol\u00e9 des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF].[0:3 00-00-00-FF]",
+        "attribute": "040000008C0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text03": {
+        "name": "mn_dRoom_book_bd01_text03",
+        "message": "Il y a toujours une graine gagnante parmi celles de la\r\nloterie organis\u00e9e par le Goomba. Si les trois premi\u00e8res\r\ns'av\u00e8rent perdantes, la derni\u00e8re devrait \u00eatre la bonne.",
+        "attribute": "040000008E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text04": {
+        "name": "mn_dRoom_book_bd01_text04",
+        "message": "Bowser est perch\u00e9 sur le flan. Comment r\u00e9ussit-il\r\n\u00e0 garder son allure royale et \u00e0 ne pas sombrer\r\ndans la cr\u00e8me ?",
+        "attribute": "04000000900C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text05": {
+        "name": "mn_dRoom_book_bd01_text05",
+        "message": "[0:3 0B-00-00-FF]R\u00e9cup\u00e9rez des \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 0B-00-00-FF] sur un d\u00e9licieux g\u00e2teau !\r\nMais interdiction de l'entamer avant la fin de la\r\npartie et la victoire d'une superstar ![0:3 00-00-00-FF]",
+        "attribute": "04000000920C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text06": {
+        "name": "mn_dRoom_book_bd01_text06",
+        "message": "Au sommet du g\u00e2teau se trouve une couronne\r\nen chocolat. C'est peut-\u00eatre une r\u00e9compense\r\ndestin\u00e9e \u00e0 la superstar !",
+        "attribute": "04000000940C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text00": {
+        "name": "mn_dRoom_book_bd02_text00",
+        "message": "Faites tout ce que vous pouvez pour rester\r\nen dehors de la ligne de mire du rayon de\r\npi\u00e8ces de Bowser !",
+        "attribute": "04000000960C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text01": {
+        "name": "mn_dRoom_book_bd02_text01",
+        "message": "[0:3 0B-00-00-FF]Si vous \u00eates touch\u00e9s par le rayon de pi\u00e8ces\r\nde Bowser, vous perdrez toutes vos pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF].\r\nCette station spatiale est bien dangereuse...[0:3 00-00-00-FF]",
+        "attribute": "04000000980C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text02": {
+        "name": "mn_dRoom_book_bd02_text02",
+        "message": "Faites attention quand le compteur affiche 1 !\r\nTrouvez vite un chemin pour ne pas rester dans\r\nla ligne de mire.",
+        "attribute": "040000009A0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text03": {
+        "name": "mn_dRoom_book_bd02_text03",
+        "message": "Un OVNI s'est \u00e9cras\u00e9 quelque part sur le plateau.\r\nMais o\u00f9 sont les extraterrestres ?",
+        "attribute": "040000009C0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text04": {
+        "name": "mn_dRoom_book_bd02_text04",
+        "message": "Le rayon de pi\u00e8ces de Bowser fonctionne\r\n\u00e0 l'\u00e9nergie solaire. C'est du moins ce qu'il\r\npr\u00e9tend...",
+        "attribute": "040000009E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text05": {
+        "name": "mn_dRoom_book_bd02_text05",
+        "message": "La patrouille Snifit ne manque jamais \u00e0 son devoir\r\net se lancera \u00e0 la poursuite des chauffards.",
+        "attribute": "04000000A00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text06": {
+        "name": "mn_dRoom_book_bd02_text06",
+        "message": "Si vous voyez un vaisseau spatial hors de\r\ncontr\u00f4le, vous apercevrez peut-\u00eatre un\r\nWhomp ou un Thwomp aux commandes !",
+        "attribute": "04000000A20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text00": {
+        "name": "mn_dRoom_book_bd03_text00",
+        "message": "[0:3 0B-00-00-FF]Topi Taupe peut modifier la direction des panneaux\r\nen \u00e9change de quelques pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF]. Quant au prix,\r\nil change selon son bon vouloir ![0:3 00-00-00-FF]",
+        "attribute": "04000000A40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text01": {
+        "name": "mn_dRoom_book_bd03_text01",
+        "message": "Les panneaux semblent constamment changer de\r\ndirection. Si vous n'y pr\u00eatez pas attention, vous\r\npourriez bien vous retrouver sur le mauvais chemin.",
+        "attribute": "04000000A60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text02": {
+        "name": "mn_dRoom_book_bd03_text02",
+        "message": "La for\u00eat est verte et luxuriante, et elle abrite de\r\nnombreuses cr\u00e9atures. Cependant, m\u00eame les\r\nanimaux de la for\u00eat s'y perdent parfois.",
+        "attribute": "04000000A80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text03": {
+        "name": "mn_dRoom_book_bd03_text03",
+        "message": "Les chemins de ce plateau s'enfoncent dans les\r\nprofondeurs de la for\u00eat. On dit m\u00eame que certains\r\naventuriers s'y seraient perdus. Faites attention.",
+        "attribute": "04000000AA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text04": {
+        "name": "mn_dRoom_book_bd03_text04",
+        "message": "Vous pouvez prendre les fruits des grands arbres.\r\nCela n'est cependant pas sans cons\u00e9quence, alors\r\nchoisissez-en un bien m\u00fbr.",
+        "attribute": "04000000AC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text05": {
+        "name": "mn_dRoom_book_bd03_text05",
+        "message": "Deux fruits de diff\u00e9rentes sortes tombent des\r\narbres en m\u00eame temps. Vous ne pourrez en choisir\r\nqu'un, alors choisissez sagement !",
+        "attribute": "04000000AE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text06": {
+        "name": "mn_dRoom_book_bd03_text06",
+        "message": "Si vous vous aventurez plus profond\u00e9ment\r\ndans les bois, ne baissez pas votre garde.\r\nUn arbre malveillant s'y trouve.",
+        "attribute": "04000000B00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text00": {
+        "name": "mn_dRoom_book_bd04_text00",
+        "message": "[0:3 0B-00-00-FF]Vous aurez besoin de passer d'une \u00eele \u00e0 l'autre pour\r\nr\u00e9cup\u00e9rer l'\u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 0B-00-00-FF]. Faites attention, le chemin\r\npourrait bien \u00eatre compliqu\u00e9.[0:3 00-00-00-FF]",
+        "attribute": "04000000B20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text01": {
+        "name": "mn_dRoom_book_bd04_text01",
+        "message": "Vous pouvez augmenter le prix \u00e0 payer au Thwomp\r\nautant que vous le voulez, mais il ne pourra pas\r\nbaisser. Alors attention \u00e0 ne pas trop l'augmenter !",
+        "attribute": "04000000B40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text02": {
+        "name": "mn_dRoom_book_bd04_text02",
+        "message": "[0:3 0B-00-00-FF]La ruse de Cheep Chomp d\u00e9placera l'\u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 0B-00-00-FF]\r\nd'une \u00eele \u00e0 l'autre. R\u00e9cup\u00e9rez-la avant qu'elle\r\nne change de place ![0:3 00-00-00-FF]",
+        "attribute": "04000000B60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text03": {
+        "name": "mn_dRoom_book_bd04_text03",
+        "message": "Il y a une \u00e9pave au large du plateau. Personne ne\r\nsait quand a eu lieu le naufrage, ni comment, mais\r\nselon la l\u00e9gende, le navire transportait des fruits !",
+        "attribute": "04000000B80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text04": {
+        "name": "mn_dRoom_book_bd04_text04",
+        "message": "Des past\u00e8ques, des melons, des pommes, des\r\nbananes... Ce plateau regorge de fruits ! Peut-\u00eatre\r\nest-ce la r\u00e9compense de la superstar ?",
+        "attribute": "04000000BA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text05": {
+        "name": "mn_dRoom_book_bd04_text05",
+        "message": "Si vous y regardez de plus pr\u00e8s, les deux \u00eeles ont la\r\nforme de Yoshis ! Celle avec les past\u00e8ques\r\ns'appelle l'\u00eele past\u00e8que.",
+        "attribute": "04000000BC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text06": {
+        "name": "mn_dRoom_book_bd04_text06",
+        "message": "Si vous y regardez de plus pr\u00e8s, les deux \u00eeles\r\nont la forme de Yoshis ! Celle avec les melons\r\ns'appelle l'\u00eele melon.",
+        "attribute": "04000000BE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text00": {
+        "name": "mn_dRoom_book_bd05_text00",
+        "message": "Des fant\u00f4mes se rassemblent ici, la nuit ! Si vous\r\nvoulez les voir, voyagez de jour vers les endroits\r\no\u00f9 ils pourraient se montrer.",
+        "attribute": "04000000C00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text01": {
+        "name": "mn_dRoom_book_bd05_text01",
+        "message": "Quand ils dorment, la nuit, les Whomps ne bougent\r\npas. Afin de ne pas rester coinc\u00e9s, profitez de la\r\njourn\u00e9e pour prendre les chemins qu'ils bloquent.",
+        "attribute": "04000000C20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text02": {
+        "name": "mn_dRoom_book_bd05_text02",
+        "message": "Les fant\u00f4mes sortent principalement la nuit,\r\nmais il y a un endroit o\u00f9 Boo se montre en journ\u00e9e.\r\nLe trouverez-vous ?",
+        "attribute": "04000000C40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text03": {
+        "name": "mn_dRoom_book_bd05_text03",
+        "message": "La t\u00e9l\u00e9portation de M. \u0152il est moins ch\u00e8re la nuit\r\nque le jour, alors essayez de vous y arr\u00eater\r\napr\u00e8s le coucher du soleil !",
+        "attribute": "04000000C60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text04": {
+        "name": "mn_dRoom_book_bd05_text04",
+        "message": "Si une t\u00e9l\u00e9portation de M. \u0152il croise votre chemin,\r\nvous pourriez bien \u00eatre t\u00e9l\u00e9port\u00e9s avec !\r\nEt gratuitement en plus !",
+        "attribute": "04000000C80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text05": {
+        "name": "mn_dRoom_book_bd05_text05",
+        "message": "Quel est ce vacarme qui provient du manoir myst\u00e9rieux\r\nchaque nuit ? C'est comme si une f\u00eate s'y d\u00e9roulait...",
+        "attribute": "04000000CA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text06": {
+        "name": "mn_dRoom_book_bd05_text06",
+        "message": "Il y a une balan\u00e7oire qui est immobile pendant le\r\njour, et qui bouge la nuit. Mais personne n'y est\r\nassis ! De quoi donner la chair de poule !",
+        "attribute": "04000000CC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text00": {
+        "name": "mn_dRoom_book_mm01_text00",
+        "message": "Vous pouvez jouer aux mini-jeux de votre choix\r\nparmi la centaine de mini-jeux disponibles.\r\nC'est un bon moyen de s'entra\u00eener !",
+        "attribute": "04000000CE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text01": {
+        "name": "mn_dRoom_book_mm01_text01",
+        "message": "Entra\u00eenez-vous ici autant que vous le d\u00e9sirez\r\navant d'affronter des joueurs du monde entier !",
+        "attribute": "04000000D00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text02": {
+        "name": "mn_dRoom_book_mm01_text02",
+        "message": "Jouez \u00e0 tous vos mini-jeux favoris,\r\nd\u00e8s que l'envie vous prend !",
+        "attribute": "04000000D20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text00": {
+        "name": "mn_dRoom_book_mm02_text00",
+        "message": "Faites monter la pression dans d'intenses jeux de\r\nsport, ou d\u00e9tendez-vous avec des jeux de puzzle.",
+        "attribute": "04000000D40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text01": {
+        "name": "mn_dRoom_book_mm02_text01",
+        "message": "Cramponnez-vous \u00e0 votre manette et ne la l\u00e2chez\r\npas dans ces palpitants jeux de sport 2 contre 2 !",
+        "attribute": "04000000D60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text02": {
+        "name": "mn_dRoom_book_mm02_text02",
+        "message": "Mettez vos m\u00e9ninges \u00e0 l'\u00e9preuve dans ces puzzles\r\ncomp\u00e9titifs ! Donnez-vous \u00e0 fond pour atteindre\r\nla victoire !",
+        "attribute": "04000000D80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text03": {
+        "name": "mn_dRoom_book_mm02_text03",
+        "message": "Relevez un d\u00e9fi contre vous-m\u00eame\r\ndans le mode Pour le score !",
+        "attribute": "04000000DA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text00": {
+        "name": "mn_dRoom_book_mm03_text00",
+        "message": "[0:3 0B-00-00-FF]Gagnez des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] en fonction de vos\r\nperformances dans les mini-jeux. L'objectif est\r\nsimple : r\u00e9cup\u00e9rez plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] que les autres ![0:3 00-00-00-FF]",
+        "attribute": "04000000DC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text01": {
+        "name": "mn_dRoom_book_mm03_text01",
+        "message": "[0:3 0B-00-00-FF]Vous gardez les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] que vous gagnez dans\r\nles mini-jeux pi\u00e8ces en folie. C'est l'occasion de\r\nprendre la t\u00eate de la comp\u00e9tition ![0:3 00-00-00-FF]",
+        "attribute": "04000000DE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text02": {
+        "name": "mn_dRoom_book_mm03_text02",
+        "message": "[0:3 0B-00-00-FF]Vous remportez deux fois plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] dans\r\nles mini-jeux bonus. C'est parfait pour rattraper\r\nson retard sur les adversaires ![0:3 00-00-00-FF]",
+        "attribute": "04000000E00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text00": {
+        "name": "mn_dRoom_book_mm04_text00",
+        "message": "Un combat entre deux \u00e9quipes de deux !\r\nCoop\u00e9rez pour vaincre vos adversaires !",
+        "attribute": "04000000E20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text01": {
+        "name": "mn_dRoom_book_mm04_text01",
+        "message": "Le travail d'\u00e9quipe, c'est avant tout une question de\r\nconfiance et de communication. Ne l'oubliez pas,\r\nsi vous voulez sortir vainqueurs !",
+        "attribute": "04000000E40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text02": {
+        "name": "mn_dRoom_book_mm04_text02",
+        "message": "Travaillez ensemble et serrez-vous les coudes\r\npour l'emporter ensemble !",
+        "attribute": "04000000E60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text00": {
+        "name": "mn_dRoom_book_mm05_text00",
+        "message": "Coop\u00e9rez avec vos deux partenaires et\r\nessayez de rester invaincus dans des\r\nmini-jeux seul contre tous !",
+        "attribute": "04000000E80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text01": {
+        "name": "mn_dRoom_book_mm05_text01",
+        "message": "\u00c0 la premi\u00e8re d\u00e9faite, c'est la fin !\r\nVous devrez coop\u00e9rer au sein de\r\nvotre \u00e9quipe de trois pour l'emporter !",
+        "attribute": "04000000EA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text02": {
+        "name": "mn_dRoom_book_mm05_text02",
+        "message": "C'est votre tour de vous battre en solitaire\r\ncontre une \u00e9quipe de trois dans des mini-jeux\r\nseul contre tous !",
+        "attribute": "04000000EC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text03": {
+        "name": "mn_dRoom_book_mm05_text03",
+        "message": "\u00c0 la premi\u00e8re d\u00e9faite, c'est la fin ! Ne c\u00e9dez\r\nrien contre une \u00e9quipe de trois, si vous voulez\r\ncontinuer l'aventure !",
+        "attribute": "04000000EE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text00": {
+        "name": "mn_dRoom_book_mm06_text00",
+        "message": "Visez le haut du classement parmi des joueurs\r\ndu monde entier. Attention, \u00e0 la premi\u00e8re\r\nd\u00e9faite, l'aventure se terminera.",
+        "attribute": "04000000F00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text01": {
+        "name": "mn_dRoom_book_mm06_text01",
+        "message": "Mettez vos talents \u00e0 l'\u00e9preuve en affrontant\r\ndes joueurs du monde entier !",
+        "attribute": "04000000F20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text02": {
+        "name": "mn_dRoom_book_mm06_text02",
+        "message": "Battez des adversaires du monde entier\r\nles uns apr\u00e8s les autres, et montrez\r\nde quoi vous \u00eates capable !",
+        "attribute": "04000000F40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text00": {
+        "name": "mn_dRoom_book_mm07_text00",
+        "message": "Affrontez des adversaires du monde entier\r\nau travers de packs quotidiens de mini-jeux !",
+        "attribute": "04000000F60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text01": {
+        "name": "mn_dRoom_book_mm07_text01",
+        "message": "Ne perdez pas votre concentration, sinon\r\nvous devrez vous en remettre \u00e0 la chance.",
+        "attribute": "04000000F80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text02": {
+        "name": "mn_dRoom_book_mm07_text02",
+        "message": "Terminez les mini-jeux avant vos adversaires\r\ndans cette course \u00e0 la premi\u00e8re place !",
+        "attribute": "04000000FA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text03": {
+        "name": "mn_dRoom_book_mm07_text03",
+        "message": "[0:3 0B-00-00-FF]Pour l'emporter, r\u00e9cup\u00e9rez plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF]\r\nque vos adversaires.[0:3 00-00-00-FF]",
+        "attribute": "04000000FC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text04": {
+        "name": "mn_dRoom_book_mm07_text04",
+        "message": "Restez en jeu plus longtemps que vos\r\nadversaires. Le dernier l'emportera !",
+        "attribute": "04000000FE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text05": {
+        "name": "mn_dRoom_book_mm07_text05",
+        "message": "Avoir un bon sens de l'observation sera essentiel\r\npour l'emporter. Gardez vos yeux riv\u00e9s sur le jeu\r\net faites travailler vos m\u00e9ninges !",
+        "attribute": "04000000000D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text06": {
+        "name": "mn_dRoom_book_mm07_text06",
+        "message": "Une confrontation en face \u00e0 face.\r\nEn sortirez-vous vainqueur ?",
+        "attribute": "04000000020D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text07": {
+        "name": "mn_dRoom_book_mm07_text07",
+        "message": "Ne ralentissez pas et franchissez\r\nla ligne d'arriv\u00e9e avant les autres.\r\nPr\u00eats, feu... partez !",
+        "attribute": "04000000040D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text08": {
+        "name": "mn_dRoom_book_mm07_text08",
+        "message": "Vos adversaires ne sont pas les seuls \u00e0\r\ns'opposer \u00e0 votre victoire. Restez en jeu\r\nplus longtemps que les autres !",
+        "attribute": "04000000060D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text09": {
+        "name": "mn_dRoom_book_mm07_text09",
+        "message": "Les conditions de jeu ne sont peut-\u00eatre pas\r\nen votre faveur, mais n'abandonnez jamais\r\ndans ces mini-jeux seul contre tous.",
+        "attribute": "04000000080D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text10": {
+        "name": "mn_dRoom_book_mm07_text10",
+        "message": "Sautez toujours plus vite et toujours\r\nplus haut que vos adversaires afin de\r\ntriompher !",
+        "attribute": "040000000A0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text11": {
+        "name": "mn_dRoom_book_mm07_text11",
+        "message": "D\u00e9marquez-vous du reste de la comp\u00e9tition\r\ndans ces mini-jeux de sport !",
+        "attribute": "040000000C0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text12": {
+        "name": "mn_dRoom_book_mm07_text12",
+        "message": "[0:3 0B-00-00-FF]Ramassez plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 0B-00-00-FF] que vos\r\nadversaires dans des mini-jeux pi\u00e8ces\r\nen folie seul contre tous.[0:3 00-00-00-FF]",
+        "attribute": "040000000E0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text13": {
+        "name": "mn_dRoom_book_mm07_text13",
+        "message": "Envoyez valser vos adversaires avant\r\nqu'ils ne s'occupent de votre cas !",
+        "attribute": "04000000100D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text14": {
+        "name": "mn_dRoom_book_mm07_text14",
+        "message": "Votre technique sera mise \u00e0 l'\u00e9preuve dans\r\nces mini-jeux o\u00f9 la pr\u00e9cision est la cl\u00e9 !",
+        "attribute": "04000000120D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text15": {
+        "name": "mn_dRoom_book_mm07_text15",
+        "message": "Mettez-vous en chasse ou fuyez.\r\nCela d\u00e9pendra de votre camp !",
+        "attribute": "04000000140D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text16": {
+        "name": "mn_dRoom_book_mm07_text16",
+        "message": "Ne vous pr\u00e9occupez pas des autres.\r\nVotre objectif est de rester en jeu !",
+        "attribute": "04000000160D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text17": {
+        "name": "mn_dRoom_book_mm07_text17",
+        "message": "Testez vos r\u00e9flexes avec ces mini-jeux.\r\nNe perdez pas de temps pour vous d\u00e9cider !",
+        "attribute": "04000000180D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text18": {
+        "name": "mn_dRoom_book_mm07_text18",
+        "message": "Visez vos adversaires et tirez\r\nsans h\u00e9siter pour l'emporter !",
+        "attribute": "040000001A0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text19": {
+        "name": "mn_dRoom_book_mm07_text19",
+        "message": "Quoi qu'il faille r\u00e9cup\u00e9rer, r\u00e9cup\u00e9rez-en\r\nplus que vos adversaires pour sortir\r\nvainqueur !",
+        "attribute": "040000001C0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text20": {
+        "name": "mn_dRoom_book_mm07_text20",
+        "message": "Frayez-vous un passage dans des espaces\r\n\u00e9troits et dans la foule pour finir en t\u00eate !",
+        "attribute": "040000001E0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text21": {
+        "name": "mn_dRoom_book_mm07_text21",
+        "message": "Gardez votre calme alors que la pression\r\nmonte dans ces mini-jeux seul contre tous.",
+        "attribute": "04000000200D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_mu_caption": {
+        "name": "mn_dRoom_mu_caption",
+        "message": "Musiques",
+        "attribute": "04000000220D0000",
+        "style_index": 410
+    },
+    "mn_dRoom_mu_category00": {
+        "name": "mn_dRoom_mu_category00",
+        "message": "Favoris",
+        "attribute": "04000000240D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category01": {
+        "name": "mn_dRoom_mu_category01",
+        "message": "Place du village",
+        "attribute": "04000000260D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category02": {
+        "name": "mn_dRoom_mu_category02",
+        "message": "Plateaux",
+        "attribute": "04000000280D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category03": {
+        "name": "mn_dRoom_mu_category03",
+        "message": "Mini-jeux",
+        "attribute": "040000002A0D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category04": {
+        "name": "mn_dRoom_mu_category04",
+        "message": "Montagne\r\naux mini-jeux",
+        "attribute": "040000002C0D0000",
+        "style_index": 411
+    },
+    "mn_dRoom_mu_ui_pet_total": {
+        "name": "mn_dRoom_mu_ui_pet_total",
+        "message": "[0]",
+        "attribute": "040000002E0D0000",
+        "style_index": 413
+    },
+    "mn_dRoom_mu_pet_details": {
+        "name": "mn_dRoom_mu_pet_details",
+        "message": "Appuyez sur \ue001 pour ajouter une musique \u00e0 vos\r\nfavoris. Cr\u00e9ez votre propre liste de lecture !",
+        "attribute": "04000000300D0000",
+        "style_index": 416
+    },
+    "mn_dRoom_mu_shop_details": {
+        "name": "mn_dRoom_mu_shop_details",
+        "message": "Achetez des pistes musicales au magasin\r\nde Toad et \u00e9coutez-les ici !",
+        "attribute": "04000000320D0000",
+        "style_index": 416
+    },
+    "mn_dRoom_mu_ctrl_pet": {
+        "name": "mn_dRoom_mu_ctrl_pet",
+        "message": "\ue001 Ajouter aux favoris",
+        "attribute": "04000000340D0000",
+        "style_index": 412
+    },
+    "mn_dRoom_mu_ctrl_petBack": {
+        "name": "mn_dRoom_mu_ctrl_petBack",
+        "message": "\ue001 Retirer des favoris",
+        "attribute": "04000000360D0000",
+        "style_index": 412
+    },
+    "mn_dRoom_mu_header": {
+        "name": "mn_dRoom_mu_header",
+        "message": "[0]",
+        "attribute": "04000000380D0000",
+        "style_index": 414
+    },
+    "mn_dRoom_mu_bgm_name": {
+        "name": "mn_dRoom_mu_bgm_name",
+        "message": "[0]",
+        "attribute": "040000003A0D0000",
+        "style_index": 415
+    },
+    "mn_dRoom_card_achieve": {
+        "name": "mn_dRoom_card_achieve",
+        "message": "[0]",
+        "attribute": "040000003C0D0000",
+        "style_index": 446
+    },
+    "mn_dRoom_card_name": {
+        "name": "mn_dRoom_card_name",
+        "message": "[0]",
+        "attribute": "040000003E0D0000",
+        "style_index": 447
+    },
+    "mn_dRoom_card_title_level": {
+        "name": "mn_dRoom_card_title_level",
+        "message": "Niv. Mario Party",
+        "attribute": "04000000400D0000",
+        "style_index": 448
+    },
+    "mn_dRoom_card_level": {
+        "name": "mn_dRoom_card_level",
+        "message": "[0]",
+        "attribute": "04000000420D0000",
+        "style_index": 457
+    },
+    "mn_dRoom_card_clap": {
+        "name": "mn_dRoom_card_clap",
+        "message": "[0]",
+        "attribute": "04000000440D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_coin": {
+        "name": "mn_dRoom_card_coin",
+        "message": "[0]",
+        "attribute": "04000000460D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_title_time": {
+        "name": "mn_dRoom_card_title_time",
+        "message": "Temps de jeu",
+        "attribute": "04000000480D0000",
+        "style_index": 449
+    },
+    "mn_dRoom_card_time": {
+        "name": "mn_dRoom_card_time",
+        "message": "[0] h",
+        "attribute": "040000004A0D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_title_rank": {
+        "name": "mn_dRoom_card_title_rank",
+        "message": "Survie",
+        "attribute": "040000004C0D0000",
+        "style_index": 451
+    },
+    "mn_dRoom_card_rank": {
+        "name": "mn_dRoom_card_rank",
+        "message": "[0]",
+        "attribute": "040000004E0D0000",
+        "style_index": 452
+    },
+    "mn_dRoom_card_title_series": {
+        "name": "mn_dRoom_card_title_series",
+        "message": "Jeu favori",
+        "attribute": "04000000500D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_title_map": {
+        "name": "mn_dRoom_card_title_map",
+        "message": "Plateau favori",
+        "attribute": "04000000520D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_map_name": {
+        "name": "mn_dRoom_card_map_name",
+        "message": "[0]",
+        "attribute": "04000000540D0000",
+        "style_index": 454
+    },
+    "mn_dRoom_card_title_mg": {
+        "name": "mn_dRoom_card_title_mg",
+        "message": "Mini-jeux favoris",
+        "attribute": "04000000560D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_mg_record": {
+        "name": "mn_dRoom_card_mg_record",
+        "message": "[0]",
+        "attribute": "04000000580D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_m": {
+        "name": "mn_dRoom_card_mg_record_m",
+        "message": "[0] [0:2 3C-00]m[0:2 64-00]",
+        "attribute": "040000005A0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_m2": {
+        "name": "mn_dRoom_card_mg_record_m2",
+        "message": "[0],[1] [0:2 3C-00]m[0:2 64-00]",
+        "attribute": "040000005C0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_degree": {
+        "name": "mn_dRoom_card_mg_record_degree",
+        "message": "[0] \u00b0",
+        "attribute": "040000005E0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_timer": {
+        "name": "mn_dRoom_card_mg_record_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000600D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_rank": {
+        "name": "mn_dRoom_card_mg_rank",
+        "message": "[0]",
+        "attribute": "04000000620D0000",
+        "style_index": 456
+    },
+    "mn_dRoom_card_ctrl_next": {
+        "name": "mn_dRoom_card_ctrl_next",
+        "message": "\ue000 Confirmer",
+        "attribute": "04000000640D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_edit": {
+        "name": "mn_dRoom_card_ctrl_edit",
+        "message": "\ue000 Modifier",
+        "attribute": "04000000660D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_back": {
+        "name": "mn_dRoom_card_ctrl_back",
+        "message": "\ue003 Retour",
+        "attribute": "04000000680D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_rankTop": {
+        "name": "mn_dRoom_card_ctrl_rankTop",
+        "message": "\ue002 Plus populaires",
+        "attribute": "040000006A0D0000",
+        "style_index": 556
+    },
+    "mn_dRoom_card_ctrl_blind": {
+        "name": "mn_dRoom_card_ctrl_blind",
+        "message": "\ue001 Cacher les options",
+        "attribute": "040000006C0D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_design": {
+        "name": "mn_dRoom_card_ctrl_design",
+        "message": "\ue001 Modifier le motif",
+        "attribute": "040000006E0D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_rank": {
+        "name": "mn_dRoom_card_ctrl_rank",
+        "message": "\ue001 Plus populaires",
+        "attribute": "04000000700D0000",
+        "style_index": 556
+    },
+    "mn_dRoom_cardEdit_back": {
+        "name": "mn_dRoom_cardEdit_back",
+        "message": "\ue003 Retour",
+        "attribute": "04000000720D0000",
+        "style_index": 431
+    },
+    "mn_dRoom_cardEdit_design_name": {
+        "name": "mn_dRoom_cardEdit_design_name",
+        "message": "[0]",
+        "attribute": "04000000740D0000",
+        "style_index": 515
+    },
+    "mn_dRoom_cardEdit_design_name_empty": {
+        "name": "mn_dRoom_cardEdit_design_name_empty",
+        "message": "???",
+        "attribute": "04000000760D0000",
+        "style_index": 515
+    },
+    "mn_dRoom_cardEdit_title_chara": {
+        "name": "mn_dRoom_cardEdit_title_chara",
+        "message": "Choisissez votre personnage favori.",
+        "attribute": "04000000780D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_title_achieve": {
+        "name": "mn_dRoom_cardEdit_title_achieve",
+        "message": "Choisissez l'exploit \u00e0 afficher.",
+        "attribute": "040000007A0D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_achieve_name": {
+        "name": "mn_dRoom_cardEdit_achieve_name",
+        "message": "[0]",
+        "attribute": "040000007C0D0000",
+        "style_index": 432
+    },
+    "mn_dRoom_cardEdit_achieve_name_empty": {
+        "name": "mn_dRoom_cardEdit_achieve_name_empty",
+        "message": "???",
+        "attribute": "040000007E0D0000",
+        "style_index": 432
+    },
+    "mn_dRoom_cardEdit_achieve_condition": {
+        "name": "mn_dRoom_cardEdit_achieve_condition",
+        "message": "[0]",
+        "attribute": "04000000800D0000",
+        "style_index": 433
+    },
+    "mn_dRoom_cardEdit_title_series": {
+        "name": "mn_dRoom_cardEdit_title_series",
+        "message": "Choisissez votre jeu favori de la s\u00e9rie.",
+        "attribute": "04000000820D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_title_map": {
+        "name": "mn_dRoom_cardEdit_title_map",
+        "message": "Choisissez votre plateau favori.",
+        "attribute": "04000000840D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_map_name": {
+        "name": "mn_dRoom_cardEdit_map_name",
+        "message": "[0]",
+        "attribute": "04000000860D0000",
+        "style_index": 434
+    },
+    "mn_dRoom_cardEdit_title_mg": {
+        "name": "mn_dRoom_cardEdit_title_mg",
+        "message": "Choisissez un mini-jeu favori.",
+        "attribute": "04000000880D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_mg_score": {
+        "name": "mn_dRoom_cardEdit_mg_score",
+        "message": "[0]",
+        "attribute": "040000008A0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_m": {
+        "name": "mn_dRoom_cardEdit_mg_score_m",
+        "message": "[0] [0:2 3C-00]m[0:2 64-00]",
+        "attribute": "040000008C0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_m2": {
+        "name": "mn_dRoom_cardEdit_mg_score_m2",
+        "message": "[0],[1] [0:2 3C-00]m[0:2 64-00]",
+        "attribute": "040000008E0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_degree": {
+        "name": "mn_dRoom_cardEdit_mg_score_degree",
+        "message": "[0] \u00b0",
+        "attribute": "04000000900D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_timer": {
+        "name": "mn_dRoom_cardEdit_mg_score_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000920D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_name": {
+        "name": "mn_dRoom_cardEdit_mg_name",
+        "message": "[0]",
+        "attribute": "04000000940D0000",
+        "style_index": 436
+    },
+    "mn_dRoom_cardEdit_mg_rank": {
+        "name": "mn_dRoom_cardEdit_mg_rank",
+        "message": "[0]",
+        "attribute": "04000000960D0000",
+        "style_index": 437
+    },
+    "mn_dRoom_cardEdit_title_design": {
+        "name": "mn_dRoom_cardEdit_title_design",
+        "message": "Choisissez votre apparence favorite.",
+        "attribute": "04000000980D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardRank_title_board": {
+        "name": "mn_dRoom_cardRank_title_board",
+        "message": "Plateau favori",
+        "attribute": "040000009A0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_title_series": {
+        "name": "mn_dRoom_cardRank_title_series",
+        "message": "Jeu favori",
+        "attribute": "040000009C0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_title_mg": {
+        "name": "mn_dRoom_cardRank_title_mg",
+        "message": "Mini-jeux favoris",
+        "attribute": "040000009E0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_rank": {
+        "name": "mn_dRoom_cardRank_rank",
+        "message": "[0]",
+        "attribute": "04000000A00D0000",
+        "style_index": 560
+    },
+    "mn_dRoom_cardRank_name": {
+        "name": "mn_dRoom_cardRank_name",
+        "message": "[0]",
+        "attribute": "04000000A20D0000",
+        "style_index": 559
+    },
+    "mn_dRoom_cardRank_percent": {
+        "name": "mn_dRoom_cardRank_percent",
+        "message": "[0],[1] %",
+        "attribute": "04000000A40D0000",
+        "style_index": 558
+    },
+    "mn_dRoom_rec_top_new": {
+        "name": "mn_dRoom_rec_top_new",
+        "message": "Derniers records",
+        "attribute": "04000000A60D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_rank": {
+        "name": "mn_dRoom_rec_top_rank",
+        "message": "Taux de victoires",
+        "attribute": "04000000A80D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_photo": {
+        "name": "mn_dRoom_rec_top_photo",
+        "message": "Photos",
+        "attribute": "04000000AA0D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_mg": {
+        "name": "mn_dRoom_rec_top_mg",
+        "message": "Records mont. aux mini-jeux",
+        "attribute": "04000000AC0D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_new_title": {
+        "name": "mn_dRoom_rec_new_title",
+        "message": "Derniers records",
+        "attribute": "04000000AE0D0000",
+        "style_index": 399
+    },
+    "mn_dRoom_rec_new_name": {
+        "name": "mn_dRoom_rec_new_name",
+        "message": "[0]",
+        "attribute": "04000000B00D0000",
+        "style_index": 401
+    },
+    "mn_dRoom_rec_new_score": {
+        "name": "mn_dRoom_rec_new_score",
+        "message": "[0]",
+        "attribute": "04000000B20D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_m": {
+        "name": "mn_dRoom_rec_new_score_m",
+        "message": "[0][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000B40D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_degree": {
+        "name": "mn_dRoom_rec_new_score_degree",
+        "message": "[0] \u00b0",
+        "attribute": "04000000B60D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_timer": {
+        "name": "mn_dRoom_rec_new_score_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000B80D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_m2": {
+        "name": "mn_dRoom_rec_new_score_m2",
+        "message": "[0],[1][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000BA0D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_rank": {
+        "name": "mn_dRoom_rec_new_rank",
+        "message": "[0]",
+        "attribute": "04000000BC0D0000",
+        "style_index": 533
+    },
+    "mn_dRoom_rec_new_ranking": {
+        "name": "mn_dRoom_rec_new_ranking",
+        "message": "Voir le classement",
+        "attribute": "04000000BE0D0000",
+        "style_index": 403
+    },
+    "mn_dRoom_rec_newRank_left": {
+        "name": "mn_dRoom_rec_newRank_left",
+        "message": "\ue008",
+        "attribute": "04000000C00D0000",
+        "style_index": 461
+    },
+    "mn_dRoom_rec_newRank_right": {
+        "name": "mn_dRoom_rec_newRank_right",
+        "message": "\ue009",
+        "attribute": "04000000C20D0000",
+        "style_index": 461
+    },
+    "mn_dRoom_rec_newRank_card": {
+        "name": "mn_dRoom_rec_newRank_card",
+        "message": "\ue001 Carte Mario Party",
+        "attribute": "04000000C40D0000",
+        "style_index": 466
+    },
+    "mn_dRoom_rec_newRank_mg": {
+        "name": "mn_dRoom_rec_newRank_mg",
+        "message": "[0]",
+        "attribute": "04000000C60D0000",
+        "style_index": 462
+    },
+    "mn_dRoom_rec_newRank_myRank": {
+        "name": "mn_dRoom_rec_newRank_myRank",
+        "message": "[0]",
+        "attribute": "04000000C80D0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_newRank_myName": {
+        "name": "mn_dRoom_rec_newRank_myName",
+        "message": "[0]",
+        "attribute": "04000000CA0D0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_newRank_myScore": {
+        "name": "mn_dRoom_rec_newRank_myScore",
+        "message": "[0]",
+        "attribute": "04000000CC0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_m": {
+        "name": "mn_dRoom_rec_newRank_myScore_m",
+        "message": "[0][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000CE0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_degree": {
+        "name": "mn_dRoom_rec_newRank_myScore_degree",
+        "message": "[0] \u00b0",
+        "attribute": "04000000D00D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_timer": {
+        "name": "mn_dRoom_rec_newRank_myScore_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000D20D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_m2": {
+        "name": "mn_dRoom_rec_newRank_myScore_m2",
+        "message": "[0],[1][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000D40D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_rank": {
+        "name": "mn_dRoom_rec_newRank_rank",
+        "message": "[0]",
+        "attribute": "04000000D60D0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_newRank_name": {
+        "name": "mn_dRoom_rec_newRank_name",
+        "message": "[0]",
+        "attribute": "04000000D80D0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_newRank_score": {
+        "name": "mn_dRoom_rec_newRank_score",
+        "message": "[0]",
+        "attribute": "04000000DA0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_m": {
+        "name": "mn_dRoom_rec_newRank_score_m",
+        "message": "[0][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000DC0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_degree": {
+        "name": "mn_dRoom_rec_newRank_score_degree",
+        "message": "[0] \u00b0",
+        "attribute": "04000000DE0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_timer": {
+        "name": "mn_dRoom_rec_newRank_score_timer",
+        "message": "[0]:[1],[2]",
+        "attribute": "04000000E00D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_m2": {
+        "name": "mn_dRoom_rec_newRank_score_m2",
+        "message": "[0],[1][0:2 3C-00] m[0:2 64-00]",
+        "attribute": "04000000E20D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_rank_title": {
+        "name": "mn_dRoom_rec_rank_title",
+        "message": "Taux de victoires",
+        "attribute": "04000000E40D0000",
+        "style_index": 399
+    },
+    "mn_dRoom_rec_rank_left": {
+        "name": "mn_dRoom_rec_rank_left",
+        "message": "\ue008",
+        "attribute": "04000000E60D0000",
+        "style_index": 404
+    },
+    "mn_dRoom_rec_rank_right": {
+        "name": "mn_dRoom_rec_rank_right",
+        "message": "\ue009",
+        "attribute": "04000000E80D0000",
+        "style_index": 404
+    },
+    "mn_dRoom_rec_rank_win": {
+        "name": "mn_dRoom_rec_rank_win",
+        "message": "D\u00e9croissant",
+        "attribute": "04000000EA0D0000",
+        "style_index": 405
+    },
+    "mn_dRoom_rec_rank_lose": {
+        "name": "mn_dRoom_rec_rank_lose",
+        "message": "Croissant",
+        "attribute": "04000000EC0D0000",
+        "style_index": 405
+    },
+    "mn_dRoom_rec_rank_name": {
+        "name": "mn_dRoom_rec_rank_name",
+        "message": "[0]",
+        "attribute": "04000000EE0D0000",
+        "style_index": 406
+    },
+    "mn_dRoom_rec_rank_number": {
+        "name": "mn_dRoom_rec_rank_number",
+        "message": "[0]",
+        "attribute": "04000000F00D0000",
+        "style_index": 407
+    },
+    "mn_dRoom_rec_rank_percent": {
+        "name": "mn_dRoom_rec_rank_percent",
+        "message": "[0] %",
+        "attribute": "04000000F20D0000",
+        "style_index": 408
+    },
+    "mn_dRoom_rec_rank_rate": {
+        "name": "mn_dRoom_rec_rank_rate",
+        "message": "([0]/[1])",
+        "attribute": "04000000F40D0000",
+        "style_index": 409
+    },
+    "mn_dRoom_rec_mg": {
+        "name": "mn_dRoom_rec_mg",
+        "message": "Records mont. aux mini-jeux",
+        "attribute": "04000000F60D0000",
+        "style_index": 488
+    },
+    "mn_dRoom_rec_mg_title": {
+        "name": "mn_dRoom_rec_mg_title",
+        "message": "[0]",
+        "attribute": "04000000F80D0000",
+        "style_index": 489
+    },
+    "mn_dRoom_rec_mg_pack": {
+        "name": "mn_dRoom_rec_mg_pack",
+        "message": "[0]",
+        "attribute": "04000000FA0D0000",
+        "style_index": 490
+    },
+    "mn_dRoom_rec_mg_mgRank": {
+        "name": "mn_dRoom_rec_mg_mgRank",
+        "message": "Voir le classement en ligne",
+        "attribute": "04000000FC0D0000",
+        "style_index": 492
+    },
+    "mn_dRoom_rec_mg_scoreAttack": {
+        "name": "mn_dRoom_rec_mg_scoreAttack",
+        "message": "Pour le score",
+        "attribute": "04000000FE0D0000",
+        "style_index": 493
+    },
+    "mn_dRoom_rec_mg_rank": {
+        "name": "mn_dRoom_rec_mg_rank",
+        "message": "Qualification",
+        "attribute": "04000000000E0000",
+        "style_index": 493
+    },
+    "mn_dRoom_rec_mg_name": {
+        "name": "mn_dRoom_rec_mg_name",
+        "message": "[0]",
+        "attribute": "04000000020E0000",
+        "style_index": 494
+    },
+    "mn_dRoom_rec_mg_score": {
+        "name": "mn_dRoom_rec_mg_score",
+        "message": "[0]",
+        "attribute": "04000000040E0000",
+        "style_index": 495
+    },
+    "mn_dRoom_rec_mg_myRank": {
+        "name": "mn_dRoom_rec_mg_myRank",
+        "message": "[0]",
+        "attribute": "04000000060E0000",
+        "style_index": 496
+    },
+    "mn_dRoom_rec_mg_coinTitle": {
+        "name": "mn_dRoom_rec_mg_coinTitle",
+        "message": "Pi\u00e8ces obtenues",
+        "attribute": "04000000080E0000",
+        "style_index": 497
+    },
+    "mn_dRoom_rec_mg_round": {
+        "name": "mn_dRoom_rec_mg_round",
+        "message": "[0] manches",
+        "attribute": "040000000A0E0000",
+        "style_index": 498
+    },
+    "mn_dRoom_rec_mg_getCoin": {
+        "name": "mn_dRoom_rec_mg_getCoin",
+        "message": "[0]",
+        "attribute": "040000000C0E0000",
+        "style_index": 499
+    },
+    "mn_dRoom_rec_mg_chaThree": {
+        "name": "mn_dRoom_rec_mg_chaThree",
+        "message": "Jeu en \u00e9quipe",
+        "attribute": "040000000E0E0000",
+        "style_index": 500
+    },
+    "mn_dRoom_rec_mg_chaOne": {
+        "name": "mn_dRoom_rec_mg_chaOne",
+        "message": "Jeu en solo",
+        "attribute": "04000000100E0000",
+        "style_index": 500
+    },
+    "mn_dRoom_rec_mg_stage": {
+        "name": "mn_dRoom_rec_mg_stage",
+        "message": "Stage [0]",
+        "attribute": "04000000120E0000",
+        "style_index": 501
+    },
+    "mn_dRoom_rec_mg_stageRank": {
+        "name": "mn_dRoom_rec_mg_stageRank",
+        "message": "[0]",
+        "attribute": "04000000140E0000",
+        "style_index": 502
+    },
+    "mn_dRoom_rec_mg_date": {
+        "name": "mn_dRoom_rec_mg_date",
+        "message": "[2]/[1]/[0]",
+        "attribute": "04000000160E0000",
+        "style_index": 545
+    },
+    "mn_dRoom_rec_mg_noData": {
+        "name": "mn_dRoom_rec_mg_noData",
+        "message": "Aucun record n'a \u00e9t\u00e9 trouv\u00e9.",
+        "attribute": "04000000180E0000",
+        "style_index": 546
+    },
+    "mn_dRoom_rec_mg_plName": {
+        "name": "mn_dRoom_rec_mg_plName",
+        "message": "[0]",
+        "attribute": "040000001A0E0000",
+        "style_index": 544
+    },
+    "mn_dRoom_rec_mgMRank_title": {
+        "name": "mn_dRoom_rec_mgMRank_title",
+        "message": "Survie",
+        "attribute": "040000001C0E0000",
+        "style_index": 462
+    },
+    "mn_dRoom_rec_mgMRank_myRank": {
+        "name": "mn_dRoom_rec_mgMRank_myRank",
+        "message": "[0]",
+        "attribute": "040000001E0E0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_mgMRank_myName": {
+        "name": "mn_dRoom_rec_mgMRank_myName",
+        "message": "[0]",
+        "attribute": "04000000200E0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_mgMRank_myScore0": {
+        "name": "mn_dRoom_rec_mgMRank_myScore0",
+        "message": "[0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00]",
+        "attribute": "04000000220E0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_mgMRank_rank": {
+        "name": "mn_dRoom_rec_mgMRank_rank",
+        "message": "[0]",
+        "attribute": "04000000240E0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_mgMRank_name": {
+        "name": "mn_dRoom_rec_mgMRank_name",
+        "message": "[0]",
+        "attribute": "04000000260E0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_mgMRank_score0": {
+        "name": "mn_dRoom_rec_mgMRank_score0",
+        "message": "[0] [1:1 24-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-2C-00-76-00-69-00-63-00-74-00-6F-00-69-00-72-00-65-00-73-00]",
+        "attribute": "04000000280E0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_photo_title": {
+        "name": "mn_dRoom_rec_photo_title",
+        "message": "Photos",
+        "attribute": "040000002A0E0000",
+        "style_index": 417
+    },
+    "mn_dRoom_rec_photo_check": {
+        "name": "mn_dRoom_rec_photo_check",
+        "message": "\ue001 Plein \u00e9cran",
+        "attribute": "040000002C0E0000",
+        "style_index": 516
+    },
+    "mn_dRoom_rec_photo_map": {
+        "name": "mn_dRoom_rec_photo_map",
+        "message": "[0]",
+        "attribute": "040000002E0E0000",
+        "style_index": 418
+    },
+    "mn_dRoom_rec_photo_date": {
+        "name": "mn_dRoom_rec_photo_date",
+        "message": "[2]/[1]/[0]",
+        "attribute": "04000000300E0000",
+        "style_index": 418
+    },
+    "mn_dRoom_rec_photo_rank": {
+        "name": "mn_dRoom_rec_photo_rank",
+        "message": "[0]",
+        "attribute": "04000000320E0000",
+        "style_index": 419
+    },
+    "mn_dRoom_rec_photo_name": {
+        "name": "mn_dRoom_rec_photo_name",
+        "message": "[0]",
+        "attribute": "04000000340E0000",
+        "style_index": 420
+    },
+    "mn_dRoom_rec_photo_star": {
+        "name": "mn_dRoom_rec_photo_star",
+        "message": "[0]",
+        "attribute": "04000000360E0000",
+        "style_index": 421
+    },
+    "mn_dRoom_rec_photo_coin": {
+        "name": "mn_dRoom_rec_photo_coin",
+        "message": "[0]",
+        "attribute": "04000000380E0000",
+        "style_index": 421
+    },
+    "mn_dRoom_rec_photo_mapTitle": {
+        "name": "mn_dRoom_rec_photo_mapTitle",
+        "message": "[0]",
+        "attribute": "040000003A0E0000",
+        "style_index": 508
+    },
+    "mn_dRoom_achieve_name": {
+        "name": "mn_dRoom_achieve_name",
+        "message": "[0]",
+        "attribute": "040000003C0E0000",
+        "style_index": 510
+    },
+    "mn_dRoom_achieve_details": {
+        "name": "mn_dRoom_achieve_details",
+        "message": "[0]",
+        "attribute": "040000003E0E0000",
+        "style_index": 511
+    },
+    "mn_dRoom_achieve_mode": {
+        "name": "mn_dRoom_achieve_mode",
+        "message": "[0]",
+        "attribute": "04000000400E0000",
+        "style_index": 512
+    },
+    "mn_dRoom_achieve_count": {
+        "name": "mn_dRoom_achieve_count",
+        "message": "[0]/[1]",
+        "attribute": "04000000420E0000",
+        "style_index": 576
+    },
+    "mn_dRoom_achieve_online": {
+        "name": "mn_dRoom_achieve_online",
+        "message": "\ue001 Exploits en ligne",
+        "attribute": "04000000440E0000",
+        "style_index": 577
+    },
+    "mn_dRoom_achieve_offline": {
+        "name": "mn_dRoom_achieve_offline",
+        "message": "\ue001 Exploits hors ligne",
+        "attribute": "04000000460E0000",
+        "style_index": 577
+    }
+}

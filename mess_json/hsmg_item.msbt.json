@@ -1,0 +1,80 @@
+{
+    "hsmg900_tlp_gotItem": {
+        "name": "hsmg900_tlp_gotItem",
+        "message": "BRAVO !",
+        "attribute": "0400000070000000",
+        "style_index": 181
+    },
+    "hsmg900_tlp_miss": {
+        "name": "hsmg900_tlp_miss",
+        "message": "DOMMAGE...",
+        "attribute": "0400000072000000",
+        "style_index": 180
+    },
+    "hsmg901_tlp_smallRule": {
+        "name": "hsmg901_tlp_smallRule",
+        "message": "Dosez bien votre coup !",
+        "attribute": "0400000074000000",
+        "style_index": 183
+    },
+    "hsmg902_tlp_smallRule": {
+        "name": "hsmg902_tlp_smallRule",
+        "message": "Percez un ballon !",
+        "attribute": "0400000076000000",
+        "style_index": 183
+    },
+    "hsmg903_tlp_smallRule": {
+        "name": "hsmg903_tlp_smallRule",
+        "message": "Arr\u00eatez la roue !",
+        "attribute": "0400000078000000",
+        "style_index": 183
+    },
+    "hsmg904_tlp_smallRule": {
+        "name": "hsmg904_tlp_smallRule",
+        "message": "Sautez sur un tonneau !",
+        "attribute": "040000007A000000",
+        "style_index": 183
+    },
+    "hsmg905_tlp_smallRule00": {
+        "name": "hsmg905_tlp_smallRule00",
+        "message": "Concentration !",
+        "attribute": "040000007C000000",
+        "style_index": 183
+    },
+    "hsmg905_tlp_smallRule02": {
+        "name": "hsmg905_tlp_smallRule02",
+        "message": "Cassez un tonneau !",
+        "attribute": "040000007E000000",
+        "style_index": 183
+    },
+    "hsmg901_pop_ctrl02": {
+        "name": "hsmg901_pop_ctrl02",
+        "message": "\ue000 (rapidement) Lever le marteau / \ue003 Frapper",
+        "attribute": "0800000080000000",
+        "style_index": 11
+    },
+    "hsmg902_pop_ctrl00": {
+        "name": "hsmg902_pop_ctrl00",
+        "message": "\ue000 Tirer la fl\u00e8che",
+        "attribute": "0800000082000000",
+        "style_index": 11
+    },
+    "hsmg903_pop_ctrl00": {
+        "name": "hsmg903_pop_ctrl00",
+        "message": "\ue000 Appuyer sur le bouton",
+        "attribute": "0800000084000000",
+        "style_index": 11
+    },
+    "hsmg904_pop_ctrl00": {
+        "name": "hsmg904_pop_ctrl00",
+        "message": "\ue000 Sauter",
+        "attribute": "0800000086000000",
+        "style_index": 11
+    },
+    "hsmg905_pop_ctrl02": {
+        "name": "hsmg905_pop_ctrl02",
+        "message": "\ue015 Se d\u00e9placer / \ue003 Attaquer",
+        "attribute": "0800000088000000",
+        "style_index": 11
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "mn_dSetting_ctrl": {
+        "name": "mn_dSetting_ctrl",
+        "message": "\ue003 Retour",
+        "attribute": "0400000050010000",
+        "style_index": 363
+    },
+    "mn_dSetting_bgm_choice": {
+        "name": "mn_dSetting_bgm_choice",
+        "message": "Vous pouvez choisir la musique des plateaux o\u00f9 vous avez jou\u00e9.",
+        "attribute": "0400000052010000",
+        "style_index": 362
+    },
+    "mn_dSetting_bgm_board": {
+        "name": "mn_dSetting_bgm_board",
+        "message": "[0]",
+        "attribute": "0400000054010000",
+        "style_index": 364
+    },
+    "mn_dSetting_bgm_original": {
+        "name": "mn_dSetting_bgm_original",
+        "message": "Classique",
+        "attribute": "0400000056010000",
+        "style_index": 365
+    },
+    "mn_dSetting_bgm_remake": {
+        "name": "mn_dSetting_bgm_remake",
+        "message": "Moderne",
+        "attribute": "0400000058010000",
+        "style_index": 365
+    },
+    "mn_dSetting_bgm_ok": {
+        "name": "mn_dSetting_bgm_ok",
+        "message": "OK !",
+        "attribute": "040000005A010000",
+        "style_index": 366
+    },
+    "mn_dSetting_bgm_stop": {
+        "name": "mn_dSetting_bgm_stop",
+        "message": "\ue003 Arr\u00eat",
+        "attribute": "040000005C010000",
+        "style_index": 363
+    },
+    "mn_dSetting_top_stamp": {
+        "name": "mn_dSetting_top_stamp",
+        "message": "Param\u00e8tres des autocollants",
+        "attribute": "040000005E010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_save": {
+        "name": "mn_dSetting_top_save",
+        "message": "Effacer les donn\u00e9es d'une partie",
+        "attribute": "0400000060010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_bgm": {
+        "name": "mn_dSetting_top_bgm",
+        "message": "Options de la musique",
+        "attribute": "0400000062010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_message": {
+        "name": "mn_dSetting_top_message",
+        "message": "Vitesse du texte",
+        "attribute": "0400000064010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_message_fast": {
+        "name": "mn_dSetting_top_message_fast",
+        "message": "Rapide",
+        "attribute": "0400000066010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_message_normal": {
+        "name": "mn_dSetting_top_message_normal",
+        "message": "Normale",
+        "attribute": "0400000068010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_message_slow": {
+        "name": "mn_dSetting_top_message_slow",
+        "message": "Lente",
+        "attribute": "040000006A010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_mute": {
+        "name": "mn_dSetting_top_mute",
+        "message": "Autocollants",
+        "attribute": "040000006C010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_mute_on": {
+        "name": "mn_dSetting_top_mute_on",
+        "message": "Avec",
+        "attribute": "040000006E010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_mute_off": {
+        "name": "mn_dSetting_top_mute_off",
+        "message": "Sans",
+        "attribute": "0400000070010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_com_speed": {
+        "name": "mn_dSetting_top_com_speed",
+        "message": "Vitesse de l'ORDI",
+        "attribute": "0400000072010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_com_fast": {
+        "name": "mn_dSetting_top_com_fast",
+        "message": "Rapide",
+        "attribute": "0400000074010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_com_normal": {
+        "name": "mn_dSetting_top_com_normal",
+        "message": "Normale",
+        "attribute": "0400000076010000",
+        "style_index": 369
+    },
+    "mn_dSetting_stampTop_list": {
+        "name": "mn_dSetting_stampTop_list",
+        "message": "Collection d'autocollants",
+        "attribute": "0400000078010000",
+        "style_index": 367
+    },
+    "mn_dSetting_stampList_title": {
+        "name": "mn_dSetting_stampList_title",
+        "message": "Collection d'autocollants",
+        "attribute": "040000007A010000",
+        "style_index": 550
+    },
+    "mn_dSetting_stampList_count": {
+        "name": "mn_dSetting_stampList_count",
+        "message": "[0]/67",
+        "attribute": "040000007C010000",
+        "style_index": 551
+    },
+    "mn_dSetting_title_details01": {
+        "name": "mn_dSetting_title_details01",
+        "message": "G\u00e9rez les donn\u00e9es relatives \u00e0 vos parties en cours.",
+        "attribute": "040000007E010000",
+        "style_index": 523
+    },
+    "mn_dSetting_title_details07": {
+        "name": "mn_dSetting_title_details07",
+        "message": "Si les autocollants sont cach\u00e9s, vous ne verrez pas\r\nceux des joueurs que vous ne connaissez pas.",
+        "attribute": "0400000080010000",
+        "style_index": 523
+    },
+    "mn_dSetting_mw_enterA": {
+        "name": "mn_dSetting_mw_enterA",
+        "message": "Entrez donc. Voici la [0:3 FF-35-02-FF]maison des options[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000E82010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enterB": {
+        "name": "mn_dSetting_mw_enterB",
+        "message": "Bienvenue \u00e0 la [0:3 FF-35-02-FF]maison des options[0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000E9A010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enterC": {
+        "name": "mn_dSetting_mw_enterC",
+        "message": "Je suis le responsable de la [0:3 FF-35-02-FF]maison des\r\noptions[0:3 00-00-00-FF][0:3 11-0C-1D-FF]. Je me tiens \u00e0 votre disposition.[0:3 00-00-00-FF]",
+        "attribute": "0401000EB2010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_first00": {
+        "name": "mn_dSetting_mw_enter_first00",
+        "message": "Ici, vous pouvez modifier\r\ntout un tas de param\u00e8tres.",
+        "attribute": "0401000ECA010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_add_intro": {
+        "name": "mn_dSetting_mw_add_intro",
+        "message": "On dirait qu'il y a du nouveau,\r\nn'oubliez pas d'y jeter un \u0153il.",
+        "attribute": "0401000ECC010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeA": {
+        "name": "mn_dSetting_mw_enter_byeA",
+        "message": "Tr\u00e8s bien. Revenez quand vous voulez.",
+        "attribute": "0401000ECE010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeB": {
+        "name": "mn_dSetting_mw_enter_byeB",
+        "message": "Dans ce cas, \u00e0 la prochaine.",
+        "attribute": "0401000EE8010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeC": {
+        "name": "mn_dSetting_mw_enter_byeC",
+        "message": "Je cherchais des mots encourageants,\r\nmais je n'ai rien qui me vient... alors \u00e0 plus.",
+        "attribute": "0401000E02020000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_top_savedata": {
+        "name": "mn_dSetting_mw_top_savedata",
+        "message": "Toutes les donn\u00e9es relatives \u00e0\r\ndes parties ont \u00e9t\u00e9 effac\u00e9es.",
+        "attribute": "040000001C020000",
+        "style_index": 8
+    },
+    "mn_dSetting_mw_stampSet_mute": {
+        "name": "mn_dSetting_mw_stampSet_mute",
+        "message": "Cela vous convient-il ?",
+        "attribute": "040000001E020000",
+        "style_index": 8
+    },
+    "mn_dSetting_mw_mute_a0": {
+        "name": "mn_dSetting_mw_mute_a0",
+        "message": "Oui",
+        "attribute": "0400000020020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_mute_a1": {
+        "name": "mn_dSetting_mw_mute_a1",
+        "message": "Non",
+        "attribute": "0400000022020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_savedata_select": {
+        "name": "mn_dSetting_mw_savedata_select",
+        "message": "Choisissez les donn\u00e9es relatives\r\n\u00e0 des parties que vous voulez effacer.",
+        "attribute": "0400000024020000",
+        "style_index": 486
+    },
+    "mn_dSetting_mw_savedata_check": {
+        "name": "mn_dSetting_mw_savedata_check",
+        "message": "Les donn\u00e9es effac\u00e9es ne peuvent pas\r\n\u00eatre r\u00e9cup\u00e9r\u00e9es. Effacer ces donn\u00e9es ?",
+        "attribute": "0400000026020000",
+        "style_index": 486
+    },
+    "mn_dSetting_mw_savedata_a0": {
+        "name": "mn_dSetting_mw_savedata_a0",
+        "message": "Oui",
+        "attribute": "0300000028020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_savedata_a1": {
+        "name": "mn_dSetting_mw_savedata_a1",
+        "message": "Non",
+        "attribute": "030000002A020000",
+        "style_index": 9
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "hsmm05_mw_op00": {
+        "name": "hsmm05_mw_op00",
+        "message": "Battez-vous pour essayer de gagner cinq\r\nfois d'affil\u00e9e ! Jusqu'o\u00f9 irez-vous ?",
+        "attribute": "0405002290000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st2": {
+        "name": "hsmm05_mw_op00_st2",
+        "message": "Cette fois-ci, l'adversaire est encore\r\nplus fort ! Serez-vous \u00e0 la hauteur ?",
+        "attribute": "04050022AA000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st3": {
+        "name": "hsmm05_mw_op00_st3",
+        "message": "Je ne pensais pas vous voir arriver aussi\r\nloin ! Cette fois-ci sera-t-elle la bonne ?",
+        "attribute": "04050022C4000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st4": {
+        "name": "hsmm05_mw_op00_st4",
+        "message": "\u00c0 partir de maintenant, il n'y a plus que\r\ntoi ! \u00c7a m'\u00e9tonnerait que tu gagnes !",
+        "attribute": "04050022DE000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st5": {
+        "name": "hsmm05_mw_op00_st5",
+        "message": "Aaah ! Tu m'\u00e9nerves ! Ces nouveaux\r\nadversaires devraient arranger \u00e7a !",
+        "attribute": "04050022F8000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st6": {
+        "name": "hsmm05_mw_op00_st6",
+        "message": "Tu es si pr\u00e8s du but... mais tu n'iras pas\r\nplus loin. Fini la rigolade !",
+        "attribute": "0405002212010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op01": {
+        "name": "hsmm05_mw_op01",
+        "message": "Pas mal. Mais il ne faudra pas toujours\r\ncompter sur la chance ! Nyahaha !",
+        "attribute": "040500222C010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op01b": {
+        "name": "hsmm05_mw_op01b",
+        "message": "Un b\u00e9b\u00e9 aurait pu le gagner, celui-l\u00e0...\r\nMais \u00e7a ne sera pas toujours aussi facile !",
+        "attribute": "0405002250010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op02": {
+        "name": "hsmm05_mw_op02",
+        "message": "Grr... D'accord, cette fois-ci, \u00e7a passe.\r\nMais je n'ai pas dit mon dernier mot !",
+        "attribute": "0405002274010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op02b": {
+        "name": "hsmm05_mw_op02b",
+        "message": "Je ne m'attendais pas \u00e0 autant de talent,\r\nmais j'ai plus d'un tour dans mon sac !",
+        "attribute": "0405002292010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op03": {
+        "name": "hsmm05_mw_op03",
+        "message": "Aaah ! Mais enfin, ce n'est pas possible !\r\nAttention, je vais sortir le grand jeu !",
+        "attribute": "04050022B0010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op03b": {
+        "name": "hsmm05_mw_op03b",
+        "message": "Eh bien, je ne m'attendais pas \u00e0 tant de\r\nr\u00e9ussite, mais \u00e7a s'arr\u00eate l\u00e0 !",
+        "attribute": "04050022CA010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op04": {
+        "name": "hsmm05_mw_op04",
+        "message": "Non, non, et non ! Puisque c'est comme\r\n\u00e7a, je sors l'artillerie lourde ! Nyahaha...",
+        "attribute": "04050022E4010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op04b": {
+        "name": "hsmm05_mw_op04b",
+        "message": "Comment ?! Jamais personne ne gagne,\r\net je vais m'assurer que \u00e7a continue ainsi !",
+        "attribute": "04050022FE010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00": {
+        "name": "hsmm05_mw_lose00",
+        "message": "Alors, on abandonne ? C'est toujours\r\npareil, personne ne peut rivaliser !",
+        "attribute": "0404002218020000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00b": {
+        "name": "hsmm05_mw_lose00b",
+        "message": "Allez, ce n'est pas si grave ! Nyahaha !\r\nIl est temps de reprendre l'entra\u00eenement !",
+        "attribute": "040400221A020000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00c": {
+        "name": "hsmm05_mw_lose00c",
+        "message": "Pfiou, c'\u00e9tait serr\u00e9, mais j'ai gagn\u00e9 !\r\nAllez, \u00e7a suffit pour le moment.",
+        "attribute": "040400221C020000",
+        "style_index": 4
+    }
+}

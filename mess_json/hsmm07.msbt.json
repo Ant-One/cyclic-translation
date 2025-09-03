@@ -1,0 +1,158 @@
+{
+    "hsmm07_mw_op00": {
+        "name": "hsmm07_mw_op00",
+        "message": "Bien ! Jouons au [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF]. Remporte\r\nun mini-jeu pour gagner une \u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04040017D8000000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op01": {
+        "name": "hsmm07_mw_op01",
+        "message": "C'est parti !",
+        "attribute": "04040017F0000000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk00": {
+        "name": "hsmm07_mw_op_mgpk00",
+        "message": "Dans ce pack, l'objectif est de terminer\r\nles jeux le plus vite possible.",
+        "attribute": "040400170E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk01": {
+        "name": "hsmm07_mw_op_mgpk01",
+        "message": "Dans ce pack, reste en jeu le plus\r\nlongtemps pour l'emporter.",
+        "attribute": "0404001710010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk02": {
+        "name": "hsmm07_mw_op_mgpk02",
+        "message": "Dans ce pack, observe attentivement\r\net r\u00e9fl\u00e9chis bien.",
+        "attribute": "0404001712010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk03": {
+        "name": "hsmm07_mw_op_mgpk03",
+        "message": "Dans ce pack, tu affronteras des\r\nadversaires en un contre un.",
+        "attribute": "0404001714010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk04": {
+        "name": "hsmm07_mw_op_mgpk04",
+        "message": "Dans ce pack, ouvre l'\u0153il et fais\r\nattention au moindre d\u00e9tail.",
+        "attribute": "0404001716010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk05": {
+        "name": "hsmm07_mw_op_mgpk05",
+        "message": "Dans ce pack, l'objectif est de r\u00e9cup\u00e9rer\r\nle plus de pi\u00e8ces \ue020 possible.",
+        "attribute": "0404001718010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk07": {
+        "name": "hsmm07_mw_op_mgpk07",
+        "message": "Dans ce pack, r\u00e9cup\u00e8re des pi\u00e8ces \ue020\r\ndans des mini-jeux seul contre tous.",
+        "attribute": "040400171A010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk08": {
+        "name": "hsmm07_mw_op_mgpk08",
+        "message": "Dans ce pack, franchis la ligne d'arriv\u00e9e\r\nle plus rapidement possible.",
+        "attribute": "040400171C010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk10": {
+        "name": "hsmm07_mw_op_mgpk10",
+        "message": "Dans ce pack, ne t'arr\u00eate pas ! Cours\r\nle plus vite possible !",
+        "attribute": "040400171E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk11": {
+        "name": "hsmm07_mw_op_mgpk11",
+        "message": "Dans ce pack, bouscule tes adversaires\r\net ne te laisse pas bousculer !",
+        "attribute": "0404001720010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk12": {
+        "name": "hsmm07_mw_op_mgpk12",
+        "message": "Dans ce pack, vise bien et...\r\nfeu \u00e0 volont\u00e9 !",
+        "attribute": "0404001722010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk13": {
+        "name": "hsmm07_mw_op_mgpk13",
+        "message": "Dans ce pack, saute partout et\r\ndans tous les sens !",
+        "attribute": "0404001724010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk14": {
+        "name": "hsmm07_mw_op_mgpk14",
+        "message": "Dans ce pack, mets ta technique \u00e0\r\nl'\u00e9preuve dans des jeux de sport.",
+        "attribute": "0404001726010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk16": {
+        "name": "hsmm07_mw_op_mgpk16",
+        "message": "Dans ce pack, tout est question de\r\ncontr\u00f4le pour \u00e9tablir un score parfait !",
+        "attribute": "0404001728010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk17": {
+        "name": "hsmm07_mw_op_mgpk17",
+        "message": "Dans ce pack, fuis tes adversaires !",
+        "attribute": "040400172A010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk20": {
+        "name": "hsmm07_mw_op_mgpk20",
+        "message": "Dans ce pack, il te faudra des r\u00e9flexes\r\nde comp\u00e9tition.",
+        "attribute": "040400172C010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk21": {
+        "name": "hsmm07_mw_op_mgpk21",
+        "message": "Dans ce pack, ne perds pas de temps et\r\nr\u00e9agis vite pour survivre !",
+        "attribute": "040400172E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk22": {
+        "name": "hsmm07_mw_op_mgpk22",
+        "message": "Dans ce pack, r\u00e9cup\u00e8re plus\r\nd'objets que les autres.",
+        "attribute": "0404001730010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk23": {
+        "name": "hsmm07_mw_op_mgpk23",
+        "message": "Dans ce pack, bouscule tes adversaires\r\npour t'assurer la meilleure place !",
+        "attribute": "0404001732010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk24": {
+        "name": "hsmm07_mw_op_mgpk24",
+        "message": "Dans ce pack, tu deviens la cible...\r\nou tu cherches \u00e0 l'atteindre !",
+        "attribute": "0404001734010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk25": {
+        "name": "hsmm07_mw_op_mgpk25",
+        "message": "Dans ce pack, bats-toi seul ou en \u00e9quipe\r\ndans des mini-jeux seul contre tous.",
+        "attribute": "0404001736010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd00": {
+        "name": "hsmm07_mw_rd00",
+        "message": "Premi\u00e8re manche... C'est parti !",
+        "attribute": "0404001738010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd01": {
+        "name": "hsmm07_mw_rd01",
+        "message": "Deuxi\u00e8me manche, c'est parti !",
+        "attribute": "0404001752010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd02": {
+        "name": "hsmm07_mw_rd02",
+        "message": "Et maintenant, le dernier mini-jeu !\r\nDonne-toi \u00e0 fond !",
+        "attribute": "0404001770010000",
+        "style_index": 4
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "emo_stPC000": {
+        "name": "emo_stPC000",
+        "message": "[0]",
+        "attribute": "0400000048010000",
+        "style_index": 68
+    },
+    "emo_stPC001": {
+        "name": "emo_stPC001",
+        "message": "[0]",
+        "attribute": "040000004A010000",
+        "style_index": 68
+    },
+    "emo_stPC002": {
+        "name": "emo_stPC002",
+        "message": "[0]",
+        "attribute": "040000004C010000",
+        "style_index": 68
+    },
+    "emo_st00000": {
+        "name": "emo_st00000",
+        "message": "[0]",
+        "attribute": "040000004E010000",
+        "style_index": 68
+    },
+    "emo_st00001": {
+        "name": "emo_st00001",
+        "message": "[0]",
+        "attribute": "0400000050010000",
+        "style_index": 68
+    },
+    "emo_st00002": {
+        "name": "emo_st00002",
+        "message": "[0]",
+        "attribute": "0400000052010000",
+        "style_index": 68
+    },
+    "emo_st00003": {
+        "name": "emo_st00003",
+        "message": "[0]",
+        "attribute": "0400000054010000",
+        "style_index": 68
+    },
+    "emo_st00004": {
+        "name": "emo_st00004",
+        "message": "[0]",
+        "attribute": "0400000056010000",
+        "style_index": 68
+    },
+    "emo_st00005": {
+        "name": "emo_st00005",
+        "message": "[0]",
+        "attribute": "0400000058010000",
+        "style_index": 70
+    },
+    "emo_st00006": {
+        "name": "emo_st00006",
+        "message": "[0]",
+        "attribute": "040000005A010000",
+        "style_index": 68
+    },
+    "emo_st00007": {
+        "name": "emo_st00007",
+        "message": "[0]",
+        "attribute": "040000005C010000",
+        "style_index": 68
+    },
+    "emo_st00008": {
+        "name": "emo_st00008",
+        "message": "[0]",
+        "attribute": "040000005E010000",
+        "style_index": 68
+    },
+    "emo_st00009": {
+        "name": "emo_st00009",
+        "message": "[0]",
+        "attribute": "0400000060010000",
+        "style_index": 68
+    },
+    "emo_st00010": {
+        "name": "emo_st00010",
+        "message": "[0]",
+        "attribute": "0400000062010000",
+        "style_index": 68
+    },
+    "emo_st00011": {
+        "name": "emo_st00011",
+        "message": "[0]",
+        "attribute": "0400000064010000",
+        "style_index": 69
+    },
+    "emo_st00013": {
+        "name": "emo_st00013",
+        "message": "[0]",
+        "attribute": "0400000066010000",
+        "style_index": 68
+    },
+    "emo_st00014": {
+        "name": "emo_st00014",
+        "message": "[0]",
+        "attribute": "0400000068010000",
+        "style_index": 68
+    },
+    "emo_st00015": {
+        "name": "emo_st00015",
+        "message": "[0]",
+        "attribute": "040000006A010000",
+        "style_index": 68
+    },
+    "emo_st00016": {
+        "name": "emo_st00016",
+        "message": "[0]",
+        "attribute": "040000006C010000",
+        "style_index": 68
+    },
+    "emo_st00017": {
+        "name": "emo_st00017",
+        "message": "[0]",
+        "attribute": "040000006E010000",
+        "style_index": 69
+    },
+    "emo_st00018": {
+        "name": "emo_st00018",
+        "message": "[0]",
+        "attribute": "0400000070010000",
+        "style_index": 69
+    },
+    "emo_st00019": {
+        "name": "emo_st00019",
+        "message": "[0]",
+        "attribute": "0400000072010000",
+        "style_index": 68
+    },
+    "emo_st00020": {
+        "name": "emo_st00020",
+        "message": "[0]",
+        "attribute": "0400000074010000",
+        "style_index": 68
+    },
+    "emo_st00021": {
+        "name": "emo_st00021",
+        "message": "[0]",
+        "attribute": "0400000076010000",
+        "style_index": 68
+    },
+    "emo_st00022": {
+        "name": "emo_st00022",
+        "message": "[0]",
+        "attribute": "0400000078010000",
+        "style_index": 68
+    },
+    "emo_st00023": {
+        "name": "emo_st00023",
+        "message": "[0]",
+        "attribute": "040000007A010000",
+        "style_index": 68
+    },
+    "emo_st00024": {
+        "name": "emo_st00024",
+        "message": "[0]",
+        "attribute": "040000007C010000",
+        "style_index": 68
+    },
+    "emo_st00025": {
+        "name": "emo_st00025",
+        "message": "[0]",
+        "attribute": "040000007E010000",
+        "style_index": 68
+    },
+    "emo_st00026": {
+        "name": "emo_st00026",
+        "message": "[0]",
+        "attribute": "0400000080010000",
+        "style_index": 68
+    },
+    "emo_st00027": {
+        "name": "emo_st00027",
+        "message": "[0]",
+        "attribute": "0400000082010000",
+        "style_index": 68
+    },
+    "emo_st00028": {
+        "name": "emo_st00028",
+        "message": "[0]",
+        "attribute": "0400000084010000",
+        "style_index": 70
+    },
+    "emo_st00029": {
+        "name": "emo_st00029",
+        "message": "[0]",
+        "attribute": "0400000086010000",
+        "style_index": 68
+    },
+    "emo_st00030": {
+        "name": "emo_st00030",
+        "message": "[0]",
+        "attribute": "0400000088010000",
+        "style_index": 68
+    },
+    "emo_st00031": {
+        "name": "emo_st00031",
+        "message": "[0]",
+        "attribute": "040000008A010000",
+        "style_index": 68
+    },
+    "emo_st00032": {
+        "name": "emo_st00032",
+        "message": "[0]",
+        "attribute": "040000008C010000",
+        "style_index": 68
+    },
+    "emo_st00033": {
+        "name": "emo_st00033",
+        "message": "[0]",
+        "attribute": "040000008E010000",
+        "style_index": 68
+    },
+    "emo_st00034": {
+        "name": "emo_st00034",
+        "message": "[0]",
+        "attribute": "0400000090010000",
+        "style_index": 68
+    },
+    "emo_st00035": {
+        "name": "emo_st00035",
+        "message": "[0]",
+        "attribute": "0400000092010000",
+        "style_index": 70
+    },
+    "emo_st00036": {
+        "name": "emo_st00036",
+        "message": "[0]",
+        "attribute": "0400000094010000",
+        "style_index": 70
+    },
+    "emo_st00037": {
+        "name": "emo_st00037",
+        "message": "[0]",
+        "attribute": "0400000096010000",
+        "style_index": 68
+    }
+}

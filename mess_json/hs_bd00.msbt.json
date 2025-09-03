@@ -1,0 +1,2132 @@
+{
+    "bd00_ui_turn": {
+        "name": "bd00_ui_turn",
+        "message": "Tour",
+        "attribute": "04000000200B0000",
+        "style_index": 19
+    },
+    "bd00_ui_turnNumber": {
+        "name": "bd00_ui_turnNumber",
+        "message": "[0]/[1]",
+        "attribute": "04000000220B0000",
+        "style_index": 20
+    },
+    "bd00_ui_starDistance": {
+        "name": "bd00_ui_starDistance",
+        "message": "[0] pour l'\ue021",
+        "attribute": "04000000240B0000",
+        "style_index": 66
+    },
+    "bd00_ui_starDistance_unknown": {
+        "name": "bd00_ui_starDistance_unknown",
+        "message": "[0] + ? pour l'\ue021",
+        "attribute": "04000000260B0000",
+        "style_index": 67
+    },
+    "bd00_ui_cellCount": {
+        "name": "bd00_ui_cellCount",
+        "message": "Distance : [0]",
+        "attribute": "04000000280B0000",
+        "style_index": 65
+    },
+    "bd00_ui_cellCount_unknown": {
+        "name": "bd00_ui_cellCount_unknown",
+        "message": "Distance : [0] + ?",
+        "attribute": "040000002A0B0000",
+        "style_index": 65
+    },
+    "bd00_roulette": {
+        "name": "bd00_roulette",
+        "message": "[0]",
+        "attribute": "040000002C0B0000",
+        "style_index": 22
+    },
+    "bd00_ctrl_hit": {
+        "name": "bd00_ctrl_hit",
+        "message": "\ue000 Frapper",
+        "attribute": "040000002E0B0000",
+        "style_index": 11
+    },
+    "bd00_ctrl_zoomOut": {
+        "name": "bd00_ctrl_zoomOut",
+        "message": "\ue015 D\u00e9placer le curseur \ue003 Plateau",
+        "attribute": "04000000300B0000",
+        "style_index": 12
+    },
+    "bd00_ctrl_viewMap": {
+        "name": "bd00_ctrl_viewMap",
+        "message": "\ue001 Voir le plateau",
+        "attribute": "04000000320B0000",
+        "style_index": 13
+    },
+    "bd00_mw_aMap": {
+        "name": "bd00_mw_aMap",
+        "message": "Voir le plateau",
+        "attribute": "04000000340B0000",
+        "style_index": 9
+    },
+    "bd00_ctrl_chanceTime": {
+        "name": "bd00_ctrl_chanceTime",
+        "message": "\ue029 Se d\u00e9placer  \ue000 Frapper",
+        "attribute": "04000000360B0000",
+        "style_index": 12
+    },
+    "bd00_ctrl_stop": {
+        "name": "bd00_ctrl_stop",
+        "message": "\ue000 Arr\u00eater",
+        "attribute": "04000000380B0000",
+        "style_index": 13
+    },
+    "bd00_ctrl_fastForward": {
+        "name": "bd00_ctrl_fastForward",
+        "message": "\ue000 (maintenu) Acc\u00e9l\u00e9rer",
+        "attribute": "040000003A0B0000",
+        "style_index": 25
+    },
+    "bd00_ctrl_overlooking00": {
+        "name": "bd00_ctrl_overlooking00",
+        "message": "\ue003 Regarder aux alentours",
+        "attribute": "040000003C0B0000",
+        "style_index": 26
+    },
+    "bd00_tlp_eventTitle": {
+        "name": "bd00_tlp_eventTitle",
+        "message": "[1:2][0]",
+        "attribute": "040000003E0B0000",
+        "style_index": 27
+    },
+    "bd00_ctrl_zoomOut01": {
+        "name": "bd00_ctrl_zoomOut01",
+        "message": "\ue015 D\u00e9placer le curseur \ue003 Retour",
+        "attribute": "04000000400B0000",
+        "style_index": 12
+    },
+    "bd00_status_rank": {
+        "name": "bd00_status_rank",
+        "message": "[0]",
+        "attribute": "04000000420B0000",
+        "style_index": 23
+    },
+    "bd00_status_useName": {
+        "name": "bd00_status_useName",
+        "message": "[0]",
+        "attribute": "04000000440B0000",
+        "style_index": 24
+    },
+    "bd00_itemGet_ui_itemName": {
+        "name": "bd00_itemGet_ui_itemName",
+        "message": "[1:2][0]",
+        "attribute": "04000000460B0000",
+        "style_index": 54
+    },
+    "bd00_itemGet_ui_itemDetails": {
+        "name": "bd00_itemGet_ui_itemDetails",
+        "message": "[0]",
+        "attribute": "04000000480B0000",
+        "style_index": 55
+    },
+    "bd00_tlp_starGet": {
+        "name": "bd00_tlp_starGet",
+        "message": "\u00c9toile gagn\u00e9e !",
+        "attribute": "040000004A0B0000",
+        "style_index": 14
+    },
+    "bd00_tlp_starGets": {
+        "name": "bd00_tlp_starGets",
+        "message": "\u00c9toiles gagn\u00e9es !",
+        "attribute": "040000004C0B0000",
+        "style_index": 14
+    },
+    "bd00_OP_mw_welcome00": {
+        "name": "bd00_OP_mw_welcome00",
+        "message": "On est arriv\u00e9s !\r\n[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401000F4E0B0000",
+        "style_index": 4
+    },
+    "bd00_tlp_board": {
+        "name": "bd00_tlp_board",
+        "message": "[0]",
+        "attribute": "04000000660B0000",
+        "style_index": 35
+    },
+    "bd00_OP_mw_start00": {
+        "name": "bd00_OP_mw_start00",
+        "message": "Tant que nous sommes ici, j'ai une affaire\r\nurgente \u00e0 traiter. \u00c0 tout \u00e0 l'heure !",
+        "attribute": "0401000F680B0000",
+        "style_index": 4
+    },
+    "bd00_OP_mw_start01": {
+        "name": "bd00_OP_mw_start01",
+        "message": "[0:3 11-0C-1D-FF]Je passe le relais \u00e0 [0:3 FF-35-02-FF]Toad[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "0401000F6A0B0000",
+        "style_index": 4
+    },
+    "bd00_OP_mw_start02": {
+        "name": "bd00_OP_mw_start02",
+        "message": "Compte sur moi !",
+        "attribute": "040100197E0B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_welcome00": {
+        "name": "bd00_p01_mw_welcome00",
+        "message": "Bien, je serai donc votre guide !",
+        "attribute": "04010019980B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_welcome01": {
+        "name": "bd00_p01_mw_welcome01",
+        "message": "Est-ce la premi\u00e8re fois que vous\r\nvous aventurez sur ce plateau ?",
+        "attribute": "04010019B00B0000",
+        "style_index": 6
+    },
+    "bd00_p01_mw_welcome01_a0": {
+        "name": "bd00_p01_mw_welcome01_a0",
+        "message": "Oui",
+        "attribute": "03000000CE0B0000",
+        "style_index": 9
+    },
+    "bd00_p01_mw_welcome01_a1": {
+        "name": "bd00_p01_mw_welcome01_a1",
+        "message": "Non",
+        "attribute": "03000000D00B0000",
+        "style_index": 9
+    },
+    "bd00_p01_mw_explaination00": {
+        "name": "bd00_p01_mw_explaination00",
+        "message": "Super ! Alors, je vais tout vous expliquer.",
+        "attribute": "04040019D20B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering01": {
+        "name": "bd00_p01_mw_ordering01",
+        "message": "D'abord, nous allons d\u00e9cider\r\nde l'ordre de jeu.",
+        "attribute": "04010019E60B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering02": {
+        "name": "bd00_p01_mw_ordering02",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]commencera le tour.[0:3 00-00-00-FF]",
+        "attribute": "040100190A0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering03": {
+        "name": "bd00_p01_mw_ordering03",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]partira en deuxi\u00e8me.[0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "040100190C0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering04": {
+        "name": "bd00_p01_mw_ordering04",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]partira en troisi\u00e8me.[0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "040100190E0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering05": {
+        "name": "bd00_p01_mw_ordering05",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]terminera le tour.[0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "04010019100C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_giveCoin00": {
+        "name": "bd00_p01_mw_giveCoin00",
+        "message": "Maintenant que l'ordre de jeu est \u00e9tabli,\r\nvoici quelques [0:3 11-0C-1D-FF]pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] pour d\u00e9buter ![0:3 00-00-00-FF]",
+        "attribute": "04010019120C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar00": {
+        "name": "bd00_p01_mw_setStar00",
+        "message": "Tr\u00e8s bien ! Bon, o\u00f9 est l'\u00e9toile [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]?[0:3 00-00-00-FF]",
+        "attribute": "04010019360C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar01": {
+        "name": "bd00_p01_mw_setStar01",
+        "message": "Tr\u00e8s bien ! Bon, o\u00f9 est\r\nla premi\u00e8re \u00e9toile [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]?[0:3 00-00-00-FF]",
+        "attribute": "04010019540C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar02": {
+        "name": "bd00_p01_mw_setStar02",
+        "message": "Voici l'\u00e9toile [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010025720C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar03": {
+        "name": "bd00_p01_mw_setStar03",
+        "message": "Avant de l'atteindre, assurez-vous\r\nde ramasser des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]en chemin ![0:3 00-00-00-FF]",
+        "attribute": "040100258C0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar04": {
+        "name": "bd00_p01_mw_setStar04",
+        "message": "Avant de l'atteindre, assurez-vous de\r\nramasser des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF]. Je vous attends ![0:3 00-00-00-FF]",
+        "attribute": "04010025B00C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ready00": {
+        "name": "bd00_p01_mw_ready00",
+        "message": "Tout devrait \u00eatre pr\u00eat,\r\nalors commen\u00e7ons !",
+        "attribute": "04010019D40C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ready01": {
+        "name": "bd00_p01_mw_ready01",
+        "message": "Bonne chance ! Faites de votre mieux,\r\net surtout, amusez-vous bien !",
+        "attribute": "04010019F20C0000",
+        "style_index": 4
+    },
+    "bd00_tlp_turn": {
+        "name": "bd00_tlp_turn",
+        "message": "Tour [0]",
+        "attribute": "04000000100D0000",
+        "style_index": 21
+    },
+    "bd00_tlp_lastFewTurns": {
+        "name": "bd00_tlp_lastFewTurns",
+        "message": "Encore [0] tours",
+        "attribute": "04000000120D0000",
+        "style_index": 29
+    },
+    "bd00_tlp_lastTurns": {
+        "name": "bd00_tlp_lastTurns",
+        "message": "Dernier tour !",
+        "attribute": "04000000140D0000",
+        "style_index": 29
+    },
+    "bd00_p02_mw_lastSp00": {
+        "name": "bd00_p02_mw_lastSp00",
+        "message": "Il ne reste que cinq tours !\r\nJetons un \u0153il au classement actuel.",
+        "attribute": "04010019160D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp01": {
+        "name": "bd00_p02_mw_lastSp01",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]est en t\u00eate ![0:3 00-00-00-FF]",
+        "attribute": "040100193A0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp02": {
+        "name": "bd00_p02_mw_lastSp02",
+        "message": "En deuxi\u00e8me place,\r\nnous avons [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100193C0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp03": {
+        "name": "bd00_p02_mw_lastSp03",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]occupe la troisi\u00e8me place ![0:3 00-00-00-FF]",
+        "attribute": "040100193E0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp04": {
+        "name": "bd00_p02_mw_lastSp04",
+        "message": "Et en quatri\u00e8me place,\r\nc'est [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019400D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00a": {
+        "name": "bd00_p02_mw_lastSpBonus00a",
+        "message": "Ouah ! La lutte est rude,\r\ndans ce classement !",
+        "attribute": "04010019420D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00b": {
+        "name": "bd00_p02_mw_lastSpBonus00b",
+        "message": "Tout le monde fait vraiment de son\r\nmieux ! Quel spectacle palpitant !",
+        "attribute": "040100195C0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00c": {
+        "name": "bd00_p02_mw_lastSpBonus00c",
+        "message": "Quelle comp\u00e9tition pleine de surprises !\r\nOn dirait que rien n'est encore jou\u00e9 !",
+        "attribute": "04010019760D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus01": {
+        "name": "bd00_p02_mw_lastSpBonus01",
+        "message": "Mais qui va gagner ? Demandons \u00e0 l'un\r\nde nos experts ce qu'il en pense !",
+        "attribute": "04010019900D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02a": {
+        "name": "bd00_p02_mw_lastSpBonus02a",
+        "message": "Vous vous en doutez s\u00fbrement, mais\r\nvoici notre expert du jour et son avis.",
+        "attribute": "04010019920D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02b": {
+        "name": "bd00_p02_mw_lastSpBonus02b",
+        "message": "D'ailleurs, \u00e0 votre avis, quel expert\r\nallons-nous solliciter ? Regardez !",
+        "attribute": "04010019B00D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02c": {
+        "name": "bd00_p02_mw_lastSpBonus02c",
+        "message": "Cette fois, \u00e9coutons l'avis de quelqu'un\r\nde connu et de respect\u00e9 !",
+        "attribute": "04010019CE0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus04": {
+        "name": "bd00_p02_mw_lastSpBonus04",
+        "message": "Vous l'avez entendu aussi bien que moi !\r\nViens par ici, [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019EC0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus03": {
+        "name": "bd00_p02_mw_lastSpBonus03",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF], pour t'aider \u00e0 gagner, voici\r\nun bonus : [1] ![0:3 00-00-00-FF]",
+        "attribute": "04010019060E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus05": {
+        "name": "bd00_p02_mw_lastSpBonus05",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF], pour t'aider, voici\r\nun bonus : [0:3 FF-35-02-FF][1][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019200E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect00": {
+        "name": "bd00_p02_mw_lastSpEffect00",
+        "message": "Maintenant que nous sommes\r\ndans la derni\u00e8re ligne droite...",
+        "attribute": "040100193A0E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect01": {
+        "name": "bd00_p02_mw_lastSpEffect01",
+        "message": "les [0:3 FF-35-02-FF]cases bleues[0:3 00-00-00-FF][0:3 11-0C-1D-FF] vous donnent\r\n6 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF], soit le double de la normale ![0:3 00-00-00-FF]",
+        "attribute": "04010019520E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect02": {
+        "name": "bd00_p02_mw_lastSpEffect02",
+        "message": "La mauvaise nouvelle, c'est que sur une\r\n[0:3 FF-35-02-FF]case rouge[0:3 00-00-00-FF][0:3 11-0C-1D-FF], vous perdrez 6 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] ![0:3 FF-FF-FF-FF][0:3 00-00-00-FF]",
+        "attribute": "040100197C0E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect03": {
+        "name": "bd00_p02_mw_lastSpEffect03",
+        "message": "Et si deux joueurs ou plus se retrouvent\r\nsur la m\u00eame case, il y aura un duel !",
+        "attribute": "04010019A60E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect04": {
+        "name": "bd00_p02_mw_lastSpEffect04",
+        "message": "La partie n'est pas encore termin\u00e9e, alors\r\ncontinuez de faire de votre mieux !",
+        "attribute": "04010019D00E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect05": {
+        "name": "bd00_p02_mw_lastSpEffect05",
+        "message": "Oh, et le d\u00e9p\u00f4t \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF]\r\n[0:3 11-0C-1D-FF]passe \u00e0 5 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019000F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange00": {
+        "name": "bd00_p02_mw_turnChange00",
+        "message": "J'ai une annonce \u00e0 faire !",
+        "attribute": "040303192A0F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange01": {
+        "name": "bd00_p02_mw_turnChange01",
+        "message": "Cette partie devait compter [0] tours,\r\nmais nous allons plut\u00f4t en jouer [1] !",
+        "attribute": "04030219500F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP00": {
+        "name": "bd00_p02_mw_afterLastSP00",
+        "message": "Mettons de c\u00f4t\u00e9 les changements\r\ndont j'ai parl\u00e9 pour les derniers tours.",
+        "attribute": "04030119520F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP01": {
+        "name": "bd00_p02_mw_afterLastSP01",
+        "message": "Le nombre de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] pour les [0:3 00-00-00-FF][0:3 FF-35-02-FF]cases\r\nbleues[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ou [0:3 00-00-00-FF][0:3 FF-35-02-FF]rouges[0:3 00-00-00-FF][0:3 11-0C-1D-FF] revient \u00e0 3...[0:3 00-00-00-FF]",
+        "attribute": "04030119720F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP02": {
+        "name": "bd00_p02_mw_afterLastSP02",
+        "message": "Et il n'y aura pas de duel si deux joueurs\r\nou plus se retrouvent sur la m\u00eame case.",
+        "attribute": "04030119740F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP03": {
+        "name": "bd00_p02_mw_afterLastSP03",
+        "message": "Oh, et le d\u00e9p\u00f4t \u00e0 la [0:3 FF-35-02-FF]banque Koopa\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]revient aux 3 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] r\u00e9glementaires.[0:3 00-00-00-FF]",
+        "attribute": "04030019760F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange03": {
+        "name": "bd00_p02_mw_turnChange03",
+        "message": "Maintenant que c'est r\u00e9gl\u00e9, bonne chance\r\net continuez jusqu'\u00e0 la fin des [0] tours !",
+        "attribute": "04030619780F0000",
+        "style_index": 4
+    },
+    "bd00_tlp_start_chaname": {
+        "name": "bd00_tlp_start_chaname",
+        "message": "\u00c0 ton tour, [0] !",
+        "attribute": "04000000A20F0000",
+        "style_index": 30
+    },
+    "bd00_p03_mw_firstItem00": {
+        "name": "bd00_p03_mw_firstItem00",
+        "message": "Tu peux utiliser l'objet que tu viens\r\nd'obtenir ! Veux-tu essayer ?",
+        "attribute": "04030119A40F0000",
+        "style_index": 4
+    },
+    "bd00_pl_dice": {
+        "name": "bd00_pl_dice",
+        "message": "\ue002 D\u00e9",
+        "attribute": "04000000C40F0000",
+        "style_index": 31
+    },
+    "bd00_pl_item": {
+        "name": "bd00_pl_item",
+        "message": "Objet",
+        "attribute": "04000000C60F0000",
+        "style_index": 31
+    },
+    "bd00_pl_map": {
+        "name": "bd00_pl_map",
+        "message": "\ue001 Plateau",
+        "attribute": "04000000C80F0000",
+        "style_index": 31
+    },
+    "bd00_map_cell_name": {
+        "name": "bd00_map_cell_name",
+        "message": "[1:2][0]",
+        "attribute": "04000000CA0F0000",
+        "style_index": 60
+    },
+    "bd00_map_cell_details": {
+        "name": "bd00_map_cell_details",
+        "message": "[0]",
+        "attribute": "04000000CC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details00": {
+        "name": "bd00_map_s00_details00",
+        "message": "\u00c9changez 20 pi\u00e8ces \ue020\r\ncontre une \u00e9toile \ue021.",
+        "attribute": "04000000CE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details01": {
+        "name": "bd00_map_s00_details01",
+        "message": "Offre sp\u00e9ciale ! Une \u00e9toile \ue021\r\npour seulement 10 pi\u00e8ces \ue020.",
+        "attribute": "04000000D00F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details02": {
+        "name": "bd00_map_s00_details02",
+        "message": "Avec une [0:3 FF-35-02-FF]carte double[0:3 00-00-00-FF][0:3 FF-FF-FF-FF], \u00e9changez\r\n40 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] contre 2 \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000D20F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details03": {
+        "name": "bd00_map_s00_details03",
+        "message": "[0:3 FF-FF-FF-FF]Doublez la mise ! \u00c9changez\r\n20 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] contre 2 \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "04000000D40F0000",
+        "style_index": 61
+    },
+    "bd00_map_s01_details00": {
+        "name": "bd00_map_s01_details00",
+        "message": "Utilisez des pi\u00e8ces \ue020 pour\r\nacheter des objets.",
+        "attribute": "04000000D60F0000",
+        "style_index": 61
+    },
+    "bd00_map_s01_details01": {
+        "name": "bd00_map_s01_details01",
+        "message": "Achetez des objets avec des\r\npi\u00e8ces \ue020. Non disponible.",
+        "attribute": "04000000D80F0000",
+        "style_index": 61
+    },
+    "bd00_map_s02_details": {
+        "name": "bd00_map_s02_details",
+        "message": "Choisissez un chemin.",
+        "attribute": "04000000DA0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s03_details": {
+        "name": "bd00_map_s03_details",
+        "message": "Le tour du plateau !\r\nVous recevrez 10 pi\u00e8ces \ue020.",
+        "attribute": "04000000DC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s04_details": {
+        "name": "bd00_map_s04_details",
+        "message": "[0:3 FF-FF-FF-FF]On dirait que [0:3 FF-35-02-FF]Bowser[0:3 FF-FF-FF-FF] vous\r\nr\u00e9serve quelque chose...[0:3 00-00-00-FF]",
+        "attribute": "04000000DE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s05_details": {
+        "name": "bd00_map_s05_details",
+        "message": "Un portail ferm\u00e9. Une cl\u00e9\r\ndevrait pouvoir l'ouvrir.",
+        "attribute": "04000000E00F0000",
+        "style_index": 61
+    },
+    "bd00_map_s06_details": {
+        "name": "bd00_map_s06_details",
+        "message": "Volez des pi\u00e8ces \ue020 gratuitement,\r\nou une \u00e9toile \ue021 pour 50 pi\u00e8ces \ue020.",
+        "attribute": "04000000E20F0000",
+        "style_index": 61
+    },
+    "bd00_map_c00_details": {
+        "name": "bd00_map_c00_details",
+        "message": "Ici commence votre voyage\r\npour devenir la superstar.",
+        "attribute": "04000000E40F0000",
+        "style_index": 61
+    },
+    "bd00_map_c01_details": {
+        "name": "bd00_map_c01_details",
+        "message": "Gain de [0] pi\u00e8ces \ue020.",
+        "attribute": "04000000E60F0000",
+        "style_index": 61
+    },
+    "bd00_map_c02_details": {
+        "name": "bd00_map_c02_details",
+        "message": "Perte de [0] pi\u00e8ces \ue020.",
+        "attribute": "04000000E80F0000",
+        "style_index": 61
+    },
+    "bd00_map_c03_details00": {
+        "name": "bd00_map_c03_details00",
+        "message": "Remportez le mini-jeu et\r\nvous obtiendrez un objet.",
+        "attribute": "04000000EA0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c03_details01": {
+        "name": "bd00_map_c03_details01",
+        "message": "Il n'y a pas de mini-jeu \u00e0 objet\r\ndans le dernier tour.",
+        "attribute": "04000000EC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c05_details": {
+        "name": "bd00_map_c05_details",
+        "message": "Frappez les trois blocs tournants\r\npour tenter de vous refaire.",
+        "attribute": "04000000EE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c06_details00": {
+        "name": "bd00_map_c06_details00",
+        "message": "Faites tourner la roue pour tenter de\r\ngagner des objets ou des pi\u00e8ces \ue020 !",
+        "attribute": "04000000F00F0000",
+        "style_index": 61
+    },
+    "bd00_map_c06_details01": {
+        "name": "bd00_map_c06_details01",
+        "message": "Faites tourner la roue pour tenter\r\nde gagner des pi\u00e8ces \ue020 !",
+        "attribute": "04000000F20F0000",
+        "style_index": 61
+    },
+    "bd00_map_c07_details": {
+        "name": "bd00_map_c07_details",
+        "message": "La case la plus dangereuse.\r\nIl ne s'y passe rien de bon...",
+        "attribute": "04000000F40F0000",
+        "style_index": 61
+    },
+    "bd00_map_c08_details": {
+        "name": "bd00_map_c08_details",
+        "message": "Les joueurs misent des pi\u00e8ces \ue020\r\net s'affrontent dans un mini-jeu !",
+        "attribute": "04000000F60F0000",
+        "style_index": 61
+    },
+    "bd00_map_c09_details": {
+        "name": "bd00_map_c09_details",
+        "message": "D\u00e9posez [0] pi\u00e8ces \ue020 en passant.\r\nEssayez aussi de vous y arr\u00eater !",
+        "attribute": "04000000F80F0000",
+        "style_index": 61
+    },
+    "bd00_2Dmap_cell_name": {
+        "name": "bd00_2Dmap_cell_name",
+        "message": "[1:2][0]",
+        "attribute": "04000000FA0F0000",
+        "style_index": 63
+    },
+    "bd00_2Dmap_ctrl_back": {
+        "name": "bd00_2Dmap_ctrl_back",
+        "message": "\ue003 Retourner au plateau",
+        "attribute": "04000000FC0F0000",
+        "style_index": 62
+    },
+    "bd00_2Dmap_ctrl_display": {
+        "name": "bd00_2Dmap_ctrl_display",
+        "message": "\ue000 Voir la zone",
+        "attribute": "04000000FE0F0000",
+        "style_index": 62
+    },
+    "bd00_3Dmap_ctrl_cursor": {
+        "name": "bd00_3Dmap_ctrl_cursor",
+        "message": "\ue015 D\u00e9placer le curseur",
+        "attribute": "0400000000100000",
+        "style_index": 62
+    },
+    "bd00_2Dmap_c09_coin": {
+        "name": "bd00_2Dmap_c09_coin",
+        "message": "[0] \ue020",
+        "attribute": "0400000002100000",
+        "style_index": 64
+    },
+    "bd00_s00_mw_welcome00": {
+        "name": "bd00_s00_mw_welcome00",
+        "message": "[0:3 FF-FF-FF-FF]Ouah ! Tu as vraiment l'\u00e9toffe\r\nd'une [0:3 00-00-00-FF][0:3 FF-35-02-FF]superstar [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]![0:3 00-00-00-FF]",
+        "attribute": "0404002504100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_welcome01": {
+        "name": "bd00_s00_mw_welcome01",
+        "message": "Oh ! Encore [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nMais qui pourra te tenir t\u00eate ?[0:3 00-00-00-FF]",
+        "attribute": "0404002528100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_welcome02": {
+        "name": "bd00_s00_mw_welcome02",
+        "message": "Comme on se retrouve, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nTu es vraiment une [0:3 00-00-00-FF][0:3 FF-35-02-FF]superstar[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] en devenir ![0:3 00-00-00-FF]",
+        "attribute": "040400254C100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noCoin00": {
+        "name": "bd00_s00_mw_noCoin00",
+        "message": "[0:3 FF-FF-FF-FF]Les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] te manquent, mais continue\r\net tu deviendras une [0:3 00-00-00-FF][0:3 FF-35-02-FF]superstar[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] un jour ![0:3 00-00-00-FF]",
+        "attribute": "040400256A100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange00": {
+        "name": "bd00_s00_mw_exchange00",
+        "message": "Veux-tu r\u00e9cup\u00e9rer une \u00e9toile \ue021 ?",
+        "attribute": "0404002588100000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_exchange00_a0": {
+        "name": "bd00_s00_mw_exchange00_a0",
+        "message": "Non, merci.",
+        "attribute": "030000258A100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a1": {
+        "name": "bd00_s00_mw_exchange00_a1",
+        "message": "[0:3 11-0C-1D-FF]10 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] \u2192 1 [0:3 FF-FF-FF-FF]\ue021 [0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "030000258C100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a2": {
+        "name": "bd00_s00_mw_exchange00_a2",
+        "message": "2[0:3 11-0C-1D-FF]0 [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]\u2192 1 [0:3 FF-FF-FF-FF]\ue021 [0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "030000258E100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a3": {
+        "name": "bd00_s00_mw_exchange00_a3",
+        "message": "2[0:3 11-0C-1D-FF]0 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] \u2192 2 [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "0300002590100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a4": {
+        "name": "bd00_s00_mw_exchange00_a4",
+        "message": "4[0:3 11-0C-1D-FF]0 [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] \u2192 2 [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF][0:3 00-00-00-FF]",
+        "attribute": "0300002592100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange01": {
+        "name": "bd00_s00_mw_exchange01",
+        "message": "Tr\u00e8s bien. Cette \u00e9toile \ue021 est \u00e0 toi !",
+        "attribute": "0404002594100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02a": {
+        "name": "bd00_s00_mw_exchange02a",
+        "message": "Youpi ! [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] a r\u00e9cup\u00e9r\u00e9\r\nune autre \u00e9toile [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04040025AE100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02b": {
+        "name": "bd00_s00_mw_exchange02b",
+        "message": "Eh bien, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nVoil\u00e0 encore une \u00e9toile[0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]\ue021[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] pour toi ![0:3 00-00-00-FF]",
+        "attribute": "04040025C2100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02c": {
+        "name": "bd00_s00_mw_exchange02c",
+        "message": "[0:3 FF-FF-FF-FF]Tu as r\u00e9cup\u00e9r\u00e9 des \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 FF-FF-FF-FF] plusieurs\r\ntours de suite ? Bien jou\u00e9, [0:3 FF-35-02-FF][0][0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04040025D6100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange03": {
+        "name": "bd00_s00_mw_exchange03",
+        "message": "Ce n'est pas tout ! Elle est \u00e0 moiti\u00e9 prix ET\r\ntu as une [0:3 FF-35-02-FF]carte double[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ? Incroyable ![0:3 00-00-00-FF]",
+        "attribute": "04040025EA100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange04": {
+        "name": "bd00_s00_mw_exchange04",
+        "message": "Tu as r\u00e9cup\u00e9r\u00e9 plusieurs \u00e9toiles \ue021 en un\r\nseul tour ? Moi qui pensais avoir tout vu !",
+        "attribute": "0404002504110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange05": {
+        "name": "bd00_s00_mw_exchange05",
+        "message": "J-Je ne sais pas quoi dire ! Tu as obtenu\r\ntellement d'\u00e9toiles \ue021 dans ce tour !",
+        "attribute": "040400251E110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_halfStar00": {
+        "name": "bd00_s00_mw_halfStar00",
+        "message": "Quelle chance !\r\nTu peux l'acheter \u00e0 moiti\u00e9 prix !",
+        "attribute": "0404002536110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_halfStar01": {
+        "name": "bd00_s00_mw_halfStar01",
+        "message": "Et elle est \u00e0 moiti\u00e9 prix ! Quelle chance !",
+        "attribute": "0404002550110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noExchange00": {
+        "name": "bd00_s00_mw_noExchange00",
+        "message": "C-Comment ?! Tu veux dire que\r\ntu ne veux pas d'\u00e9toile \ue021 ?",
+        "attribute": "040400256A110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noExchange01": {
+        "name": "bd00_s00_mw_noExchange01",
+        "message": "Est-ce vraiment ce que tu veux ?",
+        "attribute": "0404002588110000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_noExchange02": {
+        "name": "bd00_s00_mw_noExchange02",
+        "message": "Vraiment... vraiment ?",
+        "attribute": "04040025A0110000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_noExchange03": {
+        "name": "bd00_s00_mw_noExchange03",
+        "message": "Eh bien, si tu y tiens. Tu dois avoir\r\nune autre id\u00e9e en t\u00eate... pas vrai ?",
+        "attribute": "04040025BE110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_starMove00": {
+        "name": "bd00_s00_mw_starMove00",
+        "message": "La prochaine \u00e9toile \ue021 sera...",
+        "attribute": "04040025DA110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_starMove01": {
+        "name": "bd00_s00_mw_starMove01",
+        "message": "Ici ! L'\u00e9toile \ue021 vous attend \u00e0 cet endroit !",
+        "attribute": "04040025F8110000",
+        "style_index": 4
+    },
+    "bd00_s01_ui_shopClosed": {
+        "name": "bd00_s01_ui_shopClosed",
+        "message": "C'est ferm\u00e9 !",
+        "attribute": "0400000012120000",
+        "style_index": 42
+    },
+    "bd00_s01_ui_itemPrice": {
+        "name": "bd00_s01_ui_itemPrice",
+        "message": "[0]",
+        "attribute": "0400000014120000",
+        "style_index": 38
+    },
+    "bd00_s01_ui_itemName": {
+        "name": "bd00_s01_ui_itemName",
+        "message": "[1:2][0]",
+        "attribute": "0400000016120000",
+        "style_index": 39
+    },
+    "bd00_s01_ui_itemDetails": {
+        "name": "bd00_s01_ui_itemDetails",
+        "message": "[0]",
+        "attribute": "0400000018120000",
+        "style_index": 40
+    },
+    "bd00_s01_ctrl_cancel": {
+        "name": "bd00_s01_ctrl_cancel",
+        "message": "\ue003 Partir",
+        "attribute": "040000001A120000",
+        "style_index": 41
+    },
+    "bd00_s01_ctrl_map": {
+        "name": "bd00_s01_ctrl_map",
+        "message": "\ue001 Voir le plateau",
+        "attribute": "040000001C120000",
+        "style_index": 41
+    },
+    "bd00_s01_mw_noCoin00": {
+        "name": "bd00_s01_mw_noCoin00",
+        "message": "Bienvenue \u00e0 la [0:3 FF-35-02-FF]boutique des objets[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nVeux-tu acheter quelque chose ?[0:3 00-00-00-FF]",
+        "attribute": "0404002D1E120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_noCoin01": {
+        "name": "bd00_s01_mw_noCoin01",
+        "message": "Oh ! Tu n'as pas assez de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].\r\nReviens quand tu en auras plus ![0:3 00-00-00-FF]",
+        "attribute": "0404002D36120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome00": {
+        "name": "bd00_s01_mw_welcome00",
+        "message": "Bienvenue \u00e0 la [0:3 FF-35-02-FF]boutique des objets[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nVeux-tu acheter quelque chose ?[0:3 00-00-00-FF]",
+        "attribute": "0404002D38120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome01": {
+        "name": "bd00_s01_mw_welcome01",
+        "message": "Nous avons mis notre stock \u00e0 jour.\r\nJettes-y donc un \u0153il !",
+        "attribute": "0404002D4C120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome02": {
+        "name": "bd00_s01_mw_welcome02",
+        "message": "La partie n'est pas encore finie, alors\r\nrevenons \u00e0 nos anciens articles !",
+        "attribute": "0404002D4E120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome03": {
+        "name": "bd00_s01_mw_welcome03",
+        "message": "Nous avons encore ajust\u00e9 notre s\u00e9lection\r\nd'articles. Passez y jeter un \u0153il !",
+        "attribute": "0404002D50120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00a": {
+        "name": "bd00_s03_mw_welcome00a",
+        "message": "Beau travail ! Tiens, prends\r\nces 10 pi\u00e8ces \ue020 en bonus !",
+        "attribute": "0404000F52120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00b": {
+        "name": "bd00_s03_mw_welcome00b",
+        "message": "Tu as fait tout le chemin jusqu'ici ! Bravo !\r\nVoil\u00e0 10 pi\u00e8ces \ue020 pour ta peine.",
+        "attribute": "0404000F8A120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00c": {
+        "name": "bd00_s03_mw_welcome00c",
+        "message": "Tu te d\u00e9brouilles bien. Nous sommes fiers\r\nde toi. Tiens, accepte ces 10 pi\u00e8ces \ue020.",
+        "attribute": "0404000FC2120000",
+        "style_index": 4
+    },
+    "bd00_mgResult_rank_1st": {
+        "name": "bd00_mgResult_rank_1st",
+        "message": "[0]",
+        "attribute": "04000000FA120000",
+        "style_index": 48
+    },
+    "bd00_mgResult_rank_below": {
+        "name": "bd00_mgResult_rank_below",
+        "message": "[0]",
+        "attribute": "04000000FC120000",
+        "style_index": 49
+    },
+    "bd00_mgResult_ui_Win": {
+        "name": "bd00_mgResult_ui_Win",
+        "message": "Gagn\u00e9 !",
+        "attribute": "04000000FE120000",
+        "style_index": 47
+    },
+    "bd00_mgResult_ui_catchUp": {
+        "name": "bd00_mgResult_ui_catchUp",
+        "message": "Belle remont\u00e9e !",
+        "attribute": "0400000000130000",
+        "style_index": 50
+    },
+    "bd00_mgResult_ui_keep": {
+        "name": "bd00_mgResult_ui_keep",
+        "message": "Pas de changement !",
+        "attribute": "0400000002130000",
+        "style_index": 50
+    },
+    "bd00_mgResult_ui_reversal": {
+        "name": "bd00_mgResult_ui_reversal",
+        "message": "Passage en t\u00eate !",
+        "attribute": "0400000004130000",
+        "style_index": 50
+    },
+    "bd00_tlp_cell": {
+        "name": "bd00_tlp_cell",
+        "message": "[1:2][0]",
+        "attribute": "0400000006130000",
+        "style_index": 32
+    },
+    "bd00_duel_mw_welcome00": {
+        "name": "bd00_duel_mw_welcome00",
+        "message": "Deux joueurs ou plus sur une m\u00eame case...\r\nNous allons donc assister \u00e0 un duel !",
+        "attribute": "0403031908130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_noCoin00": {
+        "name": "bd00_duel_mw_noCoin00",
+        "message": "[0:3 11-0C-1D-FF]\u00c0 la r\u00e9flexion, tu n'as pas de pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nNous allons devoir annuler le duel...[0:3 00-00-00-FF]",
+        "attribute": "0403011932130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice00": {
+        "name": "bd00_duel_mw_choice00",
+        "message": "Un duel est un combat f\u00e9roce \u00e0 un\r\ncontre un. Choisis ton adversaire.",
+        "attribute": "0403011934130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice01": {
+        "name": "bd00_duel_mw_choice01",
+        "message": "[0:3 11-0C-1D-FF]J'allais oublier, les joueurs qui n'ont\r\npas de pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]ne peuvent pas\r\nparticiper \u00e0 un duel.[0:3 00-00-00-FF]",
+        "attribute": "0403011958130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice02": {
+        "name": "bd00_duel_mw_choice02",
+        "message": "Hmm... tout le monde n'a pas de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF],\r\nalors tu affronteras [0:3 00-00-00-FF][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "040301195A130000",
+        "style_index": 7
+    },
+    "bd00_rivalSlct_order_duel": {
+        "name": "bd00_rivalSlct_order_duel",
+        "message": "Qui voulez-vous affronter en duel ?",
+        "attribute": "0400000080130000",
+        "style_index": 57
+    },
+    "bd00_duel_mw_betCoin03": {
+        "name": "bd00_duel_mw_betCoin03",
+        "message": "[0:3 11-0C-1D-FF]Choisis le nombre de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF]\r\n\u00e0 miser en fonction de ce que\r\nchaque joueur poss\u00e8de.[0:3 00-00-00-FF]",
+        "attribute": "0401001982130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin00": {
+        "name": "bd00_duel_mw_betCoin00",
+        "message": "[0:3 11-0C-1D-FF]OK, [0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] ! Combien\r\nde pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF] veux-tu miser ?[0:3 00-00-00-FF]",
+        "attribute": "040100199C130000",
+        "style_index": 6
+    },
+    "bd00_duel_mw_betCoin04": {
+        "name": "bd00_duel_mw_betCoin04",
+        "message": "Oh ? [0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]n'a\r\nqu'une seule pi\u00e8ce [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF].[0:3 00-00-00-FF]",
+        "attribute": "040100199E130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin05": {
+        "name": "bd00_duel_mw_betCoin05",
+        "message": "Oh ? Une[0:3 11-0C-1D-FF] seule pi\u00e8ce [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]par personne,\r\nc'est un peu mince.[0:3 00-00-00-FF]",
+        "attribute": "04010019A0130000",
+        "style_index": 4
+    },
+    "bd00_duel_ui_betCoin": {
+        "name": "bd00_duel_ui_betCoin",
+        "message": "[0]",
+        "attribute": "04000019A2130000",
+        "style_index": 43
+    },
+    "bd00_duel_mw_betCoin01": {
+        "name": "bd00_duel_mw_betCoin01",
+        "message": "Tr\u00e8s bien ! Je mets de c\u00f4t\u00e9 la pi\u00e8ce [0:3 FF-FF-FF-FF]\ue020\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]que chaque duelliste m'a donn\u00e9e.[0:3 00-00-00-FF]",
+        "attribute": "04010019A4130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin01p": {
+        "name": "bd00_duel_mw_betCoin01p",
+        "message": "Bien ! Je mets de c\u00f4t\u00e9 les [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]que chaque duelliste m'a donn\u00e9es.[0:3 00-00-00-FF]",
+        "attribute": "04010019B8130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin02": {
+        "name": "bd00_duel_mw_betCoin02",
+        "message": "Veux-tu miser [0] pi\u00e8ce [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]?[0:3 00-00-00-FF]",
+        "attribute": "04010019CC130000",
+        "style_index": 6
+    },
+    "bd00_duel_mw_betCoin02p": {
+        "name": "bd00_duel_mw_betCoin02p",
+        "message": "Veux-tu miser [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]?[0:3 00-00-00-FF]",
+        "attribute": "04010019EA130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin02_a0": {
+        "name": "bd00_duel_mw_betCoin02_a0",
+        "message": "Oui",
+        "attribute": "0401001908140000",
+        "style_index": 9
+    },
+    "bd00_duel_mw_betCoin02_a1": {
+        "name": "bd00_duel_mw_betCoin02_a1",
+        "message": "Non",
+        "attribute": "040100190A140000",
+        "style_index": 9
+    },
+    "bd00_duel_mw_totalCoin00": {
+        "name": "bd00_duel_mw_totalCoin00",
+        "message": "Gagnez le mini-jeu pour rafler le pot\r\ncommun de [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100190C140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_totalCoin01": {
+        "name": "bd00_duel_mw_totalCoin01",
+        "message": "Mazette ! Cela fait donc un total de\r\n[0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]! Qui va rafler la mise ?[0:3 00-00-00-FF]",
+        "attribute": "0401001930140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_totalCoin02": {
+        "name": "bd00_duel_mw_totalCoin02",
+        "message": "J'ai du mal \u00e0 y croire ! Cela nous fait\r\nun total de [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]! Quel enjeu ![0:3 00-00-00-FF]",
+        "attribute": "040100194A140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_start00": {
+        "name": "bd00_duel_mw_start00",
+        "message": "Tout le monde est pr\u00eat ?\r\nQue le duel commence !",
+        "attribute": "0401001964140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_win00": {
+        "name": "bd00_duel_mw_win00",
+        "message": "Quelle belle victoire ! Les [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]vont donc \u00e0 [0:3 00-00-00-FF][0:3 FF-35-02-FF][1] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001982140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_draw00": {
+        "name": "bd00_duel_mw_draw00",
+        "message": "Voyez-vous \u00e7a ! Une \u00e9galit\u00e9 ! Je vais donc\r\nvous rendre vos pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF]...[0:3 00-00-00-FF]",
+        "attribute": "040100199C140000",
+        "style_index": 4
+    },
+    "bd00_c04_mw_lastTurn": {
+        "name": "bd00_c04_mw_lastTurn",
+        "message": "Nous sommes dans le dernier tour,\r\nil n'y aura donc pas de mini-jeu \u00e0 objet.",
+        "attribute": "04040000B6140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00a": {
+        "name": "bd00_c05_mw_welcome00a",
+        "message": "[0:3 11-0C-1D-FF]Bienvenue sur la [0:3 00-00-00-FF][0:3 FF-35-02-FF]case coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ! Ici, la\r\nchance peut tourner ! Croisons les doigts ![0:3 00-00-00-FF]",
+        "attribute": "04010019B8140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00b": {
+        "name": "bd00_c05_mw_welcome00b",
+        "message": "[0:3 11-0C-1D-FF]Voici le moment que tout le monde\r\nattend... L'heure de la [0:3 00-00-00-FF][0:3 FF-35-02-FF]case coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019D2140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00c": {
+        "name": "bd00_c05_mw_welcome00c",
+        "message": "[0:3 11-0C-1D-FF]Bienvenue sur la [0:3 00-00-00-FF][0:3 FF-35-02-FF]case coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] !\r\nIci, concr\u00e9tisez vos r\u00eaves de victoire ![0:3 00-00-00-FF]",
+        "attribute": "04010019EC140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome01": {
+        "name": "bd00_c05_mw_welcome01",
+        "message": "Les \u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]et les pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020\r\n[0:3 00-00-00-FF][0:3 11-0C-1D-FF]passent de joueur en joueur, selon\r\nce qui est indiqu\u00e9 sur les blocs.[0:3 00-00-00-FF]",
+        "attribute": "0401001906150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome02": {
+        "name": "bd00_c05_mw_welcome02",
+        "message": "Observe bien les trois blocs tournants et\r\nfrappe-les quand tu veux. Bonne chance !",
+        "attribute": "0401001908150000",
+        "style_index": 4
+    },
+    "bd00_tlp_chanceTime": {
+        "name": "bd00_tlp_chanceTime",
+        "message": "COUP DU SORT !",
+        "attribute": "0400000026150000",
+        "style_index": 37
+    },
+    "bd00_c05_mw_payCoin00": {
+        "name": "bd00_c05_mw_payCoin00",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]va donner [2] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] [0:3 FF-FF-FF-FF]\ue020[0:3 11-0C-1D-FF]\r\n\u00e0 [0:3 FF-35-02-FF][1] [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001928150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_payStar00": {
+        "name": "bd00_c05_mw_payStar00",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] va donner une \u00e9toile [0:3 FF-FF-FF-FF]\ue021\r\n[0:3 11-0C-1D-FF]\u00e0 [0:3 FF-35-02-FF][1][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0401001942150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAllCoin00": {
+        "name": "bd00_c05_mw_changeAllCoin00",
+        "message": "[0:3 11-0C-1D-FF][0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF] va \u00e9changer toutes\r\nses pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]avec [0:3 FF-35-02-FF][1] [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100195C150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAllStar00": {
+        "name": "bd00_c05_mw_changeAllStar00",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]va \u00e9changer toutes\r\nses \u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 11-0C-1D-FF]avec [0:3 FF-35-02-FF][1] [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001976150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll00": {
+        "name": "bd00_c05_mw_changeAll00",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]va \u00e9changer ses pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020\r\n[0:3 11-0C-1D-FF]et ses \u00e9toiles [0:3 FF-FF-FF-FF]\ue021[0:3 11-0C-1D-FF] avec [0:3 FF-35-02-FF][1] [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001990150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll01": {
+        "name": "bd00_c05_mw_changeAll01",
+        "message": "D'abord, \u00e9changez vos pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019AA150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll02": {
+        "name": "bd00_c05_mw_changeAll02",
+        "message": "\u00c0 pr\u00e9sent, \u00e9changez vos \u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019C8150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange00": {
+        "name": "bd00_c05_mw_noChange00",
+        "message": "Oh ? Il semblerait que quelqu'un n'ait pas\r\nde pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]\u00e0 \u00e9changer.[0:3 00-00-00-FF]",
+        "attribute": "04010019EC150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange01": {
+        "name": "bd00_c05_mw_noChange01",
+        "message": "Oh ? Il semblerait que quelqu'un n'ait pas\r\nd'\u00e9toiles [0:3 FF-FF-FF-FF]\ue021 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]\u00e0 \u00e9changer.[0:3 00-00-00-FF]",
+        "attribute": "040100190A160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange02": {
+        "name": "bd00_c05_mw_noChange02",
+        "message": "Pardon ?! Vous n'avez rien \u00e0 vous\r\n\u00e9changer ? Comme c'est \u00e9trange !",
+        "attribute": "0401001928160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00a": {
+        "name": "bd00_c05_mw_finish00a",
+        "message": "Voil\u00e0 qui termine ce [0:3 FF-35-02-FF]coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] !\r\n\u00c0 la prochaine ![0:3 00-00-00-FF]",
+        "attribute": "0401001946160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00b": {
+        "name": "bd00_c05_mw_finish00b",
+        "message": "Et ainsi prend fin ce [0:3 FF-35-02-FF]coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nNous esp\u00e9rons vous revoir bient\u00f4t ![0:3 00-00-00-FF]",
+        "attribute": "040100196A160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00c": {
+        "name": "bd00_c05_mw_finish00c",
+        "message": "Ainsi s'ach\u00e8ve ce [0:3 FF-35-02-FF]coup du sort[0:3 00-00-00-FF][0:3 11-0C-1D-FF] !\r\nRevenez si vous voulez tout chambouler ![0:3 00-00-00-FF]",
+        "attribute": "040100198E160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish01": {
+        "name": "bd00_c05_mw_finish01",
+        "message": "Oh ? On dirait que rien n'a chang\u00e9.",
+        "attribute": "04010019B2160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome00a": {
+        "name": "bd00_c07_mw_welcome00a",
+        "message": "BOUAHAHA !",
+        "attribute": "0404000CCA160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome00b": {
+        "name": "bd00_c07_mw_welcome00b",
+        "message": "Bienvenue ! BOUAHAHA !",
+        "attribute": "0404000CE2160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01a": {
+        "name": "bd00_c07_mw_welcome01a",
+        "message": "[0:3 FF-FF-FF-FF]Comme \u00e7a, tu t'arr\u00eates sur ma case... Tu\r\nn'as aucune id\u00e9e de ce qui t'attend, hm ?[0:3 00-00-00-FF]",
+        "attribute": "0404000CFA160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01b": {
+        "name": "bd00_c07_mw_welcome01b",
+        "message": "Tu es sur la [0:3 FF-35-02-FF]case Bowser[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] ! J'esp\u00e8re que\r\ntu as tr\u00e8s envie de t'amuser avec moi !!![0:3 00-00-00-FF]",
+        "attribute": "0404000C18170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01c": {
+        "name": "bd00_c07_mw_welcome01c",
+        "message": "Tu as r\u00e9ussi \u00e0 atteindre la [0:3 FF-35-02-FF]case Bowser[0:3 00-00-00-FF][0:3 FF-FF-FF-FF]...\r\nPr\u00e9pare tes larmes ! BOUAHAHA ![0:3 00-00-00-FF]",
+        "attribute": "0404000C36170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_4thPlace00": {
+        "name": "bd00_c07_mw_4thPlace00",
+        "message": "Tu es en derni\u00e8re place ?\r\nOh, tu m'en vois navr\u00e9 !",
+        "attribute": "0404000C54170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_4thPlace01": {
+        "name": "bd00_c07_mw_4thPlace01",
+        "message": "La derni\u00e8re place reste la derni\u00e8re... mais\r\nau moins, tu auras quelques pi\u00e8ces \ue020 !",
+        "attribute": "0404000C72170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoin00": {
+        "name": "bd00_c07_mw_payCoin00",
+        "message": "Parlons peu, parlons bien !\r\nDonne-moi tes pi\u00e8ces \ue020 !",
+        "attribute": "0404000C74170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoinLack00": {
+        "name": "bd00_c07_mw_payCoinLack00",
+        "message": "Tu te fiches de moi ? C'est pas assez !\r\nAlors je prends tout ! BOUAHAHA !",
+        "attribute": "0404000C92170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoinNone00": {
+        "name": "bd00_c07_mw_payCoinNone00",
+        "message": "QUOI ? Tu n'as aucune pi\u00e8ce \ue020 ?\r\nFiche le camp d'ici, avorton !",
+        "attribute": "0404000CB0170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_allPayCoin00": {
+        "name": "bd00_c07_mw_allPayCoin00",
+        "message": "BOUAHAHA ! Tremblez devant moi !\r\nJe prends des pi\u00e8ces \ue020 \u00e0 tout le monde !",
+        "attribute": "0404000CC8170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_allPayCoin01": {
+        "name": "bd00_c07_mw_allPayCoin01",
+        "message": "C'est le m\u00eame tarif pour tout le monde,\r\npas de jaloux ! BOUAHAHA !",
+        "attribute": "0404000CE0170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin00": {
+        "name": "bd00_c07_mw_evenlyCoin00",
+        "message": "Vous savez, il n'y a pas que les pi\u00e8ces \ue020,\r\ndans la vie...",
+        "attribute": "0404000CFE170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin01": {
+        "name": "bd00_c07_mw_evenlyCoin01",
+        "message": "J'aime \u00eatre juste... Tout le monde aura\r\nle m\u00eame nombre de pi\u00e8ces \ue020 !",
+        "attribute": "0404000C1C180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin03": {
+        "name": "bd00_c07_mw_evenlyCoin03",
+        "message": "Allez, montrez-moi vos pi\u00e8ces \ue020.\r\nEt ne pensez m\u00eame pas \u00e0 en cacher !",
+        "attribute": "0404000C1E180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin04": {
+        "name": "bd00_c07_mw_evenlyCoin04",
+        "message": "\u00c7a fait un total de [0] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] \ue020. Je\r\nvais [1:1 0C-00-6C-00-61-00-2C-00-6C-00-65-00-73-00] redistribuer. De mani\u00e8re \u00e9gale !",
+        "attribute": "0404000C36180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin02": {
+        "name": "bd00_c07_mw_evenlyCoin02",
+        "message": "On ne pourra pas dire que je ne suis pas\r\nphilanthrope... BOUAHAHA !",
+        "attribute": "0404000C54180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_changePlace00": {
+        "name": "bd00_c07_mw_changePlace00",
+        "message": "BOUAHAHA !\r\nC'est l'heure de tout m\u00e9langer !",
+        "attribute": "0404000C6C180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_changePlace01": {
+        "name": "bd00_c07_mw_changePlace01",
+        "message": "\u00c7a va devenir int\u00e9ressant...\r\nEssayez donc de retrouver votre chemin !",
+        "attribute": "0404000C8A180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_100star00": {
+        "name": "bd00_c07_mw_100star00",
+        "message": "Ce n'est rien qui m\u00e9rite qu'on en parle...\r\nNon, vraiment. Pas un mot. \u00c0 personne !",
+        "attribute": "0404000C9E180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_100star01": {
+        "name": "bd00_c07_mw_100star01",
+        "message": "(Bowser a d\u00e9tal\u00e9...)",
+        "attribute": "04040000BC180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_paystar00": {
+        "name": "bd00_c07_mw_paystar00",
+        "message": "BOUAHAHA ! Allez, crache une \u00e9toile \ue021 !",
+        "attribute": "0404000CBE180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payStarNone00": {
+        "name": "bd00_c07_mw_payStarNone00",
+        "message": "Quoi ? M\u00eame pas une petite \u00e9toile \ue021 ?\r\nPff... C'est toujours pareil ! Allez, file !",
+        "attribute": "0404000CDC180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent00": {
+        "name": "bd00_c07_mw_coinPresent00",
+        "message": "Tu n'as m\u00eame pas r\u00e9ussi \u00e0 trouver\r\nune petite \u00e9toile \ue021 ? BOUAHAHA !",
+        "attribute": "0404000CF4180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent01": {
+        "name": "bd00_c07_mw_coinPresent01",
+        "message": "Tu me fais de la peine !\r\nTiens, prends ces 20 pi\u00e8ces \ue020 !",
+        "attribute": "0404000C0C190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent02": {
+        "name": "bd00_c07_mw_coinPresent02",
+        "message": "Tiens, c'est pour toi. Mais ne va pas tout\r\nd\u00e9penser d'un coup !",
+        "attribute": "0404000C2A190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_bowserHsmg00": {
+        "name": "bd00_c07_mw_bowserHsmg00",
+        "message": "[0:3 FF-FF-FF-FF]Tous en piste, les avortons !\r\nC'est l'heure du [0:3 FF-35-02-FF]mini-jeu de Bowser[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404000C42190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_bowserHsmg01": {
+        "name": "bd00_c07_mw_bowserHsmg01",
+        "message": "[0:3 FF-FF-FF-FF]Si vous perdez, je r\u00e9cup\u00e8re\r\nquelques pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404000C60190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_kpmgNoLose00": {
+        "name": "bd00_c07_mw_kpmgNoLose00",
+        "message": "Personne n'a perdu ? PERSONNE ?!\r\nPff... C'est nuuul ! BOUAHAHA !",
+        "attribute": "0404000C74190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin00": {
+        "name": "bo00_c07_mw_kpmgPayCoin00",
+        "message": "[0:3 FF-FF-FF-FF][0:3 FF-35-02-FF][0][0:3 FF-FF-FF-FF], [0:3 FF-35-02-FF][1][0:3 FF-FF-FF-FF], et [0:3 FF-35-02-FF][2][0:3 FF-FF-FF-FF] !\r\nJe veux 10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] ! MAINTENANT ![0:3 00-00-00-FF]",
+        "attribute": "0404000C8C190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin05": {
+        "name": "bo00_c07_mw_kpmgPayCoin05",
+        "message": "[0:3 FF-FF-FF-FF][0:3 FF-35-02-FF][0] [0:3 FF-FF-FF-FF]et [0:3 FF-35-02-FF][1][0:3 FF-FF-FF-FF] !\r\nJe veux 10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] ! MAINTENANT ![0:3 00-00-00-FF]",
+        "attribute": "0404000CAA190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin04": {
+        "name": "bo00_c07_mw_kpmgPayCoin04",
+        "message": "[0:3 FF-FF-FF-FF]Tiens donc, [0:3 00-00-00-FF][0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nDonne-moi 10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] ![0:3 00-00-00-FF]",
+        "attribute": "0404000CC8190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin01": {
+        "name": "bo00_c07_mw_kpmgPayCoin01",
+        "message": "BOUAHAHA ! Tout le monde passe \u00e0 la\r\ncaisse, \u00e7a fait 10 pi\u00e8ces \ue020 par personne !",
+        "attribute": "0404000CE6190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin02": {
+        "name": "bo00_c07_mw_kpmgPayCoin02",
+        "message": "Hm ? Tu n'as pas assez de pi\u00e8ces \ue020...\r\nBon, je les prends toutes quand m\u00eame.",
+        "attribute": "0404000C041A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin03": {
+        "name": "bo00_c07_mw_kpmgPayCoin03",
+        "message": "Hm. C'est pas le bon moment, on dirait.\r\nAllez, je passe l'\u00e9ponge. Pour cette fois.",
+        "attribute": "0404000C1C1A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone00": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone00",
+        "message": "Quoi ?! Personne n'a de pi\u00e8ces \ue020 ?\r\nVous vous payez ma t\u00eate ?",
+        "attribute": "0404000C3A1A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone01": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone01",
+        "message": "Quand je vous recroiserai, vous feriez\r\nmieux d'avoir des pi\u00e8ces \ue020 ! Au boulot !",
+        "attribute": "0404000C581A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone02": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone02",
+        "message": "Aucune pi\u00e8ce \ue020 ? M\u00eame pas\r\nune toute petite ? Grr...",
+        "attribute": "0404000C701A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone03": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone03",
+        "message": "Pff... j'ai pas le choix, je te laisse filer avec\r\nun simple avertissement. BOUAHAHA !",
+        "attribute": "0404000C8E1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_welcome00": {
+        "name": "bd00_c08_mw_welcome00",
+        "message": "Affrontez-vous dans un mini-jeu avec\r\npour enjeu vos propres pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019AC1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_welcome01": {
+        "name": "bd00_c08_mw_welcome01",
+        "message": "Vous gagnerez des pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]en fonction\r\nde votre classement ![0:3 00-00-00-FF]",
+        "attribute": "04010019C01A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_bonus00": {
+        "name": "bd00_c08_mw_bonus00",
+        "message": "Pour commencer, [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF] re\u00e7oit\r\n3 pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] pour avoir atteint cette case.[0:3 00-00-00-FF]",
+        "attribute": "04010019C21A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin00": {
+        "name": "bd00_c08_mw_betCoin00",
+        "message": "\u00c0 pr\u00e9sent, voyons combien\r\nde pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]vous allez miser ![0:3 00-00-00-FF]",
+        "attribute": "04010019DC1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin01": {
+        "name": "bd00_c08_mw_betCoin01",
+        "message": "Parfait ! Tout le monde va donc\r\nme donner [0:3 11-0C-1D-FF][0] pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019001B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin02": {
+        "name": "bd00_c08_mw_betCoin02",
+        "message": "Hm. \u00c7a ne fait pas beaucoup de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nBref, nous jouons pour [0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019141B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin04": {
+        "name": "bd00_c08_mw_betCoin04",
+        "message": "Hm ? \u00c7a nous fait bien peu de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF].\r\nJ'ai une id\u00e9e ! Prenez ces 10 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100192C1B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_start00": {
+        "name": "bd00_c08_mw_start00",
+        "message": "Nous parlons donc d'un pot\r\nde [0:3 11-0C-1D-FF][0] pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100194A1B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_start01": {
+        "name": "bd00_c08_mw_start01",
+        "message": "Voyons quel mini-jeu sera s\u00e9lectionn\u00e9...",
+        "attribute": "04010019681B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin00": {
+        "name": "bd00_c09_mw_noCoin00",
+        "message": "Bienvenue \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0404000F8C1B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin01": {
+        "name": "bd00_c09_mw_noCoin01",
+        "message": "C'est toujours mieux d'effectuer un d\u00e9p\u00f4t,\r\nmais tu n'as pas de pi\u00e8ces \ue020, on dirait...",
+        "attribute": "0404000FA41B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin02": {
+        "name": "bd00_c09_mw_noCoin02",
+        "message": "C'est bien ma veine... Bon, pour le moment,\r\nla banque compte [0] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] \ue020.",
+        "attribute": "0404000FC21B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin00": {
+        "name": "bd00_c09_mw_payCoin00",
+        "message": "Tu es \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF]. Je regrette,\r\nmais je dois te demander [0] pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0404000FDC1B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin02": {
+        "name": "bd00_c09_mw_payCoin02",
+        "message": "Tu es \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF]. Il faut d\u00e9poser\r\n[0] pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] \u00e0 cette filiale aussi.[0:3 00-00-00-FF]",
+        "attribute": "0404000FF41B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin03": {
+        "name": "bd00_c09_mw_payCoin03",
+        "message": "Ravi de te revoir \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\n\u00c0 nouveau, tu dois d\u00e9poser [0] pi\u00e8ces [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0404000F0E1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin01": {
+        "name": "bd00_c09_mw_payCoin01",
+        "message": "Merci pour ta compr\u00e9hension !",
+        "attribute": "0404000F221C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin07": {
+        "name": "bd00_c09_mw_payCoin07",
+        "message": "Merci beaucoup ! Au fait, le compteur\r\nindique le montant total en banque.",
+        "attribute": "0404000F401C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin13": {
+        "name": "bd00_c09_mw_payCoin13",
+        "message": "[0:3 FF-FF-FF-FF]Quiconque s'arr\u00eate sur cette case\r\nempoche toutes les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF]\r\nde la banque ![0:3 00-00-00-FF]",
+        "attribute": "0404000F581C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin04": {
+        "name": "bd00_c09_mw_payCoin04",
+        "message": "[0:3 FF-FF-FF-FF]C'est la derni\u00e8re ligne droite, alors...\r\npour nous aussi, \u00e7a sent la fin ![0:3 00-00-00-FF]",
+        "attribute": "0404000F7C1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin05": {
+        "name": "bd00_c09_mw_payCoin05",
+        "message": "Sachez que maintenant, [0:3 FF-FF-FF-FF]le d\u00e9p\u00f4t s'\u00e9l\u00e8ve\r\n\u00e0 5 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0404000F941C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin09": {
+        "name": "bd00_c09_mw_payCoin09",
+        "message": "Puisque nous allons jouer un peu plus\r\nlongtemps, [0:3 FF-FF-FF-FF]revenons au d\u00e9p\u00f4t normal\r\nde pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0404000FB21C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin10": {
+        "name": "bd00_c09_mw_payCoin10",
+        "message": "Eh oui, je ne vais vous demander que 3\r\npi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] par personne. Pour le moment ![0:3 00-00-00-FF]",
+        "attribute": "0404000FCA1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin11": {
+        "name": "bd00_c09_mw_payCoin11",
+        "message": "C'est \u00e0 nouveau la derni\u00e8re ligne droite !\r\nLa [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] se joint \u00e0 la f\u00eate ![0:3 00-00-00-FF]",
+        "attribute": "0404000FCC1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin12": {
+        "name": "bd00_c09_mw_payCoin12",
+        "message": "Vous connaissez la musique... Je prends\r\n5 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] par passage ![0:3 00-00-00-FF]",
+        "attribute": "0404000FE41C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin06": {
+        "name": "bd00_c09_mw_payCoin06",
+        "message": "Oh ! Mais tu n'as pas assez de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 FF-FF-FF-FF].\r\nBon, je prends quand m\u00eame ce que tu as.[0:3 00-00-00-FF]",
+        "attribute": "0404000FE61C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin00": {
+        "name": "bd00_c09_mw_getCoin00",
+        "message": "Tu t'arr\u00eates pile \u00e0 la [0:3 FF-35-02-FF]banque Koopa[0:3 00-00-00-FF][0:3 FF-FF-FF-FF] !\r\nBravo, les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] en stock sont \u00e0 toi ![0:3 00-00-00-FF]",
+        "attribute": "0404000FFA1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin01": {
+        "name": "bd00_c09_mw_getCoin01",
+        "message": "\u00c0 toi les... Oh. Il n'y a pas une seule\r\npi\u00e8ce \ue020 dans le coffre. Une autre fois !",
+        "attribute": "0404000F0E1D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin03": {
+        "name": "bd00_c09_mw_getCoin03",
+        "message": "C'est ton jour de chance... Ah.\r\n[0] [1:1 18-00-70-00-69-00-E8-00-63-00-65-00-2C-00-70-00-69-00-E8-00-63-00-65-00-73-00] \ue020, c'est mieux que rien.",
+        "attribute": "0404000F2C1D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin04": {
+        "name": "bd00_c09_mw_getCoin04",
+        "message": "Tu fais une tr\u00e8s bonne affaire en venant\r\nici. Ces [0] pi\u00e8ces \ue020 sont \u00e0 toi. Joli !",
+        "attribute": "0404000F461D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin05": {
+        "name": "bd00_c09_mw_getCoin05",
+        "message": "[0:3 FF-FF-FF-FF]Voyez-vous \u00e7a ! Tu empoches toutes\r\nles pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF] de la [0:3 FF-35-02-FF]banque Koopa[0:3 FF-FF-FF-FF].\r\nFais-en bon usage ![0:3 00-00-00-FF]",
+        "attribute": "0404000F6A1D0000",
+        "style_index": 4
+    },
+    "bd00_hideBlock_mw_get00a": {
+        "name": "bd00_hideBlock_mw_get00a",
+        "message": "Aaaah !\r\n[0:3 FF-35-02-FF][0][0:3 00-00-00-FF] [0:3 11-0C-1D-FF]a trouv\u00e9 un [0:3 FF-35-02-FF]bloc cach\u00e9[0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "040303196C1D0000",
+        "style_index": 7
+    },
+    "bd00_hideBlock_mw_get00b": {
+        "name": "bd00_hideBlock_mw_get00b",
+        "message": "Incroyable !\r\n[0:3 FF-35-02-FF][0] [0:3 11-0C-1D-FF]a trouv\u00e9 un [0:3 FF-35-02-FF]bloc cach\u00e9[0:3 11-0C-1D-FF] ![0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "04030319961D0000",
+        "style_index": 7
+    },
+    "bd00_hideBlock_mw_get00c": {
+        "name": "bd00_hideBlock_mw_get00c",
+        "message": "[0:3 11-0C-1D-FF]Oh, ouah ! Un [0:3 FF-35-02-FF]bloc cach\u00e9[0:3 11-0C-1D-FF] !\r\n[0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF], joli coup de chance ![0:3 00-00-00-FF]",
+        "attribute": "04030319C01D0000",
+        "style_index": 7
+    },
+    "bd00_mgRoulette_coin": {
+        "name": "bd00_mgRoulette_coin",
+        "message": "[0:3 FF-DF-00-FF][0] [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF]",
+        "attribute": "04000000EA1D0000",
+        "style_index": 22
+    },
+    "bd00_p07_VS": {
+        "name": "bd00_p07_VS",
+        "message": "VS",
+        "attribute": "04000000EC1D0000",
+        "style_index": 44
+    },
+    "bd00_p07_mw_LastTurns00": {
+        "name": "bd00_p07_mw_LastTurns00",
+        "message": "C'est termin\u00e9. Tout le monde a \u00e9t\u00e9 g\u00e9nial !\r\nIl est temps d'annoncer les r\u00e9sultats.",
+        "attribute": "04010019EE1D0000",
+        "style_index": 7
+    },
+    "bd00_tlp_hsmg": {
+        "name": "bd00_tlp_hsmg",
+        "message": "Mini-jeu !",
+        "attribute": "04000000081E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_hsmgBonus": {
+        "name": "bd00_tlp_hsmgBonus",
+        "message": "Mini-jeu bonus !",
+        "attribute": "040000000A1E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_CoinDouble": {
+        "name": "bd00_tlp_CoinDouble",
+        "message": "Pi\u00e8ces \u00d7 2",
+        "attribute": "040000000C1E0000",
+        "style_index": 34
+    },
+    "bd00_tlp_hsmgLastTurns": {
+        "name": "bd00_tlp_hsmgLastTurns",
+        "message": "Dernier mini-jeu !",
+        "attribute": "040000000E1E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_hsmg4VS": {
+        "name": "bd00_tlp_hsmg4VS",
+        "message": "Mini-jeu \u00e0 quatre",
+        "attribute": "04000000101E0000",
+        "style_index": 45
+    },
+    "bd00_tlp_hsmg1VS3": {
+        "name": "bd00_tlp_hsmg1VS3",
+        "message": "Mini-jeu seul contre tous",
+        "attribute": "04000000121E0000",
+        "style_index": 45
+    },
+    "bd00_tlp_hsmg2VS2": {
+        "name": "bd00_tlp_hsmg2VS2",
+        "message": "Mini-jeu 2 contre 2",
+        "attribute": "04000000141E0000",
+        "style_index": 45
+    },
+    "bd00_p08_mw_welcome00": {
+        "name": "bd00_p08_mw_welcome00",
+        "message": "Qui va remporter la victoire finale ?",
+        "attribute": "04010019161E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent00": {
+        "name": "bd00_p08_mw_bonusPresent00",
+        "message": "D'abord, pr\u00e9sentons les bonus !",
+        "attribute": "040100192E1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent05": {
+        "name": "bd00_p08_mw_bonusPresent05",
+        "message": "Tout d'abord, voyons qui remporte\r\nles trois bonus !",
+        "attribute": "040100194C1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent01": {
+        "name": "bd00_p08_mw_bonusPresent01",
+        "message": "Le premier bonus est...",
+        "attribute": "040100196A1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent02": {
+        "name": "bd00_p08_mw_bonusPresent02",
+        "message": "En deuxi\u00e8me bonus, nous avons...",
+        "attribute": "04010019821E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent03": {
+        "name": "bd00_p08_mw_bonusPresent03",
+        "message": "Et le troisi\u00e8me bonus, mais qui n'est pas\r\nle moindre...",
+        "attribute": "040100199A1E0000",
+        "style_index": 4
+    },
+    "bd00_tlp_bonusStar": {
+        "name": "bd00_tlp_bonusStar",
+        "message": "[1:2][0]",
+        "attribute": "04000000B21E0000",
+        "style_index": 14
+    },
+    "bd00_p08_mw_giveBonus00": {
+        "name": "bd00_p08_mw_giveBonus00",
+        "message": "Le bonus est attribu\u00e9 \u00e0...",
+        "attribute": "04010019B41E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonusNone00": {
+        "name": "bd00_p08_mw_giveBonusNone00",
+        "message": "Oh... Personne ne remporte ce bonus.\r\nDommage !",
+        "attribute": "04010019D21E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar00": {
+        "name": "bd00_p08_mw_bonusStar00",
+        "message": "Ce bonus r\u00e9compense le joueur\r\nqui a utilis\u00e9 le plus d'objets !",
+        "attribute": "04010019FE1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar01": {
+        "name": "bd00_p08_mw_bonusStar01",
+        "message": "Ce bonus r\u00e9compense le joueur\r\nqui a gagn\u00e9 le plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019221F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar02": {
+        "name": "bd00_p08_mw_bonusStar02",
+        "message": "Ce bonus r\u00e9compense le joueur qui a\r\ntermin\u00e9 premier dans le plus de mini-jeux !",
+        "attribute": "04010019461F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar03": {
+        "name": "bd00_p08_mw_bonusStar03",
+        "message": "Ce bonus r\u00e9compense le joueur\r\nqui a parcouru le plus de cases !",
+        "attribute": "040100196A1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar04": {
+        "name": "bd00_p08_mw_bonusStar04",
+        "message": "Ce bonus r\u00e9compense le joueur\r\nqui a parcouru le moins de cases !",
+        "attribute": "040100198E1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar05": {
+        "name": "bd00_p08_mw_bonusStar05",
+        "message": "Ce bonus r\u00e9compense le joueur qui a\r\natterri le plus sur une [0:3 FF-35-02-FF]case \u00e9v\u00e9nement[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019B21F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar06": {
+        "name": "bd00_p08_mw_bonusStar06",
+        "message": "Ce bonus r\u00e9compense le joueur qui a\r\natterri le plus sur une [0:3 FF-35-02-FF]case rouge[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "04010019D61F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar07": {
+        "name": "bd00_p08_mw_bonusStar07",
+        "message": "Ce bonus r\u00e9compense le joueur\r\nqui a achet\u00e9 le plus d'objets !",
+        "attribute": "04010019FA1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar08": {
+        "name": "bd00_p08_mw_bonusStar08",
+        "message": "Ce bonus r\u00e9compense le joueur qui a\r\natterri le plus sur une [0:3 FF-35-02-FF]case Bowser[0:3 00-00-00-FF][0:3 11-0C-1D-FF] ![0:3 00-00-00-FF]",
+        "attribute": "040100191E200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus01": {
+        "name": "bd00_p08_mw_giveBonus01",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001942200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus02": {
+        "name": "bd00_p08_mw_giveBonus02",
+        "message": "[0:3 FF-35-02-FF][0][0:3 11-0C-1D-FF]...[0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "040100195C200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus03": {
+        "name": "bd00_p08_mw_giveBonus03",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]...[0:3 00-00-00-FF]",
+        "attribute": "0401001974200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus04": {
+        "name": "bd00_p08_mw_giveBonus04",
+        "message": "Et [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "040100198E200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus05": {
+        "name": "bd00_p08_mw_giveBonus05",
+        "message": "Ouah ! Tout le monde remporte ce bonus !",
+        "attribute": "04010019A8200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner00": {
+        "name": "bd00_p08_mw_winner00",
+        "message": "Et voil\u00e0 qui nous am\u00e8ne \u00e0 l'annonce\r\ndes r\u00e9sultats finaux !",
+        "attribute": "04010019C2200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner01": {
+        "name": "bd00_p08_mw_winner01",
+        "message": "La victoire revient \u00e0...",
+        "attribute": "04010019D6200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner02": {
+        "name": "bd00_p08_mw_winner02",
+        "message": "Quoi ?! Il y a plusieurs noms !",
+        "attribute": "04010019F4200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner03": {
+        "name": "bd00_p08_mw_winner03",
+        "message": "Nous avons donc [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]...[0:3 00-00-00-FF]",
+        "attribute": "04010019F6200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner04": {
+        "name": "bd00_p08_mw_winner04",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 11-0C-1D-FF]...[0:3 00-00-00-FF]",
+        "attribute": "0401001910210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner05": {
+        "name": "bd00_p08_mw_winner05",
+        "message": "et [0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "0401001934210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner06": {
+        "name": "bd00_p08_mw_winner06",
+        "message": "Je n'en reviens pas !\r\nTout le monde a gagn\u00e9 !",
+        "attribute": "0401001958210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice00": {
+        "name": "bd00_p08_mw_winnerDice00",
+        "message": "Dans ce cas, nous allons\r\nvous d\u00e9partager au d\u00e9 !",
+        "attribute": "0401001976210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice01": {
+        "name": "bd00_p08_mw_winnerDice01",
+        "message": "Le joueur qui obtient le plus grand\r\nnum\u00e9ro sera d\u00e9clar\u00e9 vainqueur !",
+        "attribute": "040100198A210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice03": {
+        "name": "bd00_p08_mw_winnerDice03",
+        "message": "Regardez-moi \u00e7a !\r\nCette fois, quelqu'un a remport\u00e9 la partie !",
+        "attribute": "040100198C210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner07": {
+        "name": "bd00_p08_mw_winner07",
+        "message": "Je reprends. Voici donc le r\u00e9sultat final !\r\nCette partie a \u00e9t\u00e9 gagn\u00e9e par...",
+        "attribute": "04010019B0210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner08": {
+        "name": "bd00_p08_mw_winner08",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 11-0C-1D-FF]![0:3 00-00-00-FF]",
+        "attribute": "04010019CE210000",
+        "style_index": 4
+    },
+    "bd00_tlp_Congratulations": {
+        "name": "bd00_tlp_Congratulations",
+        "message": "[0:2 4B-00]TU ES LA[0:2 64-00]\r\nSUPERSTAR !",
+        "attribute": "04000000E8210000",
+        "style_index": 36
+    },
+    "bd00_clap_name": {
+        "name": "bd00_clap_name",
+        "message": "[0]",
+        "attribute": "04000000EA210000",
+        "style_index": 97
+    },
+    "bd00_pt_clapAll": {
+        "name": "bd00_pt_clapAll",
+        "message": "[0]",
+        "attribute": "04000000EC210000",
+        "style_index": 96
+    },
+    "bd00_pt_clapGet": {
+        "name": "bd00_pt_clapGet",
+        "message": "+ [0]",
+        "attribute": "04000000EE210000",
+        "style_index": 96
+    },
+    "bd00_ctrl_clap": {
+        "name": "bd00_ctrl_clap",
+        "message": "Rapidement pour applaudir",
+        "attribute": "04000000F0210000",
+        "style_index": 98
+    },
+    "bd00_mw_clap00": {
+        "name": "bd00_mw_clap00",
+        "message": "Pour vous qui avez particip\u00e9, offrez-vous\r\nun tonnerre d'applaudissements !",
+        "attribute": "04010019F2210000",
+        "style_index": 4
+    },
+    "bd00_result_bdName": {
+        "name": "bd00_result_bdName",
+        "message": "[0]",
+        "attribute": "0400000016220000",
+        "style_index": 77
+    },
+    "bd00_result_turn": {
+        "name": "bd00_result_turn",
+        "message": "[0] tours",
+        "attribute": "0400000018220000",
+        "style_index": 78
+    },
+    "bd00_result_header": {
+        "name": "bd00_result_header",
+        "message": "[0]",
+        "attribute": "040000001A220000",
+        "style_index": 79
+    },
+    "bd00_result_ctrl_L": {
+        "name": "bd00_result_ctrl_L",
+        "message": "\ue008 [0]",
+        "attribute": "040000001C220000",
+        "style_index": 80
+    },
+    "bd00_result_ctrl_R": {
+        "name": "bd00_result_ctrl_R",
+        "message": "[0] \ue009",
+        "attribute": "040000001E220000",
+        "style_index": 80
+    },
+    "bd00_result_ctrl_photoLarger": {
+        "name": "bd00_result_ctrl_photoLarger",
+        "message": "\ue000 Plein \u00e9cran",
+        "attribute": "0400000020220000",
+        "style_index": 81
+    },
+    "bd00_result_ctrl_finish": {
+        "name": "bd00_result_ctrl_finish",
+        "message": "\ue00f/\ue00e Quitter",
+        "attribute": "0400000022220000",
+        "style_index": 81
+    },
+    "bd00_result_status_rank": {
+        "name": "bd00_result_status_rank",
+        "message": "[0]",
+        "attribute": "0400000024220000",
+        "style_index": 82
+    },
+    "bd00_result_status_star": {
+        "name": "bd00_result_status_star",
+        "message": "[0]",
+        "attribute": "0400000026220000",
+        "style_index": 83
+    },
+    "bd00_result_status_coin": {
+        "name": "bd00_result_status_coin",
+        "message": "[0]",
+        "attribute": "0400000028220000",
+        "style_index": 84
+    },
+    "bd00_result_status_chaname": {
+        "name": "bd00_result_status_chaname",
+        "message": "[0]",
+        "attribute": "040000002A220000",
+        "style_index": 85
+    },
+    "bd00_result_status_useName": {
+        "name": "bd00_result_status_useName",
+        "message": "[0]",
+        "attribute": "040000002C220000",
+        "style_index": 86
+    },
+    "bd00_result_graph_turn": {
+        "name": "bd00_result_graph_turn",
+        "message": "[0]",
+        "attribute": "040000002E220000",
+        "style_index": 87
+    },
+    "bd00_result_graph_star": {
+        "name": "bd00_result_graph_star",
+        "message": "[0]",
+        "attribute": "0400000030220000",
+        "style_index": 88
+    },
+    "bd00_result_listName": {
+        "name": "bd00_result_listName",
+        "message": "[0]",
+        "attribute": "0400000032220000",
+        "style_index": 89
+    },
+    "bd00_result_list00": {
+        "name": "bd00_result_list00",
+        "message": "[0]",
+        "attribute": "0400000034220000",
+        "style_index": 90
+    },
+    "bd00_result_list01": {
+        "name": "bd00_result_list01",
+        "message": "[0]",
+        "attribute": "0400000036220000",
+        "style_index": 91
+    },
+    "bd00_result_graph_bonusCheck": {
+        "name": "bd00_result_graph_bonusCheck",
+        "message": "\ue000 Voir les bonus",
+        "attribute": "0400000038220000",
+        "style_index": 92
+    },
+    "bd00_result_graph_bonus": {
+        "name": "bd00_result_graph_bonus",
+        "message": "\u00c9toiles bonus",
+        "attribute": "040000003A220000",
+        "style_index": 93
+    },
+    "bd00_result_graph_bonusBack": {
+        "name": "bd00_result_graph_bonusBack",
+        "message": "\ue003 Fermer",
+        "attribute": "040000003C220000",
+        "style_index": 93
+    },
+    "bd00_result_graph_bonusName": {
+        "name": "bd00_result_graph_bonusName",
+        "message": "[1:2][0]",
+        "attribute": "040000003E220000",
+        "style_index": 94
+    },
+    "bd00_result_graph_bonusDetails00": {
+        "name": "bd00_result_graph_bonusDetails00",
+        "message": "Plus d'objets utilis\u00e9s",
+        "attribute": "0400000040220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails01": {
+        "name": "bd00_result_graph_bonusDetails01",
+        "message": "Plus de pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 00-00-00-FF][0:3 11-0C-1D-FF] obtenues[0:3 00-00-00-FF]",
+        "attribute": "0400000042220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails02": {
+        "name": "bd00_result_graph_bonusDetails02",
+        "message": "Plus de mini-jeux remport\u00e9s",
+        "attribute": "0400000044220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails03": {
+        "name": "bd00_result_graph_bonusDetails03",
+        "message": "Plus de cases parcourues",
+        "attribute": "0400000046220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails04": {
+        "name": "bd00_result_graph_bonusDetails04",
+        "message": "Moins de cases parcourues",
+        "attribute": "0400000048220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails05": {
+        "name": "bd00_result_graph_bonusDetails05",
+        "message": "Plus de [0:3 FF-35-02-FF]cases \u00e9v\u00e9nement[0:3 11-0C-1D-FF] atteintes[0:3 FF-35-02-FF][0:3 00-00-00-FF]",
+        "attribute": "040000004A220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails06": {
+        "name": "bd00_result_graph_bonusDetails06",
+        "message": "Plus de [0:3 FF-35-02-FF]cases rouges[0:3 00-00-00-FF][0:3 11-0C-1D-FF] atteintes[0:3 00-00-00-FF]",
+        "attribute": "040000004C220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails07": {
+        "name": "bd00_result_graph_bonusDetails07",
+        "message": "Plus d'objets achet\u00e9s",
+        "attribute": "040000004E220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails08": {
+        "name": "bd00_result_graph_bonusDetails08",
+        "message": "Plus de [0:3 FF-35-02-FF]cases Bowser[0:3 00-00-00-FF][0:3 11-0C-1D-FF] atteintes[0:3 00-00-00-FF]",
+        "attribute": "0400000050220000",
+        "style_index": 95
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "hsmm03_mw_op00": {
+        "name": "hsmm03_mw_op00",
+        "message": "Si vous remportez des mini-jeux, vous\r\npourrez gagner beaucoup de pi\u00e8ces \ue020 !",
+        "attribute": "04050017A0000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_op01": {
+        "name": "hsmm03_mw_op01",
+        "message": "Sans plus attendre, c'est parti pour :\r\n[0:3 FF-35-02-FF][0] [0:3 00-00-00-FF][0:3 FF-FF-FF-FF]![0:3 00-00-00-FF]",
+        "attribute": "04050017BE000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd00": {
+        "name": "hsmm03_mw_rd00",
+        "message": "Voici le premier mini-jeu.",
+        "attribute": "04050017E2000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd01": {
+        "name": "hsmm03_mw_rd01",
+        "message": "Votez pour le mini-jeu de votre choix et\r\nla roulette tranchera.",
+        "attribute": "04050017F6000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd10": {
+        "name": "hsmm03_mw_rd10",
+        "message": "Passons au mini-jeu suivant.",
+        "attribute": "04050017F8000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd20": {
+        "name": "hsmm03_mw_rd20",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] effectue une belle remont\u00e9e\r\net prend la t\u00eate du classement ![0:3 00-00-00-FF]",
+        "attribute": "0405001716010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd30": {
+        "name": "hsmm03_mw_rd30",
+        "message": "[0:3 FF-35-02-FF][0] [0:3 FF-FF-FF-FF]et[0:3 FF-35-02-FF] [1][0:3 00-00-00-FF] [0:3 FF-FF-FF-FF]se partagent\r\nd\u00e9sormais la premi\u00e8re place ![0:3 00-00-00-FF]",
+        "attribute": "040500173A010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd40": {
+        "name": "hsmm03_mw_rd40",
+        "message": "[0:3 FF-FF-FF-FF][0:3 FF-35-02-FF][0][0:3 FF-FF-FF-FF], [0:3 FF-35-02-FF][1][0:3 FF-FF-FF-FF] et\r\n[0:3 FF-35-02-FF][2][0:3 FF-FF-FF-FF] sont maintenant en t\u00eate ![0:3 00-00-00-FF]",
+        "attribute": "040500175E010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd50": {
+        "name": "hsmm03_mw_rd50",
+        "message": "Ouah, [1:6 00-00]c'est incroyable ![1:6 0C-00]\r\n[1:6 01-00]Tout le monde est \u00e0 \u00e9galit\u00e9 !",
+        "attribute": "0405001778010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd90": {
+        "name": "hsmm03_mw_rd90",
+        "message": "Ce sera le dernier mini-jeu !\r\nT\u00e2chons de finir en beaut\u00e9 !",
+        "attribute": "040500178C010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt00": {
+        "name": "hsmm03_mw_evnt00",
+        "message": "Vous pourrez garder toutes les pi\u00e8ces \ue020\r\nque vous r\u00e9cup\u00e9rerez dans ce jeu !",
+        "attribute": "04050017AA010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt10": {
+        "name": "hsmm03_mw_evnt10",
+        "message": "Le nombre de pi\u00e8ces \ue020 que vous\r\ngagnerez ici sera doubl\u00e9 !",
+        "attribute": "04050017C8010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt20": {
+        "name": "hsmm03_mw_evnt20",
+        "message": "Battez-vous pour r\u00e9cup\u00e9rer les pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020 [0:3 00-00-00-FF]\r\n[0:3 FF-FF-FF-FF]des autres joueurs et garder les v\u00f4tres ![0:3 00-00-00-FF]",
+        "attribute": "04050017E6010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt21": {
+        "name": "hsmm03_mw_evnt21",
+        "message": "Bien, je vais maintenant collecter\r\n10 pi\u00e8ces \ue020 de chacun d'entre vous.",
+        "attribute": "0405001704020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt22": {
+        "name": "hsmm03_mw_evnt22",
+        "message": "[1:6 00-00]Attends un peu...[1:6 0C-00]\r\n[1:6 01-00]Tu n'as pas assez de pi\u00e8ces \ue020 ?",
+        "attribute": "0405001706020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt23": {
+        "name": "hsmm03_mw_evnt23",
+        "message": "On dirait bien que c'est ton jour de\r\nchance. Voil\u00e0 10 pi\u00e8ces \ue020, c'est cadeau !",
+        "attribute": "0405001724020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt24": {
+        "name": "hsmm03_mw_evnt24",
+        "message": "Tr\u00e8s bien ! Jouons \u00e0 un mini-jeu avec\r\n[0] pi\u00e8ces \ue020 \u00e0 la cl\u00e9 !",
+        "attribute": "0405001726020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt30": {
+        "name": "hsmm03_mw_evnt30",
+        "message": "[0:3 FF-FF-FF-FF]Et laissons [0:3 FF-35-02-FF][0] [0:3 FF-FF-FF-FF]choisir\r\nle prochain mini-jeu.[0:3 00-00-00-FF]",
+        "attribute": "040500173A020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt40": {
+        "name": "hsmm03_mw_evnt40",
+        "message": "[0:3 FF-FF-FF-FF][0:3 FF-35-02-FF][0][0:3 FF-FF-FF-FF], qui est en t\u00eate, affrontera\r\nles autres ! L'enjeu est de 20 pi\u00e8ces [0:3 FF-FF-FF-FF]\ue020[0:3 FF-FF-FF-FF].[0:3 00-00-00-FF]",
+        "attribute": "0405001754020000",
+        "style_index": 4
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "hsmm04_mw_op00": {
+        "name": "hsmm04_mw_op00",
+        "message": "Coop\u00e9rez avec votre \u00e9quipier et\r\ngagnez [0] fois pour l'emporter !",
+        "attribute": "0405002348000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd00": {
+        "name": "hsmm04_mw_rd00",
+        "message": "Quelle \u00e9quipe sortira vainqueur ? Voyons\r\n\u00e7a sans tarder, apr\u00e8s le choix du mini-jeu !",
+        "attribute": "0405002362000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd10": {
+        "name": "hsmm04_mw_rd10",
+        "message": "[0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] et [0:3 00-00-00-FF][0:3 FF-35-02-FF][1][0:3 00-00-00-FF]\r\n[0:3 FF-FF-FF-FF]reviennent fort ![0:3 00-00-00-FF]",
+        "attribute": "0405002386000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd11": {
+        "name": "hsmm04_mw_rd11",
+        "message": "Laissons [0:3 FF-35-02-FF][0][0:3 00-00-00-FF][0:3 FF-FF-FF-FF] d\u00e9cider\r\ndu prochain mini-jeu.[0:3 00-00-00-FF]",
+        "attribute": "04050023AA000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd20": {
+        "name": "hsmm04_mw_rd20",
+        "message": "Pas de gagnants dans ce tour !\r\nC'est bien dommage...",
+        "attribute": "04050023BE000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd21": {
+        "name": "hsmm04_mw_rd21",
+        "message": "Ne nous attardons pas...\r\nVoici le prochain mini-jeu !",
+        "attribute": "04050023D8000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd90": {
+        "name": "hsmm04_mw_rd90",
+        "message": "La prochaine victoire pourrait\r\nbien \u00eatre d\u00e9cisive.",
+        "attribute": "04050023F6000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd91": {
+        "name": "hsmm04_mw_rd91",
+        "message": "Ce mini-jeu d\u00e9cidera-t-il du\r\nsort de ces deux \u00e9quipes ?",
+        "attribute": "040500231A010000",
+        "style_index": 4
+    }
+}
