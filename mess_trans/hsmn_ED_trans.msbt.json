@@ -1,0 +1,2402 @@
+{
+    "mn_ED_last_thankyou": {
+        "name": "mn_ED_last_thankyou",
+        "message": "[0:2 4B-0 0:2 64-00] est derrière\r\ntout ça !",
+        "attribute": "04000000880C0000",
+        "style_index": 36
+    },
+    "mn_ED_director": {
+        "name": "mn_ED_director",
+        "message": "Il y a du pouvoir dans le\r\npouvoir.",
+        "attribute": "040000008A0C0000",
+        "style_index": 613
+    },
+    "mn_ED_design_di": {
+        "name": "mn_ED_design_di",
+        "message": "Ménage",
+        "attribute": "040000008C0C0000",
+        "style_index": 613
+    },
+    "mn_ED_gemu_de": {
+        "name": "mn_ED_gemu_de",
+        "message": "Regarde la route.",
+        "attribute": "040000008E0C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_program_di": {
+        "name": "mn_ED_chief_program_di",
+        "message": "Il doit assumer la responsabilité\r\nde ses actes.",
+        "attribute": "04000000900C0000",
+        "style_index": 613
+    },
+    "mn_ED_program_di": {
+        "name": "mn_ED_program_di",
+        "message": "Tu peux me faire confiance.",
+        "attribute": "04000000920C0000",
+        "style_index": 613
+    },
+    "mn_ED_program": {
+        "name": "mn_ED_program",
+        "message": "Et c'est une très grosse\r\naffaire.",
+        "attribute": "04000000940C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_art_di": {
+        "name": "mn_ED_chief_art_di",
+        "message": "Commandant des forces spéciales.",
+        "attribute": "04000000960C0000",
+        "style_index": 613
+    },
+    "mn_ED_art_di": {
+        "name": "mn_ED_art_di",
+        "message": "L'ordre naturel des choses\r\nest :",
+        "attribute": "04000000980C0000",
+        "style_index": 613
+    },
+    "mn_ED_art": {
+        "name": "mn_ED_art",
+        "message": "Il a été arrêté.",
+        "attribute": "040000009A0C0000",
+        "style_index": 613
+    },
+    "mn_ED_chief_sound_di": {
+        "name": "mn_ED_chief_sound_di",
+        "message": "L'information est bonne.",
+        "attribute": "040000009C0C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_di": {
+        "name": "mn_ED_sound_di",
+        "message": "Choisissez votre langue préférée.",
+        "attribute": "040000009E0C0000",
+        "style_index": 613
+    },
+    "mn_ED_music_di": {
+        "name": "mn_ED_music_di",
+        "message": "Oui.",
+        "attribute": "04000000A00C0000",
+        "style_index": 613
+    },
+    "mn_ED_music": {
+        "name": "mn_ED_music",
+        "message": "beaucoup",
+        "attribute": "04000000A20C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_ef": {
+        "name": "mn_ED_sound_ef",
+        "message": "lettre",
+        "attribute": "04000000A40C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_su": {
+        "name": "mn_ED_sound_su",
+        "message": "Il y a un assistant vocal.",
+        "attribute": "04000000A60C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_co": {
+        "name": "mn_ED_sound_co",
+        "message": "L'école est fermée",
+        "attribute": "04000000A80C0000",
+        "style_index": 613
+    },
+    "mn_ED_sound_sup": {
+        "name": "mn_ED_sound_sup",
+        "message": "C'est une autre affaire.",
+        "attribute": "04000000AA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_character_vo": {
+        "name": "mn_ED_character_vo",
+        "message": "Angleterre.",
+        "attribute": "04000000AC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_voices": {
+        "name": "mn_ED_voices",
+        "message": "sur...",
+        "attribute": "04000000AE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_character_su": {
+        "name": "mn_ED_character_su",
+        "message": "Vous êtes un bon leader.",
+        "attribute": "04000000B00C0000",
+        "style_index": 613
+    },
+    "mn_ED_illustaration": {
+        "name": "mn_ED_illustaration",
+        "message": "pont.",
+        "attribute": "04000000B20C0000",
+        "style_index": 613
+    },
+    "mn_ED_package_de": {
+        "name": "mn_ED_package_de",
+        "message": "C'est une très bonne\r\nnouvelle.",
+        "attribute": "04000000B40C0000",
+        "style_index": 613
+    },
+    "mn_ED_technical_su": {
+        "name": "mn_ED_technical_su",
+        "message": "Achète-le.",
+        "attribute": "04000000B60C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_localization_ma": {
+        "name": "mn_ED_noa_localization_ma",
+        "message": "Consultez le site Web de la NOAA.",
+        "attribute": "04000000B80C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_localization": {
+        "name": "mn_ED_noa_localization",
+        "message": "Qui est où ?",
+        "attribute": "04000000BA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_localization_pr": {
+        "name": "mn_ED_noe_localization_pr",
+        "message": "fais quelque chose.",
+        "attribute": "04000000BC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_translation": {
+        "name": "mn_ED_noe_translation",
+        "message": "Nouvelle langue |",
+        "attribute": "04000000BE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_nhl_localization": {
+        "name": "mn_ED_nhl_localization",
+        "message": "Le système de la LNH est un\r\nsystème",
+        "attribute": "04000000C00C0000",
+        "style_index": 613
+    },
+    "mn_ED_ique_localization": {
+        "name": "mn_ED_ique_localization",
+        "message": "Valeur en pourcentage du QI.",
+        "attribute": "04000000C20C0000",
+        "style_index": 613
+    },
+    "mn_ED_nok_localization": {
+        "name": "mn_ED_nok_localization",
+        "message": "Institut norvégien de droit.",
+        "attribute": "04000000C40C0000",
+        "style_index": 613
+    },
+    "mn_ED_testng": {
+        "name": "mn_ED_testng",
+        "message": "Fournir une preuve de demande.",
+        "attribute": "04000000C60C0000",
+        "style_index": 613
+    },
+    "mn_ED_noa_product_te": {
+        "name": "mn_ED_noa_product_te",
+        "message": "Apprenez-en plus sur le projet\r\nArch Nine.",
+        "attribute": "04000000C80C0000",
+        "style_index": 613
+    },
+    "mn_ED_noe_qualty_ass": {
+        "name": "mn_ED_noe_qualty_ass",
+        "message": "C'est très sûr.",
+        "attribute": "04000000CA0C0000",
+        "style_index": 613
+    },
+    "mn_ED_special_th": {
+        "name": "mn_ED_special_th",
+        "message": "J’ai vu beaucoup de choses.",
+        "attribute": "04000000CC0C0000",
+        "style_index": 613
+    },
+    "mn_ED_coordination": {
+        "name": "mn_ED_coordination",
+        "message": "mais.",
+        "attribute": "04000000CE0C0000",
+        "style_index": 613
+    },
+    "mn_ED_project_manager": {
+        "name": "mn_ED_project_manager",
+        "message": "Merci, docteur.",
+        "attribute": "04000000D00C0000",
+        "style_index": 613
+    },
+    "mn_ED_associate_pr": {
+        "name": "mn_ED_associate_pr",
+        "message": "Ce dernier est R.",
+        "attribute": "04000000D20C0000",
+        "style_index": 613
+    },
+    "mn_ED_producers": {
+        "name": "mn_ED_producers",
+        "message": "Retournez à la table.",
+        "attribute": "04000000D40C0000",
+        "style_index": 613
+    },
+    "mn_ED_general_pr": {
+        "name": "mn_ED_general_pr",
+        "message": "Des experts du monde entier.",
+        "attribute": "04000000D60C0000",
+        "style_index": 613
+    },
+    "mn_ED_executive_pr": {
+        "name": "mn_ED_executive_pr",
+        "message": "C'est une chose merveilleuse.",
+        "attribute": "04000000D80C0000",
+        "style_index": 613
+    },
+    "mn_ED_director_staff": {
+        "name": "mn_ED_director_staff",
+        "message": "Sugimoto a ouvert la porte.",
+        "attribute": "04000000DA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff00": {
+        "name": "mn_ED_design_di_staff00",
+        "message": "Accueillir.",
+        "attribute": "04000000DC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff01": {
+        "name": "mn_ED_design_di_staff01",
+        "message": "Cindy a répondu",
+        "attribute": "04000000DE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff02": {
+        "name": "mn_ED_design_di_staff02",
+        "message": "Sur cette photo : rien.",
+        "attribute": "04000000E00C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff03": {
+        "name": "mn_ED_design_di_staff03",
+        "message": "Personne ne connaît le prix.",
+        "attribute": "04000000E20C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff04": {
+        "name": "mn_ED_design_di_staff04",
+        "message": "Fumihisa dit que Sato a raison.",
+        "attribute": "04000000E40C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff05": {
+        "name": "mn_ED_design_di_staff05",
+        "message": "Selon Itz, selon Itz.",
+        "attribute": "04000000E60C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff06": {
+        "name": "mn_ED_design_di_staff06",
+        "message": "Le gouvernement a échoué.",
+        "attribute": "04000000E80C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff07": {
+        "name": "mn_ED_design_di_staff07",
+        "message": "Ils ne m'ont jamais déçu.",
+        "attribute": "04000000EA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff08": {
+        "name": "mn_ED_design_di_staff08",
+        "message": "Satoru est génial.",
+        "attribute": "04000000EC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_design_di_staff09": {
+        "name": "mn_ED_design_di_staff09",
+        "message": "L'orchestre \"Tsarska\r\nToga\" a interprété la\r\nchanson \"Tsarska Toga\".",
+        "attribute": "04000000EE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff00": {
+        "name": "mn_ED_gemu_de_staff00",
+        "message": "Tajima est l’un d’entre eux.",
+        "attribute": "04000000F00C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff01": {
+        "name": "mn_ED_gemu_de_staff01",
+        "message": "Mashaan est un homme bien.",
+        "attribute": "04000000F20C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff02": {
+        "name": "mn_ED_gemu_de_staff02",
+        "message": "Rapport du comité.",
+        "attribute": "04000000F40C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff03": {
+        "name": "mn_ED_gemu_de_staff03",
+        "message": "M. AS Saito, 19 ans",
+        "attribute": "04000000F60C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff04": {
+        "name": "mn_ED_gemu_de_staff04",
+        "message": "Lecteur, calme-toi.",
+        "attribute": "04000000F80C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff05": {
+        "name": "mn_ED_gemu_de_staff05",
+        "message": "Ce sont des étrangers.",
+        "attribute": "04000000FA0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff06": {
+        "name": "mn_ED_gemu_de_staff06",
+        "message": "Merci beaucoup, Sue.",
+        "attribute": "04000000FC0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff07": {
+        "name": "mn_ED_gemu_de_staff07",
+        "message": "Elle a été fondée par Yoshisutu\r\nTamaki.",
+        "attribute": "04000000FE0C0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff08": {
+        "name": "mn_ED_gemu_de_staff08",
+        "message": "J'étais avec Mme McCarthy et\r\nsa famille.",
+        "attribute": "04000000000D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff09": {
+        "name": "mn_ED_gemu_de_staff09",
+        "message": "Hiroshima Nozaka ;",
+        "attribute": "04000000020D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff10": {
+        "name": "mn_ED_gemu_de_staff10",
+        "message": "Le problème est le même.",
+        "attribute": "04000000040D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff11": {
+        "name": "mn_ED_gemu_de_staff11",
+        "message": "Écrivain : C'est tout.",
+        "attribute": "04000000060D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff12": {
+        "name": "mn_ED_gemu_de_staff12",
+        "message": "dit Hiroyuki.",
+        "attribute": "04000000080D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff13": {
+        "name": "mn_ED_gemu_de_staff13",
+        "message": "Sasaki Seishin est médecin.",
+        "attribute": "040000000A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff14": {
+        "name": "mn_ED_gemu_de_staff14",
+        "message": "Vous souvenez-vous de ce qui\r\ns'est passé ?",
+        "attribute": "040000000C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff15": {
+        "name": "mn_ED_gemu_de_staff15",
+        "message": "Voici Oyama Miyuki.",
+        "attribute": "040000000E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff16": {
+        "name": "mn_ED_gemu_de_staff16",
+        "message": "lieu:",
+        "attribute": "04000000100D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff17": {
+        "name": "mn_ED_gemu_de_staff17",
+        "message": "Il est descendu dans la rue.",
+        "attribute": "04000000120D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff18": {
+        "name": "mn_ED_gemu_de_staff18",
+        "message": "C'est la vie.",
+        "attribute": "04000000140D0000",
+        "style_index": 612
+    },
+    "mn_ED_gemu_de_staff19": {
+        "name": "mn_ED_gemu_de_staff19",
+        "message": "Auteur : Joshua Smale",
+        "attribute": "04000000160D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_program_di_staff": {
+        "name": "mn_ED_chief_program_di_staff",
+        "message": "Il n’a pas fait ça.",
+        "attribute": "04000000180D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff00": {
+        "name": "mn_ED_program_di_staff00",
+        "message": "L'auteur est un intellectuel.",
+        "attribute": "040000001A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff01": {
+        "name": "mn_ED_program_di_staff01",
+        "message": "Écrit par Sayuki Shinoharama",
+        "attribute": "040000001C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff02": {
+        "name": "mn_ED_program_di_staff02",
+        "message": "auteur",
+        "attribute": "040000001E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff03": {
+        "name": "mn_ED_program_di_staff03",
+        "message": "Ils parlent le rohingya.",
+        "attribute": "04000000200D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_di_staff04": {
+        "name": "mn_ED_program_di_staff04",
+        "message": "Hamdan a continué.",
+        "attribute": "04000000220D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff00": {
+        "name": "mn_ED_program_staff00",
+        "message": "Kazuhiro est un professionnel.",
+        "attribute": "04000000240D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff01": {
+        "name": "mn_ED_program_staff01",
+        "message": "année académique 2020-2022, année\r\nacadémique 2020-2021.",
+        "attribute": "04000000260D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff02": {
+        "name": "mn_ED_program_staff02",
+        "message": "Masami a posé cette question à\r\nson ami.",
+        "attribute": "04000000280D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff03": {
+        "name": "mn_ED_program_staff03",
+        "message": "L'ensemble du livre est\r\ndivisé en sept chapitres.",
+        "attribute": "040000002A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff04": {
+        "name": "mn_ED_program_staff04",
+        "message": "C'était un pays.",
+        "attribute": "040000002C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff05": {
+        "name": "mn_ED_program_staff05",
+        "message": "Mais Shuya l'a fait.",
+        "attribute": "040000002E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff06": {
+        "name": "mn_ED_program_staff06",
+        "message": "article",
+        "attribute": "04000000300D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff07": {
+        "name": "mn_ED_program_staff07",
+        "message": "Lisez l'œuvre de Takaya.",
+        "attribute": "04000000320D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff08": {
+        "name": "mn_ED_program_staff08",
+        "message": "Création étudiante.",
+        "attribute": "04000000340D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff09": {
+        "name": "mn_ED_program_staff09",
+        "message": "Ailleurs.",
+        "attribute": "04000000360D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff10": {
+        "name": "mn_ED_program_staff10",
+        "message": "Le capitaine Takashi était\r\nd’accord.",
+        "attribute": "04000000380D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff11": {
+        "name": "mn_ED_program_staff11",
+        "message": "Kenneth est très gentil.",
+        "attribute": "040000003A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff12": {
+        "name": "mn_ED_program_staff12",
+        "message": "Tiantian n'a rien dit.",
+        "attribute": "040000003C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff13": {
+        "name": "mn_ED_program_staff13",
+        "message": "Shopping à Agra.",
+        "attribute": "040000003E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff14": {
+        "name": "mn_ED_program_staff14",
+        "message": "a déclaré Ikeda Otaka.",
+        "attribute": "04000000400D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff15": {
+        "name": "mn_ED_program_staff15",
+        "message": "J'ai déjà entendu ça.",
+        "attribute": "04000000420D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff16": {
+        "name": "mn_ED_program_staff16",
+        "message": "C'est une fête typique en\r\nNorvège.",
+        "attribute": "04000000440D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff17": {
+        "name": "mn_ED_program_staff17",
+        "message": "Ceci s'appelle une table.",
+        "attribute": "04000000460D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff18": {
+        "name": "mn_ED_program_staff18",
+        "message": "Publié par Geller",
+        "attribute": "04000000480D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff19": {
+        "name": "mn_ED_program_staff19",
+        "message": "Source : Seiko.",
+        "attribute": "040000004A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff20": {
+        "name": "mn_ED_program_staff20",
+        "message": "Takahiro Matsumoto",
+        "attribute": "040000004C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff21": {
+        "name": "mn_ED_program_staff21",
+        "message": "Mignon pour le patron.",
+        "attribute": "040000004E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff22": {
+        "name": "mn_ED_program_staff22",
+        "message": "Nouvelles laitières (Mc).",
+        "attribute": "04000000500D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff23": {
+        "name": "mn_ED_program_staff23",
+        "message": "Ceci est pour Soichiro.",
+        "attribute": "04000000520D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff24": {
+        "name": "mn_ED_program_staff24",
+        "message": "L'hôtel est situé à Nova.",
+        "attribute": "04000000540D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff25": {
+        "name": "mn_ED_program_staff25",
+        "message": "Tommy est la femme\r\nd'Hiroyuki.",
+        "attribute": "04000000560D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff26": {
+        "name": "mn_ED_program_staff26",
+        "message": "Ce sont aussi les paroles de\r\nJésus.",
+        "attribute": "04000000580D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff27": {
+        "name": "mn_ED_program_staff27",
+        "message": "La sœur de cette femme.",
+        "attribute": "040000005A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff28": {
+        "name": "mn_ED_program_staff28",
+        "message": "en particulier",
+        "attribute": "040000005C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff29": {
+        "name": "mn_ED_program_staff29",
+        "message": "dit Yukihiko.",
+        "attribute": "040000005E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_program_staff30": {
+        "name": "mn_ED_program_staff30",
+        "message": "Kirito dit avec confiance.",
+        "attribute": "04000000600D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_art_di_staff00": {
+        "name": "mn_ED_chief_art_di_staff00",
+        "message": "Tout le monde peut comprendre\r\ncela.",
+        "attribute": "04000000620D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_art_di_staff01": {
+        "name": "mn_ED_chief_art_di_staff01",
+        "message": "Intéressant.",
+        "attribute": "04000000640D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff00": {
+        "name": "mn_ED_art_di_staff00",
+        "message": "Le travail d'un comptable Le\r\ntravail d'un comptable.",
+        "attribute": "04000000660D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff01": {
+        "name": "mn_ED_art_di_staff01",
+        "message": "Liangguan regarda son ami.",
+        "attribute": "04000000680D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff02": {
+        "name": "mn_ED_art_di_staff02",
+        "message": "Kazuhisa Okamoto est le meilleur.",
+        "attribute": "040000006A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff03": {
+        "name": "mn_ED_art_di_staff03",
+        "message": "Cette robe est magnifique.",
+        "attribute": "040000006C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff04": {
+        "name": "mn_ED_art_di_staff04",
+        "message": "demanda Xiao.",
+        "attribute": "040000006E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff05": {
+        "name": "mn_ED_art_di_staff05",
+        "message": "Karen travaille au Caire.",
+        "attribute": "04000000700D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff06": {
+        "name": "mn_ED_art_di_staff06",
+        "message": "Cette réponse ne répond pas à la\r\nquestion.",
+        "attribute": "04000000720D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_di_staff07": {
+        "name": "mn_ED_art_di_staff07",
+        "message": "C'est très simple.",
+        "attribute": "04000000740D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff00": {
+        "name": "mn_ED_art_staff00",
+        "message": "Auteur : Fenêtre",
+        "attribute": "04000000760D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff01": {
+        "name": "mn_ED_art_staff01",
+        "message": "Planche à découper :",
+        "attribute": "04000000780D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff02": {
+        "name": "mn_ED_art_staff02",
+        "message": "Cela signifie que nous nous\r\naimons.",
+        "attribute": "040000007A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff03": {
+        "name": "mn_ED_art_staff03",
+        "message": "Son nom est Yuji Mizoguchi",
+        "attribute": "040000007C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff04": {
+        "name": "mn_ED_art_staff04",
+        "message": "Ouais;",
+        "attribute": "040000007E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff05": {
+        "name": "mn_ED_art_staff05",
+        "message": "Écrit par Dave Brown.",
+        "attribute": "04000000800D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff06": {
+        "name": "mn_ED_art_staff06",
+        "message": "La médaille Ernesto Sonnino a été\r\ndécernée aux personnes suivantes\r\n:",
+        "attribute": "04000000820D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff07": {
+        "name": "mn_ED_art_staff07",
+        "message": "À l'auteur de ce livre;",
+        "attribute": "04000000840D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff08": {
+        "name": "mn_ED_art_staff08",
+        "message": "Guam",
+        "attribute": "04000000860D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff09": {
+        "name": "mn_ED_art_staff09",
+        "message": "J'apprendrai.",
+        "attribute": "04000000880D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff10": {
+        "name": "mn_ED_art_staff10",
+        "message": "Est-ce Kazuki ?",
+        "attribute": "040000008A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff11": {
+        "name": "mn_ED_art_staff11",
+        "message": "On se voit demain matin.",
+        "attribute": "040000008C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff12": {
+        "name": "mn_ED_art_staff12",
+        "message": "Il y avait une ville appelée\r\nMitcham.",
+        "attribute": "040000008E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff13": {
+        "name": "mn_ED_art_staff13",
+        "message": "Qui est cette Niva ?",
+        "attribute": "04000000900D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff14": {
+        "name": "mn_ED_art_staff14",
+        "message": "Je ne peux pas vivre sans toi.",
+        "attribute": "04000000920D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff15": {
+        "name": "mn_ED_art_staff15",
+        "message": "Nous communiquons par le langage.",
+        "attribute": "04000000940D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff16": {
+        "name": "mn_ED_art_staff16",
+        "message": "L’une d’entre elles est Shizuka\r\nAbe.",
+        "attribute": "04000000960D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff17": {
+        "name": "mn_ED_art_staff17",
+        "message": "Je me fais secouer la tête.",
+        "attribute": "04000000980D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff18": {
+        "name": "mn_ED_art_staff18",
+        "message": "Retour dans la province du\r\nGuangdong.",
+        "attribute": "040000009A0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff19": {
+        "name": "mn_ED_art_staff19",
+        "message": "Le gagnant était Yoshiki Ichida.",
+        "attribute": "040000009C0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff20": {
+        "name": "mn_ED_art_staff20",
+        "message": "Isaac 19;",
+        "attribute": "040000009E0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff21": {
+        "name": "mn_ED_art_staff21",
+        "message": "Ma guitare est cassée.",
+        "attribute": "04000000A00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff22": {
+        "name": "mn_ED_art_staff22",
+        "message": "Nous sommes en train de ruiner la\r\nplanète.",
+        "attribute": "04000000A20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff23": {
+        "name": "mn_ED_art_staff23",
+        "message": "-Demandez à Rita",
+        "attribute": "04000000A40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff24": {
+        "name": "mn_ED_art_staff24",
+        "message": "Son nom est Yuri Ito.",
+        "attribute": "04000000A60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff25": {
+        "name": "mn_ED_art_staff25",
+        "message": "Découvrez comment nous le faisons\r\nici.",
+        "attribute": "04000000A80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff26": {
+        "name": "mn_ED_art_staff26",
+        "message": "Réalisateur : Tychicus Trochus",
+        "attribute": "04000000AA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff27": {
+        "name": "mn_ED_art_staff27",
+        "message": "Parce que Sukun avait une bonne\r\nidée.",
+        "attribute": "04000000AC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff28": {
+        "name": "mn_ED_art_staff28",
+        "message": "Créateur : Dong Ju Wei",
+        "attribute": "04000000AE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff29": {
+        "name": "mn_ED_art_staff29",
+        "message": "Akira Mizoguchi est un\r\nscientifique.",
+        "attribute": "04000000B00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff30": {
+        "name": "mn_ED_art_staff30",
+        "message": "école;",
+        "attribute": "04000000B20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff31": {
+        "name": "mn_ED_art_staff31",
+        "message": "Déplacez-le vous-même.",
+        "attribute": "04000000B40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff32": {
+        "name": "mn_ED_art_staff32",
+        "message": "Bien",
+        "attribute": "04000000B60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff33": {
+        "name": "mn_ED_art_staff33",
+        "message": "J'y pense depuis longtemps.\r\n(Ok) Je vais ranger le pot.",
+        "attribute": "04000000B80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff34": {
+        "name": "mn_ED_art_staff34",
+        "message": "Et c’est ce que c’est.",
+        "attribute": "04000000BA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff35": {
+        "name": "mn_ED_art_staff35",
+        "message": "Il est situé dans le\r\ncentre-ville.",
+        "attribute": "04000000BC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff36": {
+        "name": "mn_ED_art_staff36",
+        "message": "Communauté",
+        "attribute": "04000000BE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff37": {
+        "name": "mn_ED_art_staff37",
+        "message": "Le père de Rick était un soldat.",
+        "attribute": "04000000C00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff38": {
+        "name": "mn_ED_art_staff38",
+        "message": "Tu ne peux pas le brûler.",
+        "attribute": "04000000C20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff39": {
+        "name": "mn_ED_art_staff39",
+        "message": "Kazuhiro Lot 19.",
+        "attribute": "04000000C40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff40": {
+        "name": "mn_ED_art_staff40",
+        "message": "Nouveaux amis.",
+        "attribute": "04000000C60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff41": {
+        "name": "mn_ED_art_staff41",
+        "message": "C'est un oiseau.",
+        "attribute": "04000000C80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff42": {
+        "name": "mn_ED_art_staff42",
+        "message": "Ce sont des soldats.",
+        "attribute": "04000000CA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff43": {
+        "name": "mn_ED_art_staff43",
+        "message": "Mizuki et autres.",
+        "attribute": "04000000CC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff44": {
+        "name": "mn_ED_art_staff44",
+        "message": "Je te l'ai dit.",
+        "attribute": "04000000CE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff45": {
+        "name": "mn_ED_art_staff45",
+        "message": "Bloqué.",
+        "attribute": "04000000D00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff46": {
+        "name": "mn_ED_art_staff46",
+        "message": "Histoire de la montagne.",
+        "attribute": "04000000D20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff47": {
+        "name": "mn_ED_art_staff47",
+        "message": "Décoration.",
+        "attribute": "04000000D40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff48": {
+        "name": "mn_ED_art_staff48",
+        "message": "C'est mon mari.",
+        "attribute": "04000000D60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff49": {
+        "name": "mn_ED_art_staff49",
+        "message": "Comment est la maison ?",
+        "attribute": "04000000D80D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff50": {
+        "name": "mn_ED_art_staff50",
+        "message": "Ikeda était choqué.",
+        "attribute": "04000000DA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff51": {
+        "name": "mn_ED_art_staff51",
+        "message": "Aux États-Unis.",
+        "attribute": "04000000DC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff52": {
+        "name": "mn_ED_art_staff52",
+        "message": "Au cours de la saison 1999.",
+        "attribute": "04000000DE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff53": {
+        "name": "mn_ED_art_staff53",
+        "message": "Le nom de son père est Chung\r\nKwan.",
+        "attribute": "04000000E00D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff54": {
+        "name": "mn_ED_art_staff54",
+        "message": "Megushi a gagné.",
+        "attribute": "04000000E20D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff55": {
+        "name": "mn_ED_art_staff55",
+        "message": "Cela vous retient toujours.",
+        "attribute": "04000000E40D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff56": {
+        "name": "mn_ED_art_staff56",
+        "message": "Fujimoto était juif.",
+        "attribute": "04000000E60D0000",
+        "style_index": 612
+    },
+    "mn_ED_art_staff57": {
+        "name": "mn_ED_art_staff57",
+        "message": "Comment prononcez-vous ces mots ?",
+        "attribute": "04000000E80D0000",
+        "style_index": 612
+    },
+    "mn_ED_chief_sound_di_staff": {
+        "name": "mn_ED_chief_sound_di_staff",
+        "message": "C'est le marché de Shimakura",
+        "attribute": "04000000EA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff00": {
+        "name": "mn_ED_sound_di_staff00",
+        "message": "L'enseignante Sœur Kerry.",
+        "attribute": "04000000EC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff01": {
+        "name": "mn_ED_sound_di_staff01",
+        "message": "Ce n'est qu'une nuit.",
+        "attribute": "04000000EE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_di_staff02": {
+        "name": "mn_ED_sound_di_staff02",
+        "message": "État.",
+        "attribute": "04000000F00D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_di_staff": {
+        "name": "mn_ED_music_di_staff",
+        "message": "Il y a une autre voie.",
+        "attribute": "04000000F20D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_staff00": {
+        "name": "mn_ED_music_staff00",
+        "message": "oncle",
+        "attribute": "04000000F40D0000",
+        "style_index": 612
+    },
+    "mn_ED_music_staff01": {
+        "name": "mn_ED_music_staff01",
+        "message": "Nous sommes en août.",
+        "attribute": "04000000F60D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff00": {
+        "name": "mn_ED_sound_ef_staff00",
+        "message": "Emplacement : Musée métropolitain\r\nd'art de Tokyo",
+        "attribute": "04000000F80D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff01": {
+        "name": "mn_ED_sound_ef_staff01",
+        "message": "à ton avis.",
+        "attribute": "04000000FA0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff02": {
+        "name": "mn_ED_sound_ef_staff02",
+        "message": "La soupe de Brad est la même.",
+        "attribute": "04000000FC0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_ef_staff03": {
+        "name": "mn_ED_sound_ef_staff03",
+        "message": "Thomas d'Aquin.",
+        "attribute": "04000000FE0D0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_su_staff00": {
+        "name": "mn_ED_sound_su_staff00",
+        "message": "Il était comptable.",
+        "attribute": "04000000000E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_co_staff00": {
+        "name": "mn_ED_sound_co_staff00",
+        "message": "Équipement de lutte contre les\r\ninsectes.",
+        "attribute": "04000000020E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_co_staff01": {
+        "name": "mn_ED_sound_co_staff01",
+        "message": "Shinji Yoshikawa a onze ans.",
+        "attribute": "04000000040E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff00": {
+        "name": "mn_ED_sound_sup_staff00",
+        "message": "Auteur : Anu Ami",
+        "attribute": "04000000060E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff01": {
+        "name": "mn_ED_sound_sup_staff01",
+        "message": "La maison est vraiment belle.",
+        "attribute": "04000000080E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff02": {
+        "name": "mn_ED_sound_sup_staff02",
+        "message": "donc",
+        "attribute": "040000000A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_sound_sup_staff03": {
+        "name": "mn_ED_sound_sup_staff03",
+        "message": "Ryuji, 9 ans.",
+        "attribute": "040000000C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff00": {
+        "name": "mn_ED_character_vo_staff00",
+        "message": "Attendez une minute docteur !",
+        "attribute": "040000000E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff01": {
+        "name": "mn_ED_character_vo_staff01",
+        "message": "Kelly est une chanteuse.",
+        "attribute": "04000000100E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff02": {
+        "name": "mn_ED_character_vo_staff02",
+        "message": "C'est un cardinal.",
+        "attribute": "04000000120E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff03": {
+        "name": "mn_ED_character_vo_staff03",
+        "message": "Laura Claude Fayette, 14 octobre\r\n1883 ;",
+        "attribute": "04000000140E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff04": {
+        "name": "mn_ED_character_vo_staff04",
+        "message": "Kenny travaille pour Jack.",
+        "attribute": "04000000160E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff05": {
+        "name": "mn_ED_character_vo_staff05",
+        "message": "Acteurs des MPME",
+        "attribute": "04000000180E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff06": {
+        "name": "mn_ED_character_vo_staff06",
+        "message": "Gardez-le dans une bonne lumière.",
+        "attribute": "040000001A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff07": {
+        "name": "mn_ED_character_vo_staff07",
+        "message": "Takashi aime vraiment ton sens de\r\nl'humour.",
+        "attribute": "040000001C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff08": {
+        "name": "mn_ED_character_vo_staff08",
+        "message": "L'auteur de ce livre est Miki\r\nTakagi.",
+        "attribute": "040000001E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff09": {
+        "name": "mn_ED_character_vo_staff09",
+        "message": "sûr",
+        "attribute": "04000000200E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff10": {
+        "name": "mn_ED_character_vo_staff10",
+        "message": "Est-ce que tu m'aimes\r\ntoujours ?",
+        "attribute": "04000000220E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff11": {
+        "name": "mn_ED_character_vo_staff11",
+        "message": "Merci pour votre commentaire.",
+        "attribute": "04000000240E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff12": {
+        "name": "mn_ED_character_vo_staff12",
+        "message": "réinitialiser le gâteau de sushi.",
+        "attribute": "04000000260E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff13": {
+        "name": "mn_ED_character_vo_staff13",
+        "message": "Sac en plastique.",
+        "attribute": "04000000280E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff14": {
+        "name": "mn_ED_character_vo_staff14",
+        "message": "C'était Kawamura.",
+        "attribute": "040000002A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff15": {
+        "name": "mn_ED_character_vo_staff15",
+        "message": "Rivière Genba.",
+        "attribute": "040000002C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff16": {
+        "name": "mn_ED_character_vo_staff16",
+        "message": "Prenons l’exemple d’un étudiant.",
+        "attribute": "040000002E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff17": {
+        "name": "mn_ED_character_vo_staff17",
+        "message": "Carte et livre brouillons.",
+        "attribute": "04000000300E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_vo_staff18": {
+        "name": "mn_ED_character_vo_staff18",
+        "message": "Son nom est Suzuki.",
+        "attribute": "04000000320E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff00": {
+        "name": "mn_ED_voices_staff00",
+        "message": "Voici Cécilia Costa.",
+        "attribute": "04000000340E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff01": {
+        "name": "mn_ED_voices_staff01",
+        "message": "Auteur : Christian Koch.",
+        "attribute": "04000000360E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff02": {
+        "name": "mn_ED_voices_staff02",
+        "message": "Samantha Roberts est d’accord.",
+        "attribute": "04000000380E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff03": {
+        "name": "mn_ED_voices_staff03",
+        "message": "Normale",
+        "attribute": "040000003A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff04": {
+        "name": "mn_ED_voices_staff04",
+        "message": "Sabrina est très belle.",
+        "attribute": "040000003C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff05": {
+        "name": "mn_ED_voices_staff05",
+        "message": "C'est une très bonne\r\nnouvelle.",
+        "attribute": "040000003E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff06": {
+        "name": "mn_ED_voices_staff06",
+        "message": "Président de la République\r\ntchèque :",
+        "attribute": "04000000400E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff07": {
+        "name": "mn_ED_voices_staff07",
+        "message": "Également : Alistair Hernandez",
+        "attribute": "04000000420E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff08": {
+        "name": "mn_ED_voices_staff08",
+        "message": "Qu'est-ce que c'est?",
+        "attribute": "04000000440E0000",
+        "style_index": 612
+    },
+    "mn_ED_voices_staff09": {
+        "name": "mn_ED_voices_staff09",
+        "message": "Victoria et Élisa.",
+        "attribute": "04000000460E0000",
+        "style_index": 612
+    },
+    "mn_ED_character_su_staff": {
+        "name": "mn_ED_character_su_staff",
+        "message": "Le monde entier s’est réjoui.",
+        "attribute": "04000000480E0000",
+        "style_index": 612
+    },
+    "mn_ED_illustaration_staff00": {
+        "name": "mn_ED_illustaration_staff00",
+        "message": "Il était le choix évident pour la\r\nprésidence.",
+        "attribute": "040000004A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_illustaration_staff01": {
+        "name": "mn_ED_illustaration_staff01",
+        "message": "Copyright Midtail Studios",
+        "attribute": "040000004C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_package_de_staff": {
+        "name": "mn_ED_package_de_staff",
+        "message": "Qu'est-ce que cela signifie?",
+        "attribute": "040000004E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_technical_su_staff": {
+        "name": "mn_ED_technical_su_staff",
+        "message": "\"Boule de neige\" (du\r\nfilm \"Boule de neige\")",
+        "attribute": "04000000500E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff00": {
+        "name": "mn_ED_noa_localization_ma_staff00",
+        "message": "Les riches doivent être protégés.",
+        "attribute": "04000000520E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff01": {
+        "name": "mn_ED_noa_localization_ma_staff01",
+        "message": "Combien ça coûte?",
+        "attribute": "04000000540E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff02": {
+        "name": "mn_ED_noa_localization_ma_staff02",
+        "message": "Comédie réalisée par Tim\r\nO'Leary.",
+        "attribute": "04000000560E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff03": {
+        "name": "mn_ED_noa_localization_ma_staff03",
+        "message": "Oiseau, P. (1999).",
+        "attribute": "04000000580E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_ma_staff04": {
+        "name": "mn_ED_noa_localization_ma_staff04",
+        "message": "Le créateur Alex Girardi a créé\r\nune robe de style arabe.",
+        "attribute": "040000005A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff00": {
+        "name": "mn_ED_noa_localization_staff00",
+        "message": "Son nom : Lisa B.",
+        "attribute": "040000005C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff01": {
+        "name": "mn_ED_noa_localization_staff01",
+        "message": "Par Chelsea Askan.",
+        "attribute": "040000005E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff02": {
+        "name": "mn_ED_noa_localization_staff02",
+        "message": "Oh, Mademoiselle Erica. Oui, oui,\r\noui.",
+        "attribute": "04000000600E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff03": {
+        "name": "mn_ED_noa_localization_staff03",
+        "message": "Dans tous les cas, St.",
+        "attribute": "04000000620E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff04": {
+        "name": "mn_ED_noa_localization_staff04",
+        "message": "Le cancer a le même effet.",
+        "attribute": "04000000640E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff05": {
+        "name": "mn_ED_noa_localization_staff05",
+        "message": "Merci, docteur.",
+        "attribute": "04000000660E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff06": {
+        "name": "mn_ED_noa_localization_staff06",
+        "message": "Kugel et al.",
+        "attribute": "04000000680E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff07": {
+        "name": "mn_ED_noa_localization_staff07",
+        "message": "Ron a écrit :",
+        "attribute": "040000006A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff08": {
+        "name": "mn_ED_noa_localization_staff08",
+        "message": "Marjorie aussi.",
+        "attribute": "040000006C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff09": {
+        "name": "mn_ED_noa_localization_staff09",
+        "message": "N’oubliez pas, Gibran est une\r\nbonne personne.",
+        "attribute": "040000006E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff10": {
+        "name": "mn_ED_noa_localization_staff10",
+        "message": "Publié le 24 octobre 2013 |",
+        "attribute": "04000000700E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff11": {
+        "name": "mn_ED_noa_localization_staff11",
+        "message": "À propos de la boulangerie\r\nBernice",
+        "attribute": "04000000720E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff12": {
+        "name": "mn_ED_noa_localization_staff12",
+        "message": "jouer",
+        "attribute": "04000000740E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff13": {
+        "name": "mn_ED_noa_localization_staff13",
+        "message": "Le président Joseph Loeb",
+        "attribute": "04000000760E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff14": {
+        "name": "mn_ED_noa_localization_staff14",
+        "message": "La mère de Kareena est\r\nenseignante.",
+        "attribute": "04000000780E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff15": {
+        "name": "mn_ED_noa_localization_staff15",
+        "message": "Chris dans le désert.",
+        "attribute": "040000007A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff16": {
+        "name": "mn_ED_noa_localization_staff16",
+        "message": "Il n’y a qu’un seul État : la\r\nCaroline.",
+        "attribute": "040000007C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff17": {
+        "name": "mn_ED_noa_localization_staff17",
+        "message": "Auteur : Mme Elena Sanchez",
+        "attribute": "040000007E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff18": {
+        "name": "mn_ED_noa_localization_staff18",
+        "message": "Quatre leçons.",
+        "attribute": "04000000800E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff19": {
+        "name": "mn_ED_noa_localization_staff19",
+        "message": "Image : Rama.",
+        "attribute": "04000000820E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff20": {
+        "name": "mn_ED_noa_localization_staff20",
+        "message": "C'est ton fils.",
+        "attribute": "04000000840E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff21": {
+        "name": "mn_ED_noa_localization_staff21",
+        "message": "C'est un beau jeu.",
+        "attribute": "04000000860E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff22": {
+        "name": "mn_ED_noa_localization_staff22",
+        "message": "Secrétaire de Tallinn",
+        "attribute": "04000000880E0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_localization_staff23": {
+        "name": "mn_ED_noa_localization_staff23",
+        "message": "Philippe lui répondit.",
+        "attribute": "040000008A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff00": {
+        "name": "mn_ED_noe_localization_pr_staff00",
+        "message": "L'âne est rentré à la maison.",
+        "attribute": "040000008C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff01": {
+        "name": "mn_ED_noe_localization_pr_staff01",
+        "message": "Écrit par Liam Hackney, Acteur",
+        "attribute": "040000008E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff02": {
+        "name": "mn_ED_noe_localization_pr_staff02",
+        "message": "Tatsuki Fukuyama est un grand\r\nréalisateur.",
+        "attribute": "04000000900E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff03": {
+        "name": "mn_ED_noe_localization_pr_staff03",
+        "message": "C'est le livre de Kevin.",
+        "attribute": "04000000920E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_localization_pr_staff04": {
+        "name": "mn_ED_noe_localization_pr_staff04",
+        "message": "Il ressemble à un Arabe.",
+        "attribute": "04000000940E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff00": {
+        "name": "mn_ED_noe_translation_staff00",
+        "message": "Grève",
+        "attribute": "04000000960E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff01": {
+        "name": "mn_ED_noe_translation_staff01",
+        "message": "Merci.",
+        "attribute": "04000000980E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff02": {
+        "name": "mn_ED_noe_translation_staff02",
+        "message": "Voir Anthony Bell.",
+        "attribute": "040000009A0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff03": {
+        "name": "mn_ED_noe_translation_staff03",
+        "message": "Matthias Lémurien.",
+        "attribute": "040000009C0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff04": {
+        "name": "mn_ED_noe_translation_staff04",
+        "message": "Banque Nationale Kent.",
+        "attribute": "040000009E0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff05": {
+        "name": "mn_ED_noe_translation_staff05",
+        "message": "Yankel a suivi le mouvement.",
+        "attribute": "04000000A00E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff06": {
+        "name": "mn_ED_noe_translation_staff06",
+        "message": "Son président est M. Nam AS\r\nMerrick.",
+        "attribute": "04000000A20E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff07": {
+        "name": "mn_ED_noe_translation_staff07",
+        "message": "C'est une école de district.",
+        "attribute": "04000000A40E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff08": {
+        "name": "mn_ED_noe_translation_staff08",
+        "message": "Non, c'est Chypre.",
+        "attribute": "04000000A60E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff09": {
+        "name": "mn_ED_noe_translation_staff09",
+        "message": "Samedi et dimanche.",
+        "attribute": "04000000A80E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff10": {
+        "name": "mn_ED_noe_translation_staff10",
+        "message": "Il y a deux villages.",
+        "attribute": "04000000AA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff11": {
+        "name": "mn_ED_noe_translation_staff11",
+        "message": "Ariel, l'étoile",
+        "attribute": "04000000AC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff12": {
+        "name": "mn_ED_noe_translation_staff12",
+        "message": "Peter Osafa et José Moreno",
+        "attribute": "04000000AE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff13": {
+        "name": "mn_ED_noe_translation_staff13",
+        "message": "Et Thomas.",
+        "attribute": "04000000B00E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff14": {
+        "name": "mn_ED_noe_translation_staff14",
+        "message": "Jésus, notre Seigneur.",
+        "attribute": "04000000B20E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff15": {
+        "name": "mn_ED_noe_translation_staff15",
+        "message": "Marchez lentement.",
+        "attribute": "04000000B40E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff16": {
+        "name": "mn_ED_noe_translation_staff16",
+        "message": "Cela dépend du professeur.",
+        "attribute": "04000000B60E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff17": {
+        "name": "mn_ED_noe_translation_staff17",
+        "message": "Aime-toi toi-même.",
+        "attribute": "04000000B80E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff18": {
+        "name": "mn_ED_noe_translation_staff18",
+        "message": "Capitaine : Anthony Evanuch.",
+        "attribute": "04000000BA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_translation_staff19": {
+        "name": "mn_ED_noe_translation_staff19",
+        "message": "La Constitution victorienne\r\nactuelle.",
+        "attribute": "04000000BC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff00": {
+        "name": "mn_ED_nhl_localization_staff00",
+        "message": "John est l'un d'entre\r\neux.",
+        "attribute": "04000000BE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff01": {
+        "name": "mn_ED_nhl_localization_staff01",
+        "message": "Tracy Chang est géniale.",
+        "attribute": "04000000C00E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff02": {
+        "name": "mn_ED_nhl_localization_staff02",
+        "message": "Hadika est l’une d’entre elles.",
+        "attribute": "04000000C20E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff03": {
+        "name": "mn_ED_nhl_localization_staff03",
+        "message": "professeur",
+        "attribute": "04000000C40E0000",
+        "style_index": 612
+    },
+    "mn_ED_nhl_localization_staff04": {
+        "name": "mn_ED_nhl_localization_staff04",
+        "message": "Noir en Allemagne.",
+        "attribute": "04000000C60E0000",
+        "style_index": 612
+    },
+    "mn_ED_ique_localization_staff00": {
+        "name": "mn_ED_ique_localization_staff00",
+        "message": "John Gene a déclaré.",
+        "attribute": "04000000C80E0000",
+        "style_index": 612
+    },
+    "mn_ED_ique_localization_staff01": {
+        "name": "mn_ED_ique_localization_staff01",
+        "message": "- a déclaré Zhang Yong.",
+        "attribute": "04000000CA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff00": {
+        "name": "mn_ED_nok_localization_staff00",
+        "message": "Selon le modèle de Hess.",
+        "attribute": "04000000CC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff01": {
+        "name": "mn_ED_nok_localization_staff01",
+        "message": "Kim Jong Un est actuellement\r\nassigné à résidence.",
+        "attribute": "04000000CE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff02": {
+        "name": "mn_ED_nok_localization_staff02",
+        "message": "Il n'y en a pas d'autres.",
+        "attribute": "04000000D00E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff03": {
+        "name": "mn_ED_nok_localization_staff03",
+        "message": "La vie est très dure.",
+        "attribute": "04000000D20E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff04": {
+        "name": "mn_ED_nok_localization_staff04",
+        "message": "Je comprends.",
+        "attribute": "04000000D40E0000",
+        "style_index": 612
+    },
+    "mn_ED_nok_localization_staff05": {
+        "name": "mn_ED_nok_localization_staff05",
+        "message": "Les Sud-Coréens.",
+        "attribute": "04000000D60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff00": {
+        "name": "mn_ED_testng_staff00",
+        "message": "Concepteur : Mark",
+        "attribute": "04000000D80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff01": {
+        "name": "mn_ED_testng_staff01",
+        "message": "Auteur : Yoshiro Katakami",
+        "attribute": "04000000DA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff02": {
+        "name": "mn_ED_testng_staff02",
+        "message": "pays",
+        "attribute": "04000000DC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff03": {
+        "name": "mn_ED_testng_staff03",
+        "message": "monde.",
+        "attribute": "04000000DE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff04": {
+        "name": "mn_ED_testng_staff04",
+        "message": "Ces étudiants sont incohérents.",
+        "attribute": "04000000E00E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff05": {
+        "name": "mn_ED_testng_staff05",
+        "message": "Rio : Un baiser.",
+        "attribute": "04000000E20E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff06": {
+        "name": "mn_ED_testng_staff06",
+        "message": "C'est l'équipe Mario.",
+        "attribute": "04000000E40E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff07": {
+        "name": "mn_ED_testng_staff07",
+        "message": "octobre",
+        "attribute": "04000000E60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff08": {
+        "name": "mn_ED_testng_staff08",
+        "message": "REMARQUE : Lisez ce livre.",
+        "attribute": "04000000E80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff09": {
+        "name": "mn_ED_testng_staff09",
+        "message": "Tu devrais être heureux.",
+        "attribute": "04000000EA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff10": {
+        "name": "mn_ED_testng_staff10",
+        "message": "Président de la République de\r\nPologne.",
+        "attribute": "04000000EC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff11": {
+        "name": "mn_ED_testng_staff11",
+        "message": "Le mormonisme est vrai.",
+        "attribute": "04000000EE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff12": {
+        "name": "mn_ED_testng_staff12",
+        "message": "C'est ce qu'on appelle la\r\ntête.",
+        "attribute": "04000000F00E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff13": {
+        "name": "mn_ED_testng_staff13",
+        "message": "Source : Amy Lord",
+        "attribute": "04000000F20E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff14": {
+        "name": "mn_ED_testng_staff14",
+        "message": "demander:",
+        "attribute": "04000000F40E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff15": {
+        "name": "mn_ED_testng_staff15",
+        "message": "la nourriture est prête.",
+        "attribute": "04000000F60E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff16": {
+        "name": "mn_ED_testng_staff16",
+        "message": "Le nom de l'artiste est\r\nKatarina.",
+        "attribute": "04000000F80E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff17": {
+        "name": "mn_ED_testng_staff17",
+        "message": "Akari Tokunou travaille sur le\r\nprojet.",
+        "attribute": "04000000FA0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff18": {
+        "name": "mn_ED_testng_staff18",
+        "message": "L’une d’entre elles était Mary\r\nAda.",
+        "attribute": "04000000FC0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff19": {
+        "name": "mn_ED_testng_staff19",
+        "message": "Trouvez des moyens de gagner.",
+        "attribute": "04000000FE0E0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff20": {
+        "name": "mn_ED_testng_staff20",
+        "message": "Un nouveau sac est arrivé.",
+        "attribute": "04000000000F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff21": {
+        "name": "mn_ED_testng_staff21",
+        "message": "Épître aux Romains.",
+        "attribute": "04000000020F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff22": {
+        "name": "mn_ED_testng_staff22",
+        "message": "Cela pourrait être rose.",
+        "attribute": "04000000040F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff23": {
+        "name": "mn_ED_testng_staff23",
+        "message": "Cette histoire est écrite par\r\nBrio Fujishima.",
+        "attribute": "04000000060F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff24": {
+        "name": "mn_ED_testng_staff24",
+        "message": "Merci, Monsieur Shimizu.",
+        "attribute": "04000000080F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff25": {
+        "name": "mn_ED_testng_staff25",
+        "message": "coucher de soleil",
+        "attribute": "040000000A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff26": {
+        "name": "mn_ED_testng_staff26",
+        "message": "Danville et Yoshihiro Ninomiya",
+        "attribute": "040000000C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_testng_staff27": {
+        "name": "mn_ED_testng_staff27",
+        "message": "La police de l'île a lancé\r\nune enquête samedi.",
+        "attribute": "040000000E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff00": {
+        "name": "mn_ED_noa_product_te_staff00",
+        "message": "Kent, .",
+        "attribute": "04000000100F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff01": {
+        "name": "mn_ED_noa_product_te_staff01",
+        "message": "L'eau est jaune.",
+        "attribute": "04000000120F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff02": {
+        "name": "mn_ED_noa_product_te_staff02",
+        "message": "Travailler à domicile.",
+        "attribute": "04000000140F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff03": {
+        "name": "mn_ED_noa_product_te_staff03",
+        "message": "Cette ville est magnifique.",
+        "attribute": "04000000160F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff04": {
+        "name": "mn_ED_noa_product_te_staff04",
+        "message": "C'est vrai.",
+        "attribute": "04000000180F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff05": {
+        "name": "mn_ED_noa_product_te_staff05",
+        "message": "Tomoko Mikami, Tomoko Mikami.",
+        "attribute": "040000001A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff06": {
+        "name": "mn_ED_noa_product_te_staff06",
+        "message": "Ses paroles m’ont encouragé.",
+        "attribute": "040000001C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff07": {
+        "name": "mn_ED_noa_product_te_staff07",
+        "message": "Auteur : Robert Mokra",
+        "attribute": "040000001E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff08": {
+        "name": "mn_ED_noa_product_te_staff08",
+        "message": "Je ne suis pas seul.",
+        "attribute": "04000000200F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff09": {
+        "name": "mn_ED_noa_product_te_staff09",
+        "message": "Il a un pistolet automatique.",
+        "attribute": "04000000220F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff10": {
+        "name": "mn_ED_noa_product_te_staff10",
+        "message": "C’est exactement ce que Matthieu\r\na fait.",
+        "attribute": "04000000240F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff11": {
+        "name": "mn_ED_noa_product_te_staff11",
+        "message": "David a dit :",
+        "attribute": "04000000260F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff12": {
+        "name": "mn_ED_noa_product_te_staff12",
+        "message": "Il a accepté de vendre.",
+        "attribute": "04000000280F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff13": {
+        "name": "mn_ED_noa_product_te_staff13",
+        "message": "C'est un écrivain.",
+        "attribute": "040000002A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff14": {
+        "name": "mn_ED_noa_product_te_staff14",
+        "message": "Le résultat fut Joshua AG.",
+        "attribute": "040000002C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff15": {
+        "name": "mn_ED_noa_product_te_staff15",
+        "message": "Je m'appelle Craig.",
+        "attribute": "040000002E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff16": {
+        "name": "mn_ED_noa_product_te_staff16",
+        "message": "Le numéro de téléphone de Pamela.",
+        "attribute": "04000000300F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff17": {
+        "name": "mn_ED_noa_product_te_staff17",
+        "message": "Le prix est trop élevé.",
+        "attribute": "04000000320F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff18": {
+        "name": "mn_ED_noa_product_te_staff18",
+        "message": "- dit Manuel.",
+        "attribute": "04000000340F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff19": {
+        "name": "mn_ED_noa_product_te_staff19",
+        "message": "À propos des conditions",
+        "attribute": "04000000360F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff20": {
+        "name": "mn_ED_noa_product_te_staff20",
+        "message": "Alexandre le Grand.",
+        "attribute": "04000000380F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff21": {
+        "name": "mn_ED_noa_product_te_staff21",
+        "message": "Chez Ropata.",
+        "attribute": "040000003A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff22": {
+        "name": "mn_ED_noa_product_te_staff22",
+        "message": "En tant qu'écrivain.",
+        "attribute": "040000003C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff23": {
+        "name": "mn_ED_noa_product_te_staff23",
+        "message": "Simon Lada, oui.",
+        "attribute": "040000003E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noa_product_te_staff24": {
+        "name": "mn_ED_noa_product_te_staff24",
+        "message": "Comment apprends-tu ?",
+        "attribute": "04000000400F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff00": {
+        "name": "mn_ED_noe_qualty_ass_staff00",
+        "message": "Le nom de l’apôtre était Morenus.",
+        "attribute": "04000000420F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff01": {
+        "name": "mn_ED_noe_qualty_ass_staff01",
+        "message": "C. Être toujours.",
+        "attribute": "04000000440F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff02": {
+        "name": "mn_ED_noe_qualty_ass_staff02",
+        "message": "Damien 2000-2009",
+        "attribute": "04000000460F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff03": {
+        "name": "mn_ED_noe_qualty_ass_staff03",
+        "message": "Olivier et Liam.",
+        "attribute": "04000000480F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff04": {
+        "name": "mn_ED_noe_qualty_ass_staff04",
+        "message": "Auteur",
+        "attribute": "040000004A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff05": {
+        "name": "mn_ED_noe_qualty_ass_staff05",
+        "message": "Tout est fait de verre.",
+        "attribute": "040000004C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff06": {
+        "name": "mn_ED_noe_qualty_ass_staff06",
+        "message": "Auteur.",
+        "attribute": "040000004E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff07": {
+        "name": "mn_ED_noe_qualty_ass_staff07",
+        "message": "Alexandre le Grand.",
+        "attribute": "04000000500F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff08": {
+        "name": "mn_ED_noe_qualty_ass_staff08",
+        "message": "Gianluca passe Noël avec Ivy.",
+        "attribute": "04000000520F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff09": {
+        "name": "mn_ED_noe_qualty_ass_staff09",
+        "message": "David Martin Navarro.",
+        "attribute": "04000000540F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff10": {
+        "name": "mn_ED_noe_qualty_ass_staff10",
+        "message": "Jessica Sanchez est très belle.",
+        "attribute": "04000000560F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff11": {
+        "name": "mn_ED_noe_qualty_ass_staff11",
+        "message": "Le nom de l'homme est Dan\r\nKoopman.",
+        "attribute": "04000000580F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff12": {
+        "name": "mn_ED_noe_qualty_ass_staff12",
+        "message": "Auteur : David Janet.",
+        "attribute": "040000005A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff13": {
+        "name": "mn_ED_noe_qualty_ass_staff13",
+        "message": "C'est difficile à faire.",
+        "attribute": "040000005C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_noe_qualty_ass_staff14": {
+        "name": "mn_ED_noe_qualty_ass_staff14",
+        "message": "Maman dormait.",
+        "attribute": "040000005E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff00": {
+        "name": "mn_ED_special_th_staff00",
+        "message": "Scénario : Takayasu Morizawa.",
+        "attribute": "04000000600F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff01": {
+        "name": "mn_ED_special_th_staff01",
+        "message": "Auteur Trask Cosby.",
+        "attribute": "04000000620F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff02": {
+        "name": "mn_ED_special_th_staff02",
+        "message": "Hideki est un homme.",
+        "attribute": "04000000640F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff03": {
+        "name": "mn_ED_special_th_staff03",
+        "message": "Mais ils ne savent pas quoi\r\nfaire.",
+        "attribute": "04000000660F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff04": {
+        "name": "mn_ED_special_th_staff04",
+        "message": "Va avec Isaac.",
+        "attribute": "04000000680F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff05": {
+        "name": "mn_ED_special_th_staff05",
+        "message": "Ukraine",
+        "attribute": "040000006A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff06": {
+        "name": "mn_ED_special_th_staff06",
+        "message": "Il haussa les sourcils.",
+        "attribute": "040000006C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff07": {
+        "name": "mn_ED_special_th_staff07",
+        "message": "Yu-Gi-Oh est tellement amusant !",
+        "attribute": "040000006E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff08": {
+        "name": "mn_ED_special_th_staff08",
+        "message": "L'étude d'Otsu et al.",
+        "attribute": "04000000700F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff09": {
+        "name": "mn_ED_special_th_staff09",
+        "message": "Il a couru un mile, Dieu\r\n(auteur).",
+        "attribute": "04000000720F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff10": {
+        "name": "mn_ED_special_th_staff10",
+        "message": "je sais.",
+        "attribute": "04000000740F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff11": {
+        "name": "mn_ED_special_th_staff11",
+        "message": "- Je sais.",
+        "attribute": "04000000760F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff12": {
+        "name": "mn_ED_special_th_staff12",
+        "message": "Capable de parler et\r\nd'écrire.",
+        "attribute": "04000000780F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff13": {
+        "name": "mn_ED_special_th_staff13",
+        "message": "Auteur : Marigo",
+        "attribute": "040000007A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff14": {
+        "name": "mn_ED_special_th_staff14",
+        "message": "Il est mort d'une crise\r\ncardiaque.",
+        "attribute": "040000007C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff15": {
+        "name": "mn_ED_special_th_staff15",
+        "message": "Shinsan se tenait là.",
+        "attribute": "040000007E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff16": {
+        "name": "mn_ED_special_th_staff16",
+        "message": "Tomoka, dix-huit ans ;",
+        "attribute": "04000000800F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff17": {
+        "name": "mn_ED_special_th_staff17",
+        "message": "Membre de la communauté Nintendo",
+        "attribute": "04000000820F0000",
+        "style_index": 614
+    },
+    "mn_ED_special_th_staff18": {
+        "name": "mn_ED_special_th_staff18",
+        "message": "C'est très important pour\r\nceux qui s'intéressent à\r\ncela.",
+        "attribute": "04000000840F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff19": {
+        "name": "mn_ED_special_th_staff19",
+        "message": "Fabriqué en Tunisie.",
+        "attribute": "04000000860F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff20": {
+        "name": "mn_ED_special_th_staff20",
+        "message": "Je l'ai fait.",
+        "attribute": "04000000880F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff21": {
+        "name": "mn_ED_special_th_staff21",
+        "message": "Il est juge.",
+        "attribute": "040000008A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff22": {
+        "name": "mn_ED_special_th_staff22",
+        "message": "Apprendre à chanter.",
+        "attribute": "040000008C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_special_th_staff23": {
+        "name": "mn_ED_special_th_staff23",
+        "message": "N'abandonne pas.",
+        "attribute": "040000008E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_coordination_staff00": {
+        "name": "mn_ED_coordination_staff00",
+        "message": "2019 à janvier 2019",
+        "attribute": "04000000900F0000",
+        "style_index": 612
+    },
+    "mn_ED_coordination_staff01": {
+        "name": "mn_ED_coordination_staff01",
+        "message": "Ce sont les paroles de Josué.",
+        "attribute": "04000000920F0000",
+        "style_index": 612
+    },
+    "mn_ED_project_manager_staff": {
+        "name": "mn_ED_project_manager_staff",
+        "message": "C'est ce qu'on appelle le\r\npartage des revenus.",
+        "attribute": "04000000940F0000",
+        "style_index": 612
+    },
+    "mn_ED_associate_pr_staff": {
+        "name": "mn_ED_associate_pr_staff",
+        "message": "Auteur : Hiraga.",
+        "attribute": "04000000960F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff00": {
+        "name": "mn_ED_producers_staff00",
+        "message": "Toshi Suzuki est un génie.",
+        "attribute": "04000000980F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff01": {
+        "name": "mn_ED_producers_staff01",
+        "message": "Cet article a été écrit par\r\nYokazu Kato.",
+        "attribute": "040000009A0F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff02": {
+        "name": "mn_ED_producers_staff02",
+        "message": "Mange des fruits.",
+        "attribute": "040000009C0F0000",
+        "style_index": 612
+    },
+    "mn_ED_producers_staff03": {
+        "name": "mn_ED_producers_staff03",
+        "message": "C'est un bon objectif.",
+        "attribute": "040000009E0F0000",
+        "style_index": 612
+    },
+    "mn_ED_general_pr_staff00": {
+        "name": "mn_ED_general_pr_staff00",
+        "message": "Même la Chine l’a rejeté.",
+        "attribute": "04000000A00F0000",
+        "style_index": 612
+    },
+    "mn_ED_general_pr_staff01": {
+        "name": "mn_ED_general_pr_staff01",
+        "message": "Sois prudent.",
+        "attribute": "04000000A20F0000",
+        "style_index": 612
+    },
+    "mn_ED_executive_pr_staff": {
+        "name": "mn_ED_executive_pr_staff",
+        "message": "L'enfant est toujours pris en\r\ncharge.",
+        "attribute": "04000000A40F0000",
+        "style_index": 612
+    },
+    "mn_ED_copyright00": {
+        "name": "mn_ED_copyright00",
+        "message": "Comme le disent les fans de\r\nNintendo : oui.",
+        "attribute": "04000000A60F0000",
+        "style_index": 614
+    }
+}

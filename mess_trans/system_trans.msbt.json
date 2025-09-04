@@ -1,0 +1,2918 @@
+{
+    "sys_ctrl_skip": {
+        "name": "sys_ctrl_skip",
+        "message": "/ sujet",
+        "attribute": "04000000380F0000",
+        "style_index": 10
+    },
+    "sys_info_operatAccount": {
+        "name": "sys_info_operatAccount",
+        "message": "[0] Pas encore.",
+        "attribute": "040000003A0F0000",
+        "style_index": 16
+    },
+    "sys_mw_chaname": {
+        "name": "sys_mw_chaname",
+        "message": "Je suis d'accord avec toi.",
+        "attribute": "030000003C0F0000",
+        "style_index": 5
+    },
+    "sys_mw_back": {
+        "name": "sys_mw_back",
+        "message": "maison",
+        "attribute": "040000003E0F0000",
+        "style_index": 522
+    },
+    "sys_pause_slct_resume": {
+        "name": "sys_pause_slct_resume",
+        "message": "merci",
+        "attribute": "04000000400F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_restart": {
+        "name": "sys_pause_slct_restart",
+        "message": "Le vôtre",
+        "attribute": "04000000420F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_restart": {
+        "name": "sys_pause_mw_restart",
+        "message": "Démarrez le jeu à partir de [0].",
+        "attribute": "04000000440F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_restart_a0": {
+        "name": "sys_pause_mw_restart_a0",
+        "message": "Petite entreprise.",
+        "attribute": "04000000460F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_restart_a1": {
+        "name": "sys_pause_mw_restart_a1",
+        "message": "Eau",
+        "attribute": "04000000480F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mainM": {
+        "name": "sys_pause_slct_mainM",
+        "message": "Le monde est une nouvelle.",
+        "attribute": "040000004A0F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mainM": {
+        "name": "sys_pause_mw_mainM",
+        "message": "Veulent-ils retourner dans leur\r\npays ? e) Veux-tu rentrer chez\r\ntoi ?",
+        "attribute": "040000004C0F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_mainM_bdM": {
+        "name": "sys_pause_mw_mainM_bdM",
+        "message": "Où puis-je obtenir les données ?\r\n[0:34B-46-5A-FF] Vous pouvez\r\ndémarrer une nouvelle partie dans\r\ncette section à 0:300-00:264-00.",
+        "attribute": "040000004E0F0000",
+        "style_index": 8
+    },
+    "sys_pause_slct_mgM_bdM": {
+        "name": "sys_pause_slct_mgM_bdM",
+        "message": "Ville",
+        "attribute": "04000000500F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mgM_bdM": {
+        "name": "sys_pause_mw_mgM_bdM",
+        "message": "Tu veux y aller ?",
+        "attribute": "04000000520F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_mgM_bdM_a0": {
+        "name": "sys_pause_mw_mgM_bdM_a0",
+        "message": "Je le ferai aussi.",
+        "attribute": "04000000540F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mgM_bdM_a1": {
+        "name": "sys_pause_mw_mgM_bdM_a1",
+        "message": "La poésie est la poésie.",
+        "attribute": "04000000560F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mainM_a0": {
+        "name": "sys_pause_mw_mainM_a0",
+        "message": "C’est en fait assez courant.",
+        "attribute": "04000000580F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mainM_a1": {
+        "name": "sys_pause_mw_mainM_a1",
+        "message": "Je ne pense pas.",
+        "attribute": "040000005A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mgM": {
+        "name": "sys_pause_slct_mgM",
+        "message": "Lumière",
+        "attribute": "040000005C0F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_mgSlct": {
+        "name": "sys_pause_slct_mgSlct",
+        "message": "Disponible pour les adultes en\r\nplusieurs couleurs différentes.",
+        "attribute": "040000005E0F0000",
+        "style_index": 394
+    },
+    "sys_pause_slct_turn": {
+        "name": "sys_pause_slct_turn",
+        "message": "Essayez d'y jouer.",
+        "attribute": "04000000600F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_turn00": {
+        "name": "sys_pause_mw_turn00",
+        "message": "Combien de points avez-vous gagné\r\ndans ce jeu ?",
+        "attribute": "04000000620F0000",
+        "style_index": 6
+    },
+    "sys_pause_mw_turn00_a0": {
+        "name": "sys_pause_mw_turn00_a0",
+        "message": "Troisième ordre.",
+        "attribute": "04000000640F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a1": {
+        "name": "sys_pause_mw_turn00_a1",
+        "message": "Elle regarde la télé.",
+        "attribute": "04000000660F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a2": {
+        "name": "sys_pause_mw_turn00_a2",
+        "message": "plus",
+        "attribute": "04000000680F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn00_a3": {
+        "name": "sys_pause_mw_turn00_a3",
+        "message": "Le livre comporte 30 chapitres.",
+        "attribute": "040000006A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn01": {
+        "name": "sys_pause_mw_turn01",
+        "message": "Ce joueur a-t-il déjà été banni ?\r\n[ 0 ] →",
+        "attribute": "040000006C0F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn01_a0": {
+        "name": "sys_pause_mw_turn01_a0",
+        "message": "Je dois faire ça pour toi.",
+        "attribute": "040000006E0F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn01_a1": {
+        "name": "sys_pause_mw_turn01_a1",
+        "message": "Ce n'est pas vrai.",
+        "attribute": "04000000700F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn02": {
+        "name": "sys_pause_mw_turn02",
+        "message": "Le jeu est un type de jeu dans\r\nlequel vous perdez tout votre\r\nargent au fil du temps.",
+        "attribute": "04000000720F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03": {
+        "name": "sys_pause_mw_turn03",
+        "message": "Nos droits sont-ils protégés ?",
+        "attribute": "04000000740F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03_multi": {
+        "name": "sys_pause_mw_turn03_multi",
+        "message": "Étaient-ils là ? Eh bien, ils ont\r\npris la décision.",
+        "attribute": "04000000760F0000",
+        "style_index": 8
+    },
+    "sys_pause_mw_turn03_a0": {
+        "name": "sys_pause_mw_turn03_a0",
+        "message": "Tout va bien.",
+        "attribute": "04000000780F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_turn03_a1": {
+        "name": "sys_pause_mw_turn03_a1",
+        "message": "Je ne sais pas.",
+        "attribute": "040000007A0F0000",
+        "style_index": 9
+    },
+    "sys_pause_slct_mesSp": {
+        "name": "sys_pause_slct_mesSp",
+        "message": "Et ça se rapproche de plus en\r\nplus.",
+        "attribute": "040000007C0F0000",
+        "style_index": 394
+    },
+    "sys_pause_mw_mesSp": {
+        "name": "sys_pause_mw_mesSp",
+        "message": "Sachez ce que vous voulez dans le\r\ntest.",
+        "attribute": "040000007E0F0000",
+        "style_index": 6
+    },
+    "sys_pause_mw_mesSp_a0": {
+        "name": "sys_pause_mw_mesSp_a0",
+        "message": "Dernier",
+        "attribute": "04000000800F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mesSp_a1": {
+        "name": "sys_pause_mw_mesSp_a1",
+        "message": "que",
+        "attribute": "04000000820F0000",
+        "style_index": 9
+    },
+    "sys_pause_mw_mesSp_a2": {
+        "name": "sys_pause_mw_mesSp_a2",
+        "message": "bon,",
+        "attribute": "04000000840F0000",
+        "style_index": 9
+    },
+    "sys_pause_playerName": {
+        "name": "sys_pause_playerName",
+        "message": "[0] Envoyer directement",
+        "attribute": "04000000860F0000",
+        "style_index": 387
+    },
+    "sys_pause_modeName": {
+        "name": "sys_pause_modeName",
+        "message": "Début [0].",
+        "attribute": "04000000880F0000",
+        "style_index": 389
+    },
+    "sys_pause_mgName": {
+        "name": "sys_pause_mgName",
+        "message": "[0]",
+        "attribute": "040000008A0F0000",
+        "style_index": 390
+    },
+    "sys_pause_mapName": {
+        "name": "sys_pause_mapName",
+        "message": "et 10 000 personnes",
+        "attribute": "040000008C0F0000",
+        "style_index": 392
+    },
+    "sys_pause_mapDetails": {
+        "name": "sys_pause_mapDetails",
+        "message": "G [0]",
+        "attribute": "040000008E0F0000",
+        "style_index": 393
+    },
+    "sys_bdm_mw_save01": {
+        "name": "sys_bdm_mw_save01",
+        "message": "Voulez-vous y aller ? Les données\r\nincomplètes ne peuvent pas être\r\nrécupérées.",
+        "attribute": "04000000900F0000",
+        "style_index": 8
+    },
+    "sys_bdm_mw_save01_a0": {
+        "name": "sys_bdm_mw_save01_a0",
+        "message": "Réparer.",
+        "attribute": "04000000920F0000",
+        "style_index": 9
+    },
+    "sys_bdm_mw_save01_a1": {
+        "name": "sys_bdm_mw_save01_a1",
+        "message": "acheter.",
+        "attribute": "04000000940F0000",
+        "style_index": 9
+    },
+    "sys_bdm_mw_save03": {
+        "name": "sys_bdm_mw_save03",
+        "message": "Sélectionnez l’une des six\r\noptions.",
+        "attribute": "04010000960F0000",
+        "style_index": 506
+    },
+    "sys_retry_slct_mapSlct": {
+        "name": "sys_retry_slct_mapSlct",
+        "message": "oiseau.",
+        "attribute": "04000000980F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mainM": {
+        "name": "sys_retry_slct_mainM",
+        "message": "Poursuivre.",
+        "attribute": "040000009A0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mgM01": {
+        "name": "sys_retry_slct_mgM01",
+        "message": "Noir.",
+        "attribute": "040000009C0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_mgSlct": {
+        "name": "sys_retry_slct_mgSlct",
+        "message": "Choisissez-en un plus petit.",
+        "attribute": "040000009E0F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_randomSlct": {
+        "name": "sys_retry_slct_randomSlct",
+        "message": "Très rapide.",
+        "attribute": "04000000A00F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_play": {
+        "name": "sys_retry_slct_play",
+        "message": "pays་.",
+        "attribute": "04000000A20F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_levelX": {
+        "name": "sys_retry_slct_levelX",
+        "message": "Cela commence à partir de [0].",
+        "attribute": "04000000A40F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_level1": {
+        "name": "sys_retry_slct_level1",
+        "message": "Commençons par ça.",
+        "attribute": "04000000A60F0000",
+        "style_index": 395
+    },
+    "sys_retry_fav_mg": {
+        "name": "sys_retry_fav_mg",
+        "message": "Jouons à ce jeu ensemble.",
+        "attribute": "04000000A80F0000",
+        "style_index": 396
+    },
+    "sys_retry_fav_mgName": {
+        "name": "sys_retry_fav_mgName",
+        "message": "[0] Il n'y a rien de tel.",
+        "attribute": "04000000AA0F0000",
+        "style_index": 397
+    },
+    "sys_retry_fav_ctrl00": {
+        "name": "sys_retry_fav_ctrl00",
+        "message": "Tout ce dont vous avez besoin est\r\nlà.",
+        "attribute": "04000000AC0F0000",
+        "style_index": 398
+    },
+    "sys_retry_fav_ctrl01": {
+        "name": "sys_retry_fav_ctrl01",
+        "message": "Sélectionnez une application dans\r\nla liste déroulante.",
+        "attribute": "04000000AE0F0000",
+        "style_index": 398
+    },
+    "sys_retry_slct_bdM": {
+        "name": "sys_retry_slct_bdM",
+        "message": "Le gouvernement a refusé.",
+        "attribute": "04000000B00F0000",
+        "style_index": 395
+    },
+    "sys_retry_slct_hsmmet": {
+        "name": "sys_retry_slct_hsmmet",
+        "message": "La musique rock est une musique\r\nécrite.",
+        "attribute": "04000000B20F0000",
+        "style_index": 395
+    },
+    "sys_retry_mw_hsmmet": {
+        "name": "sys_retry_mw_hsmmet",
+        "message": "Puis-je aller à la salle de sport\r\n?",
+        "attribute": "04000000B40F0000",
+        "style_index": 8
+    },
+    "sys_mgM_scoreCard_score": {
+        "name": "sys_mgM_scoreCard_score",
+        "message": "[0] 9 heures",
+        "attribute": "04000000B60F0000",
+        "style_index": 517
+    },
+    "sys_reward_mp_level0": {
+        "name": "sys_reward_mp_level0",
+        "message": "Merci, Maria.",
+        "attribute": "04000000B80F0000",
+        "style_index": 379
+    },
+    "sys_reward_mp_level1": {
+        "name": "sys_reward_mp_level1",
+        "message": "Allez mec.",
+        "attribute": "04000000BA0F0000",
+        "style_index": 380
+    },
+    "sys_reward_mp_next": {
+        "name": "sys_reward_mp_next",
+        "message": "Ouvrez le document comme indiqué\r\nci-dessous : [0][1:1].",
+        "attribute": "04000000BC0F0000",
+        "style_index": 381
+    },
+    "sys_reward_mp_titleName": {
+        "name": "sys_reward_mp_titleName",
+        "message": "[0] 9. Oui.",
+        "attribute": "04000000BE0F0000",
+        "style_index": 383
+    },
+    "sys_reward_mp_add": {
+        "name": "sys_reward_mp_add",
+        "message": "+[0] Articles.",
+        "attribute": "04000000C00F0000",
+        "style_index": 385
+    },
+    "sys_reward_mw_get": {
+        "name": "sys_reward_mw_get",
+        "message": "Mario est très fort.",
+        "attribute": "04000000C20F0000",
+        "style_index": 8
+    },
+    "sys_reward_mw_name": {
+        "name": "sys_reward_mw_name",
+        "message": "C'est BT ?",
+        "attribute": "04000000C40F0000",
+        "style_index": 386
+    },
+    "im_sys_modeName00": {
+        "name": "im_sys_modeName00",
+        "message": "Mario a eu de la chance.",
+        "attribute": "04000000C60F0000",
+        "style_index": 4294967295
+    },
+    "im_sys_modeName01": {
+        "name": "im_sys_modeName01",
+        "message": "Tête longue, cheveux bouclés.",
+        "attribute": "04000000C80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_mw_hsmn00": {
+        "name": "sys_reward_mw_hsmn00",
+        "message": "La question 61-00 est correcte,\r\nnon.",
+        "attribute": "04000000CA0F0000",
+        "style_index": 8
+    },
+    "sys_reward_info": {
+        "name": "sys_reward_info",
+        "message": "(0)",
+        "attribute": "04000000CC0F0000",
+        "style_index": 521
+    },
+    "sys_reward_info_mes00": {
+        "name": "sys_reward_info_mes00",
+        "message": "Mario Chapitre 5 : Construisez\r\nune nouvelle école !",
+        "attribute": "04000000CE0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes01": {
+        "name": "sys_reward_info_mes01",
+        "message": "Étape 10 : Créez une nouvelle\r\ncarte des tâches.",
+        "attribute": "04000000D00F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes02": {
+        "name": "sys_reward_info_mes02",
+        "message": "Mario Niveau 15 : Trouvez de\r\nnouveaux trésors !",
+        "attribute": "04000000D20F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes03": {
+        "name": "sys_reward_info_mes03",
+        "message": "Mario 20th Anniversary – De\r\nnouvelles cartes ont été ajoutées\r\nau plateau de jeu.",
+        "attribute": "04000000D40F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes04": {
+        "name": "sys_reward_info_mes04",
+        "message": "Le chien militaire Mario fête ses\r\n25 ans !",
+        "attribute": "04000000D60F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes05": {
+        "name": "sys_reward_info_mes05",
+        "message": "Mario, chapitre 30. Nouvelles\r\nimages du jardin d'Éden.\r\nC'est tout.",
+        "attribute": "04000000D80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes06": {
+        "name": "sys_reward_info_mes06",
+        "message": "Mario : Il y a un nouveau\r\nrestaurant au 35e étage !",
+        "attribute": "04000000DA0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes07": {
+        "name": "sys_reward_info_mes07",
+        "message": "Étape 3 : De nouveaux livres\r\narrivent au bureau !",
+        "attribute": "04000000DC0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes08": {
+        "name": "sys_reward_info_mes08",
+        "message": "Comparaison de niveau 50 : .",
+        "attribute": "04000000DE0F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes09": {
+        "name": "sys_reward_info_mes09",
+        "message": "Mario Kart : l'homme derrière\r\ntout ça a 60 ans.",
+        "attribute": "04000000E00F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes10": {
+        "name": "sys_reward_info_mes10",
+        "message": "La version 70 de Mario est\r\ndésormais disponible.",
+        "attribute": "04000000E20F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes11": {
+        "name": "sys_reward_info_mes11",
+        "message": "Marion pour ses 73 ans : Allez !",
+        "attribute": "04000000E40F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes12": {
+        "name": "sys_reward_info_mes12",
+        "message": "La première étape est la\r\ncroyance.",
+        "attribute": "04000000E60F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_info_mes13": {
+        "name": "sys_reward_info_mes13",
+        "message": "Mario Adventure 99 : de nouvelles\r\nfaçons d'interagir avec les\r\ndragons",
+        "attribute": "04000000E80F0000",
+        "style_index": 4294967295
+    },
+    "sys_reward_ctrl_next": {
+        "name": "sys_reward_ctrl_next",
+        "message": "N'hésitez pas.",
+        "attribute": "04000000EA0F0000",
+        "style_index": 608
+    },
+    "sys_reward_coin_have": {
+        "name": "sys_reward_coin_have",
+        "message": "Deuxième option",
+        "attribute": "04000000EC0F0000",
+        "style_index": 376
+    },
+    "sys_reward_coin_add": {
+        "name": "sys_reward_coin_add",
+        "message": "+ [0] Patient.",
+        "attribute": "04000000EE0F0000",
+        "style_index": 377
+    },
+    "sys_reward_coin_detailCoin": {
+        "name": "sys_reward_coin_detailCoin",
+        "message": "[0] Non, c'est différent.",
+        "attribute": "04000000F00F0000",
+        "style_index": 593
+    },
+    "sys_reward_coin_haveStar": {
+        "name": "sys_reward_coin_haveStar",
+        "message": "Score [0] [1:1] [1:1].",
+        "attribute": "04000000F20F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_handClap": {
+        "name": "sys_reward_coin_handClap",
+        "message": "obtenir.",
+        "attribute": "04000000F40F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_MG_streak": {
+        "name": "sys_reward_coin_MG_streak",
+        "message": "moi aussi.",
+        "attribute": "04000000F60F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_3win": {
+        "name": "sys_reward_coin_hsmm04_3win",
+        "message": "Il y a trois façons de procéder.",
+        "attribute": "04000000F80F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_5win": {
+        "name": "sys_reward_coin_hsmm04_5win",
+        "message": "Il a gagné cinq fois.",
+        "attribute": "04000000FA0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm04_10win": {
+        "name": "sys_reward_coin_hsmm04_10win",
+        "message": "Étape 10. Étape 10.",
+        "attribute": "04000000FC0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage1": {
+        "name": "sys_reward_coin_hsmm05_stage1",
+        "message": "La première mi-temps est\r\nterminée.",
+        "attribute": "04000000FE0F0000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage2": {
+        "name": "sys_reward_coin_hsmm05_stage2",
+        "message": "C'est une autre bonne option.",
+        "attribute": "0400000000100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage3": {
+        "name": "sys_reward_coin_hsmm05_stage3",
+        "message": "Il n'y a pas d'ennemis.",
+        "attribute": "0400000002100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage4": {
+        "name": "sys_reward_coin_hsmm05_stage4",
+        "message": "Il a terminé la troisième année.",
+        "attribute": "0400000004100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage5": {
+        "name": "sys_reward_coin_hsmm05_stage5",
+        "message": "Le chapitre 5 conclut.",
+        "attribute": "0400000006100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm05_stage6": {
+        "name": "sys_reward_coin_hsmm05_stage6",
+        "message": "Cela fait six jours.",
+        "attribute": "0400000008100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_hsmm02_rankUP": {
+        "name": "sys_reward_coin_hsmm02_rankUP",
+        "message": "Il n'y a aucun moyen.",
+        "attribute": "040000000A100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_bdm_bonus1": {
+        "name": "sys_reward_coin_bdm_bonus1",
+        "message": "[0:3 35-35-02-FF] 0:3\r\n00-00-00-FF-FF.",
+        "attribute": "040000000C100000",
+        "style_index": 594
+    },
+    "sys_reward_coin_bdm_bonus_x": {
+        "name": "sys_reward_coin_bdm_bonus_x",
+        "message": "0:3 × 0:30.",
+        "attribute": "040000000E100000",
+        "style_index": 593
+    },
+    "sys_reward_exp_bdm_10_1st": {
+        "name": "sys_reward_exp_bdm_10_1st",
+        "message": "Dix jours plus tard, il était le\r\npremier à obtenir son diplôme.",
+        "attribute": "0400000010100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_2nd": {
+        "name": "sys_reward_exp_bdm_10_2nd",
+        "message": "Il a remporté la course et a\r\nterminé deuxième.",
+        "attribute": "0400000012100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_3rd": {
+        "name": "sys_reward_exp_bdm_10_3rd",
+        "message": "Dix heures plus tard, un\r\ntroisième enfant est né.",
+        "attribute": "0400000014100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_10_4th": {
+        "name": "sys_reward_exp_bdm_10_4th",
+        "message": "Il a terminé 5ème et 4ème.",
+        "attribute": "0400000016100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_1st": {
+        "name": "sys_reward_exp_bdm_15_1st",
+        "message": "C'était le quinzième.",
+        "attribute": "0400000018100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_2nd": {
+        "name": "sys_reward_exp_bdm_15_2nd",
+        "message": "Elle a également terminé deuxième\r\nau 15 mètres.",
+        "attribute": "040000001A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_3rd": {
+        "name": "sys_reward_exp_bdm_15_3rd",
+        "message": "Troisième place avec 15 points.",
+        "attribute": "040000001C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_15_4th": {
+        "name": "sys_reward_exp_bdm_15_4th",
+        "message": "Il a terminé quatrième derrière\r\nquinze Lions.",
+        "attribute": "040000001E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_1st": {
+        "name": "sys_reward_exp_bdm_20_1st",
+        "message": "Après quelques essais, j'ai\r\nréussi du premier coup.",
+        "attribute": "0400000020100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_2nd": {
+        "name": "sys_reward_exp_bdm_20_2nd",
+        "message": "Elle est arrivée deuxième avec 20\r\ntentatives.",
+        "attribute": "0400000022100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_3rd": {
+        "name": "sys_reward_exp_bdm_20_3rd",
+        "message": "La troisième phrase est correcte.",
+        "attribute": "0400000024100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_20_4th": {
+        "name": "sys_reward_exp_bdm_20_4th",
+        "message": "Il reste encore une course et il\r\nest en quatrième position.",
+        "attribute": "0400000026100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_1st": {
+        "name": "sys_reward_exp_bdm_25_1st",
+        "message": "C'était il y a 25 ans.",
+        "attribute": "0400000028100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_2nd": {
+        "name": "sys_reward_exp_bdm_25_2nd",
+        "message": "Il a terminé deuxième avec 25\r\npoints.",
+        "attribute": "040000002A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_3rd": {
+        "name": "sys_reward_exp_bdm_25_3rd",
+        "message": "C'est la troisième fois\r\nqu'il fait ça.",
+        "attribute": "040000002C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_25_4th": {
+        "name": "sys_reward_exp_bdm_25_4th",
+        "message": "Belle conception.",
+        "attribute": "040000002E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_1st": {
+        "name": "sys_reward_exp_bdm_30_1st",
+        "message": "Environ 30 km.",
+        "attribute": "0400000030100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_2nd": {
+        "name": "sys_reward_exp_bdm_30_2nd",
+        "message": "Le deuxième soulèvement eut lieu\r\nsix mois plus tard.",
+        "attribute": "0400000032100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_3rd": {
+        "name": "sys_reward_exp_bdm_30_3rd",
+        "message": "Une minute s'est écoulée\r\ndepuis le début du match.",
+        "attribute": "0400000034100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bdm_30_4th": {
+        "name": "sys_reward_exp_bdm_30_4th",
+        "message": "Il est arrivé en quatrième place\r\navec 30 voix.",
+        "attribute": "0400000036100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_play": {
+        "name": "sys_reward_exp_mgm_play",
+        "message": "Ne manquez pas cette compétition.",
+        "attribute": "0400000038100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_win": {
+        "name": "sys_reward_exp_mgm_win",
+        "message": "Il a remporté la première place\r\ndans de nombreuses compétitions.",
+        "attribute": "040000003A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_lose": {
+        "name": "sys_reward_exp_mgm_lose",
+        "message": "Nous ne voulons pas avoir\r\nd’ennuis.",
+        "attribute": "040000003C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_mgm_master": {
+        "name": "sys_reward_exp_mgm_master",
+        "message": "J'ai un diplôme en\r\npsychologie.",
+        "attribute": "040000003E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win1": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win1",
+        "message": "Gagnants : 7",
+        "attribute": "0400000040100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win2": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win2",
+        "message": "14 grains de sable",
+        "attribute": "0400000042100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_win3": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_win3",
+        "message": "Shober a reçu 21 pour cent des\r\nvoix.",
+        "attribute": "0400000044100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose1": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose1",
+        "message": "Il a marqué sept buts avec des\r\nvolées fantastiques.",
+        "attribute": "0400000046100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose2": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose2",
+        "message": "Le problème avec la natation de\r\ncompétition est que personne ne\r\ntermine jamais dans les quatre\r\npremiers.",
+        "attribute": "0400000048100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg501_lose3": {
+        "name": "sys_reward_exp_hsmm02_hsmg501_lose3",
+        "message": "Puce cool.",
+        "attribute": "040000004A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win1": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win1",
+        "message": "Football. Une minute de\r\nméditation.",
+        "attribute": "040000004C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win2": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win2",
+        "message": "Un match de hockey typique dure\r\ntrois minutes.",
+        "attribute": "040000004E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_win3": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_win3",
+        "message": "L'équipe de hockey\r\nuniversitaire a gagné en cinq\r\nminutes.",
+        "attribute": "0400000050100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose1": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose1",
+        "message": "L’essentiel est d’utiliser votre\r\ntemps à bon escient.",
+        "attribute": "0400000052100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose2": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose2",
+        "message": "Hockey : Trois minutes.",
+        "attribute": "0400000054100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_hsmg502_lose3": {
+        "name": "sys_reward_exp_hsmm02_hsmg502_lose3",
+        "message": "C'est la même chose au hockey\r\n: personne ne gagne en cinq\r\nminutes.",
+        "attribute": "0400000056100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankC": {
+        "name": "sys_reward_exp_hsmm02_rankC",
+        "message": "J'ai un enfant.",
+        "attribute": "0400000058100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankB": {
+        "name": "sys_reward_exp_hsmm02_rankB",
+        "message": "Je suis allé à l'UCLA.",
+        "attribute": "040000005A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankA": {
+        "name": "sys_reward_exp_hsmm02_rankA",
+        "message": "J'ai terminé mes études.",
+        "attribute": "040000005C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankS": {
+        "name": "sys_reward_exp_hsmm02_rankS",
+        "message": "C'est la bonne réponse.",
+        "attribute": "040000005E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm02_rankMAX": {
+        "name": "sys_reward_exp_hsmm02_rankMAX",
+        "message": "Est-ce que tu vas à l'école ?",
+        "attribute": "0400000060100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_1st": {
+        "name": "sys_reward_exp_hsmm03_5_1st",
+        "message": "Après cinq combats, il s'est\r\nsuicidé.",
+        "attribute": "0400000062100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_2nd": {
+        "name": "sys_reward_exp_hsmm03_5_2nd",
+        "message": "Les lundis et jeudis.",
+        "attribute": "0400000064100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_3rd": {
+        "name": "sys_reward_exp_hsmm03_5_3rd",
+        "message": "Il a marqué cinq buts et fourni\r\ntrois passes décisives.",
+        "attribute": "0400000066100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_5_4th": {
+        "name": "sys_reward_exp_hsmm03_5_4th",
+        "message": "Cinq semaines plus tard, elle\r\nétait déjà en quatrième année.",
+        "attribute": "0400000068100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_1st": {
+        "name": "sys_reward_exp_hsmm03_10_1st",
+        "message": "J'ai terminé deuxième dans la\r\ncourse de 10 kilomètres.",
+        "attribute": "040000006A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_2nd": {
+        "name": "sys_reward_exp_hsmm03_10_2nd",
+        "message": "Répétez le même processus après\r\nla troisième rangée.",
+        "attribute": "040000006C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_3rd": {
+        "name": "sys_reward_exp_hsmm03_10_3rd",
+        "message": "Je suis en troisième année.",
+        "attribute": "040000006E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_10_4th": {
+        "name": "sys_reward_exp_hsmm03_10_4th",
+        "message": "Il a terminé quatrième en neuf\r\ncourses.",
+        "attribute": "0400000070100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_1st": {
+        "name": "sys_reward_exp_hsmm03_15_1st",
+        "message": "Une quarantaine de personnes.",
+        "attribute": "0400000072100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_2nd": {
+        "name": "sys_reward_exp_hsmm03_15_2nd",
+        "message": "Deuxièmement, de la section «\r\nLivres ».",
+        "attribute": "0400000074100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_3rd": {
+        "name": "sys_reward_exp_hsmm03_15_3rd",
+        "message": "Niveau 3 : 15 m haies",
+        "attribute": "0400000076100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm03_15_4th": {
+        "name": "sys_reward_exp_hsmm03_15_4th",
+        "message": "J'avais seulement quatre ans\r\nl'année dernière.",
+        "attribute": "0400000078100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_3_win": {
+        "name": "sys_reward_exp_hsmm04_3_win",
+        "message": "Vous pouvez ajouter de nouveaux\r\néléments.",
+        "attribute": "040000007A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_5_win": {
+        "name": "sys_reward_exp_hsmm04_5_win",
+        "message": "C'est le cinquième niveau.",
+        "attribute": "040000007C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_10_win": {
+        "name": "sys_reward_exp_hsmm04_10_win",
+        "message": "Augmentez vos chances d’obtenir\r\nune étoile en suivant ces 10\r\nconseils :",
+        "attribute": "040000007E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_3_lose": {
+        "name": "sys_reward_exp_hsmm04_3_lose",
+        "message": "Il obtient trois étoiles et pour\r\nune bonne raison.",
+        "attribute": "0400000080100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_5_lose": {
+        "name": "sys_reward_exp_hsmm04_5_lose",
+        "message": "Ce n'est pas une étoile.",
+        "attribute": "0400000082100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm04_10_lose": {
+        "name": "sys_reward_exp_hsmm04_10_lose",
+        "message": "Le test est basé sur 10 points\r\nsur 10.",
+        "attribute": "0400000084100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg1": {
+        "name": "sys_reward_exp_hsmm05_stg1",
+        "message": "La deuxième mi-temps du match a\r\ncommencé.",
+        "attribute": "0400000086100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg2": {
+        "name": "sys_reward_exp_hsmm05_stg2",
+        "message": "Le chapitre 2 se termine.",
+        "attribute": "0400000088100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg3": {
+        "name": "sys_reward_exp_hsmm05_stg3",
+        "message": "Pas avant 3 jours.",
+        "attribute": "040000008A100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg4": {
+        "name": "sys_reward_exp_hsmm05_stg4",
+        "message": "Une autre année s'est\r\nécoulée.",
+        "attribute": "040000008C100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg5": {
+        "name": "sys_reward_exp_hsmm05_stg5",
+        "message": "Le cinquième quart-temps est\r\nterminé.",
+        "attribute": "040000008E100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm05_stg6": {
+        "name": "sys_reward_exp_hsmm05_stg6",
+        "message": "Le premier a été annulé.",
+        "attribute": "0400000090100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm06_duel_win": {
+        "name": "sys_reward_exp_hsmm06_duel_win",
+        "message": "Je me battais.",
+        "attribute": "0400000092100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_hsmm06_duel_lose": {
+        "name": "sys_reward_exp_hsmm06_duel_lose",
+        "message": "Ne manquez pas votre chance de\r\nfaire de l’exercice.",
+        "attribute": "0400000094100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bonus_friend": {
+        "name": "sys_reward_exp_bonus_friend",
+        "message": "Vous pouvez vendre vos produits\r\nen ligne.",
+        "attribute": "0400000096100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_takeout": {
+        "name": "sys_reward_exp_takeout",
+        "message": "Où vas-tu au marché ?",
+        "attribute": "0400000098100000",
+        "style_index": 601
+    },
+    "sys_reward_exp_bonus_x": {
+        "name": "sys_reward_exp_bonus_x",
+        "message": "× [0] [Heure 0:300-00-00].",
+        "attribute": "040000009A100000",
+        "style_index": 385
+    },
+    "sys_unlock_mw_name": {
+        "name": "sys_unlock_mw_name",
+        "message": "[0] Bonjour.",
+        "attribute": "040000009C100000",
+        "style_index": 503
+    },
+    "sys_unlock_mw_type00": {
+        "name": "sys_unlock_mw_type00",
+        "message": "Aucune grande entreprise, groupe\r\nou employeur n’est éligible.",
+        "attribute": "040000009E100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type01": {
+        "name": "sys_unlock_mw_type01",
+        "message": "[0] Cette page contient des liens\r\nvers vos fichiers.",
+        "attribute": "04000000A0100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type02": {
+        "name": "sys_unlock_mw_type02",
+        "message": "[0] Joueur fort.",
+        "attribute": "04000000A2100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type03": {
+        "name": "sys_unlock_mw_type03",
+        "message": "Parce que c’est ce qui est arrivé\r\nà Todd.",
+        "attribute": "04000000A4100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type04": {
+        "name": "sys_unlock_mw_type04",
+        "message": "C'est un jeu !",
+        "attribute": "04000000A6100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type05": {
+        "name": "sys_unlock_mw_type05",
+        "message": "Nous commençons maintenant une\r\nnouvelle série.",
+        "attribute": "04000000A8100000",
+        "style_index": 504
+    },
+    "sys_unlock_mw_type06": {
+        "name": "sys_unlock_mw_type06",
+        "message": "Monsieur, la nourriture est\r\ndélicieuse.",
+        "attribute": "04000000AA100000",
+        "style_index": 504
+    },
+    "sys_rank_userName": {
+        "name": "sys_rank_userName",
+        "message": "[0] est vrai.",
+        "attribute": "04000000AC100000",
+        "style_index": 440
+    },
+    "sys_rank_bonus": {
+        "name": "sys_rank_bonus",
+        "message": "[0] Oui.",
+        "attribute": "04000000AE100000",
+        "style_index": 441
+    },
+    "sys_rank_bonus_plus": {
+        "name": "sys_rank_bonus_plus",
+        "message": "+ [0].",
+        "attribute": "04000000B0100000",
+        "style_index": 442
+    },
+    "sys_rank_bonus_minus": {
+        "name": "sys_rank_bonus_minus",
+        "message": "- [0]",
+        "attribute": "04000000B2100000",
+        "style_index": 442
+    },
+    "sys_rank_rivalName": {
+        "name": "sys_rank_rivalName",
+        "message": "Oui.",
+        "attribute": "04000000B4100000",
+        "style_index": 443
+    },
+    "sys_rank_tier_s": {
+        "name": "sys_rank_tier_s",
+        "message": "Je le ferai.",
+        "attribute": "04000000B6100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_a": {
+        "name": "sys_rank_tier_a",
+        "message": "Esprit.",
+        "attribute": "04000000B8100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_b": {
+        "name": "sys_rank_tier_b",
+        "message": "Sois prudent.",
+        "attribute": "04000000BA100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_c": {
+        "name": "sys_rank_tier_c",
+        "message": "Les états-unis d'Amérique.",
+        "attribute": "04000000BC100000",
+        "style_index": 444
+    },
+    "sys_rank_tier_d": {
+        "name": "sys_rank_tier_d",
+        "message": "d'accord",
+        "attribute": "04000000BE100000",
+        "style_index": 444
+    },
+    "sys_rank_hsmg000_bonus00": {
+        "name": "sys_rank_hsmg000_bonus00",
+        "message": "Enquête",
+        "attribute": "04000000C0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus01": {
+        "name": "sys_rank_hsmg000_bonus01",
+        "message": "Soudain, il s'est ouvert.",
+        "attribute": "04000000C2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus02": {
+        "name": "sys_rank_hsmg000_bonus02",
+        "message": "C'est une petite affaire.",
+        "attribute": "04000000C4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg000_bonus03": {
+        "name": "sys_rank_hsmg000_bonus03",
+        "message": "ça devrait être bien.",
+        "attribute": "04000000C6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus00": {
+        "name": "sys_rank_hsmg501_bonus00",
+        "message": "J'attends.",
+        "attribute": "04000000C8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus01": {
+        "name": "sys_rank_hsmg501_bonus01",
+        "message": "Ce n’est pas la même couleur.",
+        "attribute": "04000000CA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg501_bonus02": {
+        "name": "sys_rank_hsmg501_bonus02",
+        "message": "C'est bien !",
+        "attribute": "04000000CC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus00": {
+        "name": "sys_rank_hsmg502_bonus00",
+        "message": "trouver le bonheur",
+        "attribute": "04000000CE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus01": {
+        "name": "sys_rank_hsmg502_bonus01",
+        "message": "Excellent ! (Oh) Génial !",
+        "attribute": "04000000D0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus02": {
+        "name": "sys_rank_hsmg502_bonus02",
+        "message": "Je pense qu'ils sont\r\nvraiment, vraiment bons.",
+        "attribute": "04000000D2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg502_bonus03": {
+        "name": "sys_rank_hsmg502_bonus03",
+        "message": "Je vais réessayer.",
+        "attribute": "04000000D4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus00": {
+        "name": "sys_rank_hsmg503_bonus00",
+        "message": "signification",
+        "attribute": "04000000D6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus01": {
+        "name": "sys_rank_hsmg503_bonus01",
+        "message": "C'est une bonne nouvelle !",
+        "attribute": "04000000D8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus02": {
+        "name": "sys_rank_hsmg503_bonus02",
+        "message": "Alors viens, mon ami !",
+        "attribute": "04000000DA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus03": {
+        "name": "sys_rank_hsmg503_bonus03",
+        "message": "Il a enlevé ses vêtements.",
+        "attribute": "04000000DC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg503_bonus04": {
+        "name": "sys_rank_hsmg503_bonus04",
+        "message": "des vêtements ! (Coeurs : 1 ! 1\r\n!)",
+        "attribute": "04000000DE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus00": {
+        "name": "sys_rank_hsmg601_bonus00",
+        "message": "De la fin",
+        "attribute": "04000000E0100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus01": {
+        "name": "sys_rank_hsmg601_bonus01",
+        "message": "Un autocollant avec un Ari\r\nsouriant.",
+        "attribute": "04000000E2100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg601_bonus02": {
+        "name": "sys_rank_hsmg601_bonus02",
+        "message": "Quelqu'un d'autre.",
+        "attribute": "04000000E4100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus00": {
+        "name": "sys_rank_hsmg602_bonus00",
+        "message": "Soutient",
+        "attribute": "04000000E6100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus01": {
+        "name": "sys_rank_hsmg602_bonus01",
+        "message": "Revoir:",
+        "attribute": "04000000E8100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg602_bonus02": {
+        "name": "sys_rank_hsmg602_bonus02",
+        "message": "Oui, ils sont très bons.",
+        "attribute": "04000000EA100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus00": {
+        "name": "sys_rank_hsmg603_bonus00",
+        "message": "valeur",
+        "attribute": "04000000EC100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus01": {
+        "name": "sys_rank_hsmg603_bonus01",
+        "message": "Récompenses pour la résolution de\r\nproblèmes.",
+        "attribute": "04000000EE100000",
+        "style_index": 4294967295
+    },
+    "sys_rank_hsmg603_bonus02": {
+        "name": "sys_rank_hsmg603_bonus02",
+        "message": "La structure est également belle.",
+        "attribute": "04000000F0100000",
+        "style_index": 4294967295
+    },
+    "sys_error_mw_B00": {
+        "name": "sys_error_mw_B00",
+        "message": "Je me souviens de cette rencontre\r\net j'en suis très heureux.",
+        "attribute": "04000000F2100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B01": {
+        "name": "sys_error_mw_B01",
+        "message": "Inondation.",
+        "attribute": "04000000F4100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B02": {
+        "name": "sys_error_mw_B02",
+        "message": "Vitesse 0:104-00-00-00-00-00.",
+        "attribute": "04000000F6100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B03": {
+        "name": "sys_error_mw_B03",
+        "message": "C'est ça la coexistence.\r\nQu'est-ce que cela signifie ?",
+        "attribute": "04000000F8100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B05": {
+        "name": "sys_error_mw_B05",
+        "message": "Il n'y a pas de solution.",
+        "attribute": "04000000FA100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B06": {
+        "name": "sys_error_mw_B06",
+        "message": "19/9/2013 | [0:2 6E-00] Donc; Les\r\nrésultats seront annoncés au\r\ndébut du match. 19/9/2013 | 0:2 à\r\n64-0.",
+        "attribute": "04000000FC100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B07": {
+        "name": "sys_error_mw_B07",
+        "message": "Ils ont continué à parler pendant\r\nun moment.",
+        "attribute": "04000000FE100000",
+        "style_index": 8
+    },
+    "sys_error_mw_B08": {
+        "name": "sys_error_mw_B08",
+        "message": "C'est ainsi que la réunion\r\ns'est terminée.",
+        "attribute": "0400000000110000",
+        "style_index": 8
+    },
+    "sys_error_mw_C00": {
+        "name": "sys_error_mw_C00",
+        "message": "Il n'y a pas de fenêtres dans\r\ncette pièce.",
+        "attribute": "0400000002110000",
+        "style_index": 8
+    },
+    "sys_error_mw_C02": {
+        "name": "sys_error_mw_C02",
+        "message": "C'est très calme. Tu veux y\r\naller ?",
+        "attribute": "0400000004110000",
+        "style_index": 8
+    },
+    "sys_error_mw_D00": {
+        "name": "sys_error_mw_D00",
+        "message": "Il n'y a pas de limite de\r\ntemps.",
+        "attribute": "0400000006110000",
+        "style_index": 8
+    },
+    "sys_error_mw_H01": {
+        "name": "sys_error_mw_H01",
+        "message": "Les joueurs sont partis. Pourquoi\r\nne pas réessayer ?",
+        "attribute": "0400000008110000",
+        "style_index": 8
+    },
+    "sys_error_mw_H01_a0": {
+        "name": "sys_error_mw_H01_a0",
+        "message": "il/elle/ça",
+        "attribute": "040000000A110000",
+        "style_index": 9
+    },
+    "sys_error_mw_H01_a2": {
+        "name": "sys_error_mw_H01_a2",
+        "message": "En écrivant",
+        "attribute": "040000000C110000",
+        "style_index": 9
+    },
+    "sys_error_mw_I00": {
+        "name": "sys_error_mw_I00",
+        "message": "Je ne sais pas ce que c'est.",
+        "attribute": "040000000E110000",
+        "style_index": 8
+    },
+    "sys_error_mw_J00": {
+        "name": "sys_error_mw_J00",
+        "message": "Je voulais créer un jeu qui\r\npourrait être joué sur la\r\nNintendo Switch.",
+        "attribute": "0400000010110000",
+        "style_index": 8
+    },
+    "sys_error_mw_K00": {
+        "name": "sys_error_mw_K00",
+        "message": "Il n’a rien dit.",
+        "attribute": "0400000012110000",
+        "style_index": 8
+    },
+    "sys_retry_play_team": {
+        "name": "sys_retry_play_team",
+        "message": "Qu'est-ce que cela signifie?",
+        "attribute": "0400000014110000",
+        "style_index": 472
+    },
+    "sys_retry_play_stage": {
+        "name": "sys_retry_play_stage",
+        "message": "Il est maintenant temps\r\nd’apprendre.",
+        "attribute": "0400000016110000",
+        "style_index": 473
+    },
+    "sys_retry_play_start": {
+        "name": "sys_retry_play_start",
+        "message": "C'est fait ! (Oui) Regardez !",
+        "attribute": "0400000018110000",
+        "style_index": 474
+    },
+    "sys_retry_play_normal": {
+        "name": "sys_retry_play_normal",
+        "message": "mais",
+        "attribute": "040000001A110000",
+        "style_index": 603
+    },
+    "sys_retry_play_endless": {
+        "name": "sys_retry_play_endless",
+        "message": "...... maintenant",
+        "attribute": "040000001C110000",
+        "style_index": 603
+    },
+    "sys_retry_play_next": {
+        "name": "sys_retry_play_next",
+        "message": "Est-ce vrai ? Qu'est-ce que\r\nc'est ?",
+        "attribute": "040000001E110000",
+        "style_index": 474
+    },
+    "sys_pause_mgRank_header": {
+        "name": "sys_pause_mgRank_header",
+        "message": "4. Méthodes de recherche.",
+        "attribute": "0400000020110000",
+        "style_index": 487
+    },
+    "sys_pause_mgRank_A": {
+        "name": "sys_pause_mgRank_A",
+        "message": "En retard",
+        "attribute": "0400000022110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_B": {
+        "name": "sys_pause_mgRank_B",
+        "message": "Sois patient!",
+        "attribute": "0400000024110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_C": {
+        "name": "sys_pause_mgRank_C",
+        "message": "enseigné",
+        "attribute": "0400000026110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_D": {
+        "name": "sys_pause_mgRank_D",
+        "message": "Bonjour.",
+        "attribute": "0400000028110000",
+        "style_index": 484
+    },
+    "sys_pause_mgRank_details": {
+        "name": "sys_pause_mgRank_details",
+        "message": "Hé, hé, hé.",
+        "attribute": "040000002A110000",
+        "style_index": 485
+    },
+    "sys_mgRank_hsmg102_3_A": {
+        "name": "sys_mgRank_hsmg102_3_A",
+        "message": "Cela prendra environ dix minutes.",
+        "attribute": "040000002C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_B": {
+        "name": "sys_mgRank_hsmg102_3_B",
+        "message": "10 à 14 minutes.",
+        "attribute": "040000002E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_C": {
+        "name": "sys_mgRank_hsmg102_3_C",
+        "message": "De 5 à 9 heures de route.",
+        "attribute": "0400000030110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_3_D": {
+        "name": "sys_mgRank_hsmg102_3_D",
+        "message": "Il reste quatre secondes",
+        "attribute": "0400000032110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_A": {
+        "name": "sys_mgRank_hsmg111_3_A",
+        "message": "pp. 81-90 (omis).",
+        "attribute": "0400000034110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_B": {
+        "name": "sys_mgRank_hsmg111_3_B",
+        "message": "61–80 : Le premier.",
+        "attribute": "0400000036110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_C": {
+        "name": "sys_mgRank_hsmg111_3_C",
+        "message": "Jour 41",
+        "attribute": "0400000038110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_3_D": {
+        "name": "sys_mgRank_hsmg111_3_D",
+        "message": "Chapitre 1, Partie 1.",
+        "attribute": "040000003A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_A": {
+        "name": "sys_mgRank_hsmg106_3_A",
+        "message": "De plus, je n’ai pas le temps.",
+        "attribute": "040000003C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_B": {
+        "name": "sys_mgRank_hsmg106_3_B",
+        "message": "Il est fermé de 13h00 à 19h00.",
+        "attribute": "040000003E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_C": {
+        "name": "sys_mgRank_hsmg106_3_C",
+        "message": "Maintenez cette position pendant\r\nenviron 7 à 12 secondes.",
+        "attribute": "0400000040110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_3_D": {
+        "name": "sys_mgRank_hsmg106_3_D",
+        "message": "Cela a pris environ 20 heures.",
+        "attribute": "0400000042110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_A": {
+        "name": "sys_mgRank_hsmg113_3_A",
+        "message": "Trois équipes ont gagné.",
+        "attribute": "0400000044110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_B": {
+        "name": "sys_mgRank_hsmg113_3_B",
+        "message": "Ils ont tous maudit.",
+        "attribute": "0400000046110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_C": {
+        "name": "sys_mgRank_hsmg113_3_C",
+        "message": "Une seule personne du groupe peut\r\nlire (sans ordinateur).",
+        "attribute": "0400000048110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_3_D": {
+        "name": "sys_mgRank_hsmg113_3_D",
+        "message": "Il est le gagnant.",
+        "attribute": "040000004A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_A": {
+        "name": "sys_mgRank_hsmg109_3_A",
+        "message": "Votre équipe gagne.",
+        "attribute": "040000004C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_B": {
+        "name": "sys_mgRank_hsmg109_3_B",
+        "message": "Tout le monde est gagnant.",
+        "attribute": "040000004E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_C": {
+        "name": "sys_mgRank_hsmg109_3_C",
+        "message": "Ils travaillent avec les membres,\r\npas avec les ordinateurs de\r\nl'entreprise.",
+        "attribute": "0400000050110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_3_D": {
+        "name": "sys_mgRank_hsmg109_3_D",
+        "message": "Son ordinateur était également en\r\npanne.",
+        "attribute": "0400000052110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_A": {
+        "name": "sys_mgRank_hsmg101_3_A",
+        "message": "Aucune équipe n’a remporté trois\r\nchampionnats.",
+        "attribute": "0400000054110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_B": {
+        "name": "sys_mgRank_hsmg101_3_B",
+        "message": "Tout le monde est ensemble.",
+        "attribute": "0400000056110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_C": {
+        "name": "sys_mgRank_hsmg101_3_C",
+        "message": "Si vous avez un ordinateur,\r\ndemandez aux employés de changer\r\nde poste de travail.",
+        "attribute": "0400000058110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_3_D": {
+        "name": "sys_mgRank_hsmg101_3_D",
+        "message": "Le responsable se rend au service\r\ninformatique.",
+        "attribute": "040000005A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_A": {
+        "name": "sys_mgRank_hsmg114_3_A",
+        "message": "Tous les trois ont très bien joué\r\nleur rôle.",
+        "attribute": "040000005C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_B": {
+        "name": "sys_mgRank_hsmg114_3_B",
+        "message": "Les deux équipes ont gagné.",
+        "attribute": "040000005E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_C": {
+        "name": "sys_mgRank_hsmg114_3_C",
+        "message": "Les gens peuvent le faire, mais\r\npas les ordinateurs.",
+        "attribute": "0400000060110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_3_D": {
+        "name": "sys_mgRank_hsmg114_3_D",
+        "message": "L'entreprise aura accès à\r\nvotre ordinateur.",
+        "attribute": "0400000062110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_A": {
+        "name": "sys_mgRank_hsmg110_3_A",
+        "message": "Le policier a tiré 10 coups de\r\nfeu.",
+        "attribute": "0400000064110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_B": {
+        "name": "sys_mgRank_hsmg110_3_B",
+        "message": "20 secondes par joueur, 10\r\nsecondes par équipe.",
+        "attribute": "0400000066110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_C": {
+        "name": "sys_mgRank_hsmg110_3_C",
+        "message": "Le joueur doit retirer la balle\r\navant la fin du jeu, sinon\r\nl'ordinateur n'aura pas\r\nle temps de la traiter dans les\r\nvingt secondes.",
+        "attribute": "0400000068110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_3_D": {
+        "name": "sys_mgRank_hsmg110_3_D",
+        "message": "C'est la première fois que la\r\npolice ouvre le feu et tue une\r\npersonne.",
+        "attribute": "040000006A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_A": {
+        "name": "sys_mgRank_hsmg115_3_A",
+        "message": "Nous avons gagné trois matchs.",
+        "attribute": "040000006C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_B": {
+        "name": "sys_mgRank_hsmg115_3_B",
+        "message": "Deux autres personnes ont été\r\ntuées.",
+        "attribute": "040000006E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_C": {
+        "name": "sys_mgRank_hsmg115_3_C",
+        "message": "Les membres de l’équipe peuvent\r\nfaire la même chose (hors ligne).",
+        "attribute": "0400000070110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_3_D": {
+        "name": "sys_mgRank_hsmg115_3_D",
+        "message": "Le gagnant fera partie du groupe\r\nd’experts en informatique.",
+        "attribute": "0400000072110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_A": {
+        "name": "sys_mgRank_hsmg103_3_A",
+        "message": "Les joueurs peuvent vaincre leurs\r\nadversaires en dix secondes.",
+        "attribute": "0400000074110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_B": {
+        "name": "sys_mgRank_hsmg103_3_B",
+        "message": "Il faut 20 secondes pour que le\r\nmoteur démarre et 10 secondes\r\npour que l'ordinateur\r\ndémarre.",
+        "attribute": "0400000076110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_C": {
+        "name": "sys_mgRank_hsmg103_3_C",
+        "message": "Les participants se sont assis\r\ndevant un écran d’ordinateur\r\npendant 20 secondes.",
+        "attribute": "0400000078110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_3_D": {
+        "name": "sys_mgRank_hsmg103_3_D",
+        "message": "Les ordinateurs peuvent être\r\nutilisés avec n’importe quel\r\nappareil.",
+        "attribute": "040000007A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_A": {
+        "name": "sys_mgRank_hsmg107_3_A",
+        "message": "Éliminez vos ennemis en 10\r\nsecondes.",
+        "attribute": "040000007C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_B": {
+        "name": "sys_mgRank_hsmg107_3_B",
+        "message": "Les joueurs doivent tuer un\r\nennemi dans les 20 secondes et\r\ndéverrouiller l'ordinateur\r\ndans les 10 secondes.",
+        "attribute": "040000007E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_C": {
+        "name": "sys_mgRank_hsmg107_3_C",
+        "message": "Si un joueur bat un ennemi ou un\r\npersonnage dans le jeu, il\r\nrecevra 20 points au fil du\r\ntemps.",
+        "attribute": "0400000080110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_3_D": {
+        "name": "sys_mgRank_hsmg107_3_D",
+        "message": "Les Peuls ont détruit leurs\r\nennemis.",
+        "attribute": "0400000082110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_A": {
+        "name": "sys_mgRank_hsmg105_3_A",
+        "message": "L'attaque a duré six heures.",
+        "attribute": "0400000084110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_B": {
+        "name": "sys_mgRank_hsmg105_3_B",
+        "message": "Cela a pris environ trente\r\nheures.",
+        "attribute": "0400000086110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_C": {
+        "name": "sys_mgRank_hsmg105_3_C",
+        "message": "30 secondes restantes",
+        "attribute": "0400000088110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_3_D": {
+        "name": "sys_mgRank_hsmg105_3_D",
+        "message": "Pouvez-vous nous en dire un peu\r\nplus à ce sujet ?",
+        "attribute": "040000008A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_A": {
+        "name": "sys_mgRank_hsmg112_3_A",
+        "message": "Vous devez prendre le médicament\r\nà partir de 18h30, 30 heures\r\navant l’intervention.",
+        "attribute": "040000008C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_B": {
+        "name": "sys_mgRank_hsmg112_3_B",
+        "message": "Il a gagné dix fois.",
+        "attribute": "040000008E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_C": {
+        "name": "sys_mgRank_hsmg112_3_C",
+        "message": "Retirer du four et laisser\r\nreposer 6 à 10 minutes.",
+        "attribute": "0400000090110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_3_D": {
+        "name": "sys_mgRank_hsmg112_3_D",
+        "message": "Attendez une à cinq minutes et\r\nsupprimez toutes les données de\r\nl’ordinateur.",
+        "attribute": "0400000092110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_A": {
+        "name": "sys_mgRank_hsmg108_3_A",
+        "message": "Mes élèves sont forts.",
+        "attribute": "0400000094110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_B": {
+        "name": "sys_mgRank_hsmg108_3_B",
+        "message": "Les deux équipes ont gagné le\r\nmatch.",
+        "attribute": "0400000096110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_C": {
+        "name": "sys_mgRank_hsmg108_3_C",
+        "message": "Développement (technologie de la\r\ncommunication).",
+        "attribute": "0400000098110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_3_D": {
+        "name": "sys_mgRank_hsmg108_3_D",
+        "message": "L'ordinateur n'est pas\r\nmauvais.",
+        "attribute": "040000009A110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_A": {
+        "name": "sys_mgRank_hsmg104_3_A",
+        "message": "Le voyage a duré 10 heures.",
+        "attribute": "040000009C110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_B": {
+        "name": "sys_mgRank_hsmg104_3_B",
+        "message": "Le service est disponible 24\r\nheures sur 24.",
+        "attribute": "040000009E110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_C": {
+        "name": "sys_mgRank_hsmg104_3_C",
+        "message": "Cela prend environ 30 secondes.",
+        "attribute": "04000000A0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_3_D": {
+        "name": "sys_mgRank_hsmg104_3_D",
+        "message": "Il a marqué à la 48e minute.",
+        "attribute": "04000000A2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_A": {
+        "name": "sys_mgRank_hsmg102_1_A",
+        "message": "150%-300% (neuf).",
+        "attribute": "04000000A4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_B": {
+        "name": "sys_mgRank_hsmg102_1_B",
+        "message": "Elle varie de 100% à 149%.",
+        "attribute": "04000000A6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_C": {
+        "name": "sys_mgRank_hsmg102_1_C",
+        "message": "Les taux de conversion varient de\r\n50 % à 99 %.",
+        "attribute": "04000000A8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg102_1_D": {
+        "name": "sys_mgRank_hsmg102_1_D",
+        "message": "Leurs taux d’intérêt varient\r\nentre 1% et 49%.",
+        "attribute": "04000000AA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_A": {
+        "name": "sys_mgRank_hsmg111_1_A",
+        "message": "Puis vint la 11e minute.",
+        "attribute": "04000000AC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_B": {
+        "name": "sys_mgRank_hsmg111_1_B",
+        "message": "Il était 12 heures plus tôt que\r\nmidi.",
+        "attribute": "04000000AE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_C": {
+        "name": "sys_mgRank_hsmg111_1_C",
+        "message": "Laisser reposer environ 15\r\nminutes.",
+        "attribute": "04000000B0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg111_1_D": {
+        "name": "sys_mgRank_hsmg111_1_D",
+        "message": "Quatre heures.",
+        "attribute": "04000000B2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_A": {
+        "name": "sys_mgRank_hsmg106_1_A",
+        "message": "Lavez vos cheveux toutes les 20\r\nminutes.",
+        "attribute": "04000000B4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_B": {
+        "name": "sys_mgRank_hsmg106_1_B",
+        "message": "Faites tremper votre tête dans\r\nl’eau pendant 15 à 19 heures.",
+        "attribute": "04000000B6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_C": {
+        "name": "sys_mgRank_hsmg106_1_C",
+        "message": "Cuire au four pendant 15 minutes.",
+        "attribute": "04000000B8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg106_1_D": {
+        "name": "sys_mgRank_hsmg106_1_D",
+        "message": "Ajoutez de l’eau pendant 5 à 9\r\nsecondes.",
+        "attribute": "04000000BA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_A": {
+        "name": "sys_mgRank_hsmg113_1_A",
+        "message": "Vous pouvez en choisir un toutes\r\nles 30 secondes.",
+        "attribute": "04000000BC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_B": {
+        "name": "sys_mgRank_hsmg113_1_B",
+        "message": "12 heures.",
+        "attribute": "04000000BE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_C": {
+        "name": "sys_mgRank_hsmg113_1_C",
+        "message": "Maintenez la position pendant 10\r\nsecondes.",
+        "attribute": "04000000C0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg113_1_D": {
+        "name": "sys_mgRank_hsmg113_1_D",
+        "message": "Je suis arrivé à l'heure.",
+        "attribute": "04000000C2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_A": {
+        "name": "sys_mgRank_hsmg109_1_A",
+        "message": "Laissez agir pendant trente\r\nminutes.",
+        "attribute": "04000000C4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_B": {
+        "name": "sys_mgRank_hsmg109_1_B",
+        "message": "Vous avez 10 heures pour voter.",
+        "attribute": "04000000C6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_C": {
+        "name": "sys_mgRank_hsmg109_1_C",
+        "message": "30 secondes",
+        "attribute": "04000000C8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg109_1_D": {
+        "name": "sys_mgRank_hsmg109_1_D",
+        "message": "Il venait d'arriver.",
+        "attribute": "04000000CA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_A": {
+        "name": "sys_mgRank_hsmg101_1_A",
+        "message": "Ils ont 21 et 30 ans.",
+        "attribute": "04000000CC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_B": {
+        "name": "sys_mgRank_hsmg101_1_B",
+        "message": "Cela fait 21 secondes.",
+        "attribute": "04000000CE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_C": {
+        "name": "sys_mgRank_hsmg101_1_C",
+        "message": "Cela prend 6 à 10 heures.",
+        "attribute": "04000000D0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg101_1_D": {
+        "name": "sys_mgRank_hsmg101_1_D",
+        "message": "Temps d'impression : 1 à 5\r\nheures.",
+        "attribute": "04000000D2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_A": {
+        "name": "sys_mgRank_hsmg114_1_A",
+        "message": "Tous les anciens se tenaient\r\ndevant lui.",
+        "attribute": "04000000D4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_B": {
+        "name": "sys_mgRank_hsmg114_1_B",
+        "message": "Tous les participants ont été\r\névalués toutes les trois\r\nsemaines.",
+        "attribute": "04000000D6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_C": {
+        "name": "sys_mgRank_hsmg114_1_C",
+        "message": "(ou un symbole sans signification\r\nclaire).",
+        "attribute": "04000000D8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg114_1_D": {
+        "name": "sys_mgRank_hsmg114_1_D",
+        "message": "- ce.",
+        "attribute": "04000000DA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_A": {
+        "name": "sys_mgRank_hsmg110_1_A",
+        "message": "Maintenez la position pendant\r\nquinze secondes.",
+        "attribute": "04000000DC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_B": {
+        "name": "sys_mgRank_hsmg110_1_B",
+        "message": "La vidéo entière dure environ 20\r\nminutes.",
+        "attribute": "04000000DE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_C": {
+        "name": "sys_mgRank_hsmg110_1_C",
+        "message": "Complétez le cycle pendant 30\r\nsecondes.",
+        "attribute": "04000000E0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg110_1_D": {
+        "name": "sys_mgRank_hsmg110_1_D",
+        "message": "Lorsque vous êtes prêt, vous avez\r\nplusieurs options.",
+        "attribute": "04000000E2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_A": {
+        "name": "sys_mgRank_hsmg115_1_A",
+        "message": "La bataille commence.",
+        "attribute": "04000000E4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_B": {
+        "name": "sys_mgRank_hsmg115_1_B",
+        "message": "C’est le numéro trois.",
+        "attribute": "04000000E6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_C": {
+        "name": "sys_mgRank_hsmg115_1_C",
+        "message": "C'est nouveau.",
+        "attribute": "04000000E8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg115_1_D": {
+        "name": "sys_mgRank_hsmg115_1_D",
+        "message": "Pensez aux cinq dernières années.",
+        "attribute": "04000000EA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_A": {
+        "name": "sys_mgRank_hsmg103_1_A",
+        "message": "Nous avons passé un très bon\r\nmoment là-bas.",
+        "attribute": "04000000EC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_B": {
+        "name": "sys_mgRank_hsmg103_1_B",
+        "message": ",. (ou : a donné ...",
+        "attribute": "04000000EE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_C": {
+        "name": "sys_mgRank_hsmg103_1_C",
+        "message": "- Femmes enceintes.",
+        "attribute": "04000000F0110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg103_1_D": {
+        "name": "sys_mgRank_hsmg103_1_D",
+        "message": "- Et il lui a dit.",
+        "attribute": "04000000F2110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_A": {
+        "name": "sys_mgRank_hsmg107_1_A",
+        "message": "Il n'a pas besoin de ce\r\ntemps.",
+        "attribute": "04000000F4110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_B": {
+        "name": "sys_mgRank_hsmg107_1_B",
+        "message": "-.",
+        "attribute": "04000000F6110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_C": {
+        "name": "sys_mgRank_hsmg107_1_C",
+        "message": "\"Oui.\"",
+        "attribute": "04000000F8110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg107_1_D": {
+        "name": "sys_mgRank_hsmg107_1_D",
+        "message": ";",
+        "attribute": "04000000FA110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_A": {
+        "name": "sys_mgRank_hsmg105_1_A",
+        "message": "60 secondes pour gagner",
+        "attribute": "04000000FC110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_B": {
+        "name": "sys_mgRank_hsmg105_1_B",
+        "message": "De 3 secondes à 20 secondes.",
+        "attribute": "04000000FE110000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_C": {
+        "name": "sys_mgRank_hsmg105_1_C",
+        "message": "Il a marqué le deuxième but à la\r\n16e minute.",
+        "attribute": "0400000000120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg105_1_D": {
+        "name": "sys_mgRank_hsmg105_1_D",
+        "message": "faire",
+        "attribute": "0400000002120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_A": {
+        "name": "sys_mgRank_hsmg112_1_A",
+        "message": "L'équipe était à 0-2.",
+        "attribute": "0400000004120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_B": {
+        "name": "sys_mgRank_hsmg112_1_B",
+        "message": "Il a marqué trois ou quatre\r\nballons.",
+        "attribute": "0400000006120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_C": {
+        "name": "sys_mgRank_hsmg112_1_C",
+        "message": "Chroniques 5:7.",
+        "attribute": "0400000008120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg112_1_D": {
+        "name": "sys_mgRank_hsmg112_1_D",
+        "message": "Seulement six ou huit personnes.",
+        "attribute": "040000000A120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_A": {
+        "name": "sys_mgRank_hsmg108_1_A",
+        "message": "vient en premier.",
+        "attribute": "040000000C120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_B": {
+        "name": "sys_mgRank_hsmg108_1_B",
+        "message": "Vous pouvez aller dans une autre\r\npièce.",
+        "attribute": "040000000E120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_C": {
+        "name": "sys_mgRank_hsmg108_1_C",
+        "message": "Perdu",
+        "attribute": "0400000010120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg108_1_D": {
+        "name": "sys_mgRank_hsmg108_1_D",
+        "message": "Nous avons finalement gagné.",
+        "attribute": "0400000012120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_A": {
+        "name": "sys_mgRank_hsmg104_1_A",
+        "message": "Le chemin est terminé.",
+        "attribute": "0400000014120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_B": {
+        "name": "sys_mgRank_hsmg104_1_B",
+        "message": "Aujourd'hui est passé vite.",
+        "attribute": "0400000016120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_C": {
+        "name": "sys_mgRank_hsmg104_1_C",
+        "message": "Peu de temps après, il a été\r\naccusé de deux chefs d’agression\r\nsexuelle.",
+        "attribute": "0400000018120000",
+        "style_index": 4294967295
+    },
+    "sys_mgRank_hsmg104_1_D": {
+        "name": "sys_mgRank_hsmg104_1_D",
+        "message": "Terminez trois jeux ou plus.",
+        "attribute": "040000001A120000",
+        "style_index": 4294967295
+    },
+    "sys_pause_bd00_text01": {
+        "name": "sys_pause_bd00_text01",
+        "message": "Vous pouvez ajouter différents\r\ntypes de jeux si vous souhaitez\r\njouer à différents jeux, mais ce\r\nn'est pas recommandé.",
+        "attribute": "040000001C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text02": {
+        "name": "sys_pause_bd00_text02",
+        "message": "Jouer avec votre partenaire peut\r\nêtre relaxant.",
+        "attribute": "040000001E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text03": {
+        "name": "sys_pause_bd00_text03",
+        "message": "Ce sentiment a été atténué pour\r\ncinq raisons, notamment\r\nl’inflation et d’autres facteurs\r\nenvironnementaux.",
+        "attribute": "0400000020120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text04": {
+        "name": "sys_pause_bd00_text04",
+        "message": "Un élément de Star Wars apparaît\r\nà l'écran. Asseyez-vous.",
+        "attribute": "0400000022120000",
+        "style_index": 393
+    },
+    "sys_pause_bd00_text05": {
+        "name": "sys_pause_bd00_text05",
+        "message": "Cliquez ou appuyez sur\r\nl'image pour l'agrandir.\r\nVous pouvez la redimensionner.",
+        "attribute": "0400000024120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text00": {
+        "name": "sys_pause_bd01_text00",
+        "message": "Mais si vous voulez réussir, vous\r\ndevez réussir.",
+        "attribute": "0400000026120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text01": {
+        "name": "sys_pause_bd01_text01",
+        "message": "Tapisser le papier sulfurisé pour\r\ntarte aux pacanes de couches de\r\ntarte. L'entrée est de 5\r\ncents pour les enfants et de 30\r\ncents pour les adultes.",
+        "attribute": "0400000028120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text02": {
+        "name": "sys_pause_bd01_text02",
+        "message": "Les Globes gagnent toujours : si\r\nvous gagnez les trois premières\r\nfois, vous gagnez la dernière\r\nfois.",
+        "attribute": "040000002A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text03": {
+        "name": "sys_pause_bd01_text03",
+        "message": "Je suis tombé de l'arbre !",
+        "attribute": "040000002C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text04": {
+        "name": "sys_pause_bd01_text04",
+        "message": "Les petites fleurs vertes peuvent\r\nêtre un signe de mensonge et de\r\nvol.",
+        "attribute": "040000002E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text05": {
+        "name": "sys_pause_bd01_text05",
+        "message": "Faites un gâteau au chocolat et\r\nvous serez récompensé pour vos\r\nefforts.",
+        "attribute": "0400000030120000",
+        "style_index": 393
+    },
+    "sys_pause_bd01_text06": {
+        "name": "sys_pause_bd01_text06",
+        "message": "Voici Porsche. Comment nettoyer\r\nma peau avant d'utiliser ce\r\nproduit ?",
+        "attribute": "0400000032120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text00": {
+        "name": "sys_pause_bd02_text00",
+        "message": "Ne laissez pas Bowser vous voir !",
+        "attribute": "0400000034120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text01": {
+        "name": "sys_pause_bd02_text01",
+        "message": "Bowser a joué un rôle important\r\ndans la guerre. Il était\r\ncommandant.",
+        "attribute": "0400000036120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text02": {
+        "name": "sys_pause_bd02_text02",
+        "message": "La police est arrivée et a arrêté\r\nle conducteur.",
+        "attribute": "0400000038120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text03": {
+        "name": "sys_pause_bd02_text03",
+        "message": "Soyez prudent lorsque vous\r\nutilisez de la cire car elle\r\nfondra rapidement.",
+        "attribute": "040000003A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text04": {
+        "name": "sys_pause_bd02_text04",
+        "message": "Si vous voyez quelqu'un\r\ntomber du ciel, n'ayez pas\r\npeur de lui tirer dessus.",
+        "attribute": "040000003C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text05": {
+        "name": "sys_pause_bd02_text05",
+        "message": "D’où venaient les victimes de\r\ncette étrange peste ?",
+        "attribute": "040000003E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd02_text06": {
+        "name": "sys_pause_bd02_text06",
+        "message": "Ne t'inquiète pas, je sais.",
+        "attribute": "0400000040120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text00": {
+        "name": "sys_pause_bd03_text00",
+        "message": "Les plantes poussent le long du\r\nrivage et certains experts\r\nestiment qu’elles devraient être\r\nprotégées.",
+        "attribute": "0400000042120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text01": {
+        "name": "sys_pause_bd03_text01",
+        "message": "Tout change constamment, et si\r\nquelque chose ne va pas, c’est de\r\nvotre faute.",
+        "attribute": "0400000044120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text02": {
+        "name": "sys_pause_bd03_text02",
+        "message": "Vous pouvez boire du jus de\r\nfruits, mais il est préférable de\r\nchoisir des fruits faciles à\r\ndigérer.",
+        "attribute": "0400000046120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text03": {
+        "name": "sys_pause_bd03_text03",
+        "message": "De nombreuses montagnes sont\r\ncouvertes de forêts, alors soyez\r\nprudents.",
+        "attribute": "0400000048120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text04": {
+        "name": "sys_pause_bd03_text04",
+        "message": "La faune est diversifiée et\r\nparfois conflictuelle.",
+        "attribute": "040000004A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text05": {
+        "name": "sys_pause_bd03_text05",
+        "message": "Toby a acheté le billet. Les\r\ntechnologies de l'information\r\névoluent rapidement.",
+        "attribute": "040000004C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd03_text06": {
+        "name": "sys_pause_bd03_text06",
+        "message": "Si deux œufs sont séparés,\r\nchoisissez l'œuf avec la\r\nmeilleure horloge.",
+        "attribute": "040000004E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text00": {
+        "name": "sys_pause_bd04_text00",
+        "message": "Regardez les étoiles dans le\r\nciel, mais faites attention car\r\nelles sont laides.",
+        "attribute": "0400000050120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text01": {
+        "name": "sys_pause_bd04_text01",
+        "message": "Nous pouvons augmenter le prix\r\nautant que nous le souhaitons,\r\nmais nous ne pouvons pas le\r\nbaisser.",
+        "attribute": "0400000052120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text02": {
+        "name": "sys_pause_bd04_text02",
+        "message": "Le chef est génial aussi.\r\nN'oubliez pas de vous\r\nhabiller convenablement.",
+        "attribute": "0400000054120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text03": {
+        "name": "sys_pause_bd04_text03",
+        "message": "Des recherches plus poussées ont\r\nrévélé que l'autre\r\nemplacement était l'île\r\nJoseph, nommée « vallée de Sankor\r\n».",
+        "attribute": "0400000056120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text04": {
+        "name": "sys_pause_bd04_text04",
+        "message": "Ces ingrédients sont similaires à\r\nceux du Yusha. Gemande\r\ns'appelle Guadalcanal.",
+        "attribute": "0400000058120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text05": {
+        "name": "sys_pause_bd04_text05",
+        "message": "Cependant, on ne sait pas où la\r\ncollision a eu lieu.",
+        "attribute": "040000005A120000",
+        "style_index": 393
+    },
+    "sys_pause_bd04_text06": {
+        "name": "sys_pause_bd04_text06",
+        "message": "Pommes, prunes, pommes\r\narméniennes… Tous ces arbres\r\nfruitiers poussent bien, mais\r\npeut-on les qualifier de\r\nrustiques ?",
+        "attribute": "040000005C120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text00": {
+        "name": "sys_pause_bd05_text00",
+        "message": "Les prix seront remis ce soir. Si\r\nvous souhaitez venir, venez ce\r\nsoir.",
+        "attribute": "040000005E120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text01": {
+        "name": "sys_pause_bd05_text01",
+        "message": "Les animaux dorment la nuit et\r\ndisparaissent pendant la journée.",
+        "attribute": "0400000060120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text02": {
+        "name": "sys_pause_bd05_text02",
+        "message": "Les agents sont plus actifs la\r\nnuit que pendant la journée, il\r\nest donc préférable de quitter la\r\nmaison après la tombée de la\r\nnuit.",
+        "attribute": "0400000062120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text03": {
+        "name": "sys_pause_bd05_text03",
+        "message": "On voit des ombres la nuit, mais\r\nil y en a aussi ici. Les\r\nvoyez-vous ?",
+        "attribute": "0400000064120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text04": {
+        "name": "sys_pause_bd05_text04",
+        "message": "Quels sons entendez-vous chez\r\nvous la nuit ? C'est comme\r\nregarder un film.",
+        "attribute": "0400000066120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text05": {
+        "name": "sys_pause_bd05_text05",
+        "message": "Ce n'est pas le moment\r\nd'arrêter ! C'est\r\nimpossible !",
+        "attribute": "0400000068120000",
+        "style_index": 393
+    },
+    "sys_pause_bd05_text06": {
+        "name": "sys_pause_bd05_text06",
+        "message": "Envoyez gratuitement votre livre\r\nà McCarthy Co. et il sera\r\ndisponible immédiatement. Tous\r\nles exemplaires sont disponibles\r\npour impression.",
+        "attribute": "040000006A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text00": {
+        "name": "sys_pause_hsmm01_text00",
+        "message": "Vous pouvez choisir parmi des\r\ncentaines de mini-jeux.",
+        "attribute": "040000006C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text01": {
+        "name": "sys_pause_hsmm01_text01",
+        "message": "Les joueurs du monde entier\r\ntravaillent dur !",
+        "attribute": "040000006E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm01_text02": {
+        "name": "sys_pause_hsmm01_text02",
+        "message": "N'oubliez pas de jouer avec\r\nla musique.",
+        "attribute": "0400000070120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text00": {
+        "name": "sys_pause_hsmm02_text00",
+        "message": "Laissez votre esprit tranquille\r\net jouez.",
+        "attribute": "0400000072120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text01": {
+        "name": "sys_pause_hsmm02_text01",
+        "message": "Ne manquez pas cet événement\r\nmagique !",
+        "attribute": "0400000074120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text02": {
+        "name": "sys_pause_hsmm02_text02",
+        "message": "Essayez ce jeu délicat et voyez\r\nsi vous pouvez le comprendre.",
+        "attribute": "0400000076120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm02_text03": {
+        "name": "sys_pause_hsmm02_text03",
+        "message": "Regarde les étoiles.",
+        "attribute": "0400000078120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text00": {
+        "name": "sys_pause_hsmm03_text00",
+        "message": "Le but est simple : récolter le\r\nplus d'argent possible !",
+        "attribute": "040000007A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text01": {
+        "name": "sys_pause_hsmm03_text01",
+        "message": "Vous avez désormais la\r\npossibilité de vous amuser et de\r\ngagner de l'argent réel.",
+        "attribute": "040000007C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm03_text02": {
+        "name": "sys_pause_hsmm03_text02",
+        "message": "Vous pouvez gagner de\r\nl'argent en achetant des\r\nobjets dans le jeu, mais vous\r\ndevez savoir comment vaincre vos\r\nennemis pour y parvenir.",
+        "attribute": "040000007E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text00": {
+        "name": "sys_pause_hsmm04_text00",
+        "message": "Il y a un fossé entre ces deux\r\nvoies. Nous pouvons vaincre\r\nl'ennemi.",
+        "attribute": "0400000080120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text01": {
+        "name": "sys_pause_hsmm04_text01",
+        "message": "Les relations solides reposent\r\nsur la confiance et la\r\ncommunication. Nous sommes tous\r\ndifférents.",
+        "attribute": "0400000082120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm04_text02": {
+        "name": "sys_pause_hsmm04_text02",
+        "message": "Pour atteindre cet objectif, nous\r\ndevons travailler ensemble et\r\nnous entraider.",
+        "attribute": "0400000084120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_3_text00": {
+        "name": "sys_pause_hsmm05_3_text00",
+        "message": "Essayez de l'utiliser pendant\r\nquelques mois pour vous sentir à\r\nl'aise.",
+        "attribute": "0400000086120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_3_text01": {
+        "name": "sys_pause_hsmm05_3_text01",
+        "message": "La première équipe a perdu ! Les\r\ntrois équipes ont gagné !",
+        "attribute": "0400000088120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_1_text00": {
+        "name": "sys_pause_hsmm05_1_text00",
+        "message": "Le tournoi est facile avec trois\r\néquipes.",
+        "attribute": "040000008A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm05_1_text01": {
+        "name": "sys_pause_hsmm05_1_text01",
+        "message": "Au final, c'est le premier\r\nqui gagne. Que faire maintenant ?\r\nQuitter notre société.",
+        "attribute": "040000008C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text00": {
+        "name": "sys_pause_hsmm06_text00",
+        "message": "Je vais vous le dire. Attention :\r\nvous devrez payer un supplément\r\npour cela.",
+        "attribute": "040000008E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text01": {
+        "name": "sys_pause_hsmm06_text01",
+        "message": "Testez vos compétences contre des\r\njoueurs du monde entier.",
+        "attribute": "0400000090120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm06_text02": {
+        "name": "sys_pause_hsmm06_text02",
+        "message": "Tout dans le monde a une fin.",
+        "attribute": "0400000092120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text00": {
+        "name": "sys_pause_hsmm07_text00",
+        "message": "Faites partie du monde du sport\r\navec notre newsletter\r\nquotidienne.",
+        "attribute": "0400000094120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text01": {
+        "name": "sys_pause_hsmm07_text01",
+        "message": "Soyez prudent, ne faites pas\r\nconfiance à votre chance.",
+        "attribute": "0400000096120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text02": {
+        "name": "sys_pause_hsmm07_text02",
+        "message": "Tout d’abord, soyez honnête avec\r\nvotre partenaire.",
+        "attribute": "0400000098120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text03": {
+        "name": "sys_pause_hsmm07_text03",
+        "message": "Pour gagner, vous devez vaincre\r\nvotre adversaire.",
+        "attribute": "040000009A120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text04": {
+        "name": "sys_pause_hsmm07_text04",
+        "message": "Pour d’autres, endurez les\r\népreuves.",
+        "attribute": "040000009C120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text05": {
+        "name": "sys_pause_hsmm07_text05",
+        "message": "Le succès exige des compétences\r\net de la détermination, alors\r\nsoyez prêt à travailler dur.",
+        "attribute": "040000009E120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text06": {
+        "name": "sys_pause_hsmm07_text06",
+        "message": "Peux-tu le faire ?",
+        "attribute": "04000000A0120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text07": {
+        "name": "sys_pause_hsmm07_text07",
+        "message": "Ne faites pas de mal aux autres.\r\nEnsemble ! Ensemble !",
+        "attribute": "04000000A2120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text08": {
+        "name": "sys_pause_hsmm07_text08",
+        "message": "L’ennemi ne peut pas vous sauver,\r\nsimplement en prononçant ces\r\nmots.",
+        "attribute": "04000000A4120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text09": {
+        "name": "sys_pause_hsmm07_text09",
+        "message": "Ce n’est peut-être pas le plus\r\njoli parc, mais il vaut vraiment\r\nle détour.",
+        "attribute": "04000000A6120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text10": {
+        "name": "sys_pause_hsmm07_text10",
+        "message": "Si vous battez votre adversaire,\r\nvous gagnez.",
+        "attribute": "04000000A8120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text11": {
+        "name": "sys_pause_hsmm07_text11",
+        "message": "Rejoignez le jeu et combattez.",
+        "attribute": "04000000AA120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text12": {
+        "name": "sys_pause_hsmm07_text12",
+        "message": "Dans certains jeux du Trésor Xi,\r\nvous pouvez gagner plus\r\nd'argent que vos adversaires.",
+        "attribute": "04000000AC120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text13": {
+        "name": "sys_pause_hsmm07_text13",
+        "message": "Attendez de voir les ennemis.",
+        "attribute": "04000000AE120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text14": {
+        "name": "sys_pause_hsmm07_text14",
+        "message": "Testez vos compétences dans une\r\nvariété de jeux stimulants pour\r\nrester engagé.",
+        "attribute": "04000000B0120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text15": {
+        "name": "sys_pause_hsmm07_text15",
+        "message": "Voyez par vous-même. À vous de\r\nchoisir !",
+        "attribute": "04000000B2120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text16": {
+        "name": "sys_pause_hsmm07_text16",
+        "message": "Ne vous souciez pas des autres.\r\nL'objectif est de continuer à\r\njouer.",
+        "attribute": "04000000B4120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text17": {
+        "name": "sys_pause_hsmm07_text17",
+        "message": "Testez vos compétences dans des\r\nmini-jeux. Ne prenez pas de\r\ndécisions hâtives.",
+        "attribute": "04000000B6120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text18": {
+        "name": "sys_pause_hsmm07_text18",
+        "message": "Faites attention à ce que dit\r\nvotre adversaire et restez calme.",
+        "attribute": "04000000B8120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text19": {
+        "name": "sys_pause_hsmm07_text19",
+        "message": "Pour gagner, vous devez surpasser\r\nvotre adversaire.",
+        "attribute": "04000000BA120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text20": {
+        "name": "sys_pause_hsmm07_text20",
+        "message": "Attaquez la ville.",
+        "attribute": "04000000BC120000",
+        "style_index": 393
+    },
+    "sys_pause_hsmm07_text21": {
+        "name": "sys_pause_hsmm07_text21",
+        "message": "Si vous souhaitez l’ignorer,\r\nfaites vos recherches.",
+        "attribute": "04000000BE120000",
+        "style_index": 393
+    },
+    "sys_checkNetwork_mw00": {
+        "name": "sys_checkNetwork_mw00",
+        "message": "Cela arrive.",
+        "attribute": "04000000C0120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first": {
+        "name": "sys_check_Network_first",
+        "message": "L'écran affichera les\r\ninformations de l'étudiant,\r\npar exemple : 0:264-0.",
+        "attribute": "04000000C2120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first_2": {
+        "name": "sys_check_Network_first_2",
+        "message": "Les règles de Nintendo\r\ns'appliquent à toutes les\r\nplateformes. Si vous jouez en\r\nligne, partagez votre expérience\r\navec eux.",
+        "attribute": "04000000C4120000",
+        "style_index": 8
+    },
+    "sys_check_Network_first_a0": {
+        "name": "sys_check_Network_first_a0",
+        "message": "Attends un instant.",
+        "attribute": "04000000C6120000",
+        "style_index": 9
+    },
+    "sys_check_Network_first_a1": {
+        "name": "sys_check_Network_first_a1",
+        "message": "Tu es un idiot.",
+        "attribute": "04000000C8120000",
+        "style_index": 9
+    },
+    "sys_check_Network_ver": {
+        "name": "sys_check_Network_ver",
+        "message": "Pour jouer en ligne, vous devez\r\nvous inscrire.",
+        "attribute": "04000000CA120000",
+        "style_index": 8
+    },
+    "sys_password_host_header": {
+        "name": "sys_password_host_header",
+        "message": "Appelez ce numéro.",
+        "attribute": "04000000CC120000",
+        "style_index": 4294967295
+    },
+    "sys_password_host_order": {
+        "name": "sys_password_host_order",
+        "message": "Ils sont prêts.",
+        "attribute": "04000000CE120000",
+        "style_index": 4294967295
+    },
+    "sys_password_host_enter": {
+        "name": "sys_password_host_enter",
+        "message": "Ce mot signifie manger.",
+        "attribute": "04000000D0120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_header": {
+        "name": "sys_password_client_header",
+        "message": "Entrez ce numéro.",
+        "attribute": "04000000D2120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_order": {
+        "name": "sys_password_client_order",
+        "message": "Quatre exemples.",
+        "attribute": "04000000D4120000",
+        "style_index": 4294967295
+    },
+    "sys_password_client_enter": {
+        "name": "sys_password_client_enter",
+        "message": "Nous y sommes habitués.",
+        "attribute": "04000000D6120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_header": {
+        "name": "sys_roomID_header",
+        "message": "Entrez l'adresse.",
+        "attribute": "04000000D8120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_order": {
+        "name": "sys_roomID_order",
+        "message": "Écrivez ce numéro.",
+        "attribute": "04000000DA120000",
+        "style_index": 4294967295
+    },
+    "sys_roomID_enter": {
+        "name": "sys_roomID_enter",
+        "message": "Je connais des gens.",
+        "attribute": "04000000DC120000",
+        "style_index": 4294967295
+    },
+    "inst_hsmg901_rule": {
+        "name": "inst_hsmg901_rule",
+        "message": "Essayez ensuite de le\r\nréinstaller.",
+        "attribute": "04000000DE120000",
+        "style_index": 192
+    },
+    "inst_hsmg901_ctrl00": {
+        "name": "inst_hsmg901_ctrl00",
+        "message": "Accueil (maintenant).",
+        "attribute": "04000000E0120000",
+        "style_index": 191
+    },
+    "inst_hsmg901_ctrl01": {
+        "name": "inst_hsmg901_ctrl01",
+        "message": "le plus ancien",
+        "attribute": "04000000E2120000",
+        "style_index": 191
+    },
+    "inst_hsmg902_rule": {
+        "name": "inst_hsmg902_rule",
+        "message": "Concentrez-vous davantage sur la\r\nréalisation de vos objectifs.",
+        "attribute": "04000000E4120000",
+        "style_index": 192
+    },
+    "inst_hsmg902_ctrl00": {
+        "name": "inst_hsmg902_ctrl00",
+        "message": "Il a laissé tomber le couteau.",
+        "attribute": "04000000E6120000",
+        "style_index": 191
+    },
+    "inst_hsmg903_rule": {
+        "name": "inst_hsmg903_rule",
+        "message": "Super équipe !",
+        "attribute": "04000000E8120000",
+        "style_index": 192
+    },
+    "inst_hsmg903_ctrl00": {
+        "name": "inst_hsmg903_ctrl00",
+        "message": "La bourse.",
+        "attribute": "04000000EA120000",
+        "style_index": 191
+    },
+    "inst_hsmg904_rule": {
+        "name": "inst_hsmg904_rule",
+        "message": "Fais-le maintenant !",
+        "attribute": "04000000EC120000",
+        "style_index": 192
+    },
+    "inst_hsmg904_ctrl00": {
+        "name": "inst_hsmg904_ctrl00",
+        "message": "Est-ce que ça va ? / Est-ce que\r\nça va ?",
+        "attribute": "04000000EE120000",
+        "style_index": 191
+    },
+    "inst_hsmg905_rule": {
+        "name": "inst_hsmg905_rule",
+        "message": "Ne vous forcez pas à faire ce que\r\nvous voulez.",
+        "attribute": "04000000F0120000",
+        "style_index": 192
+    },
+    "inst_hsmg905_ctrl00": {
+        "name": "inst_hsmg905_ctrl00",
+        "message": "Combien de temps reste-t-il ?",
+        "attribute": "04000000F2120000",
+        "style_index": 191
+    },
+    "inst_hsmg905_ctrl01": {
+        "name": "inst_hsmg905_ctrl01",
+        "message": "appareil",
+        "attribute": "04000000F4120000",
+        "style_index": 191
+    },
+    "sys_ctrlSp_mes": {
+        "name": "sys_ctrlSp_mes",
+        "message": "Dois-je arrêter de jouer ?",
+        "attribute": "04000000F6120000",
+        "style_index": 8
+    },
+    "sys_ctrlSp_mes_a0": {
+        "name": "sys_ctrlSp_mes_a0",
+        "message": "Je comprends.",
+        "attribute": "04000000F8120000",
+        "style_index": 9
+    },
+    "sys_ctrlSp_mes_a1": {
+        "name": "sys_ctrlSp_mes_a1",
+        "message": "C'était écrit.",
+        "attribute": "04000000FA120000",
+        "style_index": 9
+    },
+    "sys_bdM_save_tlp": {
+        "name": "sys_bdM_save_tlp",
+        "message": "C'est difficile à croire.",
+        "attribute": "04000000FC120000",
+        "style_index": 537
+    },
+    "sys_RTT_high_tlp": {
+        "name": "sys_RTT_high_tlp",
+        "message": "La relation n'est pas réelle.",
+        "attribute": "04000000FE120000",
+        "style_index": 572
+    },
+    "mn_friend_mw_search": {
+        "name": "mn_friend_mw_search",
+        "message": "Nous travaillions.",
+        "attribute": "0400000000130000",
+        "style_index": 8
+    },
+    "sys_random_AFK_mw00": {
+        "name": "sys_random_AFK_mw00",
+        "message": "Tout se passait à merveille. La\r\npremière mi-temps s'est\r\nterminée sur les scores de 0-2 et\r\n64-0.",
+        "attribute": "0400000002130000",
+        "style_index": 8
+    }
+}
