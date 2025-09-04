@@ -7,7 +7,7 @@ if __name__ == "__main__":
     #a = ct.translate("Ingénieur-stagiaire ouvrages d'art", 100)
     #print(a)
 
-    ct.translate_from_json_dir("mess_json/", "mess_trans/")
+    ct.translate_from_json_dir("mess_json/", "mess_trans/", max_threads=10)
 
     #extractor = MSBT().to_json()
 
