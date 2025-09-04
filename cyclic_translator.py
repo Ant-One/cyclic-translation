@@ -156,7 +156,7 @@ class CyclicTranslator:
 
 
             for a in active_threads:
-                a.join(timeout=1)
+                a.join(timeout=5)
                 if not a.is_alive():
                     active_threads.remove(a)
                     threads.remove(a)
