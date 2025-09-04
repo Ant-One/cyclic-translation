@@ -69,7 +69,7 @@ class CyclicTranslator:
         result = { "translatedText": original_text }
         original_lang = ORIGINAL_LANG
         for i in range(0, iterations):
-            print(f"\t({i+1}/{iterations})", end="\r")
+            #print(f"\t({i+1}/{iterations})", end="\r")
             target = random.choice(self.available_langs)
             target = self._swap_disallowed_pair(target)
             while target == original_lang:
@@ -118,7 +118,7 @@ class CyclicTranslator:
             output_file = Path(f"{output_dir}{os.path.basename(json_file.name)[:-10]}_trans.msbt.json")
             if json_file.is_file() and json_file.suffix == '.json' and not output_file.is_file():
 
-                thread = threading.Thread(target=self.threaded_translate, kwargs={"in_file": json_file, "out_file": output_file})
+                thread = threading.Thread(target=self.threaded_translate, kwargs={"in_file": json_file, "out_dir": output_dir})
                 threads.append(thread)
 
                 """
@@ -148,14 +148,16 @@ class CyclicTranslator:
 
             active_threads = []
 
-            while(len(threads) > 0):
-                for t in threads:
-                    if len(active_threads) < 3:
-                        t.start()
-                        active_threads.append(t)
+        while(len(threads) > 0):
+            for t in threads:
+                if len(active_threads) < 3:
+                    t.start()
+                    active_threads.append(t)
 
 
-                for a in active_threads:
-                    a.join(timeout=10)
+            for a in active_threads:
+                a.join(timeout=10)
+                if not a.is_alive:
+                    active_threads.remove(a)
 
             
