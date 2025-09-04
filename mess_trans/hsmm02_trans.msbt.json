@@ -1,0 +1,32 @@
+{
+    "hsmm02_mw_op01": {
+        "name": "hsmm02_mw_op01",
+        "message": "Ces jeux se jouent selon des\r\nrègles strictes.",
+        "attribute": "0404001930000000",
+        "style_index": 4
+    },
+    "hsmm02_mw_op02": {
+        "name": "hsmm02_mw_op02",
+        "message": "Rencontrez des cavaliers du monde\r\nentier et travaillez à améliorer\r\nvos compétences.",
+        "attribute": "0404001944000000",
+        "style_index": 4
+    },
+    "hsmm02_mgtype": {
+        "name": "hsmm02_mgtype",
+        "message": "À partir de [0].",
+        "attribute": "040000005E000000",
+        "style_index": 290
+    },
+    "hsmm02_record00": {
+        "name": "hsmm02_record00",
+        "message": "Tous",
+        "attribute": "0400000060000000",
+        "style_index": 283
+    },
+    "hsmm02_record00_rank": {
+        "name": "hsmm02_record00_rank",
+        "message": "[0] Description de la figure",
+        "attribute": "0400000062000000",
+        "style_index": 291
+    }
+}

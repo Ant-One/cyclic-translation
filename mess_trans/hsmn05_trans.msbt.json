@@ -1,0 +1,230 @@
+{
+    "mn_dStore_category_select": {
+        "name": "mn_dStore_category_select",
+        "message": "[0] .",
+        "attribute": "0400000038010000",
+        "style_index": 351
+    },
+    "mn_dStore_category_list_all": {
+        "name": "mn_dStore_category_list_all",
+        "message": "Elsea a-t-elle autre chose ?",
+        "attribute": "040000003A010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_stamp": {
+        "name": "mn_dStore_category_list_stamp",
+        "message": "C'est une belle opportunité.",
+        "attribute": "040000003C010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_card": {
+        "name": "mn_dStore_category_list_card",
+        "message": "Entreprise de légumes.",
+        "attribute": "040000003E010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_book": {
+        "name": "mn_dStore_category_list_book",
+        "message": "- Les Témoins de Jéhovah",
+        "attribute": "0400000040010000",
+        "style_index": 352
+    },
+    "mn_dStore_category_list_bgm": {
+        "name": "mn_dStore_category_list_bgm",
+        "message": "meubles",
+        "attribute": "0400000042010000",
+        "style_index": 352
+    },
+    "mn_dStore_goods_name": {
+        "name": "mn_dStore_goods_name",
+        "message": "La valeur par défaut est [0].",
+        "attribute": "0400000044010000",
+        "style_index": 353
+    },
+    "mn_dStore_goods_price": {
+        "name": "mn_dStore_goods_price",
+        "message": "[0] du",
+        "attribute": "0400000046010000",
+        "style_index": 354
+    },
+    "mn_dStore_goods_name_check": {
+        "name": "mn_dStore_goods_name_check",
+        "message": "10 est 9,1 %.",
+        "attribute": "0400000048010000",
+        "style_index": 355
+    },
+    "mn_dStore_goods_stampDetails": {
+        "name": "mn_dStore_goods_stampDetails",
+        "message": "Utilisez la magie pour\r\ncommuniquer avec les autres\r\njoueurs.",
+        "attribute": "040000004A010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bgmDetails": {
+        "name": "mn_dStore_goods_bgmDetails",
+        "message": "Le programme propose de\r\nnombreuses chansons, nouvelles et\r\nanciennes. Venez les écouter.",
+        "attribute": "040000004C010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_d_bgmDetails": {
+        "name": "mn_dStore_goods_d_bgmDetails",
+        "message": "Cet article sur le passé risque\r\nd'être long.",
+        "attribute": "040000004E010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_staff_bgmDetails": {
+        "name": "mn_dStore_goods_staff_bgmDetails",
+        "message": "C'est le thème que je voulais\r\nentendre dès mon premier album.",
+        "attribute": "0400000050010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails00": {
+        "name": "mn_dStore_goods_bookDetails00",
+        "message": "Le questionnaire fournit des\r\ninformations sur la recherche.",
+        "attribute": "0400000052010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails01": {
+        "name": "mn_dStore_goods_bookDetails01",
+        "message": "Cet article a été initialement\r\npublié dans Newton's Review.",
+        "attribute": "0400000054010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails02": {
+        "name": "mn_dStore_goods_bookDetails02",
+        "message": "Cryptage des données.",
+        "attribute": "0400000056010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_bookDetails03": {
+        "name": "mn_dStore_goods_bookDetails03",
+        "message": "L’article se termine par une\r\ndiscussion des méthodes et des\r\nrésultats.",
+        "attribute": "0400000058010000",
+        "style_index": 356
+    },
+    "mn_dStore_goods_caodDetails": {
+        "name": "mn_dStore_goods_caodDetails",
+        "message": "Cela a complètement changé la\r\nfaçon dont les cartes Mario\r\nétaient jouées.",
+        "attribute": "040000005A010000",
+        "style_index": 356
+    },
+    "mn_dStore_buy_check": {
+        "name": "mn_dStore_buy_check",
+        "message": "Tu l'as eu ?",
+        "attribute": "040000005C010000",
+        "style_index": 357
+    },
+    "mn_dStore_coin_before": {
+        "name": "mn_dStore_coin_before",
+        "message": "Oui [Page 0:3] [Page 0:3] Oui.",
+        "attribute": "040000005E010000",
+        "style_index": 358
+    },
+    "mn_dStore_coin_after": {
+        "name": "mn_dStore_coin_after",
+        "message": "À cette période de l'année.",
+        "attribute": "0400000060010000",
+        "style_index": 358
+    },
+    "mn_dStore_buy_a0": {
+        "name": "mn_dStore_buy_a0",
+        "message": "Oui, frère.",
+        "attribute": "0400000062010000",
+        "style_index": 359
+    },
+    "mn_dStore_buy_a1": {
+        "name": "mn_dStore_buy_a1",
+        "message": "nom",
+        "attribute": "0400000064010000",
+        "style_index": 359
+    },
+    "mn_dStore_coin_have": {
+        "name": "mn_dStore_coin_have",
+        "message": "8,8 livres sterling.",
+        "attribute": "0400000066010000",
+        "style_index": 360
+    },
+    "mn_dStore_back": {
+        "name": "mn_dStore_back",
+        "message": "L'argent a été rendu.",
+        "attribute": "0400000068010000",
+        "style_index": 370
+    },
+    "mn_dStore_mw_enterA": {
+        "name": "mn_dStore_mw_enterA",
+        "message": "Parlez-nous-en.",
+        "attribute": "0401002D6A010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_enterB": {
+        "name": "mn_dStore_mw_enterB",
+        "message": "0:3 35-02-Neige] [0:3\r\n11-0C-1D-Neige]! [0:3 00-00-00]!",
+        "attribute": "0401002D82010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_enterC": {
+        "name": "mn_dStore_mw_enterC",
+        "message": "Ça a beaucoup changé, n’est-ce\r\npas ?",
+        "attribute": "0401002D9A010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter00": {
+        "name": "mn_dStore_mw_firstEnter00",
+        "message": "Il s'agit notamment de\r\npersonnages, de chansons, de\r\nlivres et de cartes de Mario.",
+        "attribute": "0401002DB2010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter01": {
+        "name": "mn_dStore_mw_firstEnter01",
+        "message": "Petit animal;",
+        "attribute": "0401002DB4010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_firstEnter02": {
+        "name": "mn_dStore_mw_firstEnter02",
+        "message": "Prenez le temps de lire ces mots.",
+        "attribute": "0401002DD8010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_add_intro": {
+        "name": "mn_dStore_mw_add_intro",
+        "message": "Nous avons beaucoup de nouveautés\r\n!",
+        "attribute": "0401002DDA010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_soldOut00": {
+        "name": "mn_dStore_mw_soldOut00",
+        "message": "Merci beaucoup pour les activités\r\nque vous avez réalisées.",
+        "attribute": "0401002DF4010000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeA": {
+        "name": "mn_dStore_mw_byeA",
+        "message": "C'est un bon indicateur.",
+        "attribute": "0401002D12020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeB": {
+        "name": "mn_dStore_mw_byeB",
+        "message": "Merci encore !",
+        "attribute": "0401002D26020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_byeC": {
+        "name": "mn_dStore_mw_byeC",
+        "message": "Sais-tu ce que tu veux ?",
+        "attribute": "0401002D3A020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_lack": {
+        "name": "mn_dStore_mw_lack",
+        "message": "Ah... pas question. [0:3 but]\r\n[0:3 but] [0:3 11-0 C-1 Fingers].",
+        "attribute": "0401002D4E020000",
+        "style_index": 4
+    },
+    "mn_dStore_mw_buy": {
+        "name": "mn_dStore_mw_buy",
+        "message": "Merci beaucoup pour vos conseils.",
+        "attribute": "0401002D66020000",
+        "style_index": 4
+    }
+}
