@@ -9,6 +9,13 @@ LANGUAGES_CACHE_FILE_PATH = "cached_languages.json"
 ORIGINAL_LANG = "fr"
 FINAL_LANG = "fr"
 
+DISALLOWED_PAIRS = {
+    "iw": "he",
+    "ji": "yi",
+    "in": "id",
+    "jw": "jv",
+}
+
 class CyclicTranslator:
     def __init__(self):
         os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "secret.json"
@@ -31,22 +38,55 @@ class CyclicTranslator:
 
         return lang_list
     
+
+    def wrap_with_limit(self, text, limit=33):
+        words = text.split()
+        result = ""
+        line_length = 0
+        
+        for word in words:
+            extra_length = len(word) + (1 if line_length > 0 else 0)
+            
+            if line_length + extra_length > limit:
+                result += "\r\n" + word
+                line_length = len(word)
+            else:
+                if line_length > 0:
+                    result += " "
+                    line_length += 1
+                result += word
+                line_length += len(word)
+        
+        return result
+    
+    def _swap_disallowed_pair(self, lang):
+        if lang in DISALLOWED_PAIRS.keys():
+            return DISALLOWED_PAIRS[lang]
+        return lang
+    
     def translate(self, original_text, iterations = 1):
         result = { "translatedText": original_text }
         original_lang = ORIGINAL_LANG
         for i in range(0, iterations):
-            print(f"\t({i}/{iterations})", end="\r")
+            print(f"\t({i+1}/{iterations})", end="\r")
             target = random.choice(self.available_langs)
-            #print(target, original_lang)
+            target = self._swap_disallowed_pair(target)
             while target == original_lang:
                 target = random.choice(self.available_langs)
             result = self.client.translate(values=html.unescape(result["translatedText"]), target_language=target, source_language=original_lang)
             original_lang = target
 
+        while target == FINAL_LANG:
+            target = random.choice(self.available_langs)
+            result = self.client.translate(values=html.unescape(result["translatedText"]), target_language=target, source_language=original_lang)
+            original_lang = target
+
         final_translation = self.client.translate(values=html.unescape(result["translatedText"]), target_language=FINAL_LANG, source_language=original_lang)
 
+        final_translation_wrapped = self.wrap_with_limit(final_translation["translatedText"])
+
         #print(f'{original_text} -> {final_translation["translatedText"]}')
-        return html.unescape(final_translation["translatedText"])
+        return html.unescape(final_translation_wrapped)
     
     def translate_from_json_dir(self, input_dir, output_dir):
         input_dir_path = Path(input_dir)
@@ -67,10 +107,11 @@ class CyclicTranslator:
                             "style_index": mess[1]['style_index']
                         }
                         mess_progress+=1
+                        
+                        print(f"Translated \"{mess[1]['message']}\" -> \"{translated_str}\"")
+                        print(f"{json_file}: {mess_progress}/{len(messages)}")
 
                     with open(f"{output_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
                         json.dump(translated, file_out, ensure_ascii=False, indent=4)
             else:
                 print(f"{json_file.name} already processed or invalid, skipping...")
-
-            break

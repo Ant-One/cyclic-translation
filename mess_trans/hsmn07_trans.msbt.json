@@ -1,0 +1,80 @@
+{
+    "mn_mgM_mw_introA": {
+        "name": "mn_mgM_mw_introA",
+        "message": "Nous nous sommes bien amusés au\r\nstade. [3.00, 3.00]",
+        "attribute": "0401002E70000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_introB": {
+        "name": "mn_mgM_mw_introB",
+        "message": "Non, les gens meurent de\r\ndifférentes manières.",
+        "attribute": "0401002E84000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_introC": {
+        "name": "mn_mgM_mw_introC",
+        "message": "L'avion ressemble à un vrai\r\ndanseur. D'accord.",
+        "attribute": "0401002E98000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_chara_select": {
+        "name": "mn_mgM_mw_chara_select",
+        "message": "À qui parles-tu maintenant ?",
+        "attribute": "0401002EAC000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_com_select": {
+        "name": "mn_mgM_mw_com_select",
+        "message": "[0] [1:1] question.",
+        "attribute": "0401002EC8000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_chara_check": {
+        "name": "mn_mgM_mw_chara_check",
+        "message": "Es-tu prêt?",
+        "attribute": "0401002ECA000000",
+        "style_index": 6
+    },
+    "mn_mgM_mw_chara_check_a0": {
+        "name": "mn_mgM_mw_chara_check_a0",
+        "message": "Je vais",
+        "attribute": "04000000CC000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_chara_check_a1": {
+        "name": "mn_mgM_mw_chara_check_a1",
+        "message": "ont noté",
+        "attribute": "04000000CE000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_chara_check_a2": {
+        "name": "mn_mgM_mw_chara_check_a2",
+        "message": "Travailler de manière autonome.",
+        "attribute": "04000000D0000000",
+        "style_index": 9
+    },
+    "mn_mgM_mw_check": {
+        "name": "mn_mgM_mw_check",
+        "message": "Il n'est pas venu ici depuis\r\nlongtemps. (Ou) Il n'est pas\r\nvenu ici depuis longtemps.",
+        "attribute": "0401002ED2000000",
+        "style_index": 4
+    },
+    "mn_mgM_mw_online_check": {
+        "name": "mn_mgM_mw_online_check",
+        "message": "Des joueurs vous attendent de\r\ntous côtés. Voulez-vous gagner ?",
+        "attribute": "0401002EEC000000",
+        "style_index": 6
+    },
+    "mn_mgM_check_a0": {
+        "name": "mn_mgM_check_a0",
+        "message": "Alors.",
+        "attribute": "0300000006010000",
+        "style_index": 9
+    },
+    "mn_mgM_check_a1": {
+        "name": "mn_mgM_check_a1",
+        "message": "Oh",
+        "attribute": "0300000008010000",
+        "style_index": 9
+    }
+}

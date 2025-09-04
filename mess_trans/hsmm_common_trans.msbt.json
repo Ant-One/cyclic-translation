@@ -1,0 +1,356 @@
+{
+    "hsmm_ctrl_cancel": {
+        "name": "hsmm_ctrl_cancel",
+        "message": "peut être",
+        "attribute": "04000000E0010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_next": {
+        "name": "hsmm_ctrl_next",
+        "message": "C'est une décision très\r\nimportante.",
+        "attribute": "04000000E2010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_rule": {
+        "name": "hsmm_ctrl_rule",
+        "message": "Et il était perdu.",
+        "attribute": "04000000E4010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_rm": {
+        "name": "hsmm_ctrl_rm",
+        "message": "Informations sur le site Web.",
+        "attribute": "04000000E6010000",
+        "style_index": 11
+    },
+    "hsmm_ctrl_random": {
+        "name": "hsmm_ctrl_random",
+        "message": "Ce n'est pas vrai.",
+        "attribute": "04000000E8010000",
+        "style_index": 198
+    },
+    "hsmm_ctrl_fav": {
+        "name": "hsmm_ctrl_fav",
+        "message": "Surpris.",
+        "attribute": "04000000EA010000",
+        "style_index": 198
+    },
+    "hsmm_tlp_round": {
+        "name": "hsmm_tlp_round",
+        "message": "[0] Mot-clé /.",
+        "attribute": "03000000EC010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_rdFinal": {
+        "name": "hsmm_tlp_rdFinal",
+        "message": "tirer",
+        "attribute": "03000000EE010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_round01": {
+        "name": "hsmm_tlp_round01",
+        "message": "[0] Je suis très heureux.",
+        "attribute": "03000000F0010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal01": {
+        "name": "hsmm_tlp_chal01",
+        "message": "[0] - une minute",
+        "attribute": "03000000F2010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal02": {
+        "name": "hsmm_tlp_chal02",
+        "message": "[0] -2.",
+        "attribute": "03000000F4010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal03": {
+        "name": "hsmm_tlp_chal03",
+        "message": "-3.",
+        "attribute": "03000000F6010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_chal04": {
+        "name": "hsmm_tlp_chal04",
+        "message": "endurer",
+        "attribute": "03000000F8010000",
+        "style_index": 199
+    },
+    "hsmm_tlp_1vs3Mg": {
+        "name": "hsmm_tlp_1vs3Mg",
+        "message": "Petit : Un pour tous !",
+        "attribute": "04000000FA010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_battleMg": {
+        "name": "hsmm_tlp_battleMg",
+        "message": "Voyons si nous le mangeons ou\r\nnon.",
+        "attribute": "04000000FC010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_bonusMg": {
+        "name": "hsmm_tlp_bonusMg",
+        "message": "De nombreux jeux et recettes\r\ndisponibles !",
+        "attribute": "04000000FE010000",
+        "style_index": 14
+    },
+    "hsmm_tlp_coinMg": {
+        "name": "hsmm_tlp_coinMg",
+        "message": "Voici quelques options.",
+        "attribute": "0400000000020000",
+        "style_index": 14
+    },
+    "hsmm_tlp_duelMg": {
+        "name": "hsmm_tlp_duelMg",
+        "message": "C'est un peu plus compliqué.",
+        "attribute": "0400000002020000",
+        "style_index": 14
+    },
+    "hsmm_tlp_3chal_clear": {
+        "name": "hsmm_tlp_3chal_clear",
+        "message": "Des livres. Nous sommes heureux.",
+        "attribute": "0400000004020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_3chal_rank": {
+        "name": "hsmm_tlp_3chal_rank",
+        "message": "Appuyez sur [0].",
+        "attribute": "0400000006020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_survival": {
+        "name": "hsmm_tlp_survival",
+        "message": "Merci",
+        "attribute": "0400000008020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_survival_win": {
+        "name": "hsmm_tlp_survival_win",
+        "message": "Géographie 1:169-63-74-7.",
+        "attribute": "040000000A020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_gratz": {
+        "name": "hsmm_tlp_gratz",
+        "message": "Sors d'ici !",
+        "attribute": "040000000C020000",
+        "style_index": 36
+    },
+    "hsmm_tlp_starget": {
+        "name": "hsmm_tlp_starget",
+        "message": "Il existe de nombreuses réponses\r\nà cette question.",
+        "attribute": "040000000E020000",
+        "style_index": 220
+    },
+    "hsmm_tlp_op00": {
+        "name": "hsmm_tlp_op00",
+        "message": "[0]",
+        "attribute": "0500000010020000",
+        "style_index": 200
+    },
+    "hsmm_tlp_op01": {
+        "name": "hsmm_tlp_op01",
+        "message": "[0] Je pense que oui.",
+        "attribute": "0500000012020000",
+        "style_index": 201
+    },
+    "hsmm_tlp_op10": {
+        "name": "hsmm_tlp_op10",
+        "message": "[0] C'est correct.",
+        "attribute": "0500000014020000",
+        "style_index": 201
+    },
+    "hsmm_tlp_op20": {
+        "name": "hsmm_tlp_op20",
+        "message": "Ce n'est pas possible.",
+        "attribute": "0500000016020000",
+        "style_index": 201
+    },
+    "hsmm_pt999": {
+        "name": "hsmm_pt999",
+        "message": "[0] Très bien.",
+        "attribute": "0500000018020000",
+        "style_index": 202
+    },
+    "hsmm_win999": {
+        "name": "hsmm_win999",
+        "message": "La plage est de [0:2 4 V-00] à\r\n[0:2 64-00].",
+        "attribute": "050000001A020000",
+        "style_index": 203
+    },
+    "hsmm_pt_wins": {
+        "name": "hsmm_pt_wins",
+        "message": "C'est délicieux.",
+        "attribute": "040000001C020000",
+        "style_index": 204
+    },
+    "hsmm_pt_top": {
+        "name": "hsmm_pt_top",
+        "message": "Vice-président;",
+        "attribute": "040000001E020000",
+        "style_index": 204
+    },
+    "hsmm_pt_name": {
+        "name": "hsmm_pt_name",
+        "message": "[0] Je suis médecin.",
+        "attribute": "0400000020020000",
+        "style_index": 205
+    },
+    "hsmm_pt_coin": {
+        "name": "hsmm_pt_coin",
+        "message": "La réponse est oui.",
+        "attribute": "0400000022020000",
+        "style_index": 206
+    },
+    "hsmm_pt_best999": {
+        "name": "hsmm_pt_best999",
+        "message": "[0] Services .",
+        "attribute": "0400000024020000",
+        "style_index": 207
+    },
+    "hsmm_pt_best999_l": {
+        "name": "hsmm_pt_best999_l",
+        "message": "0:2 4B-00 0:2 64-00 ;",
+        "attribute": "0400000026020000",
+        "style_index": 208
+    },
+    "hsmm_pt_best_update": {
+        "name": "hsmm_pt_best_update",
+        "message": "Connaissance.",
+        "attribute": "0400000028020000",
+        "style_index": 209
+    },
+    "hsmm_mgsl_cinx2": {
+        "name": "hsmm_mgsl_cinx2",
+        "message": "Peux-tu le faire ?",
+        "attribute": "040000002A020000",
+        "style_index": 210
+    },
+    "hsmm_mgsl_hd00": {
+        "name": "hsmm_mgsl_hd00",
+        "message": "étude.",
+        "attribute": "040000002C020000",
+        "style_index": 211
+    },
+    "hsmm_mgsl_runk00": {
+        "name": "hsmm_mgsl_runk00",
+        "message": "0 est le meilleur.",
+        "attribute": "040000002E020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_win00": {
+        "name": "hsmm_mgsl_win00",
+        "message": "vraiment.",
+        "attribute": "0400000030020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_lose00": {
+        "name": "hsmm_mgsl_lose00",
+        "message": "Pourquoi?",
+        "attribute": "0400000032020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_clear00": {
+        "name": "hsmm_mgsl_clear00",
+        "message": "Valeur par défaut : [0].",
+        "attribute": "0400000034020000",
+        "style_index": 212
+    },
+    "hsmm_mgsl_mgname00": {
+        "name": "hsmm_mgsl_mgname00",
+        "message": "[0] Pourquoi.",
+        "attribute": "0400000036020000",
+        "style_index": 213
+    },
+    "hsmm_pop_mgname": {
+        "name": "hsmm_pop_mgname",
+        "message": "Allez à [0].",
+        "attribute": "0400000038020000",
+        "style_index": 214
+    },
+    "hsmm_mgrslt_rank": {
+        "name": "hsmm_mgrslt_rank",
+        "message": "[0] 9. Les mots sont ici.",
+        "attribute": "050000003A020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_win": {
+        "name": "hsmm_mgrslt_win",
+        "message": "aussi.",
+        "attribute": "050000003C020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_lose": {
+        "name": "hsmm_mgrslt_lose",
+        "message": "Tu as dit que tu me protégeais.",
+        "attribute": "050000003E020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_draw": {
+        "name": "hsmm_mgrslt_draw",
+        "message": "Cela pourrait être une bonne\r\nidée.",
+        "attribute": "0500000040020000",
+        "style_index": 215
+    },
+    "hsmm_mgrslt_coin999": {
+        "name": "hsmm_mgrslt_coin999",
+        "message": "Le résultat est +[0].",
+        "attribute": "0300000042020000",
+        "style_index": 216
+    },
+    "hsmm_mgrslt_win999": {
+        "name": "hsmm_mgrslt_win999",
+        "message": "Voir [0] pour plus\r\nd'informations.",
+        "attribute": "0300000044020000",
+        "style_index": 216
+    },
+    "hsmm_mgrslt_star": {
+        "name": "hsmm_mgrslt_star",
+        "message": "C'est mon nom.",
+        "attribute": "0400000046020000",
+        "style_index": 217
+    },
+    "hsmm_name00": {
+        "name": "hsmm_name00",
+        "message": "J'aime aussi la version\r\n9.9.9.9.",
+        "attribute": "0400000048020000",
+        "style_index": 218
+    },
+    "hsmm_cpu00": {
+        "name": "hsmm_cpu00",
+        "message": "Il y en a beaucoup d'autres.",
+        "attribute": "040000004A020000",
+        "style_index": 219
+    },
+    "hsmm_rty02": {
+        "name": "hsmm_rty02",
+        "message": "parfait.",
+        "attribute": "040000004C020000",
+        "style_index": 222
+    },
+    "hsmm_rty03": {
+        "name": "hsmm_rty03",
+        "message": "Il n’y a tout simplement pas de\r\nporte.",
+        "attribute": "040000004E020000",
+        "style_index": 222
+    },
+    "hsmm_rty04": {
+        "name": "hsmm_rty04",
+        "message": "Ça commence demain.",
+        "attribute": "0400000050020000",
+        "style_index": 222
+    },
+    "hsmm_rty05": {
+        "name": "hsmm_rty05",
+        "message": "Il est heureux.",
+        "attribute": "0400000052020000",
+        "style_index": 222
+    },
+    "hsmm_mw_rty00": {
+        "name": "hsmm_mw_rty00",
+        "message": "Ce sera mieux dans le futur.",
+        "attribute": "0400000054020000",
+        "style_index": 8
+    }
+}

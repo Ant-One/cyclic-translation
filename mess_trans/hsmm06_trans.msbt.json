@@ -1,0 +1,152 @@
+{
+    "hsmm06_mw_op00": {
+        "name": "hsmm06_mw_op00",
+        "message": "Essayez de vaincre vos ennemis au\r\ncombat.",
+        "attribute": "04040018D0000000",
+        "style_index": 4
+    },
+    "hsmm06_mw_op01": {
+        "name": "hsmm06_mw_op01",
+        "message": "La vie commence maintenant.",
+        "attribute": "04040018F4000000",
+        "style_index": 4
+    },
+    "hsmm06_mw_mg01": {
+        "name": "hsmm06_mw_mg01",
+        "message": "Commençons par le plaisir.",
+        "attribute": "0404001810010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_mg10": {
+        "name": "hsmm06_mw_mg10",
+        "message": "Vous pouvez vous inscrire et\r\néconomiser ici. Voyons ce qui se\r\npasse.",
+        "attribute": "0405001834010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry00": {
+        "name": "hsmm06_mw_rtry00",
+        "message": "Tu veux y aller ? ...OK...",
+        "attribute": "0404001848010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry10": {
+        "name": "hsmm06_mw_rtry10",
+        "message": "Félicitations ! J'espère que\r\nla deuxième partie vous plaira.",
+        "attribute": "0404001868010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry11": {
+        "name": "hsmm06_mw_rtry11",
+        "message": "Viens ici. Je ne peux pas rester\r\nici longtemps.",
+        "attribute": "0404001882010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_rtry12": {
+        "name": "hsmm06_mw_rtry12",
+        "message": "Vous pouvez faire plus que vous\r\nne le pensez.",
+        "attribute": "040400189A010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose00": {
+        "name": "hsmm06_mw_lose00",
+        "message": "Avis : [0] [24/100/76/704] Wow,\r\naucune raison de poster !",
+        "attribute": "04040018B4010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose01": {
+        "name": "hsmm06_mw_lose01",
+        "message": "[0] Que faites-vous ? Pas\r\nmaintenant, mais dans le futur.",
+        "attribute": "04040018CE010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose02": {
+        "name": "hsmm06_mw_lose02",
+        "message": "D'accord, comment\r\npouvons-nous vous aider ? Voyons\r\nvoir.",
+        "attribute": "04040018E8010000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose03": {
+        "name": "hsmm06_mw_lose03",
+        "message": "Ce n'est pas une tâche\r\nfacile. Une communication\r\nindividuelle est utile.",
+        "attribute": "0404001802020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose04": {
+        "name": "hsmm06_mw_lose04",
+        "message": "[0] Peu importe que vous gagniez\r\nou non. Ce n'est pas si\r\ngrave. En fait, ça pourrait être\r\npire.",
+        "attribute": "040400181C020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose05": {
+        "name": "hsmm06_mw_lose05",
+        "message": "[0] Chef d'équipe :\r\nD'accord. D'accord. Nous\r\nferons mieux la prochaine fois.\r\nD'accord.",
+        "attribute": "0404001836020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose06": {
+        "name": "hsmm06_mw_lose06",
+        "message": "Est-ce suffisant ? L'argent\r\npeut être retiré à tout moment.",
+        "attribute": "0404001850020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose07": {
+        "name": "hsmm06_mw_lose07",
+        "message": "[0] Tu en as besoin. Oui, je peux\r\nfaire mieux, c'est vrai.",
+        "attribute": "040400186A020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose08": {
+        "name": "hsmm06_mw_lose08",
+        "message": "[0] Merci... Je ne savais pas !",
+        "attribute": "0404001884020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose09": {
+        "name": "hsmm06_mw_lose09",
+        "message": "[0] Mais qu'en est-il des\r\nenfants ? Ce n'est pas juste.\r\nJ'aimerais que les choses\r\ns'améliorent, mais c'est\r\ncomme ça.",
+        "attribute": "04040018A8020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose10": {
+        "name": "hsmm06_mw_lose10",
+        "message": "Laissez un message ! Merci [0] !",
+        "attribute": "04040018CC020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose11": {
+        "name": "hsmm06_mw_lose11",
+        "message": "[0] Vraiment ? Ce n'est pas\r\nfacile. Surtout si vous n'en\r\navez pas envie.",
+        "attribute": "04040018F0020000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose12": {
+        "name": "hsmm06_mw_lose12",
+        "message": "[0] Oui, c'est vrai. Je suis\r\nimpressionné... Qu'en\r\npensez-vous ?",
+        "attribute": "0404001814030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose13": {
+        "name": "hsmm06_mw_lose13",
+        "message": "[0] Où est-il ? Je n'arrive\r\npas à croire qui me l'a donné\r\n! J'étais si heureuse !",
+        "attribute": "040400182E030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose14": {
+        "name": "hsmm06_mw_lose14",
+        "message": "Aimez-vous cela ? Comment cela\r\npeut-il arriver ? [0] Merci… Au\r\nrevoir.",
+        "attribute": "0404001848030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_lose15": {
+        "name": "hsmm06_mw_lose15",
+        "message": "Qu'est-ce que j'ai fait\r\nde mal... [0] Désolé... Je ne\r\nsais pas ce que cela signifie.",
+        "attribute": "0404001862030000",
+        "style_index": 4
+    },
+    "hsmm06_mw_update00": {
+        "name": "hsmm06_mw_update00",
+        "message": "Vous ne l'avez pas encore vu\r\n? J'ai hâte d'écouter son\r\nnouvel album.",
+        "attribute": "040400187C030000",
+        "style_index": 4
+    }
+}
