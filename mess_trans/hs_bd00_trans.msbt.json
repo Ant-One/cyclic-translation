@@ -1,0 +1,2132 @@
+{
+    "bd00_ui_turn": {
+        "name": "bd00_ui_turn",
+        "message": "Cela arrive rarement.",
+        "attribute": "04000000200B0000",
+        "style_index": 19
+    },
+    "bd00_ui_turnNumber": {
+        "name": "bd00_ui_turnNumber",
+        "message": "Amour.",
+        "attribute": "04000000220B0000",
+        "style_index": 20
+    },
+    "bd00_ui_starDistance": {
+        "name": "bd00_ui_starDistance",
+        "message": "[0] - Entrez.",
+        "attribute": "04000000240B0000",
+        "style_index": 66
+    },
+    "bd00_ui_starDistance_unknown": {
+        "name": "bd00_ui_starDistance_unknown",
+        "message": "+ ? 〡 Passer un appel\r\ntéléphonique.",
+        "attribute": "04000000260B0000",
+        "style_index": 67
+    },
+    "bd00_ui_cellCount": {
+        "name": "bd00_ui_cellCount",
+        "message": "C'est incroyable !",
+        "attribute": "04000000280B0000",
+        "style_index": 65
+    },
+    "bd00_ui_cellCount_unknown": {
+        "name": "bd00_ui_cellCount_unknown",
+        "message": "Réponse correcte : [0] +?",
+        "attribute": "040000002A0B0000",
+        "style_index": 65
+    },
+    "bd00_roulette": {
+        "name": "bd00_roulette",
+        "message": "[0] Oui.",
+        "attribute": "040000002C0B0000",
+        "style_index": 22
+    },
+    "bd00_ctrl_hit": {
+        "name": "bd00_ctrl_hit",
+        "message": "Il est tombé en toute sécurité.",
+        "attribute": "040000002E0B0000",
+        "style_index": 11
+    },
+    "bd00_ctrl_zoomOut": {
+        "name": "bd00_ctrl_zoomOut",
+        "message": "Placez vos mains derrière votre\r\ndos.",
+        "attribute": "04000000300B0000",
+        "style_index": 12
+    },
+    "bd00_ctrl_viewMap": {
+        "name": "bd00_ctrl_viewMap",
+        "message": "Il regarda la table.",
+        "attribute": "04000000320B0000",
+        "style_index": 13
+    },
+    "bd00_mw_aMap": {
+        "name": "bd00_mw_aMap",
+        "message": "Il a entendu.",
+        "attribute": "04000000340B0000",
+        "style_index": 9
+    },
+    "bd00_ctrl_chanceTime": {
+        "name": "bd00_ctrl_chanceTime",
+        "message": "Cliquez sur le bouton « Copier ».",
+        "attribute": "04000000360B0000",
+        "style_index": 12
+    },
+    "bd00_ctrl_stop": {
+        "name": "bd00_ctrl_stop",
+        "message": "Je ne suis pas mort.",
+        "attribute": "04000000380B0000",
+        "style_index": 13
+    },
+    "bd00_ctrl_fastForward": {
+        "name": "bd00_ctrl_fastForward",
+        "message": "(Rome) Thomas.",
+        "attribute": "040000003A0B0000",
+        "style_index": 25
+    },
+    "bd00_ctrl_overlooking00": {
+        "name": "bd00_ctrl_overlooking00",
+        "message": "Lisez ci-dessous pour plus\r\nd'informations.",
+        "attribute": "040000003C0B0000",
+        "style_index": 26
+    },
+    "bd00_tlp_eventTitle": {
+        "name": "bd00_tlp_eventTitle",
+        "message": "Nom abrégé [1:2][0].",
+        "attribute": "040000003E0B0000",
+        "style_index": 27
+    },
+    "bd00_ctrl_zoomOut01": {
+        "name": "bd00_ctrl_zoomOut01",
+        "message": "\"Je suis\" - Y.",
+        "attribute": "04000000400B0000",
+        "style_index": 12
+    },
+    "bd00_status_rank": {
+        "name": "bd00_status_rank",
+        "message": "[0] Pourquoi.",
+        "attribute": "04000000420B0000",
+        "style_index": 23
+    },
+    "bd00_status_useName": {
+        "name": "bd00_status_useName",
+        "message": "[0] Nom.",
+        "attribute": "04000000440B0000",
+        "style_index": 24
+    },
+    "bd00_itemGet_ui_itemName": {
+        "name": "bd00_itemGet_ui_itemName",
+        "message": "Genèse 1:2.",
+        "attribute": "04000000460B0000",
+        "style_index": 54
+    },
+    "bd00_itemGet_ui_itemDetails": {
+        "name": "bd00_itemGet_ui_itemDetails",
+        "message": "9, 9, 9 mètres carrés ou quelque\r\nchose comme ça.",
+        "attribute": "04000000480B0000",
+        "style_index": 55
+    },
+    "bd00_tlp_starGet": {
+        "name": "bd00_tlp_starGet",
+        "message": "Tout commence dans les montagnes.",
+        "attribute": "040000004A0B0000",
+        "style_index": 14
+    },
+    "bd00_tlp_starGets": {
+        "name": "bd00_tlp_starGets",
+        "message": "J'ai une minute.",
+        "attribute": "040000004C0B0000",
+        "style_index": 14
+    },
+    "bd00_OP_mw_welcome00": {
+        "name": "bd00_OP_mw_welcome00",
+        "message": "Ils sont très riches. Durée\r\n0:35:02 Il y a des gens très\r\ngentils et serviables dans ce\r\nmonde. [0:311-0C-1D-FF] [Type :\r\n0:300-00].",
+        "attribute": "0401000F4E0B0000",
+        "style_index": 4
+    },
+    "bd00_tlp_board": {
+        "name": "bd00_tlp_board",
+        "message": "Oui, oui, oui.",
+        "attribute": "04000000660B0000",
+        "style_index": 35
+    },
+    "bd00_OP_mw_start00": {
+        "name": "bd00_OP_mw_start00",
+        "message": "Il est temps pour moi\r\nd'arrêter. Je suis là, mais\r\nmaintenant je m'en vais.",
+        "attribute": "0401000F680B0000",
+        "style_index": 4
+    },
+    "bd00_OP_mw_start01": {
+        "name": "bd00_OP_mw_start01",
+        "message": "0:3 11-0C-1D-FF] Veuillez saisir\r\nle prénom et le nom de cette\r\npersonne.",
+        "attribute": "0401000F6A0B0000",
+        "style_index": 4
+    },
+    "bd00_OP_mw_start02": {
+        "name": "bd00_OP_mw_start02",
+        "message": "Croyez-moi, je sais !",
+        "attribute": "040100197E0B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_welcome00": {
+        "name": "bd00_p01_mw_welcome00",
+        "message": "Je suis bénévole.",
+        "attribute": "04010019980B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_welcome01": {
+        "name": "bd00_p01_mw_welcome01",
+        "message": "Est-ce ta première fois ?",
+        "attribute": "04010019B00B0000",
+        "style_index": 6
+    },
+    "bd00_p01_mw_welcome01_a0": {
+        "name": "bd00_p01_mw_welcome01_a0",
+        "message": "le?",
+        "attribute": "03000000CE0B0000",
+        "style_index": 9
+    },
+    "bd00_p01_mw_welcome01_a1": {
+        "name": "bd00_p01_mw_welcome01_a1",
+        "message": "N'utilisez pas ce livre.",
+        "attribute": "03000000D00B0000",
+        "style_index": 9
+    },
+    "bd00_p01_mw_explaination00": {
+        "name": "bd00_p01_mw_explaination00",
+        "message": "C'est tout.",
+        "attribute": "04040019D20B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering01": {
+        "name": "bd00_p01_mw_ordering01",
+        "message": "Vous devez d’abord choisir un\r\nmode de jeu.",
+        "attribute": "04010019E60B0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering02": {
+        "name": "bd00_p01_mw_ordering02",
+        "message": "[0:300] Pas de son.",
+        "attribute": "040100190A0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering03": {
+        "name": "bd00_p01_mw_ordering03",
+        "message": "Commençons par le programme.",
+        "attribute": "040100190C0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering04": {
+        "name": "bd00_p01_mw_ordering04",
+        "message": "La troisième partie est\r\nl'introduction.",
+        "attribute": "040100190E0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ordering05": {
+        "name": "bd00_p01_mw_ordering05",
+        "message": "Une fois la numérisation terminée",
+        "attribute": "04010019100C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_giveCoin00": {
+        "name": "bd00_p01_mw_giveCoin00",
+        "message": "La meilleure façon de créer des\r\nliens est de trouver du contenu\r\npertinent.",
+        "attribute": "04010019120C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar00": {
+        "name": "bd00_p01_mw_setStar00",
+        "message": "Où sont leurs étoiles ? [0:3\r\nReverse]",
+        "attribute": "04010019360C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar01": {
+        "name": "bd00_p01_mw_setStar01",
+        "message": "Où est la première étoile ?",
+        "attribute": "04010019540C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar02": {
+        "name": "bd00_p01_mw_setStar02",
+        "message": "[Échelle 0:3] 〡 [Échelle 0:3]\r\nExcellent.",
+        "attribute": "04010025720C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar03": {
+        "name": "bd00_p01_mw_setStar03",
+        "message": "Sauvez-le avant qu'il ne soit\r\ntrop tard ! [12:30] C'est\r\nfait.",
+        "attribute": "040100258C0C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_setStar04": {
+        "name": "bd00_p01_mw_setStar04",
+        "message": "Avant de terminer, parlons des\r\ncoûts. À plus tard ! [0:3] Mais\r\nc’est tout.",
+        "attribute": "04010025B00C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ready00": {
+        "name": "bd00_p01_mw_ready00",
+        "message": "Ok, nous y sommes.",
+        "attribute": "04010019D40C0000",
+        "style_index": 4
+    },
+    "bd00_p01_mw_ready01": {
+        "name": "bd00_p01_mw_ready01",
+        "message": "C'est incroyable.\r\nFélicitations. Et surtout, bonne\r\nchance !",
+        "attribute": "04010019F20C0000",
+        "style_index": 4
+    },
+    "bd00_tlp_turn": {
+        "name": "bd00_tlp_turn",
+        "message": "toi aussi་.",
+        "attribute": "04000000100D0000",
+        "style_index": 21
+    },
+    "bd00_tlp_lastFewTurns": {
+        "name": "bd00_tlp_lastFewTurns",
+        "message": "valeur [0].",
+        "attribute": "04000000120D0000",
+        "style_index": 29
+    },
+    "bd00_tlp_lastTurns": {
+        "name": "bd00_tlp_lastTurns",
+        "message": "Parlons-en !",
+        "attribute": "04000000140D0000",
+        "style_index": 29
+    },
+    "bd00_p02_mw_lastSp00": {
+        "name": "bd00_p02_mw_lastSp00",
+        "message": "« J'y suis allé six fois et\r\nje ne sais pas où aller. »",
+        "attribute": "04010019160D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp01": {
+        "name": "bd00_p02_mw_lastSp01",
+        "message": "[0:3 - 35-02 Épisode 2].",
+        "attribute": "040100193A0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp02": {
+        "name": "bd00_p02_mw_lastSp02",
+        "message": "Les deux!",
+        "attribute": "040100193C0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp03": {
+        "name": "bd00_p02_mw_lastSp03",
+        "message": "Il a trois clés.",
+        "attribute": "040100193E0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSp04": {
+        "name": "bd00_p02_mw_lastSp04",
+        "message": "Bonjour les amis ! [0:3]\r\nC'est tout.",
+        "attribute": "04010019400D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00a": {
+        "name": "bd00_p02_mw_lastSpBonus00a",
+        "message": "Non! Non!",
+        "attribute": "04010019420D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00b": {
+        "name": "bd00_p02_mw_lastSpBonus00b",
+        "message": "Tout le monde est occupé par son\r\ntravail. C'est un match très\r\nimportant.",
+        "attribute": "040100195C0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus00c": {
+        "name": "bd00_p02_mw_lastSpBonus00c",
+        "message": "Le jeu est plein de surprises !\r\nOn ne sait jamais ce qui va se\r\npasser !",
+        "attribute": "04010019760D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus01": {
+        "name": "bd00_p02_mw_lastSpBonus01",
+        "message": "Qui joue à ce jeu ? Venez,\r\nécoutons quelques mots de\r\nsagesse.",
+        "attribute": "04010019900D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02a": {
+        "name": "bd00_p02_mw_lastSpBonus02a",
+        "message": "Lorsque vous demandez un prêt\r\nhypothécaire, vous devriez\r\ndemander conseil à un\r\nprofessionnel.",
+        "attribute": "04010019920D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02b": {
+        "name": "bd00_p02_mw_lastSpBonus02b",
+        "message": "Quel joueur préférez-vous ?\r\nL'expérience !",
+        "attribute": "04010019B00D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus02c": {
+        "name": "bd00_p02_mw_lastSpBonus02c",
+        "message": "C'est comme si les étoiles\r\nvous parlaient !",
+        "attribute": "04010019CE0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus04": {
+        "name": "bd00_p02_mw_lastSpBonus04",
+        "message": "Je le ressens encore. Fais tes\r\nvalises et pars. 7 kcal. Janvier\r\n2013 | C-1 D-HANS).",
+        "attribute": "04010019EC0D0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus03": {
+        "name": "bd00_p02_mw_lastSpBonus03",
+        "message": "Conclusion : [1] Oui !",
+        "attribute": "04010019060E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpBonus05": {
+        "name": "bd00_p02_mw_lastSpBonus05",
+        "message": "Compte à rebours : 0:30.",
+        "attribute": "04010019200E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect00": {
+        "name": "bd00_p02_mw_lastSpEffect00",
+        "message": "Ces affirmations sont-elles\r\nvraies ?",
+        "attribute": "040100193A0E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect01": {
+        "name": "bd00_p02_mw_lastSpEffect01",
+        "message": "Mettre 6 morceaux dans un bol.",
+        "attribute": "04010019520E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect02": {
+        "name": "bd00_p02_mw_lastSpEffect02",
+        "message": "Rapport de projet [février 2000\r\n0:3] Livre rouge [0:3].",
+        "attribute": "040100197C0E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect03": {
+        "name": "bd00_p02_mw_lastSpEffect03",
+        "message": "S'il y a deux personnes ou\r\nplus dans une pièce, celle-ci\r\ndoit être laissée vide.",
+        "attribute": "04010019A60E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect04": {
+        "name": "bd00_p02_mw_lastSpEffect04",
+        "message": "La partie n'est pas encore\r\nterminée. Il faudra attendre pour\r\nvoir ce qui se passera ensuite.",
+        "attribute": "04010019D00E0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_lastSpEffect05": {
+        "name": "bd00_p02_mw_lastSpEffect05",
+        "message": "Chaque livre coûte 5 $. [0:3\r\n11-0C-1D-FF] Dors, dors !\r\n[0:300-00-2000] Tous droits\r\nréservés.",
+        "attribute": "04010019000F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange00": {
+        "name": "bd00_p02_mw_turnChange00",
+        "message": "Je sais!",
+        "attribute": "040303192A0F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange01": {
+        "name": "bd00_p02_mw_turnChange01",
+        "message": "[0] ou",
+        "attribute": "04030219500F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP00": {
+        "name": "bd00_p02_mw_afterLastSP00",
+        "message": "Enfin, les résultats de la\r\nrecherche sont présentés.",
+        "attribute": "04030119520F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP01": {
+        "name": "bd00_p02_mw_afterLastSP01",
+        "message": "J'ai trois bonnes idées.",
+        "attribute": "04030119720F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP02": {
+        "name": "bd00_p02_mw_afterLastSP02",
+        "message": "À ce moment-là, deux ou plusieurs\r\nvéhicules traversaient la route.",
+        "attribute": "04030119740F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_afterLastSP03": {
+        "name": "bd00_p02_mw_afterLastSP03",
+        "message": "[0:3FF-35-02-FF] correspond à\r\n[0:311-0C-1D-FF]3[0:300-00-00-FF]\r\net\r\n[0:300-00-00-FF][0:311-0C-1D-FF]3:0.",
+        "attribute": "04030019760F0000",
+        "style_index": 4
+    },
+    "bd00_p02_mw_turnChange03": {
+        "name": "bd00_p02_mw_turnChange03",
+        "message": "OH ! Je dois ouvrir [0] !",
+        "attribute": "04030619780F0000",
+        "style_index": 4
+    },
+    "bd00_tlp_start_chaname": {
+        "name": "bd00_tlp_start_chaname",
+        "message": "phrase; [0] 9. Chansons.",
+        "attribute": "04000000A20F0000",
+        "style_index": 30
+    },
+    "bd00_p03_mw_firstItem00": {
+        "name": "bd00_p03_mw_firstItem00",
+        "message": "Tu peux tout porter ! Envie\r\nd'essayer ?",
+        "attribute": "04030119A40F0000",
+        "style_index": 4
+    },
+    "bd00_pl_dice": {
+        "name": "bd00_pl_dice",
+        "message": "Combien d'heures ?",
+        "attribute": "04000000C40F0000",
+        "style_index": 31
+    },
+    "bd00_pl_item": {
+        "name": "bd00_pl_item",
+        "message": "Vraiment?",
+        "attribute": "04000000C60F0000",
+        "style_index": 31
+    },
+    "bd00_pl_map": {
+        "name": "bd00_pl_map",
+        "message": "Bonjour?",
+        "attribute": "04000000C80F0000",
+        "style_index": 31
+    },
+    "bd00_map_cell_name": {
+        "name": "bd00_map_cell_name",
+        "message": "forme [1:2][",
+        "attribute": "04000000CA0F0000",
+        "style_index": 60
+    },
+    "bd00_map_cell_details": {
+        "name": "bd00_map_cell_details",
+        "message": "[0] Cela.",
+        "attribute": "04000000CC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details00": {
+        "name": "bd00_map_s00_details00",
+        "message": "Cela coûte 20 $ et prend 7\r\nminutes.",
+        "attribute": "04000000CE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details01": {
+        "name": "bd00_map_s00_details01",
+        "message": "Bonjour, ma sœur. J'en avais\r\npeur.",
+        "attribute": "04000000D00F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details02": {
+        "name": "bd00_map_s00_details02",
+        "message": "Un 40 |",
+        "attribute": "04000000D20F0000",
+        "style_index": 61
+    },
+    "bd00_map_s00_details03": {
+        "name": "bd00_map_s00_details03",
+        "message": "[0:3 FF-FF-FF-FF] Double-cliquez\r\nsur les vingt mots [0:3\r\nFF-FF-FF-FF] [0:3] Double-cliquez",
+        "attribute": "04000000D40F0000",
+        "style_index": 61
+    },
+    "bd00_map_s01_details00": {
+        "name": "bd00_map_s01_details00",
+        "message": "Bally est une machine\r\nintelligente.",
+        "attribute": "04000000D60F0000",
+        "style_index": 61
+    },
+    "bd00_map_s01_details01": {
+        "name": "bd00_map_s01_details01",
+        "message": "Achetez un terrain et gagnez de\r\nl'argent.",
+        "attribute": "04000000D80F0000",
+        "style_index": 61
+    },
+    "bd00_map_s02_details": {
+        "name": "bd00_map_s02_details",
+        "message": "Choisissez ce que vous voulez.",
+        "attribute": "04000000DA0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s03_details": {
+        "name": "bd00_map_s03_details",
+        "message": "Il a amené treize hommes avec\r\nlui.",
+        "attribute": "04000000DC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s04_details": {
+        "name": "bd00_map_s04_details",
+        "message": "[0:3 rires] [0:3 rires] BPP [0:3\r\nrires] Tu sais ce que tu veux.",
+        "attribute": "04000000DE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_s05_details": {
+        "name": "bd00_map_s05_details",
+        "message": "La porte est fermée. Gardez-la\r\nfermée.",
+        "attribute": "04000000E00F0000",
+        "style_index": 61
+    },
+    "bd00_map_s06_details": {
+        "name": "bd00_map_s06_details",
+        "message": "Une étoile vaut cinq dollars.",
+        "attribute": "04000000E20F0000",
+        "style_index": 61
+    },
+    "bd00_map_c00_details": {
+        "name": "bd00_map_c00_details",
+        "message": "C'est le début de\r\nl'anti-qualité.",
+        "attribute": "04000000E40F0000",
+        "style_index": 61
+    },
+    "bd00_map_c01_details": {
+        "name": "bd00_map_c01_details",
+        "message": "Tension [0V].",
+        "attribute": "04000000E60F0000",
+        "style_index": 61
+    },
+    "bd00_map_c02_details": {
+        "name": "bd00_map_c02_details",
+        "message": "[0] Oui. Ce n'est pas vrai.",
+        "attribute": "04000000E80F0000",
+        "style_index": 61
+    },
+    "bd00_map_c03_details00": {
+        "name": "bd00_map_c03_details00",
+        "message": "Si vous gagnez un mini-jeu, vous\r\nobtenez un objet.",
+        "attribute": "04000000EA0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c03_details01": {
+        "name": "bd00_map_c03_details01",
+        "message": "Je voudrais clarifier ce dernier\r\npoint.",
+        "attribute": "04000000EC0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c05_details": {
+        "name": "bd00_map_c05_details",
+        "message": "Installez la roue à droite.",
+        "attribute": "04000000EE0F0000",
+        "style_index": 61
+    },
+    "bd00_map_c06_details00": {
+        "name": "bd00_map_c06_details00",
+        "message": "Argent ou propriété.",
+        "attribute": "04000000F00F0000",
+        "style_index": 61
+    },
+    "bd00_map_c06_details01": {
+        "name": "bd00_map_c06_details01",
+        "message": "Regardez les routes.",
+        "attribute": "04000000F20F0000",
+        "style_index": 61
+    },
+    "bd00_map_c07_details": {
+        "name": "bd00_map_c07_details",
+        "message": "C'était une première mi-temps\r\ndifficile.",
+        "attribute": "04000000F40F0000",
+        "style_index": 61
+    },
+    "bd00_map_c08_details": {
+        "name": "bd00_map_c08_details",
+        "message": "Les joueurs peuvent gagner de\r\nl'argent en participant à des\r\nmini-tournois !",
+        "attribute": "04000000F60F0000",
+        "style_index": 61
+    },
+    "bd00_map_c09_details": {
+        "name": "bd00_map_c09_details",
+        "message": "char[0] est tout !",
+        "attribute": "04000000F80F0000",
+        "style_index": 61
+    },
+    "bd00_2Dmap_cell_name": {
+        "name": "bd00_2Dmap_cell_name",
+        "message": "[1:2] Rien.",
+        "attribute": "04000000FA0F0000",
+        "style_index": 63
+    },
+    "bd00_2Dmap_ctrl_back": {
+        "name": "bd00_2Dmap_ctrl_back",
+        "message": "Je reviendrai.",
+        "attribute": "04000000FC0F0000",
+        "style_index": 62
+    },
+    "bd00_2Dmap_ctrl_display": {
+        "name": "bd00_2Dmap_ctrl_display",
+        "message": "rêve",
+        "attribute": "04000000FE0F0000",
+        "style_index": 62
+    },
+    "bd00_3Dmap_ctrl_cursor": {
+        "name": "bd00_3Dmap_ctrl_cursor",
+        "message": "Il a compris le point.",
+        "attribute": "0400000000100000",
+        "style_index": 62
+    },
+    "bd00_2Dmap_c09_coin": {
+        "name": "bd00_2Dmap_c09_coin",
+        "message": "Données biométriques,",
+        "attribute": "0400000002100000",
+        "style_index": 64
+    },
+    "bd00_s00_mw_welcome00": {
+        "name": "bd00_s00_mw_welcome00",
+        "message": "[0:3] Bien sûr. Ce n'est pas\r\nvrai. Ça doit être difficile.",
+        "attribute": "0404002504100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_welcome01": {
+        "name": "bd00_s00_mw_welcome01",
+        "message": "a! [0:3 Merci. - 35 - 02 merci]\r\n[0] [0:3 merci] [0:3 merci]\r\nPuis-je arrêter ça ? [0:31]\r\nC'est vrai.",
+        "attribute": "0404002528100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_welcome02": {
+        "name": "bd00_s00_mw_welcome02",
+        "message": "À plus tard, [0:3 FF-FF-FF-FF]\r\nPrésident ! J'ai confiance en\r\nvous.",
+        "attribute": "040400254C100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noCoin00": {
+        "name": "bd00_s00_mw_noCoin00",
+        "message": "X, demande des éclaircissements.",
+        "attribute": "040400256A100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange00": {
+        "name": "bd00_s00_mw_exchange00",
+        "message": "Voulez-vous devenir un\r\nscientifique ?",
+        "attribute": "0404002588100000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_exchange00_a0": {
+        "name": "bd00_s00_mw_exchange00_a0",
+        "message": "Non, ce n'est pas vrai.",
+        "attribute": "030000258A100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a1": {
+        "name": "bd00_s00_mw_exchange00_a1",
+        "message": "→ 1\r\n0:31-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0:3-0.\r\n:3-0:",
+        "attribute": "030000258C100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a2": {
+        "name": "bd00_s00_mw_exchange00_a2",
+        "message": "0:311-1U-hmo] → 1 [0:3C-1U-hmo]\r\n[0:3C-1U-hmo] [0:3-1-00-0].",
+        "attribute": "030000258E100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a3": {
+        "name": "bd00_s00_mw_exchange00_a3",
+        "message": "2 [0:3 11-0S-1D-FF] 0:3\r\n11-0S-1D-FF] → 2 [0:3].",
+        "attribute": "0300002590100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange00_a4": {
+        "name": "bd00_s00_mw_exchange00_a4",
+        "message": "4 [0:3 11-0c-1d-f] 0 [en cours\r\nd'exécution 0:3].",
+        "attribute": "0300002592100000",
+        "style_index": 9
+    },
+    "bd00_s00_mw_exchange01": {
+        "name": "bd00_s00_mw_exchange01",
+        "message": "Câble, ce projet est le tien.",
+        "attribute": "0404002594100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02a": {
+        "name": "bd00_s00_mw_exchange02a",
+        "message": "Merci.",
+        "attribute": "04040025AE100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02b": {
+        "name": "bd00_s00_mw_exchange02b",
+        "message": "Oui, regardez, il y a des\r\nétoiles.",
+        "attribute": "04040025C2100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange02c": {
+        "name": "bd00_s00_mw_exchange02c",
+        "message": "[0:3 FF-FF-FF-FF] Couronne,\r\ncouronne. Pour moi, le temps,\r\nc'est de l'argent. [0:3\r\nCinq]",
+        "attribute": "04040025D6100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange03": {
+        "name": "bd00_s00_mw_exchange03",
+        "message": "Non ! Tous les billets sont\r\ngratuits.",
+        "attribute": "04040025EA100000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange04": {
+        "name": "bd00_s00_mw_exchange04",
+        "message": "Y a-t-il des étoiles ? Je veux\r\ntout savoir !",
+        "attribute": "0404002504110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_exchange05": {
+        "name": "bd00_s00_mw_exchange05",
+        "message": "Je ne sais pas de quoi tu parles\r\n! Tant d'étoiles !",
+        "attribute": "040400251E110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_halfStar00": {
+        "name": "bd00_s00_mw_halfStar00",
+        "message": "Heureusement, c'est gratuit.",
+        "attribute": "0404002536110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_halfStar01": {
+        "name": "bd00_s00_mw_halfStar01",
+        "message": "Qu'il en soit ainsi ! Ravie\r\nde vous avoir rencontré.",
+        "attribute": "0404002550110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noExchange00": {
+        "name": "bd00_s00_mw_noExchange00",
+        "message": "Est-ce que c'est mal, vous\r\nles gens célèbres ?",
+        "attribute": "040400256A110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_noExchange01": {
+        "name": "bd00_s00_mw_noExchange01",
+        "message": "Que veux-tu?",
+        "attribute": "0404002588110000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_noExchange02": {
+        "name": "bd00_s00_mw_noExchange02",
+        "message": "Est-ce vrai ? Est-ce vrai ?",
+        "attribute": "04040025A0110000",
+        "style_index": 6
+    },
+    "bd00_s00_mw_noExchange03": {
+        "name": "bd00_s00_mw_noExchange03",
+        "message": "Alors, toi... toi ?",
+        "attribute": "04040025BE110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_starMove00": {
+        "name": "bd00_s00_mw_starMove00",
+        "message": "Il y a beaucoup d’autres étoiles.",
+        "attribute": "04040025DA110000",
+        "style_index": 4
+    },
+    "bd00_s00_mw_starMove01": {
+        "name": "bd00_s00_mw_starMove01",
+        "message": "Vous voyez, les étoiles\r\nattendent.",
+        "attribute": "04040025F8110000",
+        "style_index": 4
+    },
+    "bd00_s01_ui_shopClosed": {
+        "name": "bd00_s01_ui_shopClosed",
+        "message": "matin.",
+        "attribute": "0400000012120000",
+        "style_index": 42
+    },
+    "bd00_s01_ui_itemPrice": {
+        "name": "bd00_s01_ui_itemPrice",
+        "message": "[0] Ceci",
+        "attribute": "0400000014120000",
+        "style_index": 38
+    },
+    "bd00_s01_ui_itemName": {
+        "name": "bd00_s01_ui_itemName",
+        "message": "Dans ce classement [1:2][0].",
+        "attribute": "0400000016120000",
+        "style_index": 39
+    },
+    "bd00_s01_ui_itemDetails": {
+        "name": "bd00_s01_ui_itemDetails",
+        "message": "[0] C’est vrai.",
+        "attribute": "0400000018120000",
+        "style_index": 40
+    },
+    "bd00_s01_ctrl_cancel": {
+        "name": "bd00_s01_ctrl_cancel",
+        "message": "Je t'aime tellement. Je\r\nt'aime tellement.",
+        "attribute": "040000001A120000",
+        "style_index": 41
+    },
+    "bd00_s01_ctrl_map": {
+        "name": "bd00_s01_ctrl_map",
+        "message": "Regardez l'image ci-dessous.",
+        "attribute": "040000001C120000",
+        "style_index": 41
+    },
+    "bd00_s01_mw_noCoin00": {
+        "name": "bd00_s01_mw_noCoin00",
+        "message": "[0:3 FF-35-02-FF] Localisation\r\n[0:3 FFFF] Que veux-tu ? [10:3]\r\nExactement.",
+        "attribute": "0404002D1E120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_noCoin01": {
+        "name": "bd00_s01_mw_noCoin01",
+        "message": "Ouais, non, je n'ai pas\r\nd'argent, et [0:3] désolé, je\r\nn'ai pas d'argent. [0:3]\r\nBonne chance.",
+        "attribute": "0404002D36120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome00": {
+        "name": "bd00_s01_mw_welcome00",
+        "message": "[0:3] Oui. Que veux-tu vendre ?\r\n[0:31] Nouvelle chanson.",
+        "attribute": "0404002D38120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome01": {
+        "name": "bd00_s01_mw_welcome01",
+        "message": "Vous le faites parce que vous ne\r\nle faites pas bien.",
+        "attribute": "0404002D4C120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome02": {
+        "name": "bd00_s01_mw_welcome02",
+        "message": "Le jeu n'est pas encore\r\nterminé, il est de retour.",
+        "attribute": "0404002D4E120000",
+        "style_index": 4
+    },
+    "bd00_s01_mw_welcome03": {
+        "name": "bd00_s01_mw_welcome03",
+        "message": "Souvenez-vous-en et voyez ce qui\r\nse passe.",
+        "attribute": "0404002D50120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00a": {
+        "name": "bd00_s03_mw_welcome00a",
+        "message": "Regardez ! 10 pièces",
+        "attribute": "0404000F52120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00b": {
+        "name": "bd00_s03_mw_welcome00b",
+        "message": "Merci pour votre hospitalité. Je\r\ndînerai avec vous.",
+        "attribute": "0404000F8A120000",
+        "style_index": 4
+    },
+    "bd00_s03_mw_welcome00c": {
+        "name": "bd00_s03_mw_welcome00c",
+        "message": "Au début, j'ai demandé dix\r\ndollars.",
+        "attribute": "0404000FC2120000",
+        "style_index": 4
+    },
+    "bd00_mgResult_rank_1st": {
+        "name": "bd00_mgResult_rank_1st",
+        "message": "C'est l'A8.",
+        "attribute": "04000000FA120000",
+        "style_index": 48
+    },
+    "bd00_mgResult_rank_below": {
+        "name": "bd00_mgResult_rank_below",
+        "message": "à acheter.",
+        "attribute": "04000000FC120000",
+        "style_index": 49
+    },
+    "bd00_mgResult_ui_Win": {
+        "name": "bd00_mgResult_ui_Win",
+        "message": "Dessiner",
+        "attribute": "04000000FE120000",
+        "style_index": 47
+    },
+    "bd00_mgResult_ui_catchUp": {
+        "name": "bd00_mgResult_ui_catchUp",
+        "message": "Bonne nuit!",
+        "attribute": "0400000000130000",
+        "style_index": 50
+    },
+    "bd00_mgResult_ui_keep": {
+        "name": "bd00_mgResult_ui_keep",
+        "message": "Il n'y a pas de différence",
+        "attribute": "0400000002130000",
+        "style_index": 50
+    },
+    "bd00_mgResult_ui_reversal": {
+        "name": "bd00_mgResult_ui_reversal",
+        "message": "Lâcher!",
+        "attribute": "0400000004130000",
+        "style_index": 50
+    },
+    "bd00_tlp_cell": {
+        "name": "bd00_tlp_cell",
+        "message": "[1:2][0] serpent;",
+        "attribute": "0400000006130000",
+        "style_index": 32
+    },
+    "bd00_duel_mw_welcome00": {
+        "name": "bd00_duel_mw_welcome00",
+        "message": "Deux joueurs ou plus jouent au\r\nmême jeu… au même jeu !",
+        "attribute": "0403031908130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_noCoin00": {
+        "name": "bd00_duel_mw_noCoin00",
+        "message": "[0:311-0C-1D-FF] J'ai vérifié\r\nà nouveau, et il n'y avait\r\nplus d'argent. Assez...",
+        "attribute": "0403011932130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice00": {
+        "name": "bd00_duel_mw_choice00",
+        "message": "Il y a quelques éléments à\r\nprendre en compte lors du choix\r\nd’un concurrent.",
+        "attribute": "0403011934130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice01": {
+        "name": "bd00_duel_mw_choice01",
+        "message": "[0:3 11-0C-1D-FF] J'avais\r\noublié que je travaillais. Oui,\r\noui.",
+        "attribute": "0403011958130000",
+        "style_index": 7
+    },
+    "bd00_duel_mw_choice02": {
+        "name": "bd00_duel_mw_choice02",
+        "message": "Eh bien… l’argent n’est pas tout.",
+        "attribute": "040301195A130000",
+        "style_index": 7
+    },
+    "bd00_rivalSlct_order_duel": {
+        "name": "bd00_rivalSlct_order_duel",
+        "message": "Qui est à l'intérieur ?",
+        "attribute": "0400000080130000",
+        "style_index": 57
+    },
+    "bd00_duel_mw_betCoin03": {
+        "name": "bd00_duel_mw_betCoin03",
+        "message": "Cela dépend de la personne.\r\nSélectionnez le numéro de série.\r\n[0:3 Keto]",
+        "attribute": "0401001982130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin00": {
+        "name": "bd00_duel_mw_betCoin00",
+        "message": "Ne vous inquiétez pas ! Combien\r\npouvez-vous économiser ?",
+        "attribute": "040100199C130000",
+        "style_index": 6
+    },
+    "bd00_duel_mw_betCoin04": {
+        "name": "bd00_duel_mw_betCoin04",
+        "message": "Qu'est-ce que c'est ?\r\nC'est juste une séquence de\r\n[0:3 FF-FF-FF-FF]\r\n[0:311-0C-1D-FF].",
+        "attribute": "040100199E130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin05": {
+        "name": "bd00_duel_mw_betCoin05",
+        "message": "Est-ce une bonne chose ? [0:3]\r\nC'est dommage. [0:3] Oui.",
+        "attribute": "04010019A0130000",
+        "style_index": 4
+    },
+    "bd00_duel_ui_betCoin": {
+        "name": "bd00_duel_ui_betCoin",
+        "message": "9:9-9:10 Encore un mot.",
+        "attribute": "04000019A2130000",
+        "style_index": 43
+    },
+    "bd00_duel_mw_betCoin01": {
+        "name": "bd00_duel_mw_betCoin01",
+        "message": "Tu as raison ! Tu peux faire ce\r\nque tu veux avec cet écran. [0:\r\n300-000] [0: 300-00].",
+        "attribute": "04010019A4130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin01p": {
+        "name": "bd00_duel_mw_betCoin01p",
+        "message": "[0] J'ai une histoire de\r\nguerre.\r\n0:3FF-FF-FF][0:300-00-FF][0:311-0\r\nC-1 D-FF].",
+        "attribute": "04010019B8130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin02": {
+        "name": "bd00_duel_mw_betCoin02",
+        "message": "[0] Aucun. Les gens sont\r\nsympathiques et prêts à aider. De\r\nquoi parlez-vous ? Que se\r\npasse-t-il ici ?",
+        "attribute": "04010019CC130000",
+        "style_index": 6
+    },
+    "bd00_duel_mw_betCoin02p": {
+        "name": "bd00_duel_mw_betCoin02p",
+        "message": "Pour protéger ?",
+        "attribute": "04010019EA130000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_betCoin02_a0": {
+        "name": "bd00_duel_mw_betCoin02_a0",
+        "message": "parler",
+        "attribute": "0401001908140000",
+        "style_index": 9
+    },
+    "bd00_duel_mw_betCoin02_a1": {
+        "name": "bd00_duel_mw_betCoin02_a1",
+        "message": "Fiable",
+        "attribute": "040100190A140000",
+        "style_index": 9
+    },
+    "bd00_duel_mw_totalCoin00": {
+        "name": "bd00_duel_mw_totalCoin00",
+        "message": "[Soustraire 0:3 de tous les\r\nrésultats].",
+        "attribute": "040100190C140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_totalCoin01": {
+        "name": "bd00_duel_mw_totalCoin01",
+        "message": "Non ! [0] Nombre de cartes [0:3\r\nFifi-Fifi-Fifi] [0:3\r\n00-00-00-FIFI] [0:3\r\n11-0C-1D-FIFI] ! Qui va gagner la\r\ndeuxième fois ? [Je pense 0:30.",
+        "attribute": "0401001930140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_totalCoin02": {
+        "name": "bd00_duel_mw_totalCoin02",
+        "message": "Je n'arrivais pas à y croire\r\n! Ce n'est pas bon. [10:3:30]\r\ndis-je.",
+        "attribute": "040100194A140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_start00": {
+        "name": "bd00_duel_mw_start00",
+        "message": "Êtes-vous prêt pour la bataille ?",
+        "attribute": "0401001964140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_win00": {
+        "name": "bd00_duel_mw_win00",
+        "message": "Comment fonctionne cette méthode\r\n? Caractéristiques :",
+        "attribute": "0401001982140000",
+        "style_index": 4
+    },
+    "bd00_duel_mw_draw00": {
+        "name": "bd00_duel_mw_draw00",
+        "message": "Nous avons de grands espoirs.\r\nMettez-le dans la boîte. Nous\r\navons besoin d'argent. [3\r\ndécembre 2009]",
+        "attribute": "040100199C140000",
+        "style_index": 4
+    },
+    "bd00_c04_mw_lastTurn": {
+        "name": "bd00_c04_mw_lastTurn",
+        "message": "Ce n'est pas facile d'y\r\narriver.",
+        "attribute": "04040000B6140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00a": {
+        "name": "bd00_c05_mw_welcome00a",
+        "message": "Salut ! [0:30-02-FF] Bienvenue !\r\nTu as réussi. La chance est\r\nimportante. Félicitations,\r\nl'Afrique [0:3].",
+        "attribute": "04010019B8140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00b": {
+        "name": "bd00_c05_mw_welcome00b",
+        "message": "C'est la partie que j'ai\r\naimée… et c'est celle qui lui\r\nfaisait peur. C'est très\r\ndéroutant.",
+        "attribute": "04010019D2140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome00c": {
+        "name": "bd00_c05_mw_welcome00c",
+        "message": "[0:311-0C-1D-FF] J'ai\r\ncommencé à faire quelque chose.\r\nHomme : Homme : Moi. Je sais.",
+        "attribute": "04010019EC140000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome01": {
+        "name": "bd00_c05_mw_welcome01",
+        "message": "travail.",
+        "attribute": "0401001906150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_welcome02": {
+        "name": "bd00_c05_mw_welcome02",
+        "message": "Battons-nous trois fois s'il\r\nle faut.",
+        "attribute": "0401001908150000",
+        "style_index": 4
+    },
+    "bd00_tlp_chanceTime": {
+        "name": "bd00_tlp_chanceTime",
+        "message": "J'ai gagné à la loterie.",
+        "attribute": "0400000026150000",
+        "style_index": 37
+    },
+    "bd00_c05_mw_payCoin00": {
+        "name": "bd00_c05_mw_payCoin00",
+        "message": "0:3 11-0 C-1D-PH] et 2 1:1.",
+        "attribute": "0401001928150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_payStar00": {
+        "name": "bd00_c05_mw_payStar00",
+        "message": "diplôme. / Je ne pense pas.",
+        "attribute": "0401001942150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAllCoin00": {
+        "name": "bd00_c05_mw_changeAllCoin00",
+        "message": "Histoire [0:311-1D-FF]\r\n[0:311-1D-FF]",
+        "attribute": "040100195C150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAllStar00": {
+        "name": "bd00_c05_mw_changeAllStar00",
+        "message": "[0:3 dossier-dossier] [0:3\r\n11-0C-1D-dossier-dossier] Voir\r\ntous les fichiers\r\n11-0C-1D-23-23-Oct.]",
+        "attribute": "0401001976150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll00": {
+        "name": "bd00_c05_mw_changeAll00",
+        "message": "Des gens gentils, gentils,\r\ngentils qui prennent soin des\r\nenfants de FK [,1:3-3]\r\n[0:311-0C-1D-FF].",
+        "attribute": "0401001990150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll01": {
+        "name": "bd00_c05_mw_changeAll01",
+        "message": "[0:3 00-00-00-Mois][0:3\r\n11-0C-1J-Mois]! [0:3 semaines]!",
+        "attribute": "04010019AA150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_changeAll02": {
+        "name": "bd00_c05_mw_changeAll02",
+        "message": "Alors il est [0:3 FF-FF-FF-FF] \r\n[0:3 00-00-00-FF]!",
+        "attribute": "04010019C8150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange00": {
+        "name": "bd00_c05_mw_noChange00",
+        "message": "Vous savez quoi ? Personne\r\nn'a autant d'argent.\r\nÉtudes démographiques",
+        "attribute": "04010019EC150000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange01": {
+        "name": "bd00_c05_mw_noChange01",
+        "message": "Mais qu'en est-il du 0:3 ?",
+        "attribute": "040100190A160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_noChange02": {
+        "name": "bd00_c05_mw_noChange02",
+        "message": "C'est vrai ? Aucun\r\nchangement. D'accord.",
+        "attribute": "0401001928160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00a": {
+        "name": "bd00_c05_mw_finish00a",
+        "message": "Je vais réessayer. [0:3] Le non.",
+        "attribute": "0401001946160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00b": {
+        "name": "bd00_c05_mw_finish00b",
+        "message": "Attendez [02/02/2019] Non\r\n[02/02/2019] ! [0:3 00-00-00-P].",
+        "attribute": "040100196A160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish00c": {
+        "name": "bd00_c05_mw_finish00c",
+        "message": "[0:3 FF-35-02-FF] Toujours\r\nfonctionnel [0:3 00-00-00-FF] !\r\nRevenez ici si vous souhaitez\r\nmodifier quoi que ce soit.",
+        "attribute": "040100198E160000",
+        "style_index": 4
+    },
+    "bd00_c05_mw_finish01": {
+        "name": "bd00_c05_mw_finish01",
+        "message": "Je ne pense pas que cela\r\nchangera.",
+        "attribute": "04010019B2160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome00a": {
+        "name": "bd00_c07_mw_welcome00a",
+        "message": "égal.",
+        "attribute": "0404000CCA160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome00b": {
+        "name": "bd00_c07_mw_welcome00b",
+        "message": "Merci ! La mer !",
+        "attribute": "0404000CE2160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01a": {
+        "name": "bd00_c07_mw_welcome01a",
+        "message": "[0:3 ff-ff-ff] Je suis derrière\r\ntoi. [0:300-000] 0:300-000",
+        "attribute": "0404000CFA160000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01b": {
+        "name": "bd00_c07_mw_welcome01b",
+        "message": "Bowser [0:3 pleure] [0:3 pleure]!\r\nmerci !!! [0:3] Attends.",
+        "attribute": "0404000C18170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_welcome01c": {
+        "name": "bd00_c07_mw_welcome01c",
+        "message": "Je suis à Cuba… J'ai envie de\r\npleurer ! J'ai envie de\r\npleurer ! [00:3 heures]",
+        "attribute": "0404000C36170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_4thPlace00": {
+        "name": "bd00_c07_mw_4thPlace00",
+        "message": "Bonjour?",
+        "attribute": "0404000C54170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_4thPlace01": {
+        "name": "bd00_c07_mw_4thPlace01",
+        "message": "C'est ta dernière fois.",
+        "attribute": "0404000C72170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoin00": {
+        "name": "bd00_c07_mw_payCoin00",
+        "message": "Je te dis la vérité.",
+        "attribute": "0404000C74170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoinLack00": {
+        "name": "bd00_c07_mw_payCoinLack00",
+        "message": "Tu plaisantes, ça m'a fait\r\nrire ! Revoyons ça, hahaha !",
+        "attribute": "0404000C92170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payCoinNone00": {
+        "name": "bd00_c07_mw_payCoinNone00",
+        "message": "Alors, est-ce que ça marche pour\r\nvous ?",
+        "attribute": "0404000CB0170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_allPayCoin00": {
+        "name": "bd00_c07_mw_allPayCoin00",
+        "message": "Comme c'est beau ! Je suis\r\ntombé à genoux et me suis excusé.\r\nQui est l'inconnu ?",
+        "attribute": "0404000CC8170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_allPayCoin01": {
+        "name": "bd00_c07_mw_allPayCoin01",
+        "message": "Ne t'inquiète pas ! Ne\r\nt'inquiète pas !",
+        "attribute": "0404000CE0170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin00": {
+        "name": "bd00_c07_mw_evenlyCoin00",
+        "message": "Vous savez, ce n’est pas\r\nseulement une question d’argent,\r\nn’est-ce pas ?",
+        "attribute": "0404000CFE170000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin01": {
+        "name": "bd00_c07_mw_evenlyCoin01",
+        "message": "En tout cas, j'aime vraiment\r\nça !",
+        "attribute": "0404000C1C180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin03": {
+        "name": "bd00_c07_mw_evenlyCoin03",
+        "message": "Dis-moi que je cache quelque\r\nchose !",
+        "attribute": "0404000C1E180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin04": {
+        "name": "bd00_c07_mw_evenlyCoin04",
+        "message": "[0] [1:1] Ensemble [1:1].",
+        "attribute": "0404000C36180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_evenlyCoin02": {
+        "name": "bd00_c07_mw_evenlyCoin02",
+        "message": "Tu es peut-être un homme, mais\r\nc'est ce que tu es.",
+        "attribute": "0404000C54180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_changePlace00": {
+        "name": "bd00_c07_mw_changePlace00",
+        "message": "Seigneur, c'est l'heure\r\nde la prière.",
+        "attribute": "0404000C6C180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_changePlace01": {
+        "name": "bd00_c07_mw_changePlace01",
+        "message": "Mais... il est temps !",
+        "attribute": "0404000C8A180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_100star00": {
+        "name": "bd00_c07_mw_100star00",
+        "message": "Je ne crois pas... Je ne crois\r\npas. Je n'ai rien à dire. Oh\r\n!",
+        "attribute": "0404000C9E180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_100star01": {
+        "name": "bd00_c07_mw_100star01",
+        "message": "(Rapport de recherche…).",
+        "attribute": "04040000BC180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_paystar00": {
+        "name": "bd00_c07_mw_paystar00",
+        "message": "« Vraiment ? » Elle le regarda.",
+        "attribute": "0404000CBE180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_payStarNone00": {
+        "name": "bd00_c07_mw_payStarNone00",
+        "message": "Comment en es-tu arrivé là ? Hmm…\r\nJe suis curieux.",
+        "attribute": "0404000CDC180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent00": {
+        "name": "bd00_c07_mw_coinPresent00",
+        "message": "Tu as vu ces étoiles ? Mon\r\nsalaire est bas !",
+        "attribute": "0404000CF4180000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent01": {
+        "name": "bd00_c07_mw_coinPresent01",
+        "message": "Il n'a pas fait ça. Il a pris\r\nvingt photos.",
+        "attribute": "0404000C0C190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_coinPresent02": {
+        "name": "bd00_c07_mw_coinPresent02",
+        "message": "Ouais, tue-le.",
+        "attribute": "0404000C2A190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_bowserHsmg00": {
+        "name": "bd00_c07_mw_bowserHsmg00",
+        "message": "[0:3 Fondu lent] Bataille pour le\r\ntemps [0:3 Fondu lent]\r\n[0:300-000-000! ]",
+        "attribute": "0404000C42190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_bowserHsmg01": {
+        "name": "bd00_c07_mw_bowserHsmg01",
+        "message": "[0:3] Si je gagne, je te le\r\ndonne. Bienvenue.",
+        "attribute": "0404000C60190000",
+        "style_index": 4
+    },
+    "bd00_c07_mw_kpmgNoLose00": {
+        "name": "bd00_c07_mw_kpmgNoLose00",
+        "message": "Merci, mon ami, d'avoir créé\r\nune atmosphère chaleureuse et\r\naccueillante ici. Tu n'as pas\r\nbesoin de me remercier.",
+        "attribute": "0404000C74190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin00": {
+        "name": "bo00_c07_mw_kpmgPayCoin00",
+        "message": "[Auteur. 0:3 mentionné\r\nci-dessus].",
+        "attribute": "0404000C8C190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin05": {
+        "name": "bo00_c07_mw_kpmgPayCoin05",
+        "message": "[0:3 Heure] [0:3] Les deux\r\naffichent l'heure. [0:3\r\nheure] [1] [0:3 écouter] [0:3\r\nécouter] Je suis de retour. 00:3\r\net 00-00-20",
+        "attribute": "0404000CAA190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin04": {
+        "name": "bo00_c07_mw_kpmgPayCoin04",
+        "message": "[0:3 silence] Réveille-toi ! [0:3\r\npouce] [0:3 pouce] Utilisé !\r\n[0:3] Réponds !",
+        "attribute": "0404000CC8190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin01": {
+        "name": "bo00_c07_mw_kpmgPayCoin01",
+        "message": "Bien sûr, haha. C'était\r\nseulement dix dollars par\r\npersonne.",
+        "attribute": "0404000CE6190000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin02": {
+        "name": "bo00_c07_mw_kpmgPayCoin02",
+        "message": "Vraiment ? Je n'ai pas\r\nbeaucoup d'argent… dis-je.",
+        "attribute": "0404000C041A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoin03": {
+        "name": "bo00_c07_mw_kpmgPayCoin03",
+        "message": "Oui, les choses changent. Je suis\r\nlà.",
+        "attribute": "0404000C1C1A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone00": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone00",
+        "message": "Amour A. Es-tu riche ? Vit-il\r\navec toi ?",
+        "attribute": "0404000C3A1A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone01": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone01",
+        "message": "On est riches ici ! N'ayez\r\npeur de personne !",
+        "attribute": "0404000C581A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone02": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone02",
+        "message": "Sans-abri ? C'est simple, non\r\n? Bref...",
+        "attribute": "0404000C701A0000",
+        "style_index": 4
+    },
+    "bo00_c07_mw_kpmgPayCoinNone03": {
+        "name": "bo00_c07_mw_kpmgPayCoinNone03",
+        "message": "Eh bien, ce n'est pas un\r\nproblème. Commençons.",
+        "attribute": "0404000C8E1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_welcome00": {
+        "name": "bd00_c08_mw_welcome00",
+        "message": "Participez à des mini-jeux et à\r\ndes jeux de hasard.",
+        "attribute": "04010019AC1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_welcome01": {
+        "name": "bd00_c08_mw_welcome01",
+        "message": "Vous serez récompensé en fonction\r\nde votre classement.",
+        "attribute": "04010019C01A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_bonus00": {
+        "name": "bd00_c08_mw_bonus00",
+        "message": "Source : Three News. [0:0] Le\r\ntemps est écoulé. 0:3 35-00-00.",
+        "attribute": "04010019C21A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin00": {
+        "name": "bd00_c08_mw_betCoin00",
+        "message": "Découvrez toutes les options\r\ndisponibles à 22h30.",
+        "attribute": "04010019DC1A0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin01": {
+        "name": "bd00_c08_mw_betCoin01",
+        "message": "Dis bonjour, donne-moi de\r\nl'argent.",
+        "attribute": "04010019001B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin02": {
+        "name": "bd00_c08_mw_betCoin02",
+        "message": "Écrivez, lisez, découvrez et\r\namusez-vous toujours.",
+        "attribute": "04010019141B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_betCoin04": {
+        "name": "bd00_c08_mw_betCoin04",
+        "message": "Hmm ? [0:3\r\nBL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL-BL\r\nJ'ai une idée. Parle aux\r\ngens. [00-00-00 00:3].",
+        "attribute": "040100192C1B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_start00": {
+        "name": "bd00_c08_mw_start00",
+        "message": "Oui, c'est une question\r\nd'argent.",
+        "attribute": "040100194A1B0000",
+        "style_index": 4
+    },
+    "bd00_c08_mw_start01": {
+        "name": "bd00_c08_mw_start01",
+        "message": "Nous sommes heureux.",
+        "attribute": "04010019681B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin00": {
+        "name": "bd00_c09_mw_noCoin00",
+        "message": "Eh bien, Karmashi Bank [environ\r\n0:3].",
+        "attribute": "0404000F8C1B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin01": {
+        "name": "bd00_c09_mw_noCoin01",
+        "message": "Bien que ce soit une bonne chose,\r\nce n’est pas la seule.",
+        "attribute": "0404000FA41B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_noCoin02": {
+        "name": "bd00_c09_mw_noCoin02",
+        "message": "La valeur actuelle... est\r\ncomprise entre [0] et [1:1].",
+        "attribute": "0404000FC21B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin00": {
+        "name": "bd00_c09_mw_payCoin00",
+        "message": "C'est un petit sac\r\n[0:3FF-35-FF-FF], il faut donc de\r\nl'argent [0] [0:3FF-FF-FF]\r\n[0:3FF-FF-FF].",
+        "attribute": "0404000FDC1B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin02": {
+        "name": "bd00_c09_mw_payCoin02",
+        "message": "Poisson et poisson. [0] 9. 9.",
+        "attribute": "0404000FF41B0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin03": {
+        "name": "bd00_c09_mw_payCoin03",
+        "message": "Le vendeur sera ravi de vous\r\nrencontrer ! [0:3 00-00-00-00] !\r\nVous pouvez utiliser ceci.",
+        "attribute": "0404000F0E1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin01": {
+        "name": "bd00_c09_mw_payCoin01",
+        "message": "Merci pour votre aide.",
+        "attribute": "0404000F221C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin07": {
+        "name": "bd00_c09_mw_payCoin07",
+        "message": "Dans une ville hautement\r\nsécurisée, toutes les\r\ntransactions bancaires se font en\r\nespèces.",
+        "attribute": "0404000F401C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin13": {
+        "name": "bd00_c09_mw_payCoin13",
+        "message": "[0:3] Le voleur a volé quelque\r\nchose. 2009 00:30 AM.",
+        "attribute": "0404000F581C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin04": {
+        "name": "bd00_c09_mw_payCoin04",
+        "message": "[0:3] Oui, oui ! Mars 2019, 00:00",
+        "attribute": "0404000F7C1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin05": {
+        "name": "bd00_c09_mw_payCoin05",
+        "message": "Les groupes restants ont été\r\ndivisés en quatre groupes [0:\r\n3ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff\r\nf-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff\r\nf-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff\r\nff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff-ff.",
+        "attribute": "0404000F941C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin09": {
+        "name": "bd00_c09_mw_payCoin09",
+        "message": "Maintenant nous sommes libres\r\n[0:3 NG].",
+        "attribute": "0404000FB21C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin10": {
+        "name": "bd00_c09_mw_payCoin10",
+        "message": "Oui, seulement trois [0:3 noir et\r\nblanc] [0:300–000 blanc] !",
+        "attribute": "0404000FCA1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin11": {
+        "name": "bd00_c09_mw_payCoin11",
+        "message": "Maintenant, nous allons ailleurs.",
+        "attribute": "0404000FCC1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin12": {
+        "name": "bd00_c09_mw_payCoin12",
+        "message": "Tu sais quoi, Payne ?",
+        "attribute": "0404000FE41C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_payCoin06": {
+        "name": "bd00_c09_mw_payCoin06",
+        "message": "« Je suis vieux et je n'ai\r\npas d'argent, alors je suis\r\nheureux de faire ce que je peux.\r\nSur une échelle de 0 à 3. »",
+        "attribute": "0404000FE61C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin00": {
+        "name": "bd00_c09_mw_getCoin00",
+        "message": "Fréquemment. [0:3] Invoque ton\r\nSeigneur. [0:3 00-00-00-FF] [0:3\r\nFF-FF] Merci. Je ne vois pas ta\r\nmain. [-0:0] Samsung.",
+        "attribute": "0404000FFA1C0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin01": {
+        "name": "bd00_c09_mw_getCoin01",
+        "message": "Lire la suite... Attention : cet\r\narticle peut contenir des\r\nspoilers. Peut-être !\r\nPeut-être...!",
+        "attribute": "0404000F0E1D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin03": {
+        "name": "bd00_c09_mw_getCoin03",
+        "message": "Aujourd’hui est un jour de\r\nbonheur dans le monde entier.",
+        "attribute": "0404000F2C1D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin04": {
+        "name": "bd00_c09_mw_getCoin04",
+        "message": "Je suis là pour rester. [0] Ceci\r\nest pour toi. Puisses-tu trouver\r\nla paix !",
+        "attribute": "0404000F461D0000",
+        "style_index": 4
+    },
+    "bd00_c09_mw_getCoin05": {
+        "name": "bd00_c09_mw_getCoin05",
+        "message": "0:3 BBBB] Non, vous devez trouver\r\nun moyen d’envoyer et de déposer\r\nl’argent sur votre compte\r\nbancaire.",
+        "attribute": "0404000F6A1D0000",
+        "style_index": 4
+    },
+    "bd00_hideBlock_mw_get00a": {
+        "name": "bd00_hideBlock_mw_get00a",
+        "message": "C'est moi ! (ou) C'est\r\nmoi !",
+        "attribute": "040303196C1D0000",
+        "style_index": 7
+    },
+    "bd00_hideBlock_mw_get00b": {
+        "name": "bd00_hideBlock_mw_get00b",
+        "message": "« Nous avons beaucoup d’argent !\r\n» dit Karthik.",
+        "attribute": "04030319961D0000",
+        "style_index": 7
+    },
+    "bd00_hideBlock_mw_get00c": {
+        "name": "bd00_hideBlock_mw_get00c",
+        "message": "[0:3] Merci ! J'ai réussi !\r\n[0:3 35-02] ! Merci ! [0:3]",
+        "attribute": "04030319C01D0000",
+        "style_index": 7
+    },
+    "bd00_mgRoulette_coin": {
+        "name": "bd00_mgRoulette_coin",
+        "message": "12h30 [12h30]",
+        "attribute": "04000000EA1D0000",
+        "style_index": 22
+    },
+    "bd00_p07_VS": {
+        "name": "bd00_p07_VS",
+        "message": "C'est la même chose pour\r\nvous.",
+        "attribute": "04000000EC1D0000",
+        "style_index": 44
+    },
+    "bd00_p07_mw_LastTurns00": {
+        "name": "bd00_p07_mw_LastTurns00",
+        "message": "sa་. Tout le monde était\r\némerveillé. Il était temps de se\r\npréparer.",
+        "attribute": "04010019EE1D0000",
+        "style_index": 7
+    },
+    "bd00_tlp_hsmg": {
+        "name": "bd00_tlp_hsmg",
+        "message": "Bien sûr ! (3) Tu es incroyable !",
+        "attribute": "04000000081E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_hsmgBonus": {
+        "name": "bd00_tlp_hsmgBonus",
+        "message": "Je t'aime beaucoup.",
+        "attribute": "040000000A1E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_CoinDouble": {
+        "name": "bd00_tlp_CoinDouble",
+        "message": "× Oui, bien sûr.",
+        "attribute": "040000000C1E0000",
+        "style_index": 34
+    },
+    "bd00_tlp_hsmgLastTurns": {
+        "name": "bd00_tlp_hsmgLastTurns",
+        "message": "C'est tout simplement\r\nridicule.",
+        "attribute": "040000000E1E0000",
+        "style_index": 33
+    },
+    "bd00_tlp_hsmg4VS": {
+        "name": "bd00_tlp_hsmg4VS",
+        "message": "Il faisait froid.",
+        "attribute": "04000000101E0000",
+        "style_index": 45
+    },
+    "bd00_tlp_hsmg1VS3": {
+        "name": "bd00_tlp_hsmg1VS3",
+        "message": "Un petit jeu.",
+        "attribute": "04000000121E0000",
+        "style_index": 45
+    },
+    "bd00_tlp_hsmg2VS2": {
+        "name": "bd00_tlp_hsmg2VS2",
+        "message": "Le microphone sonne.",
+        "attribute": "04000000141E0000",
+        "style_index": 45
+    },
+    "bd00_p08_mw_welcome00": {
+        "name": "bd00_p08_mw_welcome00",
+        "message": "Qui va gagner à la fin ?",
+        "attribute": "04010019161E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent00": {
+        "name": "bd00_p08_mw_bonusPresent00",
+        "message": "Commençons par la conversation\r\nentre les joueurs.",
+        "attribute": "040100192E1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent05": {
+        "name": "bd00_p08_mw_bonusPresent05",
+        "message": "Troisièmement, une question.",
+        "attribute": "040100194C1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent01": {
+        "name": "bd00_p08_mw_bonusPresent01",
+        "message": "Le premier temple.",
+        "attribute": "040100196A1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent02": {
+        "name": "bd00_p08_mw_bonusPresent02",
+        "message": "C'est comme de l'argent.",
+        "attribute": "04010019821E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusPresent03": {
+        "name": "bd00_p08_mw_bonusPresent03",
+        "message": "Troisièmement, et surtout, c’est\r\ninconfortable.",
+        "attribute": "040100199A1E0000",
+        "style_index": 4
+    },
+    "bd00_tlp_bonusStar": {
+        "name": "bd00_tlp_bonusStar",
+        "message": "1-2 des",
+        "attribute": "04000000B21E0000",
+        "style_index": 14
+    },
+    "bd00_p08_mw_giveBonus00": {
+        "name": "bd00_p08_mw_giveBonus00",
+        "message": "J'ai payé pour tout.",
+        "attribute": "04010019B41E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonusNone00": {
+        "name": "bd00_p08_mw_giveBonusNone00",
+        "message": "Non, ce n'est pas un cadeau.\r\nJe n'en ai jamais entendu\r\nparler.",
+        "attribute": "04010019D21E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar00": {
+        "name": "bd00_p08_mw_bonusStar00",
+        "message": "C'est un bon jeu.",
+        "attribute": "04010019FE1E0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar01": {
+        "name": "bd00_p08_mw_bonusStar01",
+        "message": "Le gagnant recevra le prix le\r\nplus élevé. [0:3 Numéro\r\n00-00-00-00",
+        "attribute": "04010019221F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar02": {
+        "name": "bd00_p08_mw_bonusStar02",
+        "message": "Des prix sont décernés à la\r\npersonne qui résout le plus de\r\nquestions.",
+        "attribute": "04010019461F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar03": {
+        "name": "bd00_p08_mw_bonusStar03",
+        "message": "C'est un beau cadeau.",
+        "attribute": "040100196A1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar04": {
+        "name": "bd00_p08_mw_bonusStar04",
+        "message": "Qui a donné le plus de cadeaux ?",
+        "attribute": "040100198E1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar05": {
+        "name": "bd00_p08_mw_bonusStar05",
+        "message": "Le joueur avec le plus de buts\r\nremportera le trophée.",
+        "attribute": "04010019B21F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar06": {
+        "name": "bd00_p08_mw_bonusStar06",
+        "message": "Dans ce cas, le troisième élément\r\nest dans la phase sombre [0:3\r\n00C-1D-FF].",
+        "attribute": "04010019D61F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar07": {
+        "name": "bd00_p08_mw_bonusStar07",
+        "message": "Ce cadeau signifiait beaucoup\r\npour lui.",
+        "attribute": "04010019FA1F0000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_bonusStar08": {
+        "name": "bd00_p08_mw_bonusStar08",
+        "message": "La personne qui devine\r\ncorrectement remporte le prix.",
+        "attribute": "040100191E200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus01": {
+        "name": "bd00_p08_mw_giveBonus01",
+        "message": "0 : 300 000 à 300 000 œufs par\r\nreine.",
+        "attribute": "0401001942200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus02": {
+        "name": "bd00_p08_mw_giveBonus02",
+        "message": "Fleurs fleurissent 0:3\r\nUMA-35-02-FF] [0]\r\n[0:311-0C-1D-FF].",
+        "attribute": "040100195C200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus03": {
+        "name": "bd00_p08_mw_giveBonus03",
+        "message": "0 : 300-000 : 311-0-1D. (0 :\r\n300-000 : 311-0-1d).",
+        "attribute": "0401001974200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus04": {
+        "name": "bd00_p08_mw_giveBonus04",
+        "message": "0:3 11-0-1-1-1-F] !",
+        "attribute": "040100198E200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_giveBonus05": {
+        "name": "bd00_p08_mw_giveBonus05",
+        "message": "Non ! Ils sont tous pareils.",
+        "attribute": "04010019A8200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner00": {
+        "name": "bd00_p08_mw_winner00",
+        "message": "Cela vous aidera à atteindre vos\r\nobjectifs.",
+        "attribute": "04010019C2200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner01": {
+        "name": "bd00_p08_mw_winner01",
+        "message": "Bonjour les amis.",
+        "attribute": "04010019D6200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner02": {
+        "name": "bd00_p08_mw_winner02",
+        "message": "Qu'est-ce que c'est ? Ce\r\nne sont pas que des paroles.",
+        "attribute": "04010019F4200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner03": {
+        "name": "bd00_p08_mw_winner03",
+        "message": "0:3-35-02-02 Ma mère est\r\nentrepreneure.",
+        "attribute": "04010019F6200000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner04": {
+        "name": "bd00_p08_mw_winner04",
+        "message": "0:3 00-00-00 0:3 11-0C-1D-PL.",
+        "attribute": "0401001910210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner05": {
+        "name": "bd00_p08_mw_winner05",
+        "message": "Et quoi ? [00-00 00 à 0:3",
+        "attribute": "0401001934210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner06": {
+        "name": "bd00_p08_mw_winner06",
+        "message": "Je ne pense pas. Tout le monde y\r\ngagne.",
+        "attribute": "0401001958210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice00": {
+        "name": "bd00_p08_mw_winnerDice00",
+        "message": "Si c’est le cas, il faut le\r\nréparer.",
+        "attribute": "0401001976210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice01": {
+        "name": "bd00_p08_mw_winnerDice01",
+        "message": "Celui qui a le plus de points\r\ngagne.",
+        "attribute": "040100198A210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winnerDice03": {
+        "name": "bd00_p08_mw_winnerDice03",
+        "message": "Regardez-les, ils se portent\r\nbien.",
+        "attribute": "040100198C210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner07": {
+        "name": "bd00_p08_mw_winner07",
+        "message": "Oui, ils sont invités !",
+        "attribute": "04010019B0210000",
+        "style_index": 4
+    },
+    "bd00_p08_mw_winner08": {
+        "name": "bd00_p08_mw_winner08",
+        "message": "0:3 FF-35-02-FF 0:300-FF\r\n0:311-01D-FF. [0:300-00-00].",
+        "attribute": "04010019CE210000",
+        "style_index": 4
+    },
+    "bd00_tlp_Congratulations": {
+        "name": "bd00_tlp_Congratulations",
+        "message": "Il a joué très dur. 0-2, 64-0.",
+        "attribute": "04000000E8210000",
+        "style_index": 36
+    },
+    "bd00_clap_name": {
+        "name": "bd00_clap_name",
+        "message": "[0] Oui.",
+        "attribute": "04000000EA210000",
+        "style_index": 97
+    },
+    "bd00_pt_clapAll": {
+        "name": "bd00_pt_clapAll",
+        "message": "Laissez tomber [0].",
+        "attribute": "04000000EC210000",
+        "style_index": 96
+    },
+    "bd00_pt_clapGet": {
+        "name": "bd00_pt_clapGet",
+        "message": "Quoi.",
+        "attribute": "04000000EE210000",
+        "style_index": 96
+    },
+    "bd00_ctrl_clap": {
+        "name": "bd00_ctrl_clap",
+        "message": "Merci beaucoup.",
+        "attribute": "04000000F0210000",
+        "style_index": 98
+    },
+    "bd00_mw_clap00": {
+        "name": "bd00_mw_clap00",
+        "message": "Merci à tous ceux qui ont\r\nparticipé.",
+        "attribute": "04010019F2210000",
+        "style_index": 4
+    },
+    "bd00_result_bdName": {
+        "name": "bd00_result_bdName",
+        "message": "9. Voir aussi.",
+        "attribute": "0400000016220000",
+        "style_index": 77
+    },
+    "bd00_result_turn": {
+        "name": "bd00_result_turn",
+        "message": "C'est une bonne nouvelle.",
+        "attribute": "0400000018220000",
+        "style_index": 78
+    },
+    "bd00_result_header": {
+        "name": "bd00_result_header",
+        "message": "-0) Supprimé.",
+        "attribute": "040000001A220000",
+        "style_index": 79
+    },
+    "bd00_result_ctrl_L": {
+        "name": "bd00_result_ctrl_L",
+        "message": "La valeur par défaut est [0].",
+        "attribute": "040000001C220000",
+        "style_index": 80
+    },
+    "bd00_result_ctrl_R": {
+        "name": "bd00_result_ctrl_R",
+        "message": "[0] Amis.",
+        "attribute": "040000001E220000",
+        "style_index": 80
+    },
+    "bd00_result_ctrl_photoLarger": {
+        "name": "bd00_result_ctrl_photoLarger",
+        "message": "Mode",
+        "attribute": "0400000020220000",
+        "style_index": 81
+    },
+    "bd00_result_ctrl_finish": {
+        "name": "bd00_result_ctrl_finish",
+        "message": "Oui, oui, oui.",
+        "attribute": "0400000022220000",
+        "style_index": 81
+    },
+    "bd00_result_status_rank": {
+        "name": "bd00_result_status_rank",
+        "message": "[0] C'est vrai.",
+        "attribute": "0400000024220000",
+        "style_index": 82
+    },
+    "bd00_result_status_star": {
+        "name": "bd00_result_status_star",
+        "message": "Après 0:1",
+        "attribute": "0400000026220000",
+        "style_index": 83
+    },
+    "bd00_result_status_coin": {
+        "name": "bd00_result_status_coin",
+        "message": "[0] 9. Ma maison.",
+        "attribute": "0400000028220000",
+        "style_index": 84
+    },
+    "bd00_result_status_chaname": {
+        "name": "bd00_result_status_chaname",
+        "message": "La valeur par défaut est [0].",
+        "attribute": "040000002A220000",
+        "style_index": 85
+    },
+    "bd00_result_status_useName": {
+        "name": "bd00_result_status_useName",
+        "message": "9. Fixez-vous un objectif.",
+        "attribute": "040000002C220000",
+        "style_index": 86
+    },
+    "bd00_result_graph_turn": {
+        "name": "bd00_result_graph_turn",
+        "message": "annonce.",
+        "attribute": "040000002E220000",
+        "style_index": 87
+    },
+    "bd00_result_graph_star": {
+        "name": "bd00_result_graph_star",
+        "message": "[0] 9. Ici.",
+        "attribute": "0400000030220000",
+        "style_index": 88
+    },
+    "bd00_result_listName": {
+        "name": "bd00_result_listName",
+        "message": "Appuyez sur [0] pour mettre en\r\nsurbrillance.",
+        "attribute": "0400000032220000",
+        "style_index": 89
+    },
+    "bd00_result_list00": {
+        "name": "bd00_result_list00",
+        "message": "performance.",
+        "attribute": "0400000034220000",
+        "style_index": 90
+    },
+    "bd00_result_list01": {
+        "name": "bd00_result_list01",
+        "message": "nom",
+        "attribute": "0400000036220000",
+        "style_index": 91
+    },
+    "bd00_result_graph_bonusCheck": {
+        "name": "bd00_result_graph_bonusCheck",
+        "message": "Naturel.",
+        "attribute": "0400000038220000",
+        "style_index": 92
+    },
+    "bd00_result_graph_bonus": {
+        "name": "bd00_result_graph_bonus",
+        "message": "C'est trop.",
+        "attribute": "040000003A220000",
+        "style_index": 93
+    },
+    "bd00_result_graph_bonusBack": {
+        "name": "bd00_result_graph_bonusBack",
+        "message": "C'est une tâche très\r\ndifficile.",
+        "attribute": "040000003C220000",
+        "style_index": 93
+    },
+    "bd00_result_graph_bonusName": {
+        "name": "bd00_result_graph_bonusName",
+        "message": "[1:2] [0] Oui.",
+        "attribute": "040000003E220000",
+        "style_index": 94
+    },
+    "bd00_result_graph_bonusDetails00": {
+        "name": "bd00_result_graph_bonusDetails00",
+        "message": "Ils utilisent des outils\r\ndifférents.",
+        "attribute": "0400000040220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails01": {
+        "name": "bd00_result_graph_bonusDetails01",
+        "message": "C'est beaucoup d'argent.\r\n[0:300-FF] [0:311-0C-1D-FA]\r\n[0:300-00-FA] [0:300-00-FA].",
+        "attribute": "0400000042220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails02": {
+        "name": "bd00_result_graph_bonusDetails02",
+        "message": "De nombreux joueurs sont venus.",
+        "attribute": "0400000044220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails03": {
+        "name": "bd00_result_graph_bonusDetails03",
+        "message": "Un autre endroit aussi.",
+        "attribute": "0400000046220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails04": {
+        "name": "bd00_result_graph_bonusDetails04",
+        "message": "Juste une fois",
+        "attribute": "0400000048220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails05": {
+        "name": "bd00_result_graph_bonusDetails05",
+        "message": "Il est maintenant presque 12h30.",
+        "attribute": "040000004A220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails06": {
+        "name": "bd00_result_graph_bonusDetails06",
+        "message": "0:311-0C-1D-FF].",
+        "attribute": "040000004C220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails07": {
+        "name": "bd00_result_graph_bonusDetails07",
+        "message": "Il y a beaucoup de monde ici.",
+        "attribute": "040000004E220000",
+        "style_index": 95
+    },
+    "bd00_result_graph_bonusDetails08": {
+        "name": "bd00_result_graph_bonusDetails08",
+        "message": "Bowser hocha la tête.",
+        "attribute": "0400000050220000",
+        "style_index": 95
+    }
+}

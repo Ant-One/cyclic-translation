@@ -1,0 +1,1994 @@
+{
+    "inst_mgWarning": {
+        "name": "inst_mgWarning",
+        "message": "1. \"C'est FF.\"",
+        "attribute": "04000000680A0000",
+        "style_index": 185
+    },
+    "inst_mgTitle": {
+        "name": "inst_mgTitle",
+        "message": "[0] Miano.",
+        "attribute": "040000006A0A0000",
+        "style_index": 186
+    },
+    "inst_tlp_ctrl": {
+        "name": "inst_tlp_ctrl",
+        "message": "Professeur",
+        "attribute": "040000006C0A0000",
+        "style_index": 187
+    },
+    "inst_OK": {
+        "name": "inst_OK",
+        "message": "Sois prudent!",
+        "attribute": "040000006E0A0000",
+        "style_index": 188
+    },
+    "inst_readyOK": {
+        "name": "inst_readyOK",
+        "message": "Répondre",
+        "attribute": "04000000700A0000",
+        "style_index": 189
+    },
+    "inst_ctrl_ui": {
+        "name": "inst_ctrl_ui",
+        "message": "Messieurs",
+        "attribute": "04000000720A0000",
+        "style_index": 190
+    },
+    "inst_ctrl_side01": {
+        "name": "inst_ctrl_side01",
+        "message": "d'accord",
+        "attribute": "04000000740A0000",
+        "style_index": 190
+    },
+    "inst_ctrl_side03": {
+        "name": "inst_ctrl_side03",
+        "message": "petit",
+        "attribute": "04000000760A0000",
+        "style_index": 190
+    },
+    "inst_vs": {
+        "name": "inst_vs",
+        "message": "D'abord",
+        "attribute": "04000000780A0000",
+        "style_index": 195
+    },
+    "inst_abandonedtimer": {
+        "name": "inst_abandonedtimer",
+        "message": "[0] Enfants.",
+        "attribute": "040000007A0A0000",
+        "style_index": 196
+    },
+    "inst_hsmg401_ctrl00": {
+        "name": "inst_hsmg401_ctrl00",
+        "message": "Il existe de nombreuses options\r\nparmi lesquelles choisir.",
+        "attribute": "040000007C0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg401_ctrl01": {
+        "name": "inst_hsmg401_ctrl01",
+        "message": "Ce qui s'est passé?",
+        "attribute": "040000007E0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg401_ctrl02": {
+        "name": "inst_hsmg401_ctrl02",
+        "message": "Il y a un problème avec ça.",
+        "attribute": "04000000800A0000",
+        "style_index": 191
+    },
+    "inst_hsmg402_ctrl00": {
+        "name": "inst_hsmg402_ctrl00",
+        "message": "Nous avons repensé le football.",
+        "attribute": "04000000820A0000",
+        "style_index": 191
+    },
+    "inst_hsmg402_ctrl01": {
+        "name": "inst_hsmg402_ctrl01",
+        "message": "C'est le dernier.",
+        "attribute": "04000000840A0000",
+        "style_index": 191
+    },
+    "inst_hsmg402_ctrl02": {
+        "name": "inst_hsmg402_ctrl02",
+        "message": "🔸 Records de bowling.",
+        "attribute": "04000000860A0000",
+        "style_index": 191
+    },
+    "inst_hsmg403_ctrl00": {
+        "name": "inst_hsmg403_ctrl00",
+        "message": "Je souffre.",
+        "attribute": "04000000880A0000",
+        "style_index": 191
+    },
+    "inst_hsmg403_ctrl01": {
+        "name": "inst_hsmg403_ctrl01",
+        "message": "vélo",
+        "attribute": "040000008A0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg403_ctrl02": {
+        "name": "inst_hsmg403_ctrl02",
+        "message": "Mon endroit préféré",
+        "attribute": "040000008C0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg403_ctrl03": {
+        "name": "inst_hsmg403_ctrl03",
+        "message": "Il est fait de matériaux\r\nnaturels.",
+        "attribute": "040000008E0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg404_ctrl00": {
+        "name": "inst_hsmg404_ctrl00",
+        "message": "Lisez la suite pour le découvrir.",
+        "attribute": "04000000900A0000",
+        "style_index": 191
+    },
+    "inst_hsmg404_ctrl01": {
+        "name": "inst_hsmg404_ctrl01",
+        "message": "Prends son numéro.",
+        "attribute": "04000000920A0000",
+        "style_index": 191
+    },
+    "inst_hsmg405_ctrl00": {
+        "name": "inst_hsmg405_ctrl00",
+        "message": "Une promenade.",
+        "attribute": "04000000940A0000",
+        "style_index": 191
+    },
+    "inst_hsmg405_ctrl01": {
+        "name": "inst_hsmg405_ctrl01",
+        "message": "Nous serons bientôt de retour.",
+        "attribute": "04000000960A0000",
+        "style_index": 191
+    },
+    "inst_hsmg406_ctrl00": {
+        "name": "inst_hsmg406_ctrl00",
+        "message": "rien.",
+        "attribute": "04000000980A0000",
+        "style_index": 191
+    },
+    "inst_hsmg407_ctrl00": {
+        "name": "inst_hsmg407_ctrl00",
+        "message": "professeur",
+        "attribute": "040000009A0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg408_ctrl00": {
+        "name": "inst_hsmg408_ctrl00",
+        "message": "Toujours.",
+        "attribute": "040000009C0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg408_ctrl01": {
+        "name": "inst_hsmg408_ctrl01",
+        "message": "tronc",
+        "attribute": "040000009E0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg408_ctrl02": {
+        "name": "inst_hsmg408_ctrl02",
+        "message": "(Argent).",
+        "attribute": "04000000A00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg409_ctrl00": {
+        "name": "inst_hsmg409_ctrl00",
+        "message": "S'il te plaît.",
+        "attribute": "04000000A20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg410_ctrl00": {
+        "name": "inst_hsmg410_ctrl00",
+        "message": "Nous avons tous un cœur.",
+        "attribute": "04000000A40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg410_ctrl01": {
+        "name": "inst_hsmg410_ctrl01",
+        "message": "C'est un bon choix.",
+        "attribute": "04000000A60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg411_ctrl00": {
+        "name": "inst_hsmg411_ctrl00",
+        "message": "J'ai changé.",
+        "attribute": "04000000A80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg411_ctrl01": {
+        "name": "inst_hsmg411_ctrl01",
+        "message": "que Dieu te bénisse་.",
+        "attribute": "04000000AA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg412_ctrl00": {
+        "name": "inst_hsmg412_ctrl00",
+        "message": "parler",
+        "attribute": "04000000AC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg412_ctrl01": {
+        "name": "inst_hsmg412_ctrl01",
+        "message": "C'est un signe\r\nd'avertissement.",
+        "attribute": "04000000AE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg413_ctrl00": {
+        "name": "inst_hsmg413_ctrl00",
+        "message": "C'était devant le magasin.",
+        "attribute": "04000000B00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg414_ctrl00": {
+        "name": "inst_hsmg414_ctrl00",
+        "message": "Il faut y réfléchir.",
+        "attribute": "04000000B20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg414_ctrl01": {
+        "name": "inst_hsmg414_ctrl01",
+        "message": "Il a rendu l'argent.",
+        "attribute": "04000000B40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg415_ctrl00": {
+        "name": "inst_hsmg415_ctrl00",
+        "message": "C'est une telle boîte.",
+        "attribute": "04000000B60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg416_ctrl00": {
+        "name": "inst_hsmg416_ctrl00",
+        "message": "Ne vous laissez pas tromper par\r\nles mots.",
+        "attribute": "04000000B80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg417_ctrl00": {
+        "name": "inst_hsmg417_ctrl00",
+        "message": "+ Valeur de retour (valeur).",
+        "attribute": "04000000BA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg418_ctrl00": {
+        "name": "inst_hsmg418_ctrl00",
+        "message": "Je suis toujours en colère.",
+        "attribute": "04000000BC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg419_ctrl00": {
+        "name": "inst_hsmg419_ctrl00",
+        "message": "Je ne sais rien.",
+        "attribute": "04000000BE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg419_ctrl01": {
+        "name": "inst_hsmg419_ctrl01",
+        "message": "C'est ta question.",
+        "attribute": "04000000C00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg420_ctrl00": {
+        "name": "inst_hsmg420_ctrl00",
+        "message": "Aidez-moi avec ça.",
+        "attribute": "04000000C20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg421_ctrl00": {
+        "name": "inst_hsmg421_ctrl00",
+        "message": "Tu l'as fait.",
+        "attribute": "04000000C40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg421_ctrl01": {
+        "name": "inst_hsmg421_ctrl01",
+        "message": "Choix.",
+        "attribute": "04000000C60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg421_ctrl02": {
+        "name": "inst_hsmg421_ctrl02",
+        "message": "dent:",
+        "attribute": "04000000C80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg421_ctrl03": {
+        "name": "inst_hsmg421_ctrl03",
+        "message": "Ville",
+        "attribute": "04000000CA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg422_ctrl00": {
+        "name": "inst_hsmg422_ctrl00",
+        "message": "Je ne l'ai jamais dit",
+        "attribute": "04000000CC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg423_ctrl00": {
+        "name": "inst_hsmg423_ctrl00",
+        "message": "Vous pouvez jouer à ce jeu.",
+        "attribute": "04000000CE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg424_ctrl00": {
+        "name": "inst_hsmg424_ctrl00",
+        "message": "nature",
+        "attribute": "04000000D00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg425_ctrl00": {
+        "name": "inst_hsmg425_ctrl00",
+        "message": "(Rires) Pouvez-vous expliquer\r\ncela ?",
+        "attribute": "04000000D20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg426_ctrl00": {
+        "name": "inst_hsmg426_ctrl00",
+        "message": "C'est ce qui s'est passé.",
+        "attribute": "04000000D40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg427_ctrl00": {
+        "name": "inst_hsmg427_ctrl00",
+        "message": "Problèmes",
+        "attribute": "04000000D60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg427_ctrl01": {
+        "name": "inst_hsmg427_ctrl01",
+        "message": "Cette méthode est-elle toujours\r\nefficace aujourd’hui ?",
+        "attribute": "04000000D80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg427_ctrl02": {
+        "name": "inst_hsmg427_ctrl02",
+        "message": "C'est moi qui parle.",
+        "attribute": "04000000DA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg427_ctrl03": {
+        "name": "inst_hsmg427_ctrl03",
+        "message": "Puis ils sont partis.",
+        "attribute": "04000000DC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg428_ctrl00": {
+        "name": "inst_hsmg428_ctrl00",
+        "message": "compétences en leadership;",
+        "attribute": "04000000DE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg428_ctrl01": {
+        "name": "inst_hsmg428_ctrl01",
+        "message": "effet",
+        "attribute": "04000000E00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg429_ctrl00": {
+        "name": "inst_hsmg429_ctrl00",
+        "message": "Tout a changé.",
+        "attribute": "04000000E20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg430_ctrl00": {
+        "name": "inst_hsmg430_ctrl00",
+        "message": "nom",
+        "attribute": "04000000E40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg430_ctrl01": {
+        "name": "inst_hsmg430_ctrl01",
+        "message": "Oui, c'est une fourchette.",
+        "attribute": "04000000E60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg430_ctrl02": {
+        "name": "inst_hsmg430_ctrl02",
+        "message": "Ceci est une courte liste.",
+        "attribute": "04000000E80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg431_ctrl00": {
+        "name": "inst_hsmg431_ctrl00",
+        "message": "Grand.",
+        "attribute": "04000000EA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg431_ctrl01": {
+        "name": "inst_hsmg431_ctrl01",
+        "message": "(Possible) Il peut le faire.",
+        "attribute": "04000000EC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg431_ctrl02": {
+        "name": "inst_hsmg431_ctrl02",
+        "message": "Il y pensait.",
+        "attribute": "04000000EE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg432_ctrl00": {
+        "name": "inst_hsmg432_ctrl00",
+        "message": "A obtenu",
+        "attribute": "04000000F00A0000",
+        "style_index": 191
+    },
+    "inst_hsmg432_ctrl01": {
+        "name": "inst_hsmg432_ctrl01",
+        "message": "Ce n'est pas vrai.",
+        "attribute": "04000000F20A0000",
+        "style_index": 191
+    },
+    "inst_hsmg432_ctrl02": {
+        "name": "inst_hsmg432_ctrl02",
+        "message": "Le changement arrive.",
+        "attribute": "04000000F40A0000",
+        "style_index": 191
+    },
+    "inst_hsmg433_ctrl00": {
+        "name": "inst_hsmg433_ctrl00",
+        "message": "Richard (Rudolph).",
+        "attribute": "04000000F60A0000",
+        "style_index": 191
+    },
+    "inst_hsmg433_ctrl01": {
+        "name": "inst_hsmg433_ctrl01",
+        "message": "Regardez ceci :",
+        "attribute": "04000000F80A0000",
+        "style_index": 191
+    },
+    "inst_hsmg434_ctrl00": {
+        "name": "inst_hsmg434_ctrl00",
+        "message": "État",
+        "attribute": "04000000FA0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg435_ctrl00": {
+        "name": "inst_hsmg435_ctrl00",
+        "message": "Bon, c’est tout.",
+        "attribute": "04000000FC0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg436_ctrl00": {
+        "name": "inst_hsmg436_ctrl00",
+        "message": "gouvernement",
+        "attribute": "04000000FE0A0000",
+        "style_index": 191
+    },
+    "inst_hsmg437_ctrl00": {
+        "name": "inst_hsmg437_ctrl00",
+        "message": "assez.",
+        "attribute": "04000000000B0000",
+        "style_index": 191
+    },
+    "inst_hsmg437_ctrl01": {
+        "name": "inst_hsmg437_ctrl01",
+        "message": "réponse.",
+        "attribute": "04000000020B0000",
+        "style_index": 191
+    },
+    "inst_hsmg437_ctrl02": {
+        "name": "inst_hsmg437_ctrl02",
+        "message": "Personne ne peut le battre.",
+        "attribute": "04000000040B0000",
+        "style_index": 191
+    },
+    "inst_hsmg437_ctrl03": {
+        "name": "inst_hsmg437_ctrl03",
+        "message": "Qui sont-ils ?",
+        "attribute": "04000000060B0000",
+        "style_index": 191
+    },
+    "inst_hsmg438_ctrl00": {
+        "name": "inst_hsmg438_ctrl00",
+        "message": "C'est le message.",
+        "attribute": "04000000080B0000",
+        "style_index": 191
+    },
+    "inst_hsmg438_ctrl01": {
+        "name": "inst_hsmg438_ctrl01",
+        "message": "But",
+        "attribute": "040000000A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg438_ctrl02": {
+        "name": "inst_hsmg438_ctrl02",
+        "message": "Il a poignardé une troisième\r\npersonne.",
+        "attribute": "040000000C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg438_ctrl03": {
+        "name": "inst_hsmg438_ctrl03",
+        "message": "Parlez au monde.",
+        "attribute": "040000000E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg439_ctrl00": {
+        "name": "inst_hsmg439_ctrl00",
+        "message": "tu peux.",
+        "attribute": "04000000100B0000",
+        "style_index": 191
+    },
+    "inst_hsmg439_ctrl01": {
+        "name": "inst_hsmg439_ctrl01",
+        "message": "pygargue à tête blanche.",
+        "attribute": "04000000120B0000",
+        "style_index": 191
+    },
+    "inst_hsmg440_ctrl00": {
+        "name": "inst_hsmg440_ctrl00",
+        "message": "Tu as raison, ce n'est pas\r\nfacile.",
+        "attribute": "04000000140B0000",
+        "style_index": 191
+    },
+    "inst_hsmg441_ctrl00": {
+        "name": "inst_hsmg441_ctrl00",
+        "message": "Cet arbre vient de la Bible.",
+        "attribute": "04000000160B0000",
+        "style_index": 191
+    },
+    "inst_hsmg441_ctrl01": {
+        "name": "inst_hsmg441_ctrl01",
+        "message": "C'est une bonne idée.",
+        "attribute": "04000000180B0000",
+        "style_index": 191
+    },
+    "inst_hsmg441_ctrl02": {
+        "name": "inst_hsmg441_ctrl02",
+        "message": "Printemps",
+        "attribute": "040000001A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg442_ctrl00": {
+        "name": "inst_hsmg442_ctrl00",
+        "message": "Je m'inquiète pour mon frère.",
+        "attribute": "040000001C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg443_ctrl00": {
+        "name": "inst_hsmg443_ctrl00",
+        "message": "Tu n'es pas obligé de le\r\nfaire.",
+        "attribute": "040000001E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg443_ctrl01": {
+        "name": "inst_hsmg443_ctrl01",
+        "message": "Allons-y.",
+        "attribute": "04000000200B0000",
+        "style_index": 191
+    },
+    "inst_hsmg444_ctrl00": {
+        "name": "inst_hsmg444_ctrl00",
+        "message": "Prison",
+        "attribute": "04000000220B0000",
+        "style_index": 191
+    },
+    "inst_hsmg444_ctrl99": {
+        "name": "inst_hsmg444_ctrl99",
+        "message": "(lundi) |",
+        "attribute": "04000000240B0000",
+        "style_index": 191
+    },
+    "inst_hsmg445_ctrl00": {
+        "name": "inst_hsmg445_ctrl00",
+        "message": "Il existe différents types de\r\nlois.",
+        "attribute": "04000000260B0000",
+        "style_index": 191
+    },
+    "inst_hsmg446_ctrl00": {
+        "name": "inst_hsmg446_ctrl00",
+        "message": "Mais les choses ont changé.",
+        "attribute": "04000000280B0000",
+        "style_index": 191
+    },
+    "inst_hsmg446_ctrl01": {
+        "name": "inst_hsmg446_ctrl01",
+        "message": "Ils/Ils/Ils",
+        "attribute": "040000002A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg447_ctrl00": {
+        "name": "inst_hsmg447_ctrl00",
+        "message": "Gardez un livre à proximité.",
+        "attribute": "040000002C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg447_ctrl01": {
+        "name": "inst_hsmg447_ctrl01",
+        "message": "madame.",
+        "attribute": "040000002E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg448_ctrl00": {
+        "name": "inst_hsmg448_ctrl00",
+        "message": "viens!",
+        "attribute": "04000000300B0000",
+        "style_index": 191
+    },
+    "inst_hsmg448_ctrl01": {
+        "name": "inst_hsmg448_ctrl01",
+        "message": "Je veux rester ici.",
+        "attribute": "04000000320B0000",
+        "style_index": 191
+    },
+    "inst_hsmg449_ctrl00": {
+        "name": "inst_hsmg449_ctrl00",
+        "message": "Vendredi",
+        "attribute": "04000000340B0000",
+        "style_index": 191
+    },
+    "inst_hsmg101_ctrl10": {
+        "name": "inst_hsmg101_ctrl10",
+        "message": "lutte",
+        "attribute": "04000000360B0000",
+        "style_index": 191
+    },
+    "inst_hsmg101_ctrl11": {
+        "name": "inst_hsmg101_ctrl11",
+        "message": "Non → oui",
+        "attribute": "04000000380B0000",
+        "style_index": 191
+    },
+    "inst_hsmg101_ctrl30": {
+        "name": "inst_hsmg101_ctrl30",
+        "message": "Cyna et son mari sont-ils la même\r\npersonne ?",
+        "attribute": "040000003A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg101_ctrl31": {
+        "name": "inst_hsmg101_ctrl31",
+        "message": "Tiens ma main.",
+        "attribute": "040000003C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg102_ctrl10": {
+        "name": "inst_hsmg102_ctrl10",
+        "message": "où es-tu",
+        "attribute": "040000003E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg102_ctrl11": {
+        "name": "inst_hsmg102_ctrl11",
+        "message": "Selon le poids de la pierre, elle\r\npeut revenir à sa place.",
+        "attribute": "04000000400B0000",
+        "style_index": 191
+    },
+    "inst_hsmg102_ctrl30": {
+        "name": "inst_hsmg102_ctrl30",
+        "message": "Nous voulons jouer à nouveau.",
+        "attribute": "04000000420B0000",
+        "style_index": 191
+    },
+    "inst_hsmg103_ctrl10": {
+        "name": "inst_hsmg103_ctrl10",
+        "message": "Veuillez répondre dans les plus\r\nbrefs délais.",
+        "attribute": "04000000440B0000",
+        "style_index": 191
+    },
+    "inst_hsmg103_ctrl30": {
+        "name": "inst_hsmg103_ctrl30",
+        "message": "Surtout à Malapa.",
+        "attribute": "04000000460B0000",
+        "style_index": 191
+    },
+    "inst_hsmg103_ctrl31": {
+        "name": "inst_hsmg103_ctrl31",
+        "message": "Ne jamais abandonner.",
+        "attribute": "04000000480B0000",
+        "style_index": 191
+    },
+    "inst_hsmg103_ctrl32": {
+        "name": "inst_hsmg103_ctrl32",
+        "message": "Ce sont les meilleurs vêtements\r\ndu monde.",
+        "attribute": "040000004A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg104_ctrl10": {
+        "name": "inst_hsmg104_ctrl10",
+        "message": "Nous partons.",
+        "attribute": "040000004C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg104_ctrl11": {
+        "name": "inst_hsmg104_ctrl11",
+        "message": "<b class='b1'>La participation\r\nmotive.</b>",
+        "attribute": "040000004E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg104_ctrl30": {
+        "name": "inst_hsmg104_ctrl30",
+        "message": "Il s'est levé.",
+        "attribute": "04000000500B0000",
+        "style_index": 191
+    },
+    "inst_hsmg104_ctrl31": {
+        "name": "inst_hsmg104_ctrl31",
+        "message": "Vous n’avez rien à changer.",
+        "attribute": "04000000520B0000",
+        "style_index": 191
+    },
+    "inst_hsmg105_ctrl00": {
+        "name": "inst_hsmg105_ctrl00",
+        "message": "Écrivez une histoire courte et\r\nune phrase.",
+        "attribute": "04000000540B0000",
+        "style_index": 191
+    },
+    "inst_hsmg106_ctrl10": {
+        "name": "inst_hsmg106_ctrl10",
+        "message": "Supprimer le message.",
+        "attribute": "04000000560B0000",
+        "style_index": 191
+    },
+    "inst_hsmg106_ctrl11": {
+        "name": "inst_hsmg106_ctrl11",
+        "message": "(C'est très difficile).",
+        "attribute": "04000000580B0000",
+        "style_index": 191
+    },
+    "inst_hsmg106_ctrl30": {
+        "name": "inst_hsmg106_ctrl30",
+        "message": "Informations sur le niveau de\r\nservice.",
+        "attribute": "040000005A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg107_ctrl00": {
+        "name": "inst_hsmg107_ctrl00",
+        "message": "- Anniversaire de mariage",
+        "attribute": "040000005C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg108_ctrl00": {
+        "name": "inst_hsmg108_ctrl00",
+        "message": "Former",
+        "attribute": "040000005E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg108_ctrl01": {
+        "name": "inst_hsmg108_ctrl01",
+        "message": "🔸 Mon amour.",
+        "attribute": "04000000600B0000",
+        "style_index": 191
+    },
+    "inst_hsmg108_ctrl02": {
+        "name": "inst_hsmg108_ctrl02",
+        "message": "balle",
+        "attribute": "04000000620B0000",
+        "style_index": 191
+    },
+    "inst_hsmg109_ctrl10": {
+        "name": "inst_hsmg109_ctrl10",
+        "message": "Signalisation urbaine.",
+        "attribute": "04000000640B0000",
+        "style_index": 191
+    },
+    "inst_hsmg109_ctrl11": {
+        "name": "inst_hsmg109_ctrl11",
+        "message": "Cela change des vies.",
+        "attribute": "04000000660B0000",
+        "style_index": 191
+    },
+    "inst_hsmg109_ctrl30": {
+        "name": "inst_hsmg109_ctrl30",
+        "message": "musique",
+        "attribute": "04000000680B0000",
+        "style_index": 191
+    },
+    "inst_hsmg110_ctrl10": {
+        "name": "inst_hsmg110_ctrl10",
+        "message": "Organisation Mondiale de la\r\nSanté?",
+        "attribute": "040000006A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg110_ctrl11": {
+        "name": "inst_hsmg110_ctrl11",
+        "message": "✨Il y a de la musique.",
+        "attribute": "040000006C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg110_ctrl30": {
+        "name": "inst_hsmg110_ctrl30",
+        "message": "Ils s'ennuyaient.",
+        "attribute": "040000006E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg110_ctrl31": {
+        "name": "inst_hsmg110_ctrl31",
+        "message": "J'espère qu'il sera\r\npublié bientôt.",
+        "attribute": "04000000700B0000",
+        "style_index": 191
+    },
+    "inst_hsmg111_ctrl10": {
+        "name": "inst_hsmg111_ctrl10",
+        "message": "Maintenant c'est à mon tour\r\nde vendre.",
+        "attribute": "04000000720B0000",
+        "style_index": 191
+    },
+    "inst_hsmg111_ctrl11": {
+        "name": "inst_hsmg111_ctrl11",
+        "message": "Détendez-vous et relaxez-vous.",
+        "attribute": "04000000740B0000",
+        "style_index": 191
+    },
+    "inst_hsmg111_ctrl30": {
+        "name": "inst_hsmg111_ctrl30",
+        "message": "Mais certaines personnes sont\r\ncomme ça.",
+        "attribute": "04000000760B0000",
+        "style_index": 191
+    },
+    "inst_hsmg112_ctrl10": {
+        "name": "inst_hsmg112_ctrl10",
+        "message": "Voyons.",
+        "attribute": "04000000780B0000",
+        "style_index": 191
+    },
+    "inst_hsmg112_ctrl11": {
+        "name": "inst_hsmg112_ctrl11",
+        "message": "Oiseau",
+        "attribute": "040000007A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg112_ctrl30": {
+        "name": "inst_hsmg112_ctrl30",
+        "message": "Restez au milieu.",
+        "attribute": "040000007C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg112_ctrl31": {
+        "name": "inst_hsmg112_ctrl31",
+        "message": "Pantalon",
+        "attribute": "040000007E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg112_ctrl32": {
+        "name": "inst_hsmg112_ctrl32",
+        "message": "Ils doivent rassembler leurs\r\noutils.",
+        "attribute": "04000000800B0000",
+        "style_index": 191
+    },
+    "inst_hsmg113_ctrl10": {
+        "name": "inst_hsmg113_ctrl10",
+        "message": "C'est un bon conducteur.",
+        "attribute": "04000000820B0000",
+        "style_index": 191
+    },
+    "inst_hsmg113_ctrl30": {
+        "name": "inst_hsmg113_ctrl30",
+        "message": "Parlez vite.",
+        "attribute": "04000000840B0000",
+        "style_index": 191
+    },
+    "inst_hsmg114_ctrl10": {
+        "name": "inst_hsmg114_ctrl10",
+        "message": "L'enquête est toujours en\r\ncours.",
+        "attribute": "04000000860B0000",
+        "style_index": 191
+    },
+    "inst_hsmg114_ctrl11": {
+        "name": "inst_hsmg114_ctrl11",
+        "message": "Cliquez sur ce bouton.",
+        "attribute": "04000000880B0000",
+        "style_index": 191
+    },
+    "inst_hsmg114_ctrl30": {
+        "name": "inst_hsmg114_ctrl30",
+        "message": " /// Nous avons lu votre\r\nmessage.",
+        "attribute": "040000008A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg115_ctrl00": {
+        "name": "inst_hsmg115_ctrl00",
+        "message": "Il existe déjà un accord secret.",
+        "attribute": "040000008C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg115_ctrl01": {
+        "name": "inst_hsmg115_ctrl01",
+        "message": "Ne regarde pas en arrière.",
+        "attribute": "040000008E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg201_ctrl00": {
+        "name": "inst_hsmg201_ctrl00",
+        "message": "Commencez avec votre pied gauche.",
+        "attribute": "04000000900B0000",
+        "style_index": 191
+    },
+    "inst_hsmg201_ctrl01": {
+        "name": "inst_hsmg201_ctrl01",
+        "message": "Heures.",
+        "attribute": "04000000920B0000",
+        "style_index": 191
+    },
+    "inst_hsmg202_ctrl00": {
+        "name": "inst_hsmg202_ctrl00",
+        "message": "soldat.",
+        "attribute": "04000000940B0000",
+        "style_index": 191
+    },
+    "inst_hsmg202_ctrl01": {
+        "name": "inst_hsmg202_ctrl01",
+        "message": "Bonne soirée",
+        "attribute": "04000000960B0000",
+        "style_index": 191
+    },
+    "inst_hsmg203_ctrl00": {
+        "name": "inst_hsmg203_ctrl00",
+        "message": "argent",
+        "attribute": "04000000980B0000",
+        "style_index": 191
+    },
+    "inst_hsmg203_ctrl01": {
+        "name": "inst_hsmg203_ctrl01",
+        "message": "D'accord.",
+        "attribute": "040000009A0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg204_ctrl00": {
+        "name": "inst_hsmg204_ctrl00",
+        "message": "Rien,",
+        "attribute": "040000009C0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg205_ctrl00": {
+        "name": "inst_hsmg205_ctrl00",
+        "message": "Secrètement.",
+        "attribute": "040000009E0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg206_ctrl00": {
+        "name": "inst_hsmg206_ctrl00",
+        "message": "Inde (Myanmar)",
+        "attribute": "04000000A00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg206_ctrl01": {
+        "name": "inst_hsmg206_ctrl01",
+        "message": "Quoi ? Un coffre ?",
+        "attribute": "04000000A20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg206_ctrl02": {
+        "name": "inst_hsmg206_ctrl02",
+        "message": "Je t'aime merci.",
+        "attribute": "04000000A40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg206_ctrl03": {
+        "name": "inst_hsmg206_ctrl03",
+        "message": "Il s'agit d'une zone\r\nrégionale.",
+        "attribute": "04000000A60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg207_ctrl00": {
+        "name": "inst_hsmg207_ctrl00",
+        "message": "bureau partagé.",
+        "attribute": "04000000A80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg207_ctrl01": {
+        "name": "inst_hsmg207_ctrl01",
+        "message": "Ils ne le comprennent pas.",
+        "attribute": "04000000AA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg207_ctrl02": {
+        "name": "inst_hsmg207_ctrl02",
+        "message": "Il s'est levé rapidement.",
+        "attribute": "04000000AC0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg208_ctrl00": {
+        "name": "inst_hsmg208_ctrl00",
+        "message": ", Qui est",
+        "attribute": "04000000AE0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg209_ctrl00": {
+        "name": "inst_hsmg209_ctrl00",
+        "message": "Ce monde est très beau.",
+        "attribute": "04000000B00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg209_ctrl01": {
+        "name": "inst_hsmg209_ctrl01",
+        "message": "Veuillez suivre attentivement ces\r\ninstructions.",
+        "attribute": "04000000B20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg210_ctrl00": {
+        "name": "inst_hsmg210_ctrl00",
+        "message": "C'est ce qu'ils ont fait.",
+        "attribute": "04000000B40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg210_ctrl01": {
+        "name": "inst_hsmg210_ctrl01",
+        "message": "(Rechercher) Cliquez sur le\r\nbouton Installer.",
+        "attribute": "04000000B60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg211_ctrl00": {
+        "name": "inst_hsmg211_ctrl00",
+        "message": "Je m'en vais.",
+        "attribute": "04000000B80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg211_ctrl01": {
+        "name": "inst_hsmg211_ctrl01",
+        "message": "poignée",
+        "attribute": "04000000BA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg212_ctrl00": {
+        "name": "inst_hsmg212_ctrl00",
+        "message": "il y en a beaucoup.",
+        "attribute": "04000000BC0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg212_ctrl01": {
+        "name": "inst_hsmg212_ctrl01",
+        "message": "Quoi?",
+        "attribute": "04000000BE0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg213_ctrl00": {
+        "name": "inst_hsmg213_ctrl00",
+        "message": "excusez-moi.",
+        "attribute": "04000000C00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg213_ctrl01": {
+        "name": "inst_hsmg213_ctrl01",
+        "message": "Se lever.",
+        "attribute": "04000000C20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg213_ctrl02": {
+        "name": "inst_hsmg213_ctrl02",
+        "message": "C'est le premier livre.",
+        "attribute": "04000000C40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg213_ctrl03": {
+        "name": "inst_hsmg213_ctrl03",
+        "message": "NF → XAL respectivement.",
+        "attribute": "04000000C60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg214_ctrl00": {
+        "name": "inst_hsmg214_ctrl00",
+        "message": "écouter",
+        "attribute": "04000000C80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg214_ctrl01": {
+        "name": "inst_hsmg214_ctrl01",
+        "message": "Voici quelques photos en couleur.",
+        "attribute": "04000000CA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg215_ctrlGuide00": {
+        "name": "inst_hsmg215_ctrlGuide00",
+        "message": "C'était fait.",
+        "attribute": "04000000CC0B0000",
+        "style_index": 190
+    },
+    "inst_hsmg215_ctrlGuide01": {
+        "name": "inst_hsmg215_ctrlGuide01",
+        "message": "C'est notre héros.",
+        "attribute": "04000000CE0B0000",
+        "style_index": 190
+    },
+    "inst_hsmg215_ctrl00": {
+        "name": "inst_hsmg215_ctrl00",
+        "message": "Pour échanger.",
+        "attribute": "04000000D00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg215_ctrl10": {
+        "name": "inst_hsmg215_ctrl10",
+        "message": "Donne-moi un dollar.",
+        "attribute": "04000000D20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg701_ctrl00": {
+        "name": "inst_hsmg701_ctrl00",
+        "message": "mais",
+        "attribute": "04000000D40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg702_ctrl00": {
+        "name": "inst_hsmg702_ctrl00",
+        "message": "Je l'espère.",
+        "attribute": "04000000D60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg703_ctrl00": {
+        "name": "inst_hsmg703_ctrl00",
+        "message": "Bonjour",
+        "attribute": "04000000D80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg704_ctrl00": {
+        "name": "inst_hsmg704_ctrl00",
+        "message": "Monde",
+        "attribute": "04000000DA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg704_ctrl01": {
+        "name": "inst_hsmg704_ctrl01",
+        "message": "Travail.",
+        "attribute": "04000000DC0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg705_ctrl00": {
+        "name": "inst_hsmg705_ctrl00",
+        "message": "-VIH",
+        "attribute": "04000000DE0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg801_ctrl00": {
+        "name": "inst_hsmg801_ctrl00",
+        "message": "à partager.",
+        "attribute": "04000000E00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg801_ctrl01": {
+        "name": "inst_hsmg801_ctrl01",
+        "message": "À propos de l'avion.",
+        "attribute": "04000000E20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg801_ctrl02": {
+        "name": "inst_hsmg801_ctrl02",
+        "message": "maintenant",
+        "attribute": "04000000E40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg802_ctrl00": {
+        "name": "inst_hsmg802_ctrl00",
+        "message": "Je ressens la même chose.",
+        "attribute": "04000000E60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg802_ctrl01": {
+        "name": "inst_hsmg802_ctrl01",
+        "message": "Il est devenu le premier\r\nprésident.",
+        "attribute": "04000000E80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg803_ctrl00": {
+        "name": "inst_hsmg803_ctrl00",
+        "message": "Commençons par la langue.",
+        "attribute": "04000000EA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg803_ctrl01": {
+        "name": "inst_hsmg803_ctrl01",
+        "message": "Vous voulez connaître la vérité.",
+        "attribute": "04000000EC0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg803_ctrl02": {
+        "name": "inst_hsmg803_ctrl02",
+        "message": "Pratique",
+        "attribute": "04000000EE0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg804_ctrl00": {
+        "name": "inst_hsmg804_ctrl00",
+        "message": "Reza ne fait pas ça.",
+        "attribute": "04000000F00B0000",
+        "style_index": 191
+    },
+    "inst_hsmg805_ctrl10": {
+        "name": "inst_hsmg805_ctrl10",
+        "message": "Ce n'est pas une personne.",
+        "attribute": "04000000F20B0000",
+        "style_index": 191
+    },
+    "inst_hsmg805_ctrl11": {
+        "name": "inst_hsmg805_ctrl11",
+        "message": "S'il vous plaît, arrêtez la\r\nvoiture.",
+        "attribute": "04000000F40B0000",
+        "style_index": 191
+    },
+    "inst_hsmg805_ctrl30": {
+        "name": "inst_hsmg805_ctrl30",
+        "message": "Je suis là.",
+        "attribute": "04000000F60B0000",
+        "style_index": 191
+    },
+    "inst_hsmg806_ctrl00": {
+        "name": "inst_hsmg806_ctrl00",
+        "message": "Bonjour",
+        "attribute": "04000000F80B0000",
+        "style_index": 191
+    },
+    "inst_hsmg807_ctrl00": {
+        "name": "inst_hsmg807_ctrl00",
+        "message": "Elle courut vers lui.",
+        "attribute": "04000000FA0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg808_ctrl00": {
+        "name": "inst_hsmg808_ctrl00",
+        "message": "La bonne nouvelle est",
+        "attribute": "04000000FC0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg808_ctrl01": {
+        "name": "inst_hsmg808_ctrl01",
+        "message": "acide dans l'eau.",
+        "attribute": "04000000FE0B0000",
+        "style_index": 191
+    },
+    "inst_hsmg809_ctrl00": {
+        "name": "inst_hsmg809_ctrl00",
+        "message": "Alors il en comprit le sens.",
+        "attribute": "04000000000C0000",
+        "style_index": 191
+    },
+    "inst_hsmg810_ctrl00": {
+        "name": "inst_hsmg810_ctrl00",
+        "message": "Rien n'est facile.",
+        "attribute": "04000000020C0000",
+        "style_index": 191
+    },
+    "inst_hsmg810_ctrl01": {
+        "name": "inst_hsmg810_ctrl01",
+        "message": "Dîner (sous réserve de\r\ndisponibilité).",
+        "attribute": "04000000040C0000",
+        "style_index": 191
+    },
+    "inst_hsmg501_ctrl00": {
+        "name": "inst_hsmg501_ctrl00",
+        "message": "De l'alcool (parfois).",
+        "attribute": "04000000060C0000",
+        "style_index": 191
+    },
+    "inst_hsmg501_ctrl01": {
+        "name": "inst_hsmg501_ctrl01",
+        "message": "balle",
+        "attribute": "04000000080C0000",
+        "style_index": 191
+    },
+    "inst_hsmg501_ctrl02": {
+        "name": "inst_hsmg501_ctrl02",
+        "message": "C'est mon frère.",
+        "attribute": "040000000A0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg501_ctrl03": {
+        "name": "inst_hsmg501_ctrl03",
+        "message": "C'est un appareil photo.",
+        "attribute": "040000000C0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg502_ctrl00": {
+        "name": "inst_hsmg502_ctrl00",
+        "message": "Bien mélanger et réserver.",
+        "attribute": "040000000E0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg502_ctrl01": {
+        "name": "inst_hsmg502_ctrl01",
+        "message": "Nom/photo.",
+        "attribute": "04000000100C0000",
+        "style_index": 191
+    },
+    "inst_hsmg502_ctrl02": {
+        "name": "inst_hsmg502_ctrl02",
+        "message": "Fais-le vite.",
+        "attribute": "04000000120C0000",
+        "style_index": 191
+    },
+    "inst_hsmg502_ctrl03": {
+        "name": "inst_hsmg502_ctrl03",
+        "message": "maison",
+        "attribute": "04000000140C0000",
+        "style_index": 191
+    },
+    "inst_hsmg503_ctrl00": {
+        "name": "inst_hsmg503_ctrl00",
+        "message": "Il a un secret.",
+        "attribute": "04000000160C0000",
+        "style_index": 191
+    },
+    "inst_hsmg503_ctrl01": {
+        "name": "inst_hsmg503_ctrl01",
+        "message": "Petite fenêtre/porte.",
+        "attribute": "04000000180C0000",
+        "style_index": 191
+    },
+    "inst_hsmg503_ctrl02": {
+        "name": "inst_hsmg503_ctrl02",
+        "message": "Oh mon Dieu!",
+        "attribute": "040000001A0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg503_ctrl03": {
+        "name": "inst_hsmg503_ctrl03",
+        "message": "Merci.",
+        "attribute": "040000001C0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg601_ctrl00": {
+        "name": "inst_hsmg601_ctrl00",
+        "message": "Arrête d'en parler.",
+        "attribute": "040000001E0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg601_ctrl01": {
+        "name": "inst_hsmg601_ctrl01",
+        "message": "Il a disparu immédiatement.",
+        "attribute": "04000000200C0000",
+        "style_index": 191
+    },
+    "inst_hsmg601_ctrl02": {
+        "name": "inst_hsmg601_ctrl02",
+        "message": "Allons-y maintenant.",
+        "attribute": "04000000220C0000",
+        "style_index": 191
+    },
+    "inst_hsmg601_ctrl03": {
+        "name": "inst_hsmg601_ctrl03",
+        "message": "C’est un grand changement.",
+        "attribute": "04000000240C0000",
+        "style_index": 191
+    },
+    "inst_hsmg602_ctrl00": {
+        "name": "inst_hsmg602_ctrl00",
+        "message": "Utilisez vos mains.",
+        "attribute": "04000000260C0000",
+        "style_index": 191
+    },
+    "inst_hsmg602_ctrl01": {
+        "name": "inst_hsmg602_ctrl01",
+        "message": "Le bâtiment du pont",
+        "attribute": "04000000280C0000",
+        "style_index": 191
+    },
+    "inst_hsmg602_ctrl02": {
+        "name": "inst_hsmg602_ctrl02",
+        "message": " + Robot .",
+        "attribute": "040000002A0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg602_ctrl03": {
+        "name": "inst_hsmg602_ctrl03",
+        "message": "Maintenant les choses ont changé.",
+        "attribute": "040000002C0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg603_ctrl00": {
+        "name": "inst_hsmg603_ctrl00",
+        "message": "Après le match",
+        "attribute": "040000002E0C0000",
+        "style_index": 191
+    },
+    "inst_hsmg603_ctrl01": {
+        "name": "inst_hsmg603_ctrl01",
+        "message": "Je suis fatigué.",
+        "attribute": "04000000300C0000",
+        "style_index": 191
+    },
+    "inst_hsmg401_rule": {
+        "name": "inst_hsmg401_rule",
+        "message": "Ton fils",
+        "attribute": "04000019320C0000",
+        "style_index": 192
+    },
+    "inst_hsmg402_rule": {
+        "name": "inst_hsmg402_rule",
+        "message": "Construisez une équipe qui sait\r\ncombattre et vaincre l’ennemi.",
+        "attribute": "04000019340C0000",
+        "style_index": 192
+    },
+    "inst_hsmg403_rule": {
+        "name": "inst_hsmg403_rule",
+        "message": "!",
+        "attribute": "04000019360C0000",
+        "style_index": 192
+    },
+    "inst_hsmg404_rule": {
+        "name": "inst_hsmg404_rule",
+        "message": "Remplissez les blancs. Le joueur\r\navec le score le plus bas gagne.",
+        "attribute": "04000019380C0000",
+        "style_index": 192
+    },
+    "inst_hsmg405_rule": {
+        "name": "inst_hsmg405_rule",
+        "message": "Allez.",
+        "attribute": "040000193A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg406_rule": {
+        "name": "inst_hsmg406_rule",
+        "message": "Jusqu'à la fin.",
+        "attribute": "040000193C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg407_rule": {
+        "name": "inst_hsmg407_rule",
+        "message": "Quand le téléphone sonne...\r\nenvoyez-le.",
+        "attribute": "040000193E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg408_rule": {
+        "name": "inst_hsmg408_rule",
+        "message": "Allez, tuez les ennemis et gagnez\r\n!",
+        "attribute": "04000019400C0000",
+        "style_index": 192
+    },
+    "inst_hsmg409_rule": {
+        "name": "inst_hsmg409_rule",
+        "message": "Une fois l'aimant activé,\r\nretirez le vélo et remettez-le en\r\nplace.",
+        "attribute": "04000019420C0000",
+        "style_index": 192
+    },
+    "inst_hsmg410_rule": {
+        "name": "inst_hsmg410_rule",
+        "message": "Il est tombé entre les mains de\r\nl'ennemi.",
+        "attribute": "04000019440C0000",
+        "style_index": 192
+    },
+    "inst_hsmg411_rule": {
+        "name": "inst_hsmg411_rule",
+        "message": "Même si tu me laisses dans le\r\nfroid, je serai avec toi [0:3\r\nFF-35-02-FF]. [0:3 11-0C-1D-FF]!\r\n[0:3 00-00-00] 0:3 Tu as raison.\r\nJe comprends, je comprends.",
+        "attribute": "04000019460C0000",
+        "style_index": 192
+    },
+    "inst_hsmg412_rule": {
+        "name": "inst_hsmg412_rule",
+        "message": "Français | [0:3 11-0C-1D-FF] [0:3\r\n00-00-00-00-00-00.",
+        "attribute": "04000019480C0000",
+        "style_index": 192
+    },
+    "inst_hsmg413_rule": {
+        "name": "inst_hsmg413_rule",
+        "message": "Préparez-vous à vérifier votre\r\ntéléphone !",
+        "attribute": "040000194A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg414_rule": {
+        "name": "inst_hsmg414_rule",
+        "message": "Cliquez sur l'image pour voir\r\nla version complète.",
+        "attribute": "040000194C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg415_rule": {
+        "name": "inst_hsmg415_rule",
+        "message": "Ma bouche est pleine de\r\nnourriture !",
+        "attribute": "040000194E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg416_rule": {
+        "name": "inst_hsmg416_rule",
+        "message": "Trouvez les lignes qui relient\r\nles autres. Plus elles sont\r\nproches, plus vous gagnez !",
+        "attribute": "04000019500C0000",
+        "style_index": 192
+    },
+    "inst_hsmg417_rule": {
+        "name": "inst_hsmg417_rule",
+        "message": "0:3 00 - 00 - 2020 |",
+        "attribute": "04000019520C0000",
+        "style_index": 192
+    },
+    "inst_hsmg418_rule": {
+        "name": "inst_hsmg418_rule",
+        "message": "Réponse : (0:311).",
+        "attribute": "04000019540C0000",
+        "style_index": 192
+    },
+    "inst_hsmg419_rule": {
+        "name": "inst_hsmg419_rule",
+        "message": "Le rugissement de la mer est\r\ncaché dans l'eau.",
+        "attribute": "04000019560C0000",
+        "style_index": 192
+    },
+    "inst_hsmg420_rule": {
+        "name": "inst_hsmg420_rule",
+        "message": "Les enfants enseignent et\r\napprennent.",
+        "attribute": "04000019580C0000",
+        "style_index": 192
+    },
+    "inst_hsmg421_rule": {
+        "name": "inst_hsmg421_rule",
+        "message": "[0: 3 onces]",
+        "attribute": "040000195A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg422_rule": {
+        "name": "inst_hsmg422_rule",
+        "message": "Chute : Si vous tombez dans\r\nl'eau, vous vous noierez.\r\n[0:3 sec 10:00-06]",
+        "attribute": "040000195C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg423_rule": {
+        "name": "inst_hsmg423_rule",
+        "message": "Ta main est sur le pistolet.",
+        "attribute": "040000195E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg424_rule": {
+        "name": "inst_hsmg424_rule",
+        "message": "Ils s'éteignent [0:3] ! Quel\r\nbeau spectacle !",
+        "attribute": "04000019600C0000",
+        "style_index": 192
+    },
+    "inst_hsmg425_rule": {
+        "name": "inst_hsmg425_rule",
+        "message": "Écoutez ceci, ne laissez pas le\r\nmonde s'effondrer !",
+        "attribute": "04000019620C0000",
+        "style_index": 192
+    },
+    "inst_hsmg426_rule": {
+        "name": "inst_hsmg426_rule",
+        "message": "N'abandonnez pas, continuez\r\nd'essayer !",
+        "attribute": "04000019640C0000",
+        "style_index": 192
+    },
+    "inst_hsmg427_rule": {
+        "name": "inst_hsmg427_rule",
+        "message": "Tuez l'ennemi ! N'ayez\r\npas peur !",
+        "attribute": "04000019660C0000",
+        "style_index": 192
+    },
+    "inst_hsmg428_rule": {
+        "name": "inst_hsmg428_rule",
+        "message": "La bombe a explosé. Vous avez\r\nremporté un grand succès et vous\r\nêtes prêt.",
+        "attribute": "04000019680C0000",
+        "style_index": 192
+    },
+    "inst_hsmg429_rule": {
+        "name": "inst_hsmg429_rule",
+        "message": "Choisissez le montant que vous\r\nsouhaitez investir pour éviter\r\nles pertes.",
+        "attribute": "040000196A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg430_rule": {
+        "name": "inst_hsmg430_rule",
+        "message": "J'ai soulevé le rideau et\r\nouvert la fenêtre.",
+        "attribute": "040000196C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg431_rule": {
+        "name": "inst_hsmg431_rule",
+        "message": "Un autre personnage qui mérite\r\nd’être mentionné est Bowser.",
+        "attribute": "040000196E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg432_rule": {
+        "name": "inst_hsmg432_rule",
+        "message": "Il a fait un excellent travail !",
+        "attribute": "04000019700C0000",
+        "style_index": 192
+    },
+    "inst_hsmg433_rule": {
+        "name": "inst_hsmg433_rule",
+        "message": "The Dark Knight est une énorme\r\nbombe ! [0:3] 00-00-00- [0:3].",
+        "attribute": "04000019720C0000",
+        "style_index": 192
+    },
+    "inst_hsmg434_rule": {
+        "name": "inst_hsmg434_rule",
+        "message": "Attaquez l'ennemi par étapes.\r\nSans armes, pas de guerre.",
+        "attribute": "04000019740C0000",
+        "style_index": 192
+    },
+    "inst_hsmg435_rule": {
+        "name": "inst_hsmg435_rule",
+        "message": "Le garçon n'a rien vu.\r\nAttends de voir Cuba.\r\nD'accord. 0:30 - Tout va\r\nbien.",
+        "attribute": "04000019760C0000",
+        "style_index": 192
+    },
+    "inst_hsmg436_rule": {
+        "name": "inst_hsmg436_rule",
+        "message": "[0:311-00-1D-SI] [0:300-1D-SI]\r\n[0:311-00-1D-SI] [0:300-00-IB]",
+        "attribute": "04000019780C0000",
+        "style_index": 192
+    },
+    "inst_hsmg437_rule": {
+        "name": "inst_hsmg437_rule",
+        "message": "Continuez jusqu'au bout.\r\nArrêtez ce que vous faites et\r\nréfléchissez.",
+        "attribute": "040000197A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg438_rule": {
+        "name": "inst_hsmg438_rule",
+        "message": "Arrêtez-vous et prenez une photo\r\navec votre appareil photo.",
+        "attribute": "040000197C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg439_rule": {
+        "name": "inst_hsmg439_rule",
+        "message": "[0:3 11-0C-1D-FF] Quittez le bar\r\net rentrez chez vous, rentrez\r\nchez vous. [0:3 11-0C-1D-FF] Si\r\nvous voulez boire un verre,\r\nmettez-le là. 0:3 20-20-20.",
+        "attribute": "040000197E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg440_rule": {
+        "name": "inst_hsmg440_rule",
+        "message": "Quatrièmement, soyez prudent, ne\r\nvous précipitez pas, car cela\r\npeut être dangereux.",
+        "attribute": "04000019800C0000",
+        "style_index": 192
+    },
+    "inst_hsmg441_rule": {
+        "name": "inst_hsmg441_rule",
+        "message": "La balle a heurté le mur.\r\nC'est vrai.",
+        "attribute": "04000019820C0000",
+        "style_index": 192
+    },
+    "inst_hsmg442_rule": {
+        "name": "inst_hsmg442_rule",
+        "message": "Je ne perds pas de temps [0:3]\r\nNon !",
+        "attribute": "04000019840C0000",
+        "style_index": 192
+    },
+    "inst_hsmg443_rule": {
+        "name": "inst_hsmg443_rule",
+        "message": "[0:3] En février ! Le joueur qui\r\nmarque le plus de buts gagne. À\r\n12h30.",
+        "attribute": "04000019860C0000",
+        "style_index": 192
+    },
+    "inst_hsmg444_rule": {
+        "name": "inst_hsmg444_rule",
+        "message": "Battez vos adversaires et passez\r\nà autre chose.",
+        "attribute": "04000019880C0000",
+        "style_index": 192
+    },
+    "inst_hsmg445_rule": {
+        "name": "inst_hsmg445_rule",
+        "message": "Soyez prudents, car les peuples\r\ndu monde savent que s’ils se\r\nbattent dur, ils gagneront.",
+        "attribute": "040000198A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg446_rule": {
+        "name": "inst_hsmg446_rule",
+        "message": "Lisez les cinq premiers\r\nchapitres.",
+        "attribute": "040000198C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg447_rule": {
+        "name": "inst_hsmg447_rule",
+        "message": "Le navire est perdu. Regardez ce\r\nfantôme !",
+        "attribute": "040000198E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg448_rule": {
+        "name": "inst_hsmg448_rule",
+        "message": "L'eau est montée. Emportez-la\r\nchez vous.",
+        "attribute": "04000019900C0000",
+        "style_index": 192
+    },
+    "inst_hsmg449_rule": {
+        "name": "inst_hsmg449_rule",
+        "message": "Référence 0:3 11-0C-1D-FF]: -.",
+        "attribute": "04000019920C0000",
+        "style_index": 192
+    },
+    "inst_hsmg101_rule": {
+        "name": "inst_hsmg101_rule",
+        "message": "Battez les attaques ennemies et\r\ncombattez en mode 3v3.",
+        "attribute": "04000019940C0000",
+        "style_index": 192
+    },
+    "inst_hsmg102_rule": {
+        "name": "inst_hsmg102_rule",
+        "message": "Dans le premier jeu, vous lanciez\r\ndes pierres sur vos adversaires,\r\net dans ce jeu, ils sont\r\neux-mêmes jetés avec des pierres.",
+        "attribute": "04000019960C0000",
+        "style_index": 192
+    },
+    "inst_hsmg103_rule": {
+        "name": "inst_hsmg103_rule",
+        "message": "Cela vous aide à mieux voir sans\r\nlunettes et certaines personnes\r\ndisent que cela abaisse la\r\ntension artérielle et renforce le\r\nsystème immunitaire.",
+        "attribute": "04000019980C0000",
+        "style_index": 192
+    },
+    "inst_hsmg104_rule": {
+        "name": "inst_hsmg104_rule",
+        "message": "Homme : « Life » Flora tire sur\r\nProby, le touchant deux fois.",
+        "attribute": "040000199A0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg105_rule": {
+        "name": "inst_hsmg105_rule",
+        "message": "Un joueur lance une pierre sur un\r\nautre joueur et la fait voler.\r\nLes trois autres sont des joueurs\r\nimportants.",
+        "attribute": "040000199C0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg106_rule": {
+        "name": "inst_hsmg106_rule",
+        "message": "« Ne meurs pas, ne sois pas\r\nstupide », dit-il.",
+        "attribute": "040000199E0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg107_rule": {
+        "name": "inst_hsmg107_rule",
+        "message": "Ne jetez rien dans l'eau.\r\nTrouvez quelque chose.",
+        "attribute": "04000019A00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg108_rule": {
+        "name": "inst_hsmg108_rule",
+        "message": "Essayez d'abord de tuer les\r\nennemis, puis appuyez trois fois\r\nsur le bouton « Tuer ».",
+        "attribute": "04000019A20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg109_rule": {
+        "name": "inst_hsmg109_rule",
+        "message": "Cela vous permettra de profiter\r\nde cette opportunité pour vaincre\r\nvotre adversaire. Sam : Ne te\r\ncache pas !",
+        "attribute": "04000019A40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg110_rule": {
+        "name": "inst_hsmg110_rule",
+        "message": "Deux hommes jouent au football.\r\nIl remporte le match par équipe.",
+        "attribute": "04000019A60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg111_rule": {
+        "name": "inst_hsmg111_rule",
+        "message": "Groupes Google",
+        "attribute": "04000019A80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg112_rule": {
+        "name": "inst_hsmg112_rule",
+        "message": "Trois musiciens et dix personnes\r\nvoulaient une bonne guitare.",
+        "attribute": "04000019AA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg113_rule": {
+        "name": "inst_hsmg113_rule",
+        "message": "Ils peuvent choisir qui vient. Je\r\nsuis tellement excitée !\r\nTroisièmement, je ne sais pas !",
+        "attribute": "04000019AC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg114_rule": {
+        "name": "inst_hsmg114_rule",
+        "message": "Personnages : trois personnes\r\ncélèbres.",
+        "attribute": "04000019AE0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg115_rule": {
+        "name": "inst_hsmg115_rule",
+        "message": "Lorsque la musique s'arrête,\r\nles élèves choisissent le nom de\r\nl'artiste qu'ils\r\nsouhaitent voir. Ils peuvent\r\nchoisir trois artistes.",
+        "attribute": "04000019B00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg201_rule": {
+        "name": "inst_hsmg201_rule",
+        "message": "Les joueurs doivent former une\r\néquipe ! Si vous ne me croyez\r\npas, c'est faux.",
+        "attribute": "04000019B20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg202_rule": {
+        "name": "inst_hsmg202_rule",
+        "message": "Faire de la pâte à pizza prend\r\nbeaucoup de temps, et une bonne\r\npizza est le résultat de beaucoup\r\nde travail.",
+        "attribute": "04000019B40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg203_rule": {
+        "name": "inst_hsmg203_rule",
+        "message": "Aidez vos collègues à relever les\r\ndéfis à l’aide d’outils simples\r\net faciles à utiliser.",
+        "attribute": "04000019B60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg204_rule": {
+        "name": "inst_hsmg204_rule",
+        "message": "Ils peuvent lancer le ballon et\r\nle frapper vers l'adversaire.\r\nL'équipe qui tire en premier\r\ngagne.",
+        "attribute": "04000019B80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg205_rule": {
+        "name": "inst_hsmg205_rule",
+        "message": "Utilisez un motif floral sur un\r\ncôté du bol et un motif papillon\r\nsur l’autre.",
+        "attribute": "04000019BA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg206_rule": {
+        "name": "inst_hsmg206_rule",
+        "message": "Je n'étais qu'un\r\nétranger. Nous devons être amis,\r\nsinon nous mourrons.",
+        "attribute": "04000019BC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg207_rule": {
+        "name": "inst_hsmg207_rule",
+        "message": "Sautez dans la voiture et partez,\r\nvous serez surpris.",
+        "attribute": "04000019BE0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg208_rule": {
+        "name": "inst_hsmg208_rule",
+        "message": "J'ai fait quelques dessins et\r\nje les ai terminés au crayon.",
+        "attribute": "04000019C00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg209_rule": {
+        "name": "inst_hsmg209_rule",
+        "message": "Ajoutez les tomates et laissez\r\ncuire un moment.",
+        "attribute": "04000019C20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg210_rule": {
+        "name": "inst_hsmg210_rule",
+        "message": "0:3 11-0C-1D-FF] Continuez à\r\nécrire. Quel merveilleux voyage.",
+        "attribute": "04000019C40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg211_rule": {
+        "name": "inst_hsmg211_rule",
+        "message": "Cette situation de crise empire\r\nde jour en jour ! Ils ont\r\ncommencé à jouer. Si vous voulez\r\nparier, taisez-vous et attendez !\r\n[0:3] Gagnons.",
+        "attribute": "04000019C60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg212_rule": {
+        "name": "inst_hsmg212_rule",
+        "message": "Je ne voyage pas beaucoup.",
+        "attribute": "04000019C80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg213_rule": {
+        "name": "inst_hsmg213_rule",
+        "message": "Prenez la pierre et répétez ce\r\nprocessus jusqu'à ce que vous\r\npassiez le dernier obstacle et\r\natteigniez la zone suivante.",
+        "attribute": "04000019CA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg214_rule": {
+        "name": "inst_hsmg214_rule",
+        "message": "Recherchez des similitudes entre\r\nles plantes. 15 février 2013 |",
+        "attribute": "04000019CC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg215_rule": {
+        "name": "inst_hsmg215_rule",
+        "message": "Amenez vos animaux de compagnie.",
+        "attribute": "04000019CE0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg701_rule": {
+        "name": "inst_hsmg701_rule",
+        "message": "Philly, ne me dis pas qui tu es.",
+        "attribute": "04000019D00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg702_rule": {
+        "name": "inst_hsmg702_rule",
+        "message": "Allumez-le, démarrez la session\r\net suivez les instructions.",
+        "attribute": "04000019D20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg703_rule": {
+        "name": "inst_hsmg703_rule",
+        "message": "Pensez à ce qui s’est passé.",
+        "attribute": "04000019D40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg704_rule": {
+        "name": "inst_hsmg704_rule",
+        "message": "[0:3 FF-35-02-FF] Vendredi.\r\n[0:311-0C-1D-FF] Essayez une\r\nautre méthode.",
+        "attribute": "04000019D60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg705_rule": {
+        "name": "inst_hsmg705_rule",
+        "message": "Avant de faire demi-tour,\r\ndescendez et trouvez la\r\ncouverture de l'ennemi.",
+        "attribute": "04000019D80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg801_rule": {
+        "name": "inst_hsmg801_rule",
+        "message": "0:3pied-pied]\r\n[0:300-000-pied-pied].",
+        "attribute": "04000019DA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg802_rule": {
+        "name": "inst_hsmg802_rule",
+        "message": "Cette politique fonctionne.\r\nRegardez la carte. [10 h 30 – 12\r\nh 00]",
+        "attribute": "04000019DC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg803_rule": {
+        "name": "inst_hsmg803_rule",
+        "message": "D'accord. Vous pouvez appeler\r\nles experts pour résoudre ce\r\nproblème ! [0:300] Pourquoi ?",
+        "attribute": "04000019DE0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg804_rule": {
+        "name": "inst_hsmg804_rule",
+        "message": "Accès aux équipements de\r\nradiographie |",
+        "attribute": "04000019E00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg805_rule": {
+        "name": "inst_hsmg805_rule",
+        "message": "Trois joueurs reçoivent le ballon\r\net un joueur tente de défendre\r\nson équipe [0:3].",
+        "attribute": "04000019E20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg806_rule": {
+        "name": "inst_hsmg806_rule",
+        "message": "Réglage de la minuterie [0:3\r\nFF-FF] [0:3 FF-FF] [0:3\r\n11-0C-1D-FF] : Vérifiez si la\r\nminuterie interfère avec le\r\nfonctionnement. [Clochette 0:3] ;",
+        "attribute": "04000019E40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg807_rule": {
+        "name": "inst_hsmg807_rule",
+        "message": "Voyons ce que tu peux faire.\r\nSinon, c'est une perte de\r\ntemps. [0:3] Oh, oh, oh.",
+        "attribute": "04000019E60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg808_rule": {
+        "name": "inst_hsmg808_rule",
+        "message": "Prenez soin de votre argent et\r\ngérez-le bien.",
+        "attribute": "04000019E80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg809_rule": {
+        "name": "inst_hsmg809_rule",
+        "message": "Sautez pour gagner plus\r\nd'argent. Chaque personne\r\nrecevra deux points. 0:3 00-00",
+        "attribute": "04000019EA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg810_rule": {
+        "name": "inst_hsmg810_rule",
+        "message": "Allez chez le prêteur et payez\r\nles frais. [0:3 00-00-00-FF] Ne\r\nmanquez pas cette opportunité.",
+        "attribute": "04000019EC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg501_rule": {
+        "name": "inst_hsmg501_rule",
+        "message": "Que l'entraînement commence !\r\nIl était environ 15 h.",
+        "attribute": "04000019EE0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg502_rule": {
+        "name": "inst_hsmg502_rule",
+        "message": "Nous jouions au basket-ball,\r\nalors prenons quelques photos\r\namusantes.",
+        "attribute": "04000019F00C0000",
+        "style_index": 192
+    },
+    "inst_hsmg503_rule": {
+        "name": "inst_hsmg503_rule",
+        "message": "Nous nous sommes divisés en deux\r\ngroupes et avons attendu que les\r\nennemis brûlent les livres.",
+        "attribute": "04000019F20C0000",
+        "style_index": 192
+    },
+    "inst_hsmg601_rule": {
+        "name": "inst_hsmg601_rule",
+        "message": "[0:311-0C-1D-FF] Ajoutez et\r\nsupprimez deux éléments ou plus.\r\nC'est tout ce que vous avez à\r\nfaire.",
+        "attribute": "04000019F40C0000",
+        "style_index": 192
+    },
+    "inst_hsmg601_rule2": {
+        "name": "inst_hsmg601_rule2",
+        "message": "0:3 11-0C-1D-FF] Vous devez\r\ncommencer par appuyer sur les\r\ndeux boutons. 11-0C-1D-FF\r\nInconnu. [00:3 commentaires]",
+        "attribute": "04000019F60C0000",
+        "style_index": 192
+    },
+    "inst_hsmg602_rule": {
+        "name": "inst_hsmg602_rule",
+        "message": "Il y a un autre problème : ouvrez\r\nla tasse et remplissez-la selon\r\nvos besoins. Si vous la\r\nremplissez en dessous de 0, vous\r\nne serez pas accepté pour ce\r\nprojet.",
+        "attribute": "04000019F80C0000",
+        "style_index": 192
+    },
+    "inst_hsmg602_rule2": {
+        "name": "inst_hsmg602_rule2",
+        "message": "Inflige 10 points de dégâts ou\r\nplus et effectue 10 attaques ou\r\nplus. Utilisez les flèches haut\r\net bas pour vaincre les obstacles\r\net les ennemis.",
+        "attribute": "04000019FA0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg603_rule": {
+        "name": "inst_hsmg603_rule",
+        "message": "Si vous perdez cinq points ou\r\nmoins, le jeu se termine lorsque\r\nvous lancez les dés pour obtenir\r\n10 points.",
+        "attribute": "04000019FC0C0000",
+        "style_index": 192
+    },
+    "inst_hsmg603_rule2": {
+        "name": "inst_hsmg603_rule2",
+        "message": "Si cinq buts ou plus sont marqués\r\nlors d'un match de football\r\net que l'équipe adverse\r\nmarque le deuxième, le buteur\r\nmarque douze buts.",
+        "attribute": "04000019FE0C0000",
+        "style_index": 192
+    }
+}
