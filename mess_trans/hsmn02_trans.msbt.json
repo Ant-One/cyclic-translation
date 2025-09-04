@@ -1,0 +1,824 @@
+{
+    "mn_bdM_ctrl_friend": {
+        "name": "mn_bdM_ctrl_friend",
+        "message": "▄ Cher ami.",
+        "attribute": "0400000050040000",
+        "style_index": 610
+    },
+    "mn_bdM_rules_rank": {
+        "name": "mn_bdM_rules_rank",
+        "message": "[0] Nom.",
+        "attribute": "0400000052040000",
+        "style_index": 549
+    },
+    "mn_bdM_saveData_map": {
+        "name": "mn_bdM_saveData_map",
+        "message": "[0] 8. Cette page.",
+        "attribute": "0400000054040000",
+        "style_index": 422
+    },
+    "mn_bdM_saveData_date": {
+        "name": "mn_bdM_saveData_date",
+        "message": "[2] / [1] / En effet.",
+        "attribute": "0400000056040000",
+        "style_index": 424
+    },
+    "mn_bdM_saveData_connect": {
+        "name": "mn_bdM_saveData_connect",
+        "message": "[0] - Bonne question.",
+        "attribute": "0400000058040000",
+        "style_index": 423
+    },
+    "mn_bdM_saveData_turn": {
+        "name": "mn_bdM_saveData_turn",
+        "message": "Résultat : [0] /.",
+        "attribute": "040000005A040000",
+        "style_index": 423
+    },
+    "mn_bdM_saveData_rank": {
+        "name": "mn_bdM_saveData_rank",
+        "message": "[0] minutes.",
+        "attribute": "040000005C040000",
+        "style_index": 425
+    },
+    "mn_bdM_saveData_star": {
+        "name": "mn_bdM_saveData_star",
+        "message": "La valeur par défaut est [0].",
+        "attribute": "040000005E040000",
+        "style_index": 426
+    },
+    "mn_bdM_saveData_coin": {
+        "name": "mn_bdM_saveData_coin",
+        "message": "La valeur par défaut est [0].",
+        "attribute": "0400000060040000",
+        "style_index": 427
+    },
+    "mn_bdM_saveData_name": {
+        "name": "mn_bdM_saveData_name",
+        "message": "[0] 9. Je suis",
+        "attribute": "0400000062040000",
+        "style_index": 428
+    },
+    "mn_bdM_chara_random": {
+        "name": "mn_bdM_chara_random",
+        "message": "C'est une promesse.",
+        "attribute": "0400000064040000",
+        "style_index": 557
+    },
+    "mn_bdM_handi_select": {
+        "name": "mn_bdM_handi_select",
+        "message": "[0] .",
+        "attribute": "0400000066040000",
+        "style_index": 350
+    },
+    "mn_bdM_handi_list": {
+        "name": "mn_bdM_handi_list",
+        "message": "[0] Le",
+        "attribute": "0400000068040000",
+        "style_index": 518
+    },
+    "mn_bdM_map_level": {
+        "name": "mn_bdM_map_level",
+        "message": "Je suis d'accord avec toi.",
+        "attribute": "040000006A040000",
+        "style_index": 547
+    },
+    "mn_bdM_turn": {
+        "name": "mn_bdM_turn",
+        "message": "Il y en a beaucoup.",
+        "attribute": "040000006C040000",
+        "style_index": 293
+    },
+    "mn_bdM_bonus": {
+        "name": "mn_bdM_bonus",
+        "message": "La naissance d'une nouvelle\r\nétoile",
+        "attribute": "040000006E040000",
+        "style_index": 611
+    },
+    "mn_bdM_inst": {
+        "name": "mn_bdM_inst",
+        "message": "vert,",
+        "attribute": "0400000070040000",
+        "style_index": 293
+    },
+    "mn_bdM_handi": {
+        "name": "mn_bdM_handi",
+        "message": "prudent.",
+        "attribute": "0400000072040000",
+        "style_index": 293
+    },
+    "mn_bdM_turn_select": {
+        "name": "mn_bdM_turn_select",
+        "message": "Je sais.",
+        "attribute": "0400000074040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select00": {
+        "name": "mn_bdM_rule_select00",
+        "message": "~.",
+        "attribute": "0400000076040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select01": {
+        "name": "mn_bdM_rule_select01",
+        "message": "C'est la première fois.",
+        "attribute": "0400000078040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_select02": {
+        "name": "mn_bdM_rule_select02",
+        "message": "conseil",
+        "attribute": "040000007A040000",
+        "style_index": 294
+    },
+    "mn_bdM_rule_turn_time": {
+        "name": "mn_bdM_rule_turn_time",
+        "message": "[0] Exemple",
+        "attribute": "040000007C040000",
+        "style_index": 573
+    },
+    "mn_bdM_mapName": {
+        "name": "mn_bdM_mapName",
+        "message": "[0]",
+        "attribute": "040000007E040000",
+        "style_index": 514
+    },
+    "mn_bdM_on_map": {
+        "name": "mn_bdM_on_map",
+        "message": "[0] Spécification de\r\nl'appareil.",
+        "attribute": "0400000080040000",
+        "style_index": 470
+    },
+    "mn_bdM_on_map_ok": {
+        "name": "mn_bdM_on_map_ok",
+        "message": "Il a lancé la balle.",
+        "attribute": "0400000082040000",
+        "style_index": 471
+    },
+    "mn_bdM_on_map_icon": {
+        "name": "mn_bdM_on_map_icon",
+        "message": "Jouez à l'athlétisme !",
+        "attribute": "0400000084040000",
+        "style_index": 534
+    },
+    "mn_bdM_on_map_rule": {
+        "name": "mn_bdM_on_map_rule",
+        "message": "L'incident qui s'est\r\nproduit n'a pas encore été\r\nexpliqué.",
+        "attribute": "0400000086040000",
+        "style_index": 574
+    },
+    "mn_bdM_on_map_back": {
+        "name": "mn_bdM_on_map_back",
+        "message": "Pas Gianna.",
+        "attribute": "0400000088040000",
+        "style_index": 575
+    },
+    "mn_bdM_on_map_level": {
+        "name": "mn_bdM_on_map_level",
+        "message": "Je vais",
+        "attribute": "040000008A040000",
+        "style_index": 535
+    },
+    "mn_bdM_userName": {
+        "name": "mn_bdM_userName",
+        "message": "[0] Mo",
+        "attribute": "040000008C040000",
+        "style_index": 295
+    },
+    "mn_bdM_comName": {
+        "name": "mn_bdM_comName",
+        "message": "[0].",
+        "attribute": "040000008E040000",
+        "style_index": 295
+    },
+    "mn_bdM_comLevel": {
+        "name": "mn_bdM_comLevel",
+        "message": "[0] Oui, je sais.",
+        "attribute": "0400000090040000",
+        "style_index": 350
+    },
+    "mn_bdM_chara_name": {
+        "name": "mn_bdM_chara_name",
+        "message": "[0] Cette option.",
+        "attribute": "0400000092040000",
+        "style_index": 536
+    },
+    "mn_bdM_playerNo": {
+        "name": "mn_bdM_playerNo",
+        "message": "Comme A8",
+        "attribute": "0400000094040000",
+        "style_index": 299
+    },
+    "mn_bdM_comNo": {
+        "name": "mn_bdM_comNo",
+        "message": "équipement",
+        "attribute": "0400000096040000",
+        "style_index": 299
+    },
+    "mn_bdM_pack_list": {
+        "name": "mn_bdM_pack_list",
+        "message": "C'était l'année 905 après\r\nJ.C.",
+        "attribute": "0400000098040000",
+        "style_index": 361
+    },
+    "mn_bdM_header_turn": {
+        "name": "mn_bdM_header_turn",
+        "message": "Janvier",
+        "attribute": "040000009A040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_bonus": {
+        "name": "mn_bdM_header_bonus",
+        "message": "\"Étoile de la\r\nVictoire\".",
+        "attribute": "040000009C040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_inst": {
+        "name": "mn_bdM_header_inst",
+        "message": "Cette personne est ici.",
+        "attribute": "040000009E040000",
+        "style_index": 293
+    },
+    "mn_bdM_header_pack": {
+        "name": "mn_bdM_header_pack",
+        "message": "un peu",
+        "attribute": "04000000A0040000",
+        "style_index": 293
+    },
+    "mn_bdM_check_pack": {
+        "name": "mn_bdM_check_pack",
+        "message": "Entrez [0] dans le champ.",
+        "attribute": "04000000A2040000",
+        "style_index": 469
+    },
+    "mn_bdM_saveData_guest": {
+        "name": "mn_bdM_saveData_guest",
+        "message": "Enfant",
+        "attribute": "04000000A4040000",
+        "style_index": 4294967295
+    },
+    "mn_bdM_ctrl_good": {
+        "name": "mn_bdM_ctrl_good",
+        "message": "Nous devons en discuter.",
+        "attribute": "04000000A6040000",
+        "style_index": 529
+    },
+    "mn_bdM_matchRule_title": {
+        "name": "mn_bdM_matchRule_title",
+        "message": "Pour moi, l'amour est de la\r\nhaine.",
+        "attribute": "04000000A8040000",
+        "style_index": 595
+    },
+    "mn_bdM_matchRule_turn_title": {
+        "name": "mn_bdM_matchRule_turn_title",
+        "message": "Les chiffres sont corrects.",
+        "attribute": "04000000AA040000",
+        "style_index": 596
+    },
+    "mn_bdM_matchRule_bonus_title": {
+        "name": "mn_bdM_matchRule_bonus_title",
+        "message": "Vis chaque jour.",
+        "attribute": "04000000AC040000",
+        "style_index": 597
+    },
+    "mn_bdM_matchRule_turn": {
+        "name": "mn_bdM_matchRule_turn",
+        "message": "[0] Réparer la voiture.",
+        "attribute": "04000000AE040000",
+        "style_index": 598
+    },
+    "mn_bdM_matchRule_bonus00": {
+        "name": "mn_bdM_matchRule_bonus00",
+        "message": "Attends un peu.",
+        "attribute": "04000000B0040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_bonus01": {
+        "name": "mn_bdM_matchRule_bonus01",
+        "message": "C'est un phénomène très\r\ncourant.",
+        "attribute": "04000000B2040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_bonus02": {
+        "name": "mn_bdM_matchRule_bonus02",
+        "message": "tu es",
+        "attribute": "04000000B4040000",
+        "style_index": 599
+    },
+    "mn_bdM_matchRule_reco": {
+        "name": "mn_bdM_matchRule_reco",
+        "message": "lisse",
+        "attribute": "04000000B6040000",
+        "style_index": 600
+    },
+    "mn_bdM_match_ctrl_card": {
+        "name": "mn_bdM_match_ctrl_card",
+        "message": "Le prix est des cartes-cadeaux.",
+        "attribute": "04000000B8040000",
+        "style_index": 578
+    },
+    "mn_bdM_match_ctrl_mg": {
+        "name": "mn_bdM_match_ctrl_mg",
+        "message": "Retour à la partie 1.",
+        "attribute": "04000000BA040000",
+        "style_index": 578
+    },
+    "mn_bdM_match_mg_name": {
+        "name": "mn_bdM_match_mg_name",
+        "message": "Considérer:",
+        "attribute": "04000000BC040000",
+        "style_index": 579
+    },
+    "mn_bdM_match_rule_map": {
+        "name": "mn_bdM_match_rule_map",
+        "message": "[0] Non.",
+        "attribute": "04000000BE040000",
+        "style_index": 580
+    },
+    "mn_bdM_match_rule_turn": {
+        "name": "mn_bdM_match_rule_turn",
+        "message": "[0] Noé.",
+        "attribute": "04000000C0040000",
+        "style_index": 581
+    },
+    "mn_bdM_match_rule_bonus00": {
+        "name": "mn_bdM_match_rule_bonus00",
+        "message": "aide financière;",
+        "attribute": "04000000C2040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_rule_bonus01": {
+        "name": "mn_bdM_match_rule_bonus01",
+        "message": "« Oui », dit Terry.",
+        "attribute": "04000000C4040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_rule_bonus02": {
+        "name": "mn_bdM_match_rule_bonus02",
+        "message": "Contact : Administrateur",
+        "attribute": "04000000C6040000",
+        "style_index": 582
+    },
+    "mn_bdM_match_title_wait": {
+        "name": "mn_bdM_match_title_wait",
+        "message": "J'aime aussi d'autres\r\nartistes.",
+        "attribute": "04000000C8040000",
+        "style_index": 583
+    },
+    "mn_bdM_match_title_start": {
+        "name": "mn_bdM_match_title_start",
+        "message": "Commençons à jouer !",
+        "attribute": "04000000CA040000",
+        "style_index": 584
+    },
+    "mn_bdM_match_card_name": {
+        "name": "mn_bdM_match_card_name",
+        "message": "8, 8, 8. Merci.",
+        "attribute": "04000000CC040000",
+        "style_index": 585
+    },
+    "mn_bdM_match_card_level": {
+        "name": "mn_bdM_match_card_level",
+        "message": "Sélectionnez [0].",
+        "attribute": "04000000CE040000",
+        "style_index": 586
+    },
+    "mn_bdM_match_card_achieve": {
+        "name": "mn_bdM_match_card_achieve",
+        "message": "02.02 Bain, Connecticut.",
+        "attribute": "04000000D0040000",
+        "style_index": 587
+    },
+    "mn_bdM_match_card_wins": {
+        "name": "mn_bdM_match_card_wins",
+        "message": "Confirmé:",
+        "attribute": "04000000D2040000",
+        "style_index": 588
+    },
+    "mn_bdM_match_card_rankTitle": {
+        "name": "mn_bdM_match_card_rankTitle",
+        "message": "Ils ont:",
+        "attribute": "04000000D4040000",
+        "style_index": 589
+    },
+    "mn_bdM_match_card_rank": {
+        "name": "mn_bdM_match_card_rank",
+        "message": "[0] Comme mentionné ci-dessus.",
+        "attribute": "04000000D6040000",
+        "style_index": 590
+    },
+    "mn_bdM_match_card_coin": {
+        "name": "mn_bdM_match_card_coin",
+        "message": "[0] - Vrai.",
+        "attribute": "04000000D8040000",
+        "style_index": 591
+    },
+    "mn_bdM_match_card_coinTitle": {
+        "name": "mn_bdM_match_card_coinTitle",
+        "message": "Travail.",
+        "attribute": "04000000DA040000",
+        "style_index": 592
+    },
+    "mn_bdM_match_sports_vs": {
+        "name": "mn_bdM_match_sports_vs",
+        "message": "Avant la guerre.",
+        "attribute": "04000000DC040000",
+        "style_index": 604
+    },
+    "mn_bdM_match_sports_name": {
+        "name": "mn_bdM_match_sports_name",
+        "message": "Tu es de retour.",
+        "attribute": "04000000DE040000",
+        "style_index": 605
+    },
+    "mn_bdM_match_sports_CPU": {
+        "name": "mn_bdM_match_sports_CPU",
+        "message": "Avantages",
+        "attribute": "04000000E0040000",
+        "style_index": 606
+    },
+    "mn_bdM_mw_intro_first00": {
+        "name": "mn_bdM_mw_intro_first00",
+        "message": "Une nouvelle ère du voyage a\r\ncommencé !",
+        "attribute": "0401000FE2040000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introA": {
+        "name": "mn_bdM_mw_introA",
+        "message": "Alors... relisez-le.",
+        "attribute": "0401000FFA040000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introB": {
+        "name": "mn_bdM_mw_introB",
+        "message": "Je suis tellement heureux d’être\r\nici. (A) J’ai hâte de commencer.",
+        "attribute": "0401000F18050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_introC": {
+        "name": "mn_bdM_mw_introC",
+        "message": "Ravi de vous rencontrer!",
+        "attribute": "0401000F36050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_intro_save": {
+        "name": "mn_bdM_mw_intro_save",
+        "message": "Retour à la partie en cours.\r\nVoulez-vous commencer une\r\nnouvelle partie ?",
+        "attribute": "0401000F54050000",
+        "style_index": 6
+    },
+    "mn_bdM_intro_save_a0": {
+        "name": "mn_bdM_intro_save_a0",
+        "message": "génial",
+        "attribute": "0400000068050000",
+        "style_index": 9
+    },
+    "mn_bdM_intro_save_a1": {
+        "name": "mn_bdM_intro_save_a1",
+        "message": "succès.",
+        "attribute": "040000006A050000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_save_select": {
+        "name": "mn_bdM_mw_save_select",
+        "message": "Ce livre est un guide.",
+        "attribute": "0401000F6C050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_save_check": {
+        "name": "mn_bdM_mw_save_check",
+        "message": "Vous voulez en savoir plus ?",
+        "attribute": "0401000F86050000",
+        "style_index": 6
+    },
+    "mn_bdM_save_check_a0": {
+        "name": "mn_bdM_save_check_a0",
+        "message": "Poésie",
+        "attribute": "04000000A0050000",
+        "style_index": 9
+    },
+    "mn_bdM_save_check_a1": {
+        "name": "mn_bdM_save_check_a1",
+        "message": "NON",
+        "attribute": "04000000A2050000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_save_guest": {
+        "name": "mn_bdM_mw_save_guest",
+        "message": "Appuyez sur le bouton pour\r\nsélectionner [0].",
+        "attribute": "0401000FA4050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_save_replaced": {
+        "name": "mn_bdM_mw_save_replaced",
+        "message": "Le troisième jour, le canon a été\r\nremplacé par un ordinateur.",
+        "attribute": "0401000FB8050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_override_select": {
+        "name": "mn_bdM_mw_override_select",
+        "message": "La vidéo a été entièrement\r\nenregistrée. Sélectionnez la page\r\nà imprimer.",
+        "attribute": "0401000FDC050000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_override_check": {
+        "name": "mn_bdM_mw_override_check",
+        "message": "Pouvez-vous expliquer comment\r\ncela fonctionne ?",
+        "attribute": "0401000FF6050000",
+        "style_index": 6
+    },
+    "mn_bdM_override_check_a0": {
+        "name": "mn_bdM_override_check_a0",
+        "message": "Es-tu vieux ?",
+        "attribute": "0400000014060000",
+        "style_index": 9
+    },
+    "mn_bdM_override_check_a1": {
+        "name": "mn_bdM_override_check_a1",
+        "message": "Non",
+        "attribute": "0400000016060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_chara_select": {
+        "name": "mn_bdM_mw_chara_select",
+        "message": "Comment ça marche ?",
+        "attribute": "0401000F18060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_com_select": {
+        "name": "mn_bdM_mw_com_select",
+        "message": "J'aimerais jouer quatre\r\ncartes. [0] [1:1]:\r\n70-61-63-65-73-65-73-00.",
+        "attribute": "0401000F2C060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_chara_check": {
+        "name": "mn_bdM_mw_chara_check",
+        "message": "Et les autres ?",
+        "attribute": "0401000F2E060000",
+        "style_index": 6
+    },
+    "mn_bdM_chara_check_a0": {
+        "name": "mn_bdM_chara_check_a0",
+        "message": "Dans SS.",
+        "attribute": "0400000030060000",
+        "style_index": 9
+    },
+    "mn_bdM_chara_check_a1": {
+        "name": "mn_bdM_chara_check_a1",
+        "message": "C'est la fin.",
+        "attribute": "0400000032060000",
+        "style_index": 9
+    },
+    "mn_bdM_chara_check_a2": {
+        "name": "mn_bdM_chara_check_a2",
+        "message": "Pas d'ordinateur.",
+        "attribute": "0400000034060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_comLevel_select": {
+        "name": "mn_bdM_mw_comLevel_select",
+        "message": "Tenez compte de toutes ces\r\npréoccupations.",
+        "attribute": "0401000F36060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_check": {
+        "name": "mn_bdM_mw_handi_check",
+        "message": "Vous verrez donc une phrase comme\r\ncelle-ci : [0:300-00-00-2017].",
+        "attribute": "0401000F4A060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_check00": {
+        "name": "mn_bdM_mw_handi_check00",
+        "message": "Chaque image commence à 0 [0:3 FF\r\n- FF].",
+        "attribute": "0401000F4C060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_handi_select": {
+        "name": "mn_bdM_mw_handi_select",
+        "message": "0:311-01-2-2] [0:311-1-1-1]\r\n[0:311-1-1-1] [0:311-1-1-1].",
+        "attribute": "0401000F4E060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rule_check": {
+        "name": "mn_bdM_mw_rule_check",
+        "message": "C'est possible.",
+        "attribute": "0401000F68060000",
+        "style_index": 6
+    },
+    "mn_bdM_mw_rule_after": {
+        "name": "mn_bdM_mw_rule_after",
+        "message": "Oui, puis-je aider ?",
+        "attribute": "0401000F86060000",
+        "style_index": 6
+    },
+    "mn_bdM_rule_check_a0": {
+        "name": "mn_bdM_rule_check_a0",
+        "message": "Il reste quelques places.",
+        "attribute": "04000000A4060000",
+        "style_index": 9
+    },
+    "mn_bdM_rule_check_a1": {
+        "name": "mn_bdM_rule_check_a1",
+        "message": "les deux.",
+        "attribute": "04000000A6060000",
+        "style_index": 9
+    },
+    "mn_bdM_rule_check_a2": {
+        "name": "mn_bdM_rule_check_a2",
+        "message": "Bonjour;",
+        "attribute": "04000000A8060000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_map00": {
+        "name": "mn_bdM_mw_map00",
+        "message": "Profitez du goût et de\r\nl'odeur de votre chien.",
+        "attribute": "0401000FAA060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map01": {
+        "name": "mn_bdM_mw_map01",
+        "message": "Nous porterons le chapeau de\r\nBowser aujourd'hui !",
+        "attribute": "0401000FD0060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map02": {
+        "name": "mn_bdM_mw_map02",
+        "message": "Pour éviter de le perdre, suivez\r\nles étapes ci-dessous.",
+        "attribute": "0401000FF6060000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map03": {
+        "name": "mn_bdM_mw_map03",
+        "message": "Les deux îles sont reliées par un\r\npont.",
+        "attribute": "0401000F1C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map04": {
+        "name": "mn_bdM_mw_map04",
+        "message": "Au matin, nos corps seront prêts\r\net disposés.",
+        "attribute": "0401000F42070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_turn_reco": {
+        "name": "mn_bdM_mw_turn_reco",
+        "message": "Nous vous recommandons d’utiliser\r\ncette carte [1].",
+        "attribute": "0401000F68070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail00": {
+        "name": "mn_bdM_mw_bonus_detail00",
+        "message": "[0:311-0C-1D-FF] Cadeau de Noël \r\n[0:311-0C-1D-FF] Vous pouvez\r\nrégler l'heure ! Il\r\nfonctionnera 24 heures sur 24.",
+        "attribute": "0401000F6A070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail01": {
+        "name": "mn_bdM_mw_bonus_detail01",
+        "message": "Bonjour. Réponse : Tu dois me\r\ndire ton nom.",
+        "attribute": "0401000F6C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_bonus_detail02": {
+        "name": "mn_bdM_mw_bonus_detail02",
+        "message": "La montagne prend en fait [0:311\r\n2 minutes. FF-FF-FNU00-FF]\r\nFF-FF-FNU00-FF].",
+        "attribute": "0401000F6E070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_inst_detail": {
+        "name": "mn_bdM_mw_inst_detail",
+        "message": "Veuillez lire ces instructions\r\navant de commencer à jouer.",
+        "attribute": "0401000F70070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_inst_detai00": {
+        "name": "mn_bdM_mw_inst_detai00",
+        "message": "Je ne connais pas ce jeu.",
+        "attribute": "0401000F72070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_select": {
+        "name": "mn_bdM_mw_pack_select",
+        "message": "Dommage ! Tout a son exemple.",
+        "attribute": "0401000F74070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details00": {
+        "name": "mn_bdM_mw_pack_details00",
+        "message": "Cet ensemble a tout pour plaire !",
+        "attribute": "0401000F88070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details01": {
+        "name": "mn_bdM_mw_pack_details01",
+        "message": "L'église propose de\r\nnombreuses activités ludiques\r\npour toute la famille, pour les\r\nenfants comme pour les adultes.",
+        "attribute": "0401000F8A070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details02": {
+        "name": "mn_bdM_mw_pack_details02",
+        "message": "J'espère que vous aimerez\r\ncette petite recette que j'ai\r\npréparée spécialement pour vous.",
+        "attribute": "0401000F8C070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details03": {
+        "name": "mn_bdM_mw_pack_details03",
+        "message": "Vous trouverez ci-dessous une\r\nliste des jeux sortis sur la\r\nNintendo 64.",
+        "attribute": "0401000F8E070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details04": {
+        "name": "mn_bdM_mw_pack_details04",
+        "message": "Le jeu est basé sur la console\r\nNintendo GameCube.",
+        "attribute": "0401000F90070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_pack_details05": {
+        "name": "mn_bdM_mw_pack_details05",
+        "message": "Envie de tester vos compétences ?\r\nVous trouverez de nombreux jeux\r\ndans cette catégorie.",
+        "attribute": "0401000F92070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_check": {
+        "name": "mn_bdM_mw_check",
+        "message": "J'espère que tout va bien. Tu\r\nsais ce que c'est ?",
+        "attribute": "0401000F94070000",
+        "style_index": 6
+    },
+    "mn_bdM_check_a0": {
+        "name": "mn_bdM_check_a0",
+        "message": "Prenons un exemple.",
+        "attribute": "03000000AC070000",
+        "style_index": 9
+    },
+    "mn_bdM_check_a1": {
+        "name": "mn_bdM_check_a1",
+        "message": "Prêt pour le voyage.",
+        "attribute": "03000000AE070000",
+        "style_index": 9
+    },
+    "mn_bdM_mw_rules00": {
+        "name": "mn_bdM_mw_rules00",
+        "message": "Nous devons gagner cette\r\nbataille.",
+        "attribute": "0401000FB0070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules01": {
+        "name": "mn_bdM_mw_rules01",
+        "message": "La personne avec le plus de\r\npoints à la fin de la ligne gagne\r\n! [0:3 FF-FF-FF-FF]  [0:3\r\n11-0C-1D-FF] La personne avec le\r\nplus de points à la fin de la\r\nligne gagne ! 0:3–0.",
+        "attribute": "0401000FCA070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules02": {
+        "name": "mn_bdM_mw_rules02",
+        "message": "Entrez [0:300-200] et changez la\r\nvaleur de [0:300-200] à\r\n[0:300-200].",
+        "attribute": "0401000FEE070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules03": {
+        "name": "mn_bdM_mw_rules03",
+        "message": "Vous pouvez gagner plus\r\nd'argent dans le jeu et\r\ncollecter plus d'objets.",
+        "attribute": "0401000FF0070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules04": {
+        "name": "mn_bdM_mw_rules04",
+        "message": "Tu peux dire tout ce que tu veux,\r\nmais je ne peux pas utiliser mes\r\njambes en ce moment.",
+        "attribute": "0401000FF2070000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules05": {
+        "name": "mn_bdM_mw_rules05",
+        "message": "Défini [0:3] [0:3]. Pas de\r\nproblème !",
+        "attribute": "0401000F10080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules06": {
+        "name": "mn_bdM_mw_rules06",
+        "message": "Vous verrez une porte de stockage\r\nrouge. Prenez-la ! [0:300-00-P] !",
+        "attribute": "0401000F12080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules07": {
+        "name": "mn_bdM_mw_rules07",
+        "message": "Des experts en échecs se sont\r\nrassemblés dans les rues. Vous\r\nsavez quoi faire.",
+        "attribute": "0401000F14080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_rules08": {
+        "name": "mn_bdM_mw_rules08",
+        "message": "Ce processus commence\r\naujourd’hui.",
+        "attribute": "0401000F16080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_intro_online": {
+        "name": "mn_bdM_mw_intro_online",
+        "message": "C'était la première fois\r\nqu'elle affrontait\r\nd'autres athlètes.",
+        "attribute": "0401000F2A080000",
+        "style_index": 4
+    },
+    "mn_bdM_mw_map_online": {
+        "name": "mn_bdM_mw_map_online",
+        "message": "Sélectionnez l’emplacement où\r\nvous souhaitez écrire.",
+        "attribute": "0401000F48080000",
+        "style_index": 4
+    }
+}

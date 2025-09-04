@@ -1,0 +1,338 @@
+{
+    "im_hsmm01": {
+        "name": "im_hsmm01",
+        "message": "Téléchargez le jeu gratuitement.",
+        "attribute": "04000000C8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm02": {
+        "name": "im_hsmm02",
+        "message": "Il est maintenant en prison.",
+        "attribute": "04000000CA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm03": {
+        "name": "im_hsmm03",
+        "message": "Essais.",
+        "attribute": "04000000CC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm04": {
+        "name": "im_hsmm04",
+        "message": "C'est un combat à deux.",
+        "attribute": "04000000CE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm05": {
+        "name": "im_hsmm05",
+        "message": "Trois questions.",
+        "attribute": "04000000D0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm06": {
+        "name": "im_hsmm06",
+        "message": "S'il y a un tremblement de\r\nterre.",
+        "attribute": "04000000D2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm07": {
+        "name": "im_hsmm07",
+        "message": "Tant de questions.",
+        "attribute": "04000000D4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_01": {
+        "name": "im_hsmm_lv_01",
+        "message": "1 : J'ai vu la rivière.",
+        "attribute": "04000000D6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_02": {
+        "name": "im_hsmm_lv_02",
+        "message": "Une autre option.",
+        "attribute": "04000000D8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_03": {
+        "name": "im_hsmm_lv_03",
+        "message": "La maison dispose de trois\r\nchambres.",
+        "attribute": "04000000DA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_04": {
+        "name": "im_hsmm_lv_04",
+        "message": "Mercredi.",
+        "attribute": "04000000DC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_05": {
+        "name": "im_hsmm_lv_05",
+        "message": "sujet",
+        "attribute": "04000000DE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_lv_06": {
+        "name": "im_hsmm_lv_06",
+        "message": "Se sentir chez soi",
+        "attribute": "04000000E0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype00": {
+        "name": "im_hsmm_mgtype00",
+        "message": "Ce sont tous des petits jeux.",
+        "attribute": "04000000E2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype01": {
+        "name": "im_hsmm_mgtype01",
+        "message": "Oui, ça marche.",
+        "attribute": "04000000E4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype02": {
+        "name": "im_hsmm_mgtype02",
+        "message": "Le travail de Mike.",
+        "attribute": "04000000E6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype03": {
+        "name": "im_hsmm_mgtype03",
+        "message": "Les cours ne sont plus ce qu’ils\r\nétaient.",
+        "attribute": "04000000E8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype04": {
+        "name": "im_hsmm_mgtype04",
+        "message": "La couleur est très foncée.",
+        "attribute": "04000000EA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype05": {
+        "name": "im_hsmm_mgtype05",
+        "message": "Certaines personnes n'y\r\ncroient pas.",
+        "attribute": "04000000EC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype06": {
+        "name": "im_hsmm_mgtype06",
+        "message": "Il peut revenir à nouveau.",
+        "attribute": "04000000EE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype07": {
+        "name": "im_hsmm_mgtype07",
+        "message": "Le jeu est terminé.",
+        "attribute": "04000000F0010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype10": {
+        "name": "im_hsmm_mgtype10",
+        "message": "Ils viennent de partout.",
+        "attribute": "04000000F2010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype11": {
+        "name": "im_hsmm_mgtype11",
+        "message": "Il peut être mélangé avec de\r\nl'eau.",
+        "attribute": "04000000F4010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype12": {
+        "name": "im_hsmm_mgtype12",
+        "message": "Tout dépend des résultats.",
+        "attribute": "04000000F6010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgtype99": {
+        "name": "im_hsmm_mgtype99",
+        "message": "Comment vous protégez-vous ?",
+        "attribute": "04000000F8010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk00": {
+        "name": "im_hsmm_mgpk00",
+        "message": "Dieu merci, j'ai gagné.",
+        "attribute": "04000000FA010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk01": {
+        "name": "im_hsmm_mgpk01",
+        "message": "Dieu est dans votre vie.",
+        "attribute": "04000000FC010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk02": {
+        "name": "im_hsmm_mgpk02",
+        "message": "Je vais.",
+        "attribute": "04000000FE010000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk03": {
+        "name": "im_hsmm_mgpk03",
+        "message": "C'était un couple très\r\naimant.",
+        "attribute": "0400000000020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk04": {
+        "name": "im_hsmm_mgpk04",
+        "message": "Je pense à toi.",
+        "attribute": "0400000002020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk05": {
+        "name": "im_hsmm_mgpk05",
+        "message": "Comme tout le reste dans la vie.",
+        "attribute": "0400000004020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk07": {
+        "name": "im_hsmm_mgpk07",
+        "message": "S'il vous plaît donnez-moi un\r\nprix.",
+        "attribute": "0400000006020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk08": {
+        "name": "im_hsmm_mgpk08",
+        "message": "Nous travaillons actuellement sur\r\nce sujet.",
+        "attribute": "0400000008020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk10": {
+        "name": "im_hsmm_mgpk10",
+        "message": "Je le ferai.",
+        "attribute": "040000000A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk11": {
+        "name": "im_hsmm_mgpk11",
+        "message": "J'ai eu du mal à sortir de la\r\nvoiture.",
+        "attribute": "040000000C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk12": {
+        "name": "im_hsmm_mgpk12",
+        "message": "Il ne savait rien de l’alcool.",
+        "attribute": "040000000E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk13": {
+        "name": "im_hsmm_mgpk13",
+        "message": "Il suffit de le secouer.",
+        "attribute": "0400000010020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk14": {
+        "name": "im_hsmm_mgpk14",
+        "message": "C'est un bon jeu.",
+        "attribute": "0400000012020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk16": {
+        "name": "im_hsmm_mgpk16",
+        "message": "J'attends votre réponse avec\r\nimpatience.",
+        "attribute": "0400000014020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk17": {
+        "name": "im_hsmm_mgpk17",
+        "message": "Ses ennemis étaient terrifiés.",
+        "attribute": "0400000016020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk20": {
+        "name": "im_hsmm_mgpk20",
+        "message": "Bien",
+        "attribute": "0400000018020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk21": {
+        "name": "im_hsmm_mgpk21",
+        "message": "Il est décédé à cause d'une\r\nmaladie.",
+        "attribute": "040000001A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk22": {
+        "name": "im_hsmm_mgpk22",
+        "message": "Ils tuent tout.",
+        "attribute": "040000001C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk23": {
+        "name": "im_hsmm_mgpk23",
+        "message": "Bonjour.",
+        "attribute": "040000001E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk24": {
+        "name": "im_hsmm_mgpk24",
+        "message": "La sécurité avant tout.",
+        "attribute": "0400000020020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_mgpk25": {
+        "name": "im_hsmm_mgpk25",
+        "message": "C'est la première étape.",
+        "attribute": "0400000022020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank00": {
+        "name": "im_hsmm_rank00",
+        "message": "Oui",
+        "attribute": "0400000024020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank01": {
+        "name": "im_hsmm_rank01",
+        "message": "Qui sont ces gens ?",
+        "attribute": "0400000026020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank02": {
+        "name": "im_hsmm_rank02",
+        "message": "Les briques sont en bois.",
+        "attribute": "0400000028020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank03": {
+        "name": "im_hsmm_rank03",
+        "message": "Il est temps d'étudier.",
+        "attribute": "040000002A020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank10": {
+        "name": "im_hsmm_rank10",
+        "message": "Que veux-tu?",
+        "attribute": "040000002C020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank11": {
+        "name": "im_hsmm_rank11",
+        "message": "Tout le monde en parle.",
+        "attribute": "040000002E020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank12": {
+        "name": "im_hsmm_rank12",
+        "message": "frère",
+        "attribute": "0400000030020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank13": {
+        "name": "im_hsmm_rank13",
+        "message": "et d'autres.",
+        "attribute": "0400000032020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank14": {
+        "name": "im_hsmm_rank14",
+        "message": "notre;",
+        "attribute": "0400000034020000",
+        "style_index": 4294967295
+    },
+    "im_hsmm_rank99": {
+        "name": "im_hsmm_rank99",
+        "message": "...",
+        "attribute": "0400000036020000",
+        "style_index": 4294967295
+    }
+}

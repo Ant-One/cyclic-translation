@@ -1,0 +1,68 @@
+{
+    "mn_OP_mw_opening00": {
+        "name": "mn_OP_mw_opening00",
+        "message": "Que se passe-t-il ici ?",
+        "attribute": "0400000060000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening01": {
+        "name": "mn_OP_mw_opening01",
+        "message": "Tout commence par la raison.",
+        "attribute": "0400000062000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening02": {
+        "name": "mn_OP_mw_opening02",
+        "message": "Et si j'oublie tout ? Super,\r\nce n'est pas facile.",
+        "attribute": "0400000064000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening03": {
+        "name": "mn_OP_mw_opening03",
+        "message": "Retirer de l'eau et rincer.",
+        "attribute": "0400000066000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening04": {
+        "name": "mn_OP_mw_opening04",
+        "message": "S'il veut revenir.",
+        "attribute": "0400000F68000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening05": {
+        "name": "mn_OP_mw_opening05",
+        "message": "Où étais-tu depuis si longtemps\r\nsans le voir ?",
+        "attribute": "0400000F86000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening06": {
+        "name": "mn_OP_mw_opening06",
+        "message": "Après un moment... j'ai\r\ncommencé à me parler à moi-même,\r\nCuba.",
+        "attribute": "04000000AA000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening07": {
+        "name": "mn_OP_mw_opening07",
+        "message": "Merci d'avoir regardé.",
+        "attribute": "0400000FAC000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening08": {
+        "name": "mn_OP_mw_opening08",
+        "message": "C'est ainsi que sont faites\r\nles étoiles.",
+        "attribute": "0400000FD0000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening09": {
+        "name": "mn_OP_mw_opening09",
+        "message": "J’ai appris des choses que je ne\r\nsavais pas dans ma vie de tous\r\nles jours.",
+        "attribute": "0400000FEA000000",
+        "style_index": 429
+    },
+    "mn_OP_mw_opening10": {
+        "name": "mn_OP_mw_opening10",
+        "message": "Ne perdez pas votre temps. Riche\r\nou pauvre, rejoignez-nous pour\r\nexplorer le monde de Mario Party.",
+        "attribute": "0400000FFE000000",
+        "style_index": 429
+    }
+}

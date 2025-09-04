@@ -1,0 +1,80 @@
+{
+    "hsmg900_tlp_gotItem": {
+        "name": "hsmg900_tlp_gotItem",
+        "message": "déchets!",
+        "attribute": "0400000070000000",
+        "style_index": 181
+    },
+    "hsmg900_tlp_miss": {
+        "name": "hsmg900_tlp_miss",
+        "message": "Jouer",
+        "attribute": "0400000072000000",
+        "style_index": 180
+    },
+    "hsmg901_tlp_smallRule": {
+        "name": "hsmg901_tlp_smallRule",
+        "message": "devenir!",
+        "attribute": "0400000074000000",
+        "style_index": 183
+    },
+    "hsmg902_tlp_smallRule": {
+        "name": "hsmg902_tlp_smallRule",
+        "message": "Tout va bien !",
+        "attribute": "0400000076000000",
+        "style_index": 183
+    },
+    "hsmg903_tlp_smallRule": {
+        "name": "hsmg903_tlp_smallRule",
+        "message": "C'est lui le gagnant !",
+        "attribute": "0400000078000000",
+        "style_index": 183
+    },
+    "hsmg904_tlp_smallRule": {
+        "name": "hsmg904_tlp_smallRule",
+        "message": "C'est ça!",
+        "attribute": "040000007A000000",
+        "style_index": 183
+    },
+    "hsmg905_tlp_smallRule00": {
+        "name": "hsmg905_tlp_smallRule00",
+        "message": "rocher!",
+        "attribute": "040000007C000000",
+        "style_index": 183
+    },
+    "hsmg905_tlp_smallRule02": {
+        "name": "hsmg905_tlp_smallRule02",
+        "message": "Enfin, allez-y.",
+        "attribute": "040000007E000000",
+        "style_index": 183
+    },
+    "hsmg901_pop_ctrl02": {
+        "name": "hsmg901_pop_ctrl02",
+        "message": "Laitue, laitue (pareil).",
+        "attribute": "0800000080000000",
+        "style_index": 11
+    },
+    "hsmg902_pop_ctrl00": {
+        "name": "hsmg902_pop_ctrl00",
+        "message": "d'accord",
+        "attribute": "0800000082000000",
+        "style_index": 11
+    },
+    "hsmg903_pop_ctrl00": {
+        "name": "hsmg903_pop_ctrl00",
+        "message": "Prenez vos médicaments.",
+        "attribute": "0800000084000000",
+        "style_index": 11
+    },
+    "hsmg904_pop_ctrl00": {
+        "name": "hsmg904_pop_ctrl00",
+        "message": "Travailler à domicile.",
+        "attribute": "0800000086000000",
+        "style_index": 11
+    },
+    "hsmg905_pop_ctrl02": {
+        "name": "hsmg905_pop_ctrl02",
+        "message": "Il est mort d'une crise\r\ncardiaque.",
+        "attribute": "0800000088000000",
+        "style_index": 11
+    }
+}

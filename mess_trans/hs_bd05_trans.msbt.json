@@ -1,0 +1,434 @@
+{
+    "bd05_OP_mw_past00": {
+        "name": "bd05_OP_mw_past00",
+        "message": "Ce n’est pas facile de venir dans\r\nce pays.",
+        "attribute": "0401000F48020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_past01": {
+        "name": "bd05_OP_mw_past01",
+        "message": "Mais il faisait sombre parce\r\nqu’il n’y avait pas d’étoiles.",
+        "attribute": "0401000F4A020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose00": {
+        "name": "bd05_OP_mw_purpose00",
+        "message": "Satan est toujours vivant et\r\ngouverne le monde.",
+        "attribute": "0401000F4C020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose01": {
+        "name": "bd05_OP_mw_purpose01",
+        "message": "Tara n'y croit pas.",
+        "attribute": "0401000F6A020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose02": {
+        "name": "bd05_OP_mw_purpose02",
+        "message": "Où puis-je le trouver ?",
+        "attribute": "0401000F84020000",
+        "style_index": 4
+    },
+    "bd05_OP_mw_purpose03": {
+        "name": "bd05_OP_mw_purpose03",
+        "message": "Je sais dessiner. Ne\r\nt'inquiète pas, reste à la\r\nmaison et prends soin de toi.",
+        "attribute": "0401000F98020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination00": {
+        "name": "bd05_p01_mw_explaination00",
+        "message": "Le jour se transforme en nuit, et\r\nla nuit est tout.",
+        "attribute": "04040001BC020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination01": {
+        "name": "bd05_p01_mw_explaination01",
+        "message": "Ils m’ont appelé, mais je dois\r\ndormir, alors… [0:300–00–00 -\r\nFF].",
+        "attribute": "04040001D6020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination02": {
+        "name": "bd05_p01_mw_explaination02",
+        "message": "Il est temps de gagner des prix\r\net de trouver des trésors cachés\r\n!",
+        "attribute": "04040001EE020000",
+        "style_index": 4
+    },
+    "bd05_p01_mw_explaination03": {
+        "name": "bd05_p01_mw_explaination03",
+        "message": "J'adore cet endroit.",
+        "attribute": "0401001908030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC051_00": {
+        "name": "bd05_p02_mw_lastSpNPC051_00",
+        "message": "Je sais... S'il te plaît ! Je\r\nne sais juste pas !",
+        "attribute": "0401002222030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC051_01": {
+        "name": "bd05_p02_mw_lastSpNPC051_01",
+        "message": "Cet homme est très intelligent.\r\n[0:3 35-02-00-00-y [0:3\r\n00-00-00-00-00-00-00-00-y [0:3\r\n00-00-00-00-00].",
+        "attribute": "040100223C030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC032_00": {
+        "name": "bd05_p02_mw_lastSpNPC032_00",
+        "message": "Je te le promets, je vais gagner\r\n! [0:3] C'est génial !",
+        "attribute": "0401001E56030000",
+        "style_index": 4
+    },
+    "bd05_p02_mw_lastSpNPC032_01": {
+        "name": "bd05_p02_mw_lastSpNPC032_01",
+        "message": "Feu, [0:300-1D-2] ! Bienvenue.",
+        "attribute": "0401001E74030000",
+        "style_index": 4
+    },
+    "bd05_gmk02_mw_dayToNight00": {
+        "name": "bd05_gmk02_mw_dayToNight00",
+        "message": "Le temps est venu.",
+        "attribute": "0404001998030000",
+        "style_index": 4
+    },
+    "bd05_gmk02_mw_NightToDay00": {
+        "name": "bd05_gmk02_mw_NightToDay00",
+        "message": "On dirait que non. C'est un\r\ngros problème.",
+        "attribute": "04040019B2030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_night00": {
+        "name": "bd05_gmk03_mw_night00",
+        "message": "Il est en colère, mais sa voix\r\nest calme et posée.",
+        "attribute": "04040000CC030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_noCoin00": {
+        "name": "bd05_gmk03_mw_noCoin00",
+        "message": "Mais c'est bon marché et sûr.",
+        "attribute": "04040022CE030000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_daytime00": {
+        "name": "bd05_gmk03_mw_daytime00",
+        "message": "Bienvenue dans cette belle\r\nmaison. Pourriez-vous fermer la\r\nporte ? 12 h 3",
+        "attribute": "04040022EC030000",
+        "style_index": 6
+    },
+    "bd05_gmk03_mw_daytime00_a0": {
+        "name": "bd05_gmk03_mw_daytime00_a0",
+        "message": "5 [0:3 20-11-20]- Dimanche\r\n[0:3-00-00].",
+        "attribute": "0400000004040000",
+        "style_index": 9
+    },
+    "bd05_gmk03_mw_daytime00_a1": {
+        "name": "bd05_gmk03_mw_daytime00_a1",
+        "message": "Heureusement, il n'y a eu\r\naucun problème.",
+        "attribute": "0400000006040000",
+        "style_index": 9
+    },
+    "bd05_gmk03_mw_ask00": {
+        "name": "bd05_gmk03_mw_ask00",
+        "message": "C'est la bonne voie.",
+        "attribute": "0404002208040000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_ask01": {
+        "name": "bd05_gmk03_mw_ask01",
+        "message": "Les gens changent.",
+        "attribute": "040400222C040000",
+        "style_index": 4
+    },
+    "bd05_gmk03_mw_noAsk00": {
+        "name": "bd05_gmk03_mw_noAsk00",
+        "message": "D'accord ? Si vous changez\r\nvos choix, ils changeront.",
+        "attribute": "0404002246040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_daytime00": {
+        "name": "bd05_gmk04_mw_daytime00",
+        "message": "Vous trouverez ci-dessous un bref\r\naperçu de son travail actuel.",
+        "attribute": "0404000064040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_noCoin00": {
+        "name": "bd05_gmk04_mw_noCoin00",
+        "message": "es-tu prêt ? Connaissez-vous la\r\ndate ? Plus que quelques jours !",
+        "attribute": "0404001B66040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_night00": {
+        "name": "bd05_gmk04_mw_night00",
+        "message": "// 2.",
+        "attribute": "0404001B7E040000",
+        "style_index": 6
+    },
+    "bd05_gmk04_mw_night00_a0": {
+        "name": "bd05_gmk04_mw_night00_a0",
+        "message": "Jouons!",
+        "attribute": "0400001B96040000",
+        "style_index": 9
+    },
+    "bd05_gmk04_mw_night00_a1": {
+        "name": "bd05_gmk04_mw_night00_a1",
+        "message": "Non merci.",
+        "attribute": "0400001B98040000",
+        "style_index": 9
+    },
+    "bd05_gmk04_mw_join00": {
+        "name": "bd05_gmk04_mw_join00",
+        "message": "J'aurais voulu demander, mais\r\nje n'ai pas pu.",
+        "attribute": "0404001B9A040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_join01": {
+        "name": "bd05_gmk04_mw_join01",
+        "message": "Alors… le mariage ? Oui, vos\r\nfinances fluctueront.",
+        "attribute": "0404001BAE040000",
+        "style_index": 4
+    },
+    "bd05_gmk04_mw_noJoin00": {
+        "name": "bd05_gmk04_mw_noJoin00",
+        "message": "Je suis tellement inquiète ! Je\r\nsuis tellement inquiète !",
+        "attribute": "0404001BCC040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_noCoin00": {
+        "name": "bd05_gmk05_mw_noCoin00",
+        "message": "Il a dit qu'il apporterait\r\nl'argent.",
+        "attribute": "04040000E0040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_eye00": {
+        "name": "bd05_gmk05_mw_eye00",
+        "message": "« Si tu me donnes l’argent », dit\r\nMickey, « je te le rendrai. »",
+        "attribute": "04040000E2040000",
+        "style_index": 6
+    },
+    "bd05_gmk05_mw_eye01": {
+        "name": "bd05_gmk05_mw_eye01",
+        "message": "Les yeux peuvent entendre les\r\nvoix. « Tu aimes le cinéma ? » me\r\nsuis-je demandé.",
+        "attribute": "04040000E4040000",
+        "style_index": 6
+    },
+    "bd05_gmk05_mw_eye00_a0": {
+        "name": "bd05_gmk05_mw_eye00_a0",
+        "message": "- Jésus-Christ [0:3]",
+        "attribute": "04000000E6040000",
+        "style_index": 9
+    },
+    "bd05_gmk05_mw_eye00_a1": {
+        "name": "bd05_gmk05_mw_eye00_a1",
+        "message": "Bonjour.",
+        "attribute": "04000000E8040000",
+        "style_index": 9
+    },
+    "bd05_gmk05_mw_ask00": {
+        "name": "bd05_gmk05_mw_ask00",
+        "message": "« Oui ! » dit-il, l’espoir dans\r\nles yeux.",
+        "attribute": "04040000EA040000",
+        "style_index": 4
+    },
+    "bd05_gmk05_mw_noAsk00": {
+        "name": "bd05_gmk05_mw_noAsk00",
+        "message": "Je suis content que tu sois là. «\r\nOh… quoi ? »",
+        "attribute": "04040000EC040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_night00": {
+        "name": "bd05_gmk06_mw_night00",
+        "message": "[0:3 2/35] Maintenant. [0:3\r\nFF-FF-FF-FF-FF] Ne sors pas la\r\nnuit. [0:3​] Et mange du pain.",
+        "attribute": "04040000EE040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_noCoin00": {
+        "name": "bd05_gmk06_mw_noCoin00",
+        "message": "[0:3 DP] Je ne sais pas. [0:3\r\n2/35] J’avais raison. (Début à\r\n0:3).",
+        "attribute": "04040001F0040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_wal00": {
+        "name": "bd05_gmk06_mw_wal00",
+        "message": "[0:3 ff-ff-ff-ff-ff-ff] Où\r\npuis-je obtenir cela ?",
+        "attribute": "04040001F2040000",
+        "style_index": 6
+    },
+    "bd05_gmk06_mw_wal00_a0": {
+        "name": "bd05_gmk06_mw_wal00_a0",
+        "message": "[0:3 11-0C-1D-FF] 5 [0:3\r\n11-0C-1D-FF] - Jao. [0:3\r\n00-00-00-0] ;",
+        "attribute": "04000001F4040000",
+        "style_index": 9
+    },
+    "bd05_gmk06_mw_wal00_a1": {
+        "name": "bd05_gmk06_mw_wal00_a1",
+        "message": "Non merci.",
+        "attribute": "04000001F6040000",
+        "style_index": 9
+    },
+    "bd05_gmk06_mw_noAsk00": {
+        "name": "bd05_gmk06_mw_noAsk00",
+        "message": "« Oui, c'est un vrai animal.\r\n» J'avais peur de lui.",
+        "attribute": "04040001F8040000",
+        "style_index": 4
+    },
+    "bd05_gmk06_mw_ask00": {
+        "name": "bd05_gmk06_mw_ask00",
+        "message": "Fin de Néron [0:3]. [10:300-000].",
+        "attribute": "04040001FA040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_daytime00": {
+        "name": "bd05_gmk07_mw_daytime00",
+        "message": "Le sol est mou.",
+        "attribute": "04040000FC040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_king00": {
+        "name": "bd05_gmk07_mw_king00",
+        "message": "Oh ! Comment le sais-tu ? [0:3\r\nFF] Ne t'en fais pas. [0:3\r\nFF-FF-FF] [0:3 FF-FF-FF].\r\n[Lévitique 0:3",
+        "attribute": "0404001EFE040000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_firstKing00": {
+        "name": "bd05_gmk07_mw_firstKing00",
+        "message": "Je détruirai toutes les étoiles\r\nmaléfiques.",
+        "attribute": "0404001E16050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_firstKing01": {
+        "name": "bd05_gmk07_mw_firstKing01",
+        "message": "Si vous le voulez, c'est\r\ngratuit. Qu'en pensez-vous ?",
+        "attribute": "0404001E30050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_king01": {
+        "name": "bd05_gmk07_mw_king01",
+        "message": "Qu'est-ce qui compte le plus\r\npour vous ? Une médaille d'or\r\nou une récompense ? À vous de\r\nchoisir.",
+        "attribute": "0404001E4A050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_king00_a0": {
+        "name": "bd05_gmk07_mw_king00_a0",
+        "message": "2.2",
+        "attribute": "040000004C050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_king00_a1": {
+        "name": "bd05_gmk07_mw_king00_a1",
+        "message": "150 [0:311-0c-1d- difficile]",
+        "attribute": "040000004E050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_rob00": {
+        "name": "bd05_gmk07_mw_rob00",
+        "message": "Oh ! Merci beaucoup. Je gagne de\r\nl'argent. Oh !",
+        "attribute": "0404001E50050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_wait00": {
+        "name": "bd05_gmk07_mw_wait00",
+        "message": "Le président finlandais a volé de\r\nl'argent. Que Dieu bénisse\r\nAndrea. Voici Andrew.",
+        "attribute": "040303196E050000",
+        "style_index": 7
+    },
+    "bd05_gmk07_mw_giveCoin00": {
+        "name": "bd05_gmk07_mw_giveCoin00",
+        "message": "Au revoir ! [0] [1:1] Bonjour !\r\nJe n'ai pas besoin de\r\nm'inquiéter !",
+        "attribute": "0404001E8C050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar00": {
+        "name": "bd05_gmk07_mw_giveStar00",
+        "message": "[0:3] La galaxie est belle...\r\nff-ff-ff",
+        "attribute": "0404001EA0050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar01": {
+        "name": "bd05_gmk07_mw_giveStar01",
+        "message": "Oui... oui... oui. Faites\r\nconfiance à tout le monde.",
+        "attribute": "0404001EBA050000",
+        "style_index": 4
+    },
+    "bd05_gmk07_mw_giveStar02": {
+        "name": "bd05_gmk07_mw_giveStar02",
+        "message": "Princesse arc-en-ciel, 150 $, le\r\nreferiez-vous ?",
+        "attribute": "0404001EBC050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_giveStar02p": {
+        "name": "bd05_gmk07_mw_giveStar02p",
+        "message": "Vous ne lui avez donné que 2\r\nétoiles sur 150 ?",
+        "attribute": "0404001EDA050000",
+        "style_index": 6
+    },
+    "bd05_gmk07_mw_giveStar02_a0": {
+        "name": "bd05_gmk07_mw_giveStar02_a0",
+        "message": "Lumière",
+        "attribute": "04000000F8050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_giveStar02_a1": {
+        "name": "bd05_gmk07_mw_giveStar02_a1",
+        "message": "bifurquer",
+        "attribute": "04000000FA050000",
+        "style_index": 9
+    },
+    "bd05_gmk07_mw_notRob00": {
+        "name": "bd05_gmk07_mw_notRob00",
+        "message": "Mais aucun argent n’a été volé et\r\nnous étions tous en sécurité !",
+        "attribute": "0404001EFC050000",
+        "style_index": 4
+    },
+    "bd05_s06_mw_night00": {
+        "name": "bd05_s06_mw_night00",
+        "message": "Il en va de même aujourd’hui.",
+        "attribute": "0404000010060000",
+        "style_index": 4
+    },
+    "bd05_s06_mw_daytime00": {
+        "name": "bd05_s06_mw_daytime00",
+        "message": "Je veux être ici.",
+        "attribute": "0404000012060000",
+        "style_index": 4
+    },
+    "bd05_map_gmk02_spot_details": {
+        "name": "bd05_map_gmk02_spot_details",
+        "message": "Vous pouvez marcher du matin au\r\nsoir.",
+        "attribute": "0400000014060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk03_spot_details": {
+        "name": "bd05_map_gmk03_spot_details",
+        "message": "Tout s'est passé en une nuit.",
+        "attribute": "0400000016060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk04_spot_details": {
+        "name": "bd05_map_gmk04_spot_details",
+        "message": "Si vous voulez rester, venez ici.",
+        "attribute": "0400000018060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk05_spot_details": {
+        "name": "bd05_map_gmk05_spot_details",
+        "message": "Laissez-moi vous montrer l’autre\r\ncôté de la carte. [0:300–00:3].",
+        "attribute": "040000001A060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk06_spot_details00": {
+        "name": "bd05_map_gmk06_spot_details00",
+        "message": "[0:3 Rires] Je n'ai pas\r\nd'argent. [0:3 4 min] [0:3 4\r\nmin] Page [0:3 4 min] [0:3]",
+        "attribute": "040000001C060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk06_spot_details01": {
+        "name": "bd05_map_gmk06_spot_details01",
+        "message": "[0:3] Parler aux adultes.",
+        "attribute": "040000001E060000",
+        "style_index": 61
+    },
+    "bd05_map_gmk07_spot_details": {
+        "name": "bd05_map_gmk07_spot_details",
+        "message": "150 minutes [0:3 FF-FF-ADI].",
+        "attribute": "0400000020060000",
+        "style_index": 61
+    }
+}

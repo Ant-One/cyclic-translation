@@ -1,0 +1,242 @@
+{
+    "bd04_OP_mw_past00": {
+        "name": "bd04_OP_mw_past00",
+        "message": "Quand Josh est sorti de\r\nl'eau, il a vu une vache\r\ncourir vers lui. [0:3 progression\r\n00-00-00]",
+        "attribute": "0401000F48010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_past01": {
+        "name": "bd04_OP_mw_past01",
+        "message": "Mon changement de puissance total\r\n: Puissance 0:3 2000–2000]",
+        "attribute": "0401000F4A010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose00": {
+        "name": "bd04_OP_mw_purpose00",
+        "message": "La croissance de Josh m’a\r\nbeaucoup aidé.",
+        "attribute": "0401000F4C010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose01": {
+        "name": "bd04_OP_mw_purpose01",
+        "message": "Une nouvelle étoile nous attend.",
+        "attribute": "0401000F6A010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose02": {
+        "name": "bd04_OP_mw_purpose02",
+        "message": "Oui, mais aujourd'hui je\r\nl'ai fait.",
+        "attribute": "0401000F84010000",
+        "style_index": 4
+    },
+    "bd04_OP_mw_purpose03": {
+        "name": "bd04_OP_mw_purpose03",
+        "message": "Il est temps de penser aux\r\nétoiles. C'est très simple.",
+        "attribute": "0401000F98010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination00": {
+        "name": "bd04_p01_mw_explaination00",
+        "message": "L'île Fox est le lieu de\r\nnaissance de cet oiseau.",
+        "attribute": "04040001BC010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination01": {
+        "name": "bd04_p01_mw_explaination01",
+        "message": "Il y a des endroits cachés.",
+        "attribute": "04040001E0010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination02": {
+        "name": "bd04_p01_mw_explaination02",
+        "message": "Il n'y a pas deux pays dans\r\nce monde. 0:3 FF-35-02-FF] Allez\r\nde l'autre côté, de\r\nl'autre côté de la route. 0:3\r\nSI-35-02-IB] Cherchez.",
+        "attribute": "04040001F8010000",
+        "style_index": 4
+    },
+    "bd04_p01_mw_explaination03": {
+        "name": "bd04_p01_mw_explaination03",
+        "message": "C'est très important. Ils\r\nveulent vous voir. Nous avons\r\ncommencé à trois heures du matin.",
+        "attribute": "0401001916020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC007_00": {
+        "name": "bd04_p02_mw_lastSpNPC007_00",
+        "message": "J'entends la voix du\r\nSaint-Esprit. Décembre 2013.com",
+        "attribute": "0401001930020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC007_01": {
+        "name": "bd04_p02_mw_lastSpNPC007_01",
+        "message": "Il y a quelqu'un ? Je connais\r\nquelques personnes, mais je ne\r\nsais pas qui elles sont. Le\r\npersonnel est sympathique et\r\nserviable. [0:3] Oui, c'est\r\nvrai.",
+        "attribute": "040100194E020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_00": {
+        "name": "bd04_p02_mw_lastSpNPC035_00",
+        "message": "Eh bien, je souhaite bonne chance\r\nà mon ami aujourd'hui !",
+        "attribute": "0401001972020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_01": {
+        "name": "bd04_p02_mw_lastSpNPC035_01",
+        "message": "Accueillir.",
+        "attribute": "0401000090020000",
+        "style_index": 4
+    },
+    "bd04_p02_mw_lastSpNPC035_02": {
+        "name": "bd04_p02_mw_lastSpNPC035_02",
+        "message": "Alors… « Parlons-en. »",
+        "attribute": "0401001992020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat00": {
+        "name": "bd01_s04_mw_koopaFloat00",
+        "message": "Oh, quel voyage !",
+        "attribute": "0404000CAA020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat01": {
+        "name": "bd01_s04_mw_koopaFloat01",
+        "message": "[0:3] C'est très simple.\r\n[0:3] Magique",
+        "attribute": "0404000CBE020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat02": {
+        "name": "bd01_s04_mw_koopaFloat02",
+        "message": "Une telle décision est-elle\r\npossible ? [0] Eh bien.",
+        "attribute": "0404000CDC020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat03": {
+        "name": "bd01_s04_mw_koopaFloat03",
+        "message": "Tu veux le faire ? Ne le vois pas\r\ncomme ça.",
+        "attribute": "0404000CF4020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_koopaFloat04": {
+        "name": "bd01_s04_mw_koopaFloat04",
+        "message": "Si je dois te donner quelque\r\nchose, je te le donnerai.\r\nC'est très important !",
+        "attribute": "0404000C0C030000",
+        "style_index": 4
+    },
+    "bd04_gmk01_mw_bakubaku00": {
+        "name": "bd04_gmk01_mw_bakubaku00",
+        "message": "Statut ? Les salles de bains et\r\nles toilettes ont été rénovées !\r\n[0:30-00] Rejoignez-nous !",
+        "attribute": "040303192A030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun00": {
+        "name": "bd04_gmk02_mw_dossun00",
+        "message": "une demi-année.",
+        "attribute": "0404000058030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun01": {
+        "name": "bd04_gmk02_mw_dossun01",
+        "message": "Appuyez sur [0] pour confirmer.",
+        "attribute": "040400015A030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun01p": {
+        "name": "bd04_gmk02_mw_dossun01p",
+        "message": "Je pensais que ce voyage était\r\ngratuit.",
+        "attribute": "040400015C030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun01_a0": {
+        "name": "bd04_gmk02_mw_dossun01_a0",
+        "message": "Oh.",
+        "attribute": "040400005E030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_dossun01_a1": {
+        "name": "bd04_gmk02_mw_dossun01_a1",
+        "message": "Ne demandez pas d'argent.",
+        "attribute": "0404000060030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_firstDossun00": {
+        "name": "bd04_gmk02_mw_firstDossun00",
+        "message": "Vos enfants vont adorer !",
+        "attribute": "0404000162030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_firstDossun01": {
+        "name": "bd04_gmk02_mw_firstDossun01",
+        "message": "La bonne nouvelle est que cela\r\nn’est pas une fatalité.",
+        "attribute": "0404000164030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun02": {
+        "name": "bd04_gmk02_mw_dossun02",
+        "message": "[0] L'or peut être acheté\r\navec des pièces.",
+        "attribute": "0404000166030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_dossun03": {
+        "name": "bd04_gmk02_mw_dossun03",
+        "message": "L'obscurité me regardait.",
+        "attribute": "0404000168030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun04": {
+        "name": "bd04_gmk02_mw_dossun04",
+        "message": "[0:3] Combien de temps cela\r\na-t-il duré ? - [0:3 2000-2000] ?\r\n[20:00 - 20:00].",
+        "attribute": "040400016A030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_betCoin00": {
+        "name": "bd04_gmk02_mw_betCoin00",
+        "message": "Alors qui le fait ? 9. 9. Droit\r\nd'auteur.",
+        "attribute": "040400016C030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_betCoin00p": {
+        "name": "bd04_gmk02_mw_betCoin00p",
+        "message": "[0] Qui a de l'argent ?",
+        "attribute": "040400016E030000",
+        "style_index": 6
+    },
+    "bd04_gmk02_mw_betCoin00_a0": {
+        "name": "bd04_gmk02_mw_betCoin00_a0",
+        "message": "peut-être.",
+        "attribute": "0404000170030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_betCoin00_a1": {
+        "name": "bd04_gmk02_mw_betCoin00_a1",
+        "message": "Pas grand chose, pas grand chose.",
+        "attribute": "0404000172030000",
+        "style_index": 9
+    },
+    "bd04_gmk02_mw_dossun05": {
+        "name": "bd04_gmk02_mw_dossun05",
+        "message": "[0:3 FFFFF] [0:3 FFFFFFFFF) Merci\r\n[0:3 FFFFF-FF] C'est super.\r\nDate : 19 septembre 2013.",
+        "attribute": "0404000174030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun06": {
+        "name": "bd04_gmk02_mw_dossun06",
+        "message": "Nous ne pouvons pas faire ça.",
+        "attribute": "0404000176030000",
+        "style_index": 4
+    },
+    "bd04_gmk02_mw_dossun07": {
+        "name": "bd04_gmk02_mw_dossun07",
+        "message": "Dieu merci, pardonnez-moi. Vous\r\npouvez appeler le 112 sans avoir\r\nà traverser la rivière.",
+        "attribute": "0404000178030000",
+        "style_index": 4
+    },
+    "bd04_map_gmk01_c04_details": {
+        "name": "bd04_map_gmk01_c04_details",
+        "message": "Je sais.",
+        "attribute": "040000007A030000",
+        "style_index": 61
+    },
+    "bd04_map_gmk02_details": {
+        "name": "bd04_map_gmk02_details",
+        "message": "0:3 FF-FF-FF] Soldat [0:3\r\nFF-FF-FF] [0:0-0-0-0].",
+        "attribute": "040000007C030000",
+        "style_index": 61
+    }
+}

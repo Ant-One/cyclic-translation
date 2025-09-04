@@ -1,0 +1,50 @@
+{
+    "hsmm04_mw_op00": {
+        "name": "hsmm04_mw_op00",
+        "message": "[0] Merci !",
+        "attribute": "0405002348000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd00": {
+        "name": "hsmm04_mw_rd00",
+        "message": "Quelle équipe gagnera ? On le\r\ndécouvrira ensemble.",
+        "attribute": "0405002362000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd10": {
+        "name": "hsmm04_mw_rd10",
+        "message": "Les valeurs possibles sont\r\n[0:3FF-FF-FF] et\r\n[0:3FF-35-02-FF][0]300-00-00-FF].",
+        "attribute": "0405002386000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd11": {
+        "name": "hsmm04_mw_rd11",
+        "message": "[0:3 FF-FF-FF] Je fais la fête.\r\n[0.3 à 00–00]",
+        "attribute": "04050023AA000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd20": {
+        "name": "hsmm04_mw_rd20",
+        "message": "J'ai peur que personne ne\r\ngagne cette partie.",
+        "attribute": "04050023BE000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd21": {
+        "name": "hsmm04_mw_rd21",
+        "message": "Sans vouloir offenser personne…\r\njuste une blague.",
+        "attribute": "04050023D8000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd90": {
+        "name": "hsmm04_mw_rd90",
+        "message": "Une autre façon de gagner.",
+        "attribute": "04050023F6000000",
+        "style_index": 4
+    },
+    "hsmm04_mw_rd91": {
+        "name": "hsmm04_mw_rd91",
+        "message": "Ce match décidera-t-il du sort de\r\nl’équipe ?",
+        "attribute": "040500231A010000",
+        "style_index": 4
+    }
+}

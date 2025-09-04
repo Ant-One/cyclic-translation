@@ -1,0 +1,584 @@
+{
+    "hsmg_tlp_start": {
+        "name": "hsmg_tlp_start",
+        "message": "[0]. Prenez cela en considération\r\n! [0] Ok. Courez ! Je suis prêt !\r\nExcellente nouvelle pour vous\r\ntous ! Excellente nouvelle pour\r\nvous tous ! Dernier recours [0]\r\nDernier recours. Ok ! Merci\r\nd'avoir lu cet article.\r\nBeaucoup de couleurs.",
+        "attribute": "0400000010030000",
+        "style_index": 15
+    },
+    "hsmg_tlp_count": {
+        "name": "hsmg_tlp_count",
+        "message": "[0] Bof. Carré, grand. [0] Il\r\nt'apprendra. On l'a fait.\r\nOn l'a fait. Tu es occupé\r\navec d'autres choses. Tu es\r\noccupé avec d'autres choses.\r\n[0] Moore. Carré, grand. Tu es\r\nbelle et heureuse. Tu as du mal\r\navec tes parents. C'est un\r\ncadeau.",
+        "attribute": "0400000012030000",
+        "style_index": 15
+    },
+    "hsmg_tlp_go": {
+        "name": "hsmg_tlp_go",
+        "message": "D'ACCORD ! [0] À plus tard !\r\nBien ! Le voici ! Un nouveau\r\nmarché ! Un nouveau marché ! [0]\r\nActuellement en construction !\r\nPas encore terminé ! 0 : 1, 2 0 :\r\n20.02.20.20.00.",
+        "attribute": "0400000014030000",
+        "style_index": 15
+    },
+    "hsmg_tlp_finish": {
+        "name": "hsmg_tlp_finish",
+        "message": "Faites-le ! [0] Allez ! Prenez\r\nsoin de vous ! Comparez ! Bonne\r\nnouvelle ! Bonne nouvelle ! [0]\r\nCommencez par la fin de la ligne.\r\nJe ne veux rien manquer.",
+        "attribute": "0400000016030000",
+        "style_index": 15
+    },
+    "hsmg_tlp_chaname": {
+        "name": "hsmg_tlp_chaname",
+        "message": "0 2C-00-5B-00-31-00-5B.\r\n-30-00-5D-00-3A-00-5B-31-00-5D-2C-5B.",
+        "attribute": "0400000018030000",
+        "style_index": 104
+    },
+    "hsmg_tlp_win": {
+        "name": "hsmg_tlp_win",
+        "message": "Bonjour. T! Bonne nouvelle.\r\nRechercher [0]. 48 décembre 2000.\r\nBain. A, A, A, A. 3. A] Après la\r\nconversion. Cela change.",
+        "attribute": "040000001A030000",
+        "style_index": 105
+    },
+    "hsmg_tlp_wins": {
+        "name": "hsmg_tlp_wins",
+        "message": "amusant ! viande ! parler !\r\nparler ! [0] C'est vrai !\r\namusant ! [0] : [1], [2] [0] Non.",
+        "attribute": "040000001C030000",
+        "style_index": 105
+    },
+    "hsmg_tlp_draw": {
+        "name": "hsmg_tlp_draw",
+        "message": "Bonjour, de nouvelles nouvelles\r\narrivent bientôt. De la nouvelle\r\nmusique arrive bientôt. Allez à\r\nDieu[0] Allez à Dieu. Dieu, je\r\nsuis malade. Allez A-00-55D-5D.\r\n-20.06.6.5B-30.5D;",
+        "attribute": "040000001E030000",
+        "style_index": 106
+    },
+    "hsmg_tlp_newrecord": {
+        "name": "hsmg_tlp_newrecord",
+        "message": "Mots tristes. Mots tristes. Page\r\nsuivante [0]. toi. 22:00 | [1],\r\n[2] [0] [0] Merci. toi.",
+        "attribute": "0400000020030000",
+        "style_index": 107
+    },
+    "hsmg_tlp_newrecord_alone": {
+        "name": "hsmg_tlp_newrecord_alone",
+        "message": "Saisissez la valeur actuelle [0].\r\nRien ne se passe.",
+        "attribute": "0400000022030000",
+        "style_index": 108
+    },
+    "hsmg_tlp_round": {
+        "name": "hsmg_tlp_round",
+        "message": "Très fort [0] Jaune ! [0] : [1]\r\nNiveau de danger -20–00–6D–00–5D.",
+        "attribute": "0400000024030000",
+        "style_index": 109
+    },
+    "hsmg_tlp_round_final": {
+        "name": "hsmg_tlp_round_final",
+        "message": "Ce n'est pas réaliste. Valide\r\n[0] : [1], [2] [0] : [1], 3a]\r\nAfficher tous les éléments de la\r\nliste.",
+        "attribute": "0400000026030000",
+        "style_index": 109
+    },
+    "hsmg_tlp_perfect": {
+        "name": "hsmg_tlp_perfect",
+        "message": "5D!",
+        "attribute": "0400000028030000",
+        "style_index": 110
+    },
+    "hsmg_timer_countdown": {
+        "name": "hsmg_timer_countdown",
+        "message": "B0 91:48 le plus bas du monde.",
+        "attribute": "040000002A030000",
+        "style_index": 111
+    },
+    "hsmg_timer_countup": {
+        "name": "hsmg_timer_countup",
+        "message": "[0]: [1], [2] [0] [0] |",
+        "attribute": "040000002C030000",
+        "style_index": 112
+    },
+    "hsmg_courserecord": {
+        "name": "hsmg_courserecord",
+        "message": "30.00.00.5 jours.",
+        "attribute": "040000002E030000",
+        "style_index": 113
+    },
+    "hsmg_courserecord_endless": {
+        "name": "hsmg_courserecord_endless",
+        "message": "91:48 2C-30-00-5D-00.6, A20-L00\r\nOUEST - code postal. Les prix\r\naugmentent.",
+        "attribute": "0400000030030000",
+        "style_index": 114
+    },
+    "hsmg_courserecord_m": {
+        "name": "hsmg_courserecord_m",
+        "message": "91:48 il y a deux ans.",
+        "attribute": "0400000032030000",
+        "style_index": 113
+    },
+    "hsmg_courserecord_point_m": {
+        "name": "hsmg_courserecord_point_m",
+        "message": "Je ne sais pas comment faire.\r\nAttends une minute.",
+        "attribute": "0400000034030000",
+        "style_index": 113
+    },
+    "hsmg_courserecord_degree": {
+        "name": "hsmg_courserecord_degree",
+        "message": "\"C'est un secret.\"",
+        "attribute": "0400000036030000",
+        "style_index": 113
+    },
+    "hsmg_courserecord_timer_countup": {
+        "name": "hsmg_courserecord_timer_countup",
+        "message": "0:1, de 2009 à 1:4.",
+        "attribute": "0400000038030000",
+        "style_index": 115
+    },
+    "hsmg_newrecord": {
+        "name": "hsmg_newrecord",
+        "message": "K",
+        "attribute": "040000003A030000",
+        "style_index": 125
+    },
+    "hsmg_newrecord_m": {
+        "name": "hsmg_newrecord_m",
+        "message": "[0] Nombre de canaux",
+        "attribute": "040000003C030000",
+        "style_index": 125
+    },
+    "hsmg_newrecord_point_m": {
+        "name": "hsmg_newrecord_point_m",
+        "message": "91:48 8:00 AM LC et matin",
+        "attribute": "040000003E030000",
+        "style_index": 125
+    },
+    "hsmg_newrecord_degree": {
+        "name": "hsmg_newrecord_degree",
+        "message": "00°0 : 1,22000 :\r\n4-30-5D-5D-00-5D-00",
+        "attribute": "0400000040030000",
+        "style_index": 125
+    },
+    "hsmg_newrecord_timer": {
+        "name": "hsmg_newrecord_timer",
+        "message": "2020-20-5 20:48 Une collection de\r\ndifférents sites Web.",
+        "attribute": "0400000042030000",
+        "style_index": 125
+    },
+    "hsmg_newrecord_alone": {
+        "name": "hsmg_newrecord_alone",
+        "message": "Jane : Je ne sais pas. Le ciel\r\nétait bleu et nuageux. Je ne sais\r\npas pourquoi.",
+        "attribute": "0400000044030000",
+        "style_index": 126
+    },
+    "hsmg_status_2digit": {
+        "name": "hsmg_status_2digit",
+        "message": "Alors : Beck, y a-t-il une\r\nsolution à cela ?",
+        "attribute": "0400000046030000",
+        "style_index": 116
+    },
+    "hsmg_status_2digit_coin": {
+        "name": "hsmg_status_2digit_coin",
+        "message": "Société 91:48.",
+        "attribute": "0400000048030000",
+        "style_index": 117
+    },
+    "hsmg_status_3digit_m": {
+        "name": "hsmg_status_3digit_m",
+        "message": "2C-000-5B2C : Que pouvez-vous\r\nacheter avec cet argent ?",
+        "attribute": "040000004A030000",
+        "style_index": 118
+    },
+    "hsmg_status_3digit_percent": {
+        "name": "hsmg_status_3digit_percent",
+        "message": "Documents V5D :",
+        "attribute": "040000004C030000",
+        "style_index": 118
+    },
+    "hsmg_status_4digit_degree": {
+        "name": "hsmg_status_4digit_degree",
+        "message": "° [0], [1] [91:48] Je ne sais pas\r\nquoi faire. Je ne sais pas quoi\r\ndire. Qui es-tu ?",
+        "attribute": "040000004E030000",
+        "style_index": 119
+    },
+    "hsmg_status_point_1_m": {
+        "name": "hsmg_status_point_1_m",
+        "message": "[0], [1] [91:48] C'est très\r\ntriste.",
+        "attribute": "0400000050030000",
+        "style_index": 118
+    },
+    "hsmg_status_point": {
+        "name": "hsmg_status_point",
+        "message": "Date de sortie : 19 décembre 2013\r\n|\r\n55-65-65-65-70-6C-00-75-73-20-00-0",
+        "attribute": "0400000052030000",
+        "style_index": 118
+    },
+    "hsmg_status_point_2_m": {
+        "name": "hsmg_status_point_2_m",
+        "message": "0.1.91.44 .",
+        "attribute": "0400000054030000",
+        "style_index": 119
+    },
+    "hsmg_status_rank": {
+        "name": "hsmg_status_rank",
+        "message": "Considérez. Le premier à [0]\r\ngagne. Tout cela s'est\r\nproduit en trois minutes.",
+        "attribute": "0400000056030000",
+        "style_index": 120
+    },
+    "hsmg_status_rank_small": {
+        "name": "hsmg_status_rank_small",
+        "message": "[0] [0] [0] Quarante 11[0] Le\r\npremier joueur à marquer dans les\r\ntrois minutes gagne.",
+        "attribute": "0400000058030000",
+        "style_index": 121
+    },
+    "hsmg_status_user_name": {
+        "name": "hsmg_status_user_name",
+        "message": "[0] [0] Le score est de 80 ou\r\nplus. [0] L'équipe avec le\r\nscore le plus élevé gagne. Toutes\r\nles trois minutes, nous comparons\r\nla différence du nombre de trous\r\nadjacents.",
+        "attribute": "040000005A030000",
+        "style_index": 122
+    },
+    "hsmg_rank_ui": {
+        "name": "hsmg_rank_ui",
+        "message": "80 ans et plus [0] La personne\r\nqui gagne le plus d'argent en\r\n1 à 10 minutes est le gagnant.",
+        "attribute": "040000005C030000",
+        "style_index": 123
+    },
+    "hsmg431_tlp_ctrl00": {
+        "name": "hsmg431_tlp_ctrl00",
+        "message": "Commencez par A ! Le premier à\r\nobtenir ao[0] gagne. L'équipe\r\nqui obtient le plus de points en\r\n30 minutes gagne.",
+        "attribute": "040000005E030000",
+        "style_index": 14
+    },
+    "hsmg501_tlp_ctrl00": {
+        "name": "hsmg501_tlp_ctrl00",
+        "message": "L'équipe qui atteint [0] en\r\npremier gagne. L'équipe qui\r\nmarque le plus de points en moins\r\nde 3 minutes gagne.",
+        "attribute": "0400000060030000",
+        "style_index": 14
+    },
+    "hsmg601_tlp_win_condition00": {
+        "name": "hsmg601_tlp_win_condition00",
+        "message": "Attends trois minutes !",
+        "attribute": "0400000062030000",
+        "style_index": 14
+    },
+    "hsmg601_tlp_win_condition01": {
+        "name": "hsmg601_tlp_win_condition01",
+        "message": "Tout d’abord, je veux faire ceci.",
+        "attribute": "0400000064030000",
+        "style_index": 14
+    },
+    "hsmg602_tlp_win_condition00": {
+        "name": "hsmg602_tlp_win_condition00",
+        "message": "Utilisez votre corps.",
+        "attribute": "0400000066030000",
+        "style_index": 14
+    },
+    "hsmg602_tlp_win_condition01": {
+        "name": "hsmg602_tlp_win_condition01",
+        "message": "À la fin, vous battez votre\r\nadversaire.",
+        "attribute": "0400000068030000",
+        "style_index": 14
+    },
+    "hsmg603_tlp_win_condition01": {
+        "name": "hsmg603_tlp_win_condition01",
+        "message": "Je suis passionné de football.",
+        "attribute": "040000006A030000",
+        "style_index": 14
+    },
+    "hsmg402_MGctrlGuide": {
+        "name": "hsmg402_MGctrlGuide",
+        "message": "(Courte pause) (Nouvelle pause)\r\n(Pause) Linda rit.",
+        "attribute": "040000006C030000",
+        "style_index": 135
+    },
+    "hsmg215_MGctrlGuide": {
+        "name": "hsmg215_MGctrlGuide",
+        "message": "Cela fait 5 jours – Merci.",
+        "attribute": "040000006E030000",
+        "style_index": 135
+    },
+    "hsmg501_MGctrlGuide": {
+        "name": "hsmg501_MGctrlGuide",
+        "message": "26/26/24 Jour",
+        "attribute": "0400000070030000",
+        "style_index": 135
+    },
+    "hsmg502_MGctrlGuide": {
+        "name": "hsmg502_MGctrlGuide",
+        "message": "- Statut / Mise à jour Statut -\r\nMise à jour / Mot de passe [0]\r\n[91:48] Que dois-je faire ? Je\r\nn'ai pas peur d'être\r\nfort. Paix, paix, paix.",
+        "attribute": "0400000072030000",
+        "style_index": 135
+    },
+    "hsmg503_MGctrlGuide": {
+        "name": "hsmg503_MGctrlGuide",
+        "message": "Exemple : Calculer l’intensité du\r\nchamp électrique. Calculer le\r\nchamp électrique de l’appareil et\r\nde l’objet (le cas échéant).",
+        "attribute": "0400000074030000",
+        "style_index": 135
+    },
+    "hsmg_ui_pts": {
+        "name": "hsmg_ui_pts",
+        "message": "[0] [91:48] Augmenter\r\nl'estime de soi et la\r\nconfiance en soi. Réponse : Les\r\nrelations à court terme peuvent\r\nnous sauver mutuellement. ††",
+        "attribute": "0400000076030000",
+        "style_index": 127
+    },
+    "hsmg_speed_3digit": {
+        "name": "hsmg_speed_3digit",
+        "message": "[0] Vitesse - Durée [0] Temps.",
+        "attribute": "0400000078030000",
+        "style_index": 130
+    },
+    "hsmg_speed_max": {
+        "name": "hsmg_speed_max",
+        "message": "Le ratio sera de 1:1.",
+        "attribute": "040000007A030000",
+        "style_index": 130
+    },
+    "hsmg_speed": {
+        "name": "hsmg_speed",
+        "message": "Informations client [0] [1:1].",
+        "attribute": "040000007C030000",
+        "style_index": 131
+    },
+    "hsmg_consecutive_wins": {
+        "name": "hsmg_consecutive_wins",
+        "message": "[0] [1 partie :",
+        "attribute": "040000007E030000",
+        "style_index": 132
+    },
+    "hsmg_record_privateTimer": {
+        "name": "hsmg_record_privateTimer",
+        "message": "[0]: [1], [2] [0] [0] [0]. Jouons\r\ncette chanson. Vous avez gagné la\r\npremière partie.",
+        "attribute": "0400000080030000",
+        "style_index": 133
+    },
+    "hsmg404_count": {
+        "name": "hsmg404_count",
+        "message": "La température est de zéro degré.",
+        "attribute": "0400000082030000",
+        "style_index": 136
+    },
+    "hsmg404_answer": {
+        "name": "hsmg404_answer",
+        "message": "[0] [0] [0] Vous savez où nous\r\nsommes ! Est-ce Badja ? Voyons\r\nmaintenant comment se déroule le\r\njeu !",
+        "attribute": "0400000084030000",
+        "style_index": 137
+    },
+    "hsmg407_jump": {
+        "name": "hsmg407_jump",
+        "message": "[0] [0] Course ! Poussez un\r\nsoupir de soulagement ! Restez\r\nforts. Poussez un soupir de\r\nsoulagement ! [0] [0], montrant\r\n[1] mètres // [0] degrés",
+        "attribute": "0400000086030000",
+        "style_index": 138
+    },
+    "hsmg425_pageNumber": {
+        "name": "hsmg425_pageNumber",
+        "message": "[0] Je me souviens encore à quoi\r\nressemblait cet endroit.",
+        "attribute": "0400000088030000",
+        "style_index": 140
+    },
+    "hsmg430_tlp_memory": {
+        "name": "hsmg430_tlp_memory",
+        "message": "Bonjour ! C'est le contraire\r\n! La porte s'ouvre. [0] [0],\r\n[1] [0] en Celsius.",
+        "attribute": "040000008A030000",
+        "style_index": 141
+    },
+    "hsmg430_tlp_return": {
+        "name": "hsmg430_tlp_return",
+        "message": "Oui, nous sommes tous très\r\nheureux et apprécions notre\r\ntravail. [0] .",
+        "attribute": "040000008C030000",
+        "style_index": 141
+    },
+    "hsmg441_tlp_select": {
+        "name": "hsmg441_tlp_select",
+        "message": "Ok ! Ça devrait être 0.0D.",
+        "attribute": "040000008E030000",
+        "style_index": 142
+    },
+    "hsmg441_tlp_hole_in_one": {
+        "name": "hsmg441_tlp_hole_in_one",
+        "message": "Bonjour!",
+        "attribute": "0400000090030000",
+        "style_index": 143
+    },
+    "hsmg441_number": {
+        "name": "hsmg441_number",
+        "message": "[0], [1] minutes/sec/sec [0]\r\nposition [0] minutes",
+        "attribute": "0400000092030000",
+        "style_index": 144
+    },
+    "hsmg441_score_distance_2point": {
+        "name": "hsmg441_score_distance_2point",
+        "message": "Page [0], [1] [0] ° [0]",
+        "attribute": "0400000094030000",
+        "style_index": 145
+    },
+    "hsmg441_score_m": {
+        "name": "hsmg441_score_m",
+        "message": "peut-être [étant donné] [0] [0]\r\n[0]",
+        "attribute": "0400000096030000",
+        "style_index": 146
+    },
+    "hsmg441_skip": {
+        "name": "hsmg441_skip",
+        "message": "/heure/ ou heure[0]°[0].",
+        "attribute": "0400000098030000",
+        "style_index": 134
+    },
+    "hsmg444_skip": {
+        "name": "hsmg444_skip",
+        "message": "0°0°0000",
+        "attribute": "040000009A030000",
+        "style_index": 148
+    },
+    "hsmg444_count": {
+        "name": "hsmg444_count",
+        "message": "emplacement[0]°[0]",
+        "attribute": "040000009C030000",
+        "style_index": 149
+    },
+    "hsmg445_gauge": {
+        "name": "hsmg445_gauge",
+        "message": "[0] [0] [0] Non.",
+        "attribute": "040000009E030000",
+        "style_index": 150
+    },
+    "hsmg445_replay": {
+        "name": "hsmg445_replay",
+        "message": "Un [0] [0].",
+        "attribute": "04000000A0030000",
+        "style_index": 151
+    },
+    "hsmg447_rank": {
+        "name": "hsmg447_rank",
+        "message": "C'est ce que j'ai fait.",
+        "attribute": "04000000A2030000",
+        "style_index": 152
+    },
+    "hsmg449_answer": {
+        "name": "hsmg449_answer",
+        "message": "[0] [0] texte.",
+        "attribute": "04000000A4030000",
+        "style_index": 153
+    },
+    "hsmg701_jump": {
+        "name": "hsmg701_jump",
+        "message": "exercice:",
+        "attribute": "04000000A6030000",
+        "style_index": 154
+    },
+    "hsmg501_tlp_matchPoint": {
+        "name": "hsmg501_tlp_matchPoint",
+        "message": "Pourquoi la réunion a-t-elle été\r\nretardée ? Aimez-vous et soyez\r\naimé !",
+        "attribute": "04000000A8030000",
+        "style_index": 14
+    },
+    "hsmg503_tlp_gorl": {
+        "name": "hsmg503_tlp_gorl",
+        "message": "Arrêtez de lire. Ce n'est pas\r\nvrai.",
+        "attribute": "04000000AA030000",
+        "style_index": 155
+    },
+    "hsmg503_tlp_kickoff": {
+        "name": "hsmg503_tlp_kickoff",
+        "message": "Mais j'ai été déçu !",
+        "attribute": "04000000AC030000",
+        "style_index": 155
+    },
+    "hsmg601_tlp_miss": {
+        "name": "hsmg601_tlp_miss",
+        "message": "Sentiment d'anxiété.",
+        "attribute": "04000000AE030000",
+        "style_index": 156
+    },
+    "hsmg602_score": {
+        "name": "hsmg602_score",
+        "message": "L'auteur de cette histoire\r\nest Zhang Fei.",
+        "attribute": "04000000B0030000",
+        "style_index": 162
+    },
+    "hsmg602_score_myself": {
+        "name": "hsmg602_score_myself",
+        "message": "[0] Chapitre.",
+        "attribute": "04000000B2030000",
+        "style_index": 163
+    },
+    "hsmg602_score_high": {
+        "name": "hsmg602_score_high",
+        "message": "[0] Très bien.",
+        "attribute": "04000000B4030000",
+        "style_index": 164
+    },
+    "hsmg602_level": {
+        "name": "hsmg602_level",
+        "message": "Veuillez lire ce chapitre.",
+        "attribute": "04000000B6030000",
+        "style_index": 165
+    },
+    "hsmg602_level_myself": {
+        "name": "hsmg602_level_myself",
+        "message": "Il est neuf heures du soir.",
+        "attribute": "04000000B8030000",
+        "style_index": 166
+    },
+    "hsmg602_star": {
+        "name": "hsmg602_star",
+        "message": "★ Les trois ingrédients.",
+        "attribute": "04000000BA030000",
+        "style_index": 167
+    },
+    "hsmg602_star_myself": {
+        "name": "hsmg602_star_myself",
+        "message": "Cliquez ici pour plus\r\nd'informations.",
+        "attribute": "04000000BC030000",
+        "style_index": 168
+    },
+    "hsmg602_level_clear": {
+        "name": "hsmg602_level_clear",
+        "message": "[0] Faisons-le maintenant !",
+        "attribute": "04000000BE030000",
+        "style_index": 169
+    },
+    "hsmg602_next_level": {
+        "name": "hsmg602_next_level",
+        "message": "[0] existe.",
+        "attribute": "04000000C0030000",
+        "style_index": 170
+    },
+    "hsmg603_score": {
+        "name": "hsmg603_score",
+        "message": "Frères et sœurs",
+        "attribute": "04000000C2030000",
+        "style_index": 171
+    },
+    "hsmg603_score_myself": {
+        "name": "hsmg603_score_myself",
+        "message": "[0] - Nouveau.",
+        "attribute": "04000000C4030000",
+        "style_index": 172
+    },
+    "hsmg603_score_high": {
+        "name": "hsmg603_score_high",
+        "message": "[0] Plus d'informations.",
+        "attribute": "04000000C6030000",
+        "style_index": 173
+    },
+    "hsmg603_level": {
+        "name": "hsmg603_level",
+        "message": "Bien.",
+        "attribute": "04000000C8030000",
+        "style_index": 174
+    },
+    "hsmg603_level_myself": {
+        "name": "hsmg603_level_myself",
+        "message": "[0] actualités / événements / à\r\npropos / à propos",
+        "attribute": "04000000CA030000",
+        "style_index": 175
+    },
+    "hsmg603_level_clear": {
+        "name": "hsmg603_level_clear",
+        "message": "[0] Il y a des années !",
+        "attribute": "04000000CC030000",
+        "style_index": 176
+    },
+    "hsmg603_next_level": {
+        "name": "hsmg603_next_level",
+        "message": "D'ailleurs",
+        "attribute": "04000000CE030000",
+        "style_index": 177
+    },
+    "hsmg603_timer_count": {
+        "name": "hsmg603_timer_count",
+        "message": "[0], non",
+        "attribute": "04000000D0030000",
+        "style_index": 178
+    }
+}

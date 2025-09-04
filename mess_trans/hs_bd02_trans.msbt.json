@@ -1,0 +1,176 @@
+{
+    "bd02_OP_mw_past00": {
+        "name": "bd02_OP_mw_past00",
+        "message": "derrière",
+        "attribute": "0401000FF0000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_past01": {
+        "name": "bd02_OP_mw_past01",
+        "message": "Heroes est une série sur des\r\npersonnes qui apportent la paix\r\ndans la galaxie.",
+        "attribute": "0401000FF2000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose00": {
+        "name": "bd02_OP_mw_purpose00",
+        "message": "Mais là où il y a la paix, il y a\r\nl’unité.",
+        "attribute": "0401000FF4000000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose01": {
+        "name": "bd02_OP_mw_purpose01",
+        "message": "C’est pourquoi il est si\r\nimportant d’aider les gens à\r\ncomprendre l’astrologie.",
+        "attribute": "0401000F12010000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose02": {
+        "name": "bd02_OP_mw_purpose02",
+        "message": "Voulez-vous être comme tout le\r\nmonde ?",
+        "attribute": "0401000F2C010000",
+        "style_index": 4
+    },
+    "bd02_OP_mw_purpose03": {
+        "name": "bd02_OP_mw_purpose03",
+        "message": "C'était beaucoup de travail.",
+        "attribute": "0401000F40010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination00": {
+        "name": "bd02_p01_mw_explaination00",
+        "message": "Cliquez sur le bouton vert pour\r\ndémarrer le jeu. Comment puis-je\r\nfaire cela ?",
+        "attribute": "0404000164010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination01": {
+        "name": "bd02_p01_mw_explaination01",
+        "message": "Les photos de Bowser sont\r\npartout... n'oubliez pas de\r\nles regarder.",
+        "attribute": "040400017E010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination02": {
+        "name": "bd02_p01_mw_explaination02",
+        "message": "[0:3 FF-FF-FF] La police vous\r\nsurveille. [0:3 ff-ff-ff]\r\nÊtes-vous prêt à entrer dans ce\r\ncombat ? [0:3 à 00-00-00",
+        "attribute": "0404000196010000",
+        "style_index": 4
+    },
+    "bd02_p01_mw_explaination03": {
+        "name": "bd02_p01_mw_explaination03",
+        "message": "Alors, que doit-il faire ? Je\r\nveux savoir.",
+        "attribute": "04010019AA010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC067_00": {
+        "name": "bd02_p02_mw_lastSpNPC067_00",
+        "message": "[0:3 00:00] Merci, j'espère\r\nque cela vous sera utile. Durée :\r\n12:30",
+        "attribute": "04010124C8010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC067_01": {
+        "name": "bd02_p02_mw_lastSpNPC067_01",
+        "message": "Excellent investissement !\r\nJ'espère que ça vous sera\r\nutile ! [Début à 12 h 30]",
+        "attribute": "04010124DC010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC027_01": {
+        "name": "bd02_p02_mw_lastSpNPC027_01",
+        "message": "« C’était une victoire facile »,\r\na-t-il déclaré après le match.",
+        "attribute": "04010019F4010000",
+        "style_index": 4
+    },
+    "bd02_p02_mw_lastSpNPC027_02": {
+        "name": "bd02_p02_mw_lastSpNPC027_02",
+        "message": "\"Je ne sais pas!\"",
+        "attribute": "0401001908020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon00": {
+        "name": "bd02_gmk01_mw_cannon00",
+        "message": "Efficacité : 300 %. Kiba tourna\r\nson attention vers Allen.",
+        "attribute": "0404080C1C020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon01": {
+        "name": "bd02_gmk01_mw_cannon01",
+        "message": "Pourquoi n'y a-t-il aucun\r\nsigne de vie ? L'indicateur\r\nfonctionne toujours. Impossible !",
+        "attribute": "0404040C3A020000",
+        "style_index": 4
+    },
+    "bd02_gmk01_mw_cannon02": {
+        "name": "bd02_gmk01_mw_cannon02",
+        "message": "[0:3 Cours vers ta mort] Arrête !\r\nC'est tout ! C'est tout !\r\nÇa devenait dur ! Ça devenait dur\r\n! Anglais !",
+        "attribute": "0404020C52020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police00": {
+        "name": "bd02_gmk02_mw_police00",
+        "message": "Les ordres de Satan e.",
+        "attribute": "040401246A020000",
+        "style_index": 6
+    },
+    "bd02_gmk02_mw_police00_a0": {
+        "name": "bd02_gmk02_mw_police00_a0",
+        "message": "Voyons.",
+        "attribute": "0300000084020000",
+        "style_index": 9
+    },
+    "bd02_gmk02_mw_police00_a1": {
+        "name": "bd02_gmk02_mw_police00_a1",
+        "message": "Lumière et obscurité.",
+        "attribute": "0300000086020000",
+        "style_index": 9
+    },
+    "bd02_gmk02_mw_police01": {
+        "name": "bd02_gmk02_mw_police01",
+        "message": "Tu vois ? Tu peux voler les deux\r\n? Hmm… certains pensent que\r\nc'est cool.",
+        "attribute": "0404012488020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police02": {
+        "name": "bd02_gmk02_mw_police02",
+        "message": ";",
+        "attribute": "04040000A6020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police03": {
+        "name": "bd02_gmk02_mw_police03",
+        "message": "Je sais qu’aucun leader ne peut\r\nme sauver !",
+        "attribute": "04040124A8020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police04": {
+        "name": "bd02_gmk02_mw_police04",
+        "message": "Regarde ma voiture !",
+        "attribute": "04040124BC020000",
+        "style_index": 4
+    },
+    "bd02_gmk02_mw_police05": {
+        "name": "bd02_gmk02_mw_police05",
+        "message": "Paix, paix.",
+        "attribute": "04040124D6020000",
+        "style_index": 4
+    },
+    "bd02_map_gmk01_spot_details": {
+        "name": "bd02_map_gmk01_spot_details",
+        "message": "Dans les années 1990, chaque\r\nmatch commençait par un but.",
+        "attribute": "04000000F0020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_spot_details00": {
+        "name": "bd02_map_gmk02_spot_details00",
+        "message": "S'il vous plaît aidez-moi.",
+        "attribute": "04000000F2020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_spot_details01": {
+        "name": "bd02_map_gmk02_spot_details01",
+        "message": "L'arche fut détruite. [5\r\nGenèse 13:3]",
+        "attribute": "04000000F4020000",
+        "style_index": 61
+    },
+    "bd02_map_gmk02_c04_details": {
+        "name": "bd02_map_gmk02_c04_details",
+        "message": "Si vous voyez un avion tomber\r\nsoudainement, sautez dans l’eau.",
+        "attribute": "04000000F6020000",
+        "style_index": 61
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "hsmm03_mw_op00": {
+        "name": "hsmm03_mw_op00",
+        "message": "Jouez à des mini-jeux et gagnez\r\ndes prix incroyables !",
+        "attribute": "04050017A0000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_op01": {
+        "name": "hsmm03_mw_op01",
+        "message": "Russie : [0:3 BF-BF-BF].",
+        "attribute": "04050017BE000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd00": {
+        "name": "hsmm03_mw_rd00",
+        "message": "Citation du paragraphe suivant.",
+        "attribute": "04050017E2000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd01": {
+        "name": "hsmm03_mw_rd01",
+        "message": "Choisissez le jeu que vous voulez\r\net le jeu vous choisira.",
+        "attribute": "04050017F6000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd10": {
+        "name": "hsmm03_mw_rd10",
+        "message": "Il est maintenant temps pour le\r\ndeuxième match.",
+        "attribute": "04050017F8000000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd20": {
+        "name": "hsmm03_mw_rd20",
+        "message": "La plupart d’entre eux sont\r\nsympathiques et serviables.",
+        "attribute": "0405001716010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd30": {
+        "name": "hsmm03_mw_rd30",
+        "message": "Regardez les dernières nouvelles.",
+        "attribute": "040500173A010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd40": {
+        "name": "hsmm03_mw_rd40",
+        "message": "[0:3 règles-ffff] [0:3\r\nrègles-35-02-kf] [0:3 règles-kf]\r\n00-00-00- etc.",
+        "attribute": "040500175E010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd50": {
+        "name": "hsmm03_mw_rd50",
+        "message": "Pour certains, c’est important et\r\nnécessaire.",
+        "attribute": "0405001778010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_rd90": {
+        "name": "hsmm03_mw_rd90",
+        "message": "Répéter.",
+        "attribute": "040500178C010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt00": {
+        "name": "hsmm03_mw_evnt00",
+        "message": "L’argent que vous gagnez en\r\njouant est votre argent.",
+        "attribute": "04050017AA010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt10": {
+        "name": "hsmm03_mw_evnt10",
+        "message": "Ici, vous pouvez doubler votre\r\nargent.",
+        "attribute": "04050017C8010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt20": {
+        "name": "hsmm03_mw_evnt20",
+        "message": "Collectez l'argent des autres\r\njoueurs et sauvez le monde.",
+        "attribute": "04050017E6010000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt21": {
+        "name": "hsmm03_mw_evnt21",
+        "message": "Oui, je peux choisir les\r\ncouleurs.",
+        "attribute": "0405001704020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt22": {
+        "name": "hsmm03_mw_evnt22",
+        "message": "Attends... tu n'as pas\r\nd'argent ?",
+        "attribute": "0405001706020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt23": {
+        "name": "hsmm03_mw_evnt23",
+        "message": "Aujourd'hui, c'est votre\r\njour de chance. Rien ne se perd.",
+        "attribute": "0405001724020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt24": {
+        "name": "hsmm03_mw_evnt24",
+        "message": "Je sais ! Ce jeu n'est pas si\r\nbon. [0] Quoi !",
+        "attribute": "0405001726020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt30": {
+        "name": "hsmm03_mw_evnt30",
+        "message": "Je ne sais rien du jeu.",
+        "attribute": "040500173A020000",
+        "style_index": 4
+    },
+    "hsmm03_mw_evnt40": {
+        "name": "hsmm03_mw_evnt40",
+        "message": "Mon ami m'a donné 20 pièces.",
+        "attribute": "0405001754020000",
+        "style_index": 4
+    }
+}

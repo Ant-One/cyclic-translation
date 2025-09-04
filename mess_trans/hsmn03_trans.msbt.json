@@ -1,0 +1,248 @@
+{
+    "mn_dSetting_ctrl": {
+        "name": "mn_dSetting_ctrl",
+        "message": "Ce n'est pas correct.",
+        "attribute": "0400000050010000",
+        "style_index": 363
+    },
+    "mn_dSetting_bgm_choice": {
+        "name": "mn_dSetting_bgm_choice",
+        "message": "Choisissez une chanson.",
+        "attribute": "0400000052010000",
+        "style_index": 362
+    },
+    "mn_dSetting_bgm_board": {
+        "name": "mn_dSetting_bgm_board",
+        "message": "[0].",
+        "attribute": "0400000054010000",
+        "style_index": 364
+    },
+    "mn_dSetting_bgm_original": {
+        "name": "mn_dSetting_bgm_original",
+        "message": "d'autres personnes.",
+        "attribute": "0400000056010000",
+        "style_index": 365
+    },
+    "mn_dSetting_bgm_remake": {
+        "name": "mn_dSetting_bgm_remake",
+        "message": "Entre",
+        "attribute": "0400000058010000",
+        "style_index": 365
+    },
+    "mn_dSetting_bgm_ok": {
+        "name": "mn_dSetting_bgm_ok",
+        "message": "Fuir!",
+        "attribute": "040000005A010000",
+        "style_index": 366
+    },
+    "mn_dSetting_bgm_stop": {
+        "name": "mn_dSetting_bgm_stop",
+        "message": "Ange de la sagesse.",
+        "attribute": "040000005C010000",
+        "style_index": 363
+    },
+    "mn_dSetting_top_stamp": {
+        "name": "mn_dSetting_top_stamp",
+        "message": "C'est le but de ce projet.",
+        "attribute": "040000005E010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_save": {
+        "name": "mn_dSetting_top_save",
+        "message": "L'histoire de Gray",
+        "attribute": "0400000060010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_bgm": {
+        "name": "mn_dSetting_top_bgm",
+        "message": "Suivant",
+        "attribute": "0400000062010000",
+        "style_index": 367
+    },
+    "mn_dSetting_top_message": {
+        "name": "mn_dSetting_top_message",
+        "message": "Plan de jeu.",
+        "attribute": "0400000064010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_message_fast": {
+        "name": "mn_dSetting_top_message_fast",
+        "message": "C'est ~",
+        "attribute": "0400000066010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_message_normal": {
+        "name": "mn_dSetting_top_message_normal",
+        "message": "J'espère que tu le sais.",
+        "attribute": "0400000068010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_message_slow": {
+        "name": "mn_dSetting_top_message_slow",
+        "message": "Pour en prendre soin.",
+        "attribute": "040000006A010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_mute": {
+        "name": "mn_dSetting_top_mute",
+        "message": "Où es-tu?",
+        "attribute": "040000006C010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_mute_on": {
+        "name": "mn_dSetting_top_mute_on",
+        "message": "Être en vie.",
+        "attribute": "040000006E010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_mute_off": {
+        "name": "mn_dSetting_top_mute_off",
+        "message": "Il a un problème avec\r\nl'alcool.",
+        "attribute": "0400000070010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_com_speed": {
+        "name": "mn_dSetting_top_com_speed",
+        "message": "Nom",
+        "attribute": "0400000072010000",
+        "style_index": 368
+    },
+    "mn_dSetting_top_com_fast": {
+        "name": "mn_dSetting_top_com_fast",
+        "message": "Vous pourrez le voir dans le\r\nfutur.",
+        "attribute": "0400000074010000",
+        "style_index": 369
+    },
+    "mn_dSetting_top_com_normal": {
+        "name": "mn_dSetting_top_com_normal",
+        "message": "Adoption",
+        "attribute": "0400000076010000",
+        "style_index": 369
+    },
+    "mn_dSetting_stampTop_list": {
+        "name": "mn_dSetting_stampTop_list",
+        "message": "Montre-moi le livre.",
+        "attribute": "0400000078010000",
+        "style_index": 367
+    },
+    "mn_dSetting_stampList_title": {
+        "name": "mn_dSetting_stampList_title",
+        "message": "Il n'y a pas de pression.",
+        "attribute": "040000007A010000",
+        "style_index": 550
+    },
+    "mn_dSetting_stampList_count": {
+        "name": "mn_dSetting_stampList_count",
+        "message": "Malawi [0] /",
+        "attribute": "040000007C010000",
+        "style_index": 551
+    },
+    "mn_dSetting_title_details01": {
+        "name": "mn_dSetting_title_details01",
+        "message": "Suivez l'actualité sportive.",
+        "attribute": "040000007E010000",
+        "style_index": 523
+    },
+    "mn_dSetting_title_details07": {
+        "name": "mn_dSetting_title_details07",
+        "message": "Puis un acteur inconnu est apparu\r\nsur scène.",
+        "attribute": "0400000080010000",
+        "style_index": 523
+    },
+    "mn_dSetting_mw_enterA": {
+        "name": "mn_dSetting_mw_enterA",
+        "message": "Bonne position : [0:3 35-02-2]\r\n[0:3 00-00-00] [0:3 11-0C-1D-1].",
+        "attribute": "0401000E82010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enterB": {
+        "name": "mn_dSetting_mw_enterB",
+        "message": "Merci à tous pour votre\r\nparticipation.",
+        "attribute": "0401000E9A010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enterC": {
+        "name": "mn_dSetting_mw_enterC",
+        "message": "Nous vous aiderons à choisir\r\nvotre chemin [0:3].",
+        "attribute": "0401000EB2010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_first00": {
+        "name": "mn_dSetting_mw_enter_first00",
+        "message": "Tout peut changer ici.",
+        "attribute": "0401000ECA010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_add_intro": {
+        "name": "mn_dSetting_mw_add_intro",
+        "message": "Prenez bien soin des enfants.",
+        "attribute": "0401000ECC010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeA": {
+        "name": "mn_dSetting_mw_enter_byeA",
+        "message": "Mais tu peux revenir.",
+        "attribute": "0401000ECE010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeB": {
+        "name": "mn_dSetting_mw_enter_byeB",
+        "message": "Merci.",
+        "attribute": "0401000EE8010000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_enter_byeC": {
+        "name": "mn_dSetting_mw_enter_byeC",
+        "message": "Je veux le finir mais je ne peux\r\npas... c'est trop long.",
+        "attribute": "0401000E02020000",
+        "style_index": 4
+    },
+    "mn_dSetting_mw_top_savedata": {
+        "name": "mn_dSetting_mw_top_savedata",
+        "message": "Toutes les informations de\r\nl'entreprise ont été\r\nsupprimées.",
+        "attribute": "040000001C020000",
+        "style_index": 8
+    },
+    "mn_dSetting_mw_stampSet_mute": {
+        "name": "mn_dSetting_mw_stampSet_mute",
+        "message": "Est-ce qu'ils viennent ?",
+        "attribute": "040000001E020000",
+        "style_index": 8
+    },
+    "mn_dSetting_mw_mute_a0": {
+        "name": "mn_dSetting_mw_mute_a0",
+        "message": "espoir",
+        "attribute": "0400000020020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_mute_a1": {
+        "name": "mn_dSetting_mw_mute_a1",
+        "message": "ce qui s'est passé?",
+        "attribute": "0400000022020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_savedata_select": {
+        "name": "mn_dSetting_mw_savedata_select",
+        "message": "Choisissez un mode de jeu.",
+        "attribute": "0400000024020000",
+        "style_index": 486
+    },
+    "mn_dSetting_mw_savedata_check": {
+        "name": "mn_dSetting_mw_savedata_check",
+        "message": "Vous n'avez aucune facture à\r\npayer. Envie d'économiser ?",
+        "attribute": "0400000026020000",
+        "style_index": 486
+    },
+    "mn_dSetting_mw_savedata_a0": {
+        "name": "mn_dSetting_mw_savedata_a0",
+        "message": "Oui, c'est bien.",
+        "attribute": "0300000028020000",
+        "style_index": 9
+    },
+    "mn_dSetting_mw_savedata_a1": {
+        "name": "mn_dSetting_mw_savedata_a1",
+        "message": "1/Étudiants",
+        "attribute": "030000002A020000",
+        "style_index": 9
+    }
+}

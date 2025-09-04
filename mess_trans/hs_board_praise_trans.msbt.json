@@ -1,0 +1,410 @@
+{
+    "bd00_praise_mw_rank00a": {
+        "name": "bd00_praise_mw_rank00a",
+        "message": "Recherchez le fichier dans le\r\ndossier.",
+        "attribute": "0403051928020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank00b": {
+        "name": "bd00_praise_mw_rank00b",
+        "message": "La première saison est terminée.\r\nFélicitations, petit. [0:3 Lien\r\n00-00] Par exemple.",
+        "attribute": "0403051958020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank00c": {
+        "name": "bd00_praise_mw_rank00c",
+        "message": "Et surtout, je sais... Je sais\r\nque tu peux... Oui, tu peux.\r\n[Continue à 0:3].",
+        "attribute": "0403051988020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01a": {
+        "name": "bd00_praise_mw_rank01a",
+        "message": "Ce n’est pas un problème, mais\r\nc’est nécessaire.",
+        "attribute": "04030119B8020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01b": {
+        "name": "bd00_praise_mw_rank01b",
+        "message": "Oui, ce n'est pas vrai.",
+        "attribute": "04030119E2020000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank01c": {
+        "name": "bd00_praise_mw_rank01c",
+        "message": "0:3 11-0C-1D-FF] Génial ! [0:3\r\n11-0C-1D-FF] ! 12:03 Mec !",
+        "attribute": "040301190C030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02a": {
+        "name": "bd00_praise_mw_rank02a",
+        "message": "Et le troisième [0:3] est faux.",
+        "attribute": "0403011936030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02b": {
+        "name": "bd00_praise_mw_rank02b",
+        "message": "Oui, c'est un bon exemple.\r\n[0:3] Recherche.",
+        "attribute": "040301195C030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank02c": {
+        "name": "bd00_praise_mw_rank02c",
+        "message": "Troisième round ! Je ne le vois\r\npas ! [0:3] C'est toi.",
+        "attribute": "0403011982030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03a": {
+        "name": "bd00_praise_mw_rank03a",
+        "message": "Ce n'est pas facile à faire.",
+        "attribute": "04030119A8030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03b": {
+        "name": "bd00_praise_mw_rank03b",
+        "message": "Aujourd'hui, c'est le\r\nquatrième jour. Je suis heureux.",
+        "attribute": "04030119D8030000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank03c": {
+        "name": "bd00_praise_mw_rank03c",
+        "message": "Je veux gagner ! [0:30] Poésie.",
+        "attribute": "0403011908040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank08": {
+        "name": "bd00_praise_mw_rank08",
+        "message": "[0:3 2/11/02];",
+        "attribute": "0403011938040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank09": {
+        "name": "bd00_praise_mw_rank09",
+        "message": "N'oubliez pas… sérieusement.\r\nLa deuxième mi-temps s'est\r\nbien passée. 0:3 00-00-00-00-\r\n[0:3",
+        "attribute": "0403011958040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank10": {
+        "name": "bd00_praise_mw_rank10",
+        "message": "Aujourd'hui!",
+        "attribute": "040301197E040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank04a": {
+        "name": "bd00_praise_mw_rank04a",
+        "message": "[0:3 11-0s-1d-ff] Merci beaucoup.\r\n[0:3 11-0C-1D-FF] Merci beaucoup.\r\nJe suis africain.",
+        "attribute": "04030519A4040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank04b": {
+        "name": "bd00_praise_mw_rank04b",
+        "message": "C'est la première fois que je\r\nte parle. Tout le monde veut te\r\nparler. [0:300-00-00].",
+        "attribute": "04030519D4040000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank05a": {
+        "name": "bd00_praise_mw_rank05a",
+        "message": "C'était une bataille très\r\ndifficile. [0:30-00] Nord.",
+        "attribute": "0403011904050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank05b": {
+        "name": "bd00_praise_mw_rank05b",
+        "message": "Chapitre II [0:3] Presque\r\nterminé. [0:3] Lecture.",
+        "attribute": "040301192E050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank06a": {
+        "name": "bd00_praise_mw_rank06a",
+        "message": "[0:3 11-0C-1D-FF] Oui [0:3\r\n11-0C-1D-FF] ! J'étais en\r\ntroisième place [0:3].",
+        "attribute": "0403011958050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank06b": {
+        "name": "bd00_praise_mw_rank06b",
+        "message": "Coupe du monde 0:30",
+        "attribute": "040301197E050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank07a": {
+        "name": "bd00_praise_mw_rank07a",
+        "message": "Défi de quatre jours 0:3! [0:3 à\r\n00–22].",
+        "attribute": "04030119A4050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_rank07b": {
+        "name": "bd00_praise_mw_rank07b",
+        "message": "[0:311-0-1-1-B]Ouverture\r\n|[0:35/02/35]",
+        "attribute": "04030119D4050000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st00": {
+        "name": "bd00_praise_mw_1st00",
+        "message": "Félicitations pour avoir remporté\r\nle jackpot !",
+        "attribute": "0403011904060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st01": {
+        "name": "bd00_praise_mw_1st01",
+        "message": "Je pense que son objectif est de\r\ngagner autant de matchs que\r\npossible.",
+        "attribute": "0403011906060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st02": {
+        "name": "bd00_praise_mw_1st02",
+        "message": "[0:311-0c-1d-ff] Nous savons que\r\nles animaux apportent de la joie.",
+        "attribute": "0403011908060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st03": {
+        "name": "bd00_praise_mw_1st03",
+        "message": "Les outils que j'utilise sont\r\ntrès bons.",
+        "attribute": "040301190A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st04": {
+        "name": "bd00_praise_mw_1st04",
+        "message": "Quelles questions\r\nn'aimez-vous pas ?",
+        "attribute": "040301190C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st05": {
+        "name": "bd00_praise_mw_1st05",
+        "message": "Cela va bientôt changer. Votre\r\ncarrière dépend de votre\r\npersonnalité.",
+        "attribute": "040301190E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st06": {
+        "name": "bd00_praise_mw_1st06",
+        "message": "Le match final s'est terminé\r\nsur le score de 11-0C-1N-FF.",
+        "attribute": "0403011910060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st07": {
+        "name": "bd00_praise_mw_1st07",
+        "message": "[0:3] La balle est dans le coin\r\ndroit.",
+        "attribute": "0403011912060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st08": {
+        "name": "bd00_praise_mw_1st08",
+        "message": "J'espère que votre terrain de\r\njeu est sûr.",
+        "attribute": "0403011914060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st09": {
+        "name": "bd00_praise_mw_1st09",
+        "message": "Va à la cuisine.",
+        "attribute": "0403011916060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st10": {
+        "name": "bd00_praise_mw_1st10",
+        "message": "[0:3 11-0C-1D-FF] Combien de\r\nnavires as-tu vus ? Je\r\nn'arrivais pas à y croire !",
+        "attribute": "0403011918060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st11": {
+        "name": "bd00_praise_mw_1st11",
+        "message": "Comment le sais-tu ? Mais quelque\r\nchose s'est produit ce\r\njour-là. [0:3 11-0C-1D-FF] [10:3]\r\nOh mon Dieu.",
+        "attribute": "040301191A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st12": {
+        "name": "bd00_praise_mw_1st12",
+        "message": "Soyez le joueur qui vainc\r\nl’ennemi.",
+        "attribute": "040301191C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st13": {
+        "name": "bd00_praise_mw_1st13",
+        "message": "Nous avons travaillé jour et nuit\r\npour vaincre nos ennemis, et\r\nmaintenant ils sont là.",
+        "attribute": "040301191E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st14": {
+        "name": "bd00_praise_mw_1st14",
+        "message": "Nous avons de grands projets,\r\nn'est-ce pas ? [0:3] Oui,\r\nmonsieur.",
+        "attribute": "0403011920060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st15": {
+        "name": "bd00_praise_mw_1st15",
+        "message": "Cela fait mal à tout le monde.",
+        "attribute": "0403011922060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st16": {
+        "name": "bd00_praise_mw_1st16",
+        "message": "Cuba : Le président peut voter\r\nn'importe quelle loi ! [0:3]\r\nQu'est-ce que c'est ?",
+        "attribute": "0403011924060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st17": {
+        "name": "bd00_praise_mw_1st17",
+        "message": "C'est un super jeu, vous\r\nn'avez pas à vous soucier des\r\nadversaires.",
+        "attribute": "0403011926060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st18": {
+        "name": "bd00_praise_mw_1st18",
+        "message": "C'était l'homme le plus\r\nfort du pays. La police est fière\r\nde votre travail. [3 juillet\r\n2000, 0h00].",
+        "attribute": "0403011928060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_1st19": {
+        "name": "bd00_praise_mw_1st19",
+        "message": "Volney l'a aidé. Quelle photo\r\n?",
+        "attribute": "040301192A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under00": {
+        "name": "bd00_praise_mw_under00",
+        "message": "assez. [0:3 00:00] Êtes-vous\r\ndétendu ? 0:3 00:00]\r\nGouvernement.",
+        "attribute": "040301192C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under01": {
+        "name": "bd00_praise_mw_under01",
+        "message": "Même si je n'en ai aucune\r\nchance, j'aime quand même le\r\nfaire. Ça demande beaucoup de\r\nréflexion.",
+        "attribute": "040301192E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under02": {
+        "name": "bd00_praise_mw_under02",
+        "message": "Qui a besoin de ça ? C'est un\r\nhomme ? Ok.",
+        "attribute": "0403011930060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under03": {
+        "name": "bd00_praise_mw_under03",
+        "message": "Plus vous achetez, plus vous\r\ngagnez d'argent. Consultez\r\ncet article.",
+        "attribute": "0403011932060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under04": {
+        "name": "bd00_praise_mw_under04",
+        "message": "Je l'utilise tout le temps.",
+        "attribute": "0403011934060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under05": {
+        "name": "bd00_praise_mw_under05",
+        "message": "Un autre problème de cette ville\r\nest qu’elle est plus populaire\r\nauprès des touristes que d’autres\r\nvilles.",
+        "attribute": "0403011936060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under06": {
+        "name": "bd00_praise_mw_under06",
+        "message": "Nous ne voyons pas de boîte\r\nbleue, nous avons [0:3 AF-AF-AF],\r\nn'est-ce pas ? [0:3",
+        "attribute": "0403011938060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under07": {
+        "name": "bd00_praise_mw_under07",
+        "message": "Nos étudiants ! Je n'ai pas\r\npeur ! 0:300-00000-00.",
+        "attribute": "040301193A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under08": {
+        "name": "bd00_praise_mw_under08",
+        "message": "Rien ne peut l'empêcher de\r\nfaire son travail. N'est-ce\r\npas dangereux ?",
+        "attribute": "040301193C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under09": {
+        "name": "bd00_praise_mw_under09",
+        "message": "Alors [0:3 FF-35-02-FF]… peux-tu\r\nacheter un autre lit ?",
+        "attribute": "040301193E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under10": {
+        "name": "bd00_praise_mw_under10",
+        "message": "J'ai vu un magasin de\r\ncouteaux sur la route, les gens\r\nsont entrés.",
+        "attribute": "0403011940060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under11": {
+        "name": "bd00_praise_mw_under11",
+        "message": "Je l'ai fait pousser sur un\r\narbre, non ? [0:3] C'est de\r\nla technologie. Ma mère est\r\nagricultrice.",
+        "attribute": "0403011942060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under12": {
+        "name": "bd00_praise_mw_under12",
+        "message": "Pensez aux étoiles ! Même vos\r\nennemis ne savent pas où vous\r\nallez ! [0:03] Probablement\r\n10:00.",
+        "attribute": "0403011944060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under13": {
+        "name": "bd00_praise_mw_under13",
+        "message": "Vous pouvez voir sur la carte ce\r\nqui se passe partout dans le\r\nmonde. Maintenant… 0:3",
+        "attribute": "0403011946060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under14": {
+        "name": "bd00_praise_mw_under14",
+        "message": "Vous êtes au bon endroit.\r\nC'était un moment formidable.\r\n[0:3] De la poésie et de la\r\npoésie.",
+        "attribute": "0403011948060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under15": {
+        "name": "bd00_praise_mw_under15",
+        "message": "C'est magnifique ici. Comment\r\nallez-vous tous ? [0:3] Merci.",
+        "attribute": "040301194A060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under16": {
+        "name": "bd00_praise_mw_under16",
+        "message": "Je vis à Cuba. Juste des gens.\r\nJuste des gens.",
+        "attribute": "040301194C060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under17": {
+        "name": "bd00_praise_mw_under17",
+        "message": "Honnêtement, j’aime ce jeu de\r\ntellement de manières.",
+        "attribute": "040301194E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under18": {
+        "name": "bd00_praise_mw_under18",
+        "message": "Trop d'argent à la banque ?\r\n[0:3, 00-00-00]",
+        "attribute": "0403011950060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19a": {
+        "name": "bd00_praise_mw_under19a",
+        "message": "Prêt à partir. Merci pour vos\r\ngentils mots.",
+        "attribute": "0403011952060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19b": {
+        "name": "bd00_praise_mw_under19b",
+        "message": "Voilà comment il utilise son\r\npouvoir. Ce n'est pas facile.",
+        "attribute": "0403001954060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_under19c": {
+        "name": "bd00_praise_mw_under19c",
+        "message": "Il sait que je suis malade.\r\nJ'adore l'idée du mariage\r\n!",
+        "attribute": "0403001956060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00a": {
+        "name": "bd00_praise_mw_end00a",
+        "message": "C'est une question difficile.\r\nMa réponse est simple.",
+        "attribute": "0403011958060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00b": {
+        "name": "bd00_praise_mw_end00b",
+        "message": "Tout le monde peut faire\r\nn'importe quoi. Essayons.",
+        "attribute": "040301197E060000",
+        "style_index": 4
+    },
+    "bd00_praise_mw_end00c": {
+        "name": "bd00_praise_mw_end00c",
+        "message": "C'est ma réponse.",
+        "attribute": "04030119A4060000",
+        "style_index": 4
+    }
+}

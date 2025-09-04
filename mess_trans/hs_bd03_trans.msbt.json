@@ -1,0 +1,326 @@
+{
+    "bd03_OP_mw_past00": {
+        "name": "bd03_OP_mw_past00",
+        "message": "Si vous ne faites pas attention,\r\nvous risquez de manquer des\r\nparties importantes.",
+        "attribute": "0401000FB8010000",
+        "style_index": 4
+    },
+    "bd03_OP_mw_past01": {
+        "name": "bd03_OP_mw_past01",
+        "message": "J'ai combattu au nom de Dieu\r\ntrois fois.",
+        "attribute": "0401000FBA010000",
+        "style_index": 4
+    },
+    "bd03_OP_mw_purpose00": {
+        "name": "bd03_OP_mw_purpose00",
+        "message": "Mais rien n’est impossible.",
+        "attribute": "0401000FBC010000",
+        "style_index": 4
+    },
+    "bd03_OP_mw_purpose01": {
+        "name": "bd03_OP_mw_purpose01",
+        "message": "Allons-y, allons-y.",
+        "attribute": "0401000FDA010000",
+        "style_index": 4
+    },
+    "bd03_OP_mw_purpose02": {
+        "name": "bd03_OP_mw_purpose02",
+        "message": "C'est le moment. Que puis-je\r\ndire ?",
+        "attribute": "0401000FF4010000",
+        "style_index": 4
+    },
+    "bd03_OP_mw_purpose03": {
+        "name": "bd03_OP_mw_purpose03",
+        "message": "Il a commencé à voir des étoiles\r\ndans les montagnes voisines.",
+        "attribute": "0401000F08020000",
+        "style_index": 4
+    },
+    "bd03_p01_mw_explaination00": {
+        "name": "bd03_p01_mw_explaination00",
+        "message": "Écoutez votre intuition et\r\nsuivez-la. Le chemin a changé.",
+        "attribute": "040400012C020000",
+        "style_index": 4
+    },
+    "bd03_p01_mw_explaination01": {
+        "name": "bd03_p01_mw_explaination01",
+        "message": "Trouver des clients Qui sait\r\nquelles surprises vous attendent\r\n?",
+        "attribute": "0404000146020000",
+        "style_index": 4
+    },
+    "bd03_p01_mw_explaination02": {
+        "name": "bd03_p01_mw_explaination02",
+        "message": "Mais cet arbre est complètement\r\ndifférent.",
+        "attribute": "0404000160020000",
+        "style_index": 4
+    },
+    "bd03_p01_mw_explaination03": {
+        "name": "bd03_p01_mw_explaination03",
+        "message": "Meilleur conseil : bonne chance !",
+        "attribute": "040100197A020000",
+        "style_index": 4
+    },
+    "bd03_p02_mw_lastSpNPC009_00": {
+        "name": "bd03_p02_mw_lastSpNPC009_00",
+        "message": "Fais ce que tu veux.",
+        "attribute": "0401011398020000",
+        "style_index": 4
+    },
+    "bd03_p02_mw_lastSpNPC009_01": {
+        "name": "bd03_p02_mw_lastSpNPC009_01",
+        "message": "Vos mots parlent d’eux-mêmes et\r\nvous devez les choisir\r\njudicieusement.",
+        "attribute": "04010113AC020000",
+        "style_index": 4
+    },
+    "bd03_p02_mw_lastSpGoodTree_00": {
+        "name": "bd03_p02_mw_lastSpGoodTree_00",
+        "message": "J'ai eu l'opportunité de\r\ngrimper au sommet du Mont Fuji.",
+        "attribute": "04010101C6020000",
+        "style_index": 4
+    },
+    "bd03_p02_mw_lastSpGoodTree_01": {
+        "name": "bd03_p02_mw_lastSpGoodTree_01",
+        "message": "Cet article utilise des\r\nsimulateurs animaux pour étudier\r\nle comportement animal.",
+        "attribute": "04010101F8020000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_allArrow00": {
+        "name": "bd03_gmk01_mw_allArrow00",
+        "message": "Quel est le résultat ? Chacun est\r\ndifférent.",
+        "attribute": "0404000030030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_oneArrow00": {
+        "name": "bd03_gmk01_mw_oneArrow00",
+        "message": "Puis l'adresse a changé.",
+        "attribute": "0404000032030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_choropoo00": {
+        "name": "bd03_gmk01_mw_choropoo00",
+        "message": "Puis-je te parler ?",
+        "attribute": "0404011334030000",
+        "style_index": 6
+    },
+    "bd03_gmk01_mw_choropoo00_a0": {
+        "name": "bd03_gmk01_mw_choropoo00_a0",
+        "message": "La Coupe du monde 2017 a été un\r\névénement inattendu pour le monde\r\nentier.",
+        "attribute": "0400001352030000",
+        "style_index": 9
+    },
+    "bd03_gmk01_mw_choropoo00_a1": {
+        "name": "bd03_gmk01_mw_choropoo00_a1",
+        "message": "Ce travail est réalisé à petite\r\néchelle.",
+        "attribute": "0400001354030000",
+        "style_index": 9
+    },
+    "bd03_gmk01_mw_choropoo00_a2": {
+        "name": "bd03_gmk01_mw_choropoo00_a2",
+        "message": "Regardez cette image.",
+        "attribute": "0400000056030000",
+        "style_index": 9
+    },
+    "bd03_gmk01_mw_noCoin00": {
+        "name": "bd03_gmk01_mw_noCoin00",
+        "message": "Dois-je y aller ?",
+        "attribute": "0404011358030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_noCoin01": {
+        "name": "bd03_gmk01_mw_noCoin01",
+        "message": "Mais il n'a pas d'argent.\r\nDésolé. C'est tout.",
+        "attribute": "0404011376030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_noAsk00": {
+        "name": "bd03_gmk01_mw_noAsk00",
+        "message": "J'aime beaucoup. Oui,\r\nj'aime bien.",
+        "attribute": "0404041394030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_ask00": {
+        "name": "bd03_gmk01_mw_ask00",
+        "message": "Oui, il jouait, mais personne ne\r\nsavait ce que cela signifiait.",
+        "attribute": "04040813A8030000",
+        "style_index": 4
+    },
+    "bd03_gmk01_mw_ask01": {
+        "name": "bd03_gmk01_mw_ask01",
+        "message": "Comment est-ce arrivé ? Chacun a\r\nses propres raisons.",
+        "attribute": "04040000C2030000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_good00": {
+        "name": "bd03_gmk02_mw_good00",
+        "message": "[0:3] Bonjour, Philip Cyrus,\r\npuis-je entrer ? Nous sommes tous\r\ndes imbéciles !",
+        "attribute": "04040101C4030000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_good01": {
+        "name": "bd03_gmk02_mw_good01",
+        "message": "[0:3 BFFF-FF] Merci encore [0:3\r\nBFFF-FF] ! Bonjour\r\n[0:300-00-00-00].",
+        "attribute": "04040101F0030000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_good02": {
+        "name": "bd03_gmk02_mw_good02",
+        "message": "[0:3] Quelque chose s'est\r\nproduit, nous en parlerons plus\r\ntard.",
+        "attribute": "040401011C040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_good03": {
+        "name": "bd03_gmk02_mw_good03",
+        "message": "Choisissez votre favori.",
+        "attribute": "040401011E040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_getCoin00": {
+        "name": "bd03_gmk02_mw_getCoin00",
+        "message": "juste",
+        "attribute": "0404000050040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_dice00": {
+        "name": "bd03_gmk02_mw_dice00",
+        "message": "[0.] La signification de ces deux\r\nformes.",
+        "attribute": "0404000052040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_goodMiss00": {
+        "name": "bd03_gmk02_mw_goodMiss00",
+        "message": "Que pensez-vous de ce projet ? De\r\nquoi avez-vous besoin ? De rien !",
+        "attribute": "0404010154040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_goodMiss01": {
+        "name": "bd03_gmk02_mw_goodMiss01",
+        "message": "Je peux le faire. J'aimerais\r\nle faire.",
+        "attribute": "040401018C040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_bad00": {
+        "name": "bd03_gmk02_mw_bad00",
+        "message": "[0:3 FF-FF-FF-FF] Hé, tu dois\r\nconduire. [03/03/03] Offre\r\nspéciale.",
+        "attribute": "040401018E040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_bad01": {
+        "name": "bd03_gmk02_mw_bad01",
+        "message": "Choisir...",
+        "attribute": "04040101B8040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_bad02": {
+        "name": "bd03_gmk02_mw_bad02",
+        "message": "Tu es sûr ? J'ai besoin de\r\nréponses… [0:3]",
+        "attribute": "04040101E8040000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_robCoin00": {
+        "name": "bd03_gmk02_mw_robCoin00",
+        "message": "[0:3]",
+        "attribute": "0404000012050000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_noCoin00": {
+        "name": "bd03_gmk02_mw_noCoin00",
+        "message": "On ne s'est pas vus depuis\r\nlongtemps. Il n'y a rien à\r\nfaire.",
+        "attribute": "0404010114050000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_reverseDice00": {
+        "name": "bd03_gmk02_mw_reverseDice00",
+        "message": "[Lire 0:3] Oui, c'est vrai.",
+        "attribute": "0404000044050000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_badMiss00": {
+        "name": "bd03_gmk02_mw_badMiss00",
+        "message": "- Qui est-ce ? — Tu veux gagner ?\r\n- Marshall a mangé.",
+        "attribute": "0404010146050000",
+        "style_index": 4
+    },
+    "bd03_gmk02_mw_badMiss01": {
+        "name": "bd03_gmk02_mw_badMiss01",
+        "message": "[0:3\r\nsortie-sortie-sortie-35-02-sortie-sortie]\r\n0:3.",
+        "attribute": "0404010176050000",
+        "style_index": 4
+    },
+    "bd03_gmk02_start00": {
+        "name": "bd03_gmk02_start00",
+        "message": "Sois prudent.",
+        "attribute": "040000009C050000",
+        "style_index": 102
+    },
+    "bd03_gmk03_mw_noCoin00": {
+        "name": "bd03_gmk03_mw_noCoin00",
+        "message": "incontrôlable. [0:3 ffff] Écoute.",
+        "attribute": "0404012D9E050000",
+        "style_index": 4
+    },
+    "bd03_gmk03_mw_noCoin01": {
+        "name": "bd03_gmk03_mw_noCoin01",
+        "message": "Malheureusement, il n'y a pas\r\nbeaucoup d'argent ici. Mais\r\nce n'est pas tout !",
+        "attribute": "0404012DB2050000",
+        "style_index": 4
+    },
+    "bd03_gmk03_mw_welcome00": {
+        "name": "bd03_gmk03_mw_welcome00",
+        "message": "Nous sommes arrivés au zoo, qui\r\nest un magnifique bâtiment.\r\n[0:300-01-01] [0:300-01-01]",
+        "attribute": "0404012DCA050000",
+        "style_index": 4
+    },
+    "bd03_gmk03_mw_welcome01": {
+        "name": "bd03_gmk03_mw_welcome01",
+        "message": "Tu nous manques tellement !",
+        "attribute": "0404012DE2050000",
+        "style_index": 4
+    },
+    "bd03_gmk03_mw_welcome02": {
+        "name": "bd03_gmk03_mw_welcome02",
+        "message": "[Clavier 0:3] Dessiner [Clavier\r\n0:3] [Clavier 0:3]:.",
+        "attribute": "0404012DE4050000",
+        "style_index": 4
+    },
+    "bd03_gmk03_mw_welcome03": {
+        "name": "bd03_gmk03_mw_welcome03",
+        "message": "OK. Merci pour la suggestion.",
+        "attribute": "0404012DFE050000",
+        "style_index": 4
+    },
+    "bd03_map_gmk01_arrow_details": {
+        "name": "bd03_map_gmk01_arrow_details",
+        "message": "[0:3] Regardez ce sourire, il\r\nchange toujours. [12:3]",
+        "attribute": "0400000012060000",
+        "style_index": 61
+    },
+    "bd03_map_gmk01_c04_details": {
+        "name": "bd03_map_gmk01_c04_details",
+        "message": "Changez ensuite le mode de [0:3]\r\nà [0:3] puis à [0:300-00-00-FF].",
+        "attribute": "0400000014060000",
+        "style_index": 61
+    },
+    "bd03_map_gmk01_choropoo_details": {
+        "name": "bd03_map_gmk01_choropoo_details",
+        "message": "[0:3F Guggpio] 0:3F Guggpio.",
+        "attribute": "0400000016060000",
+        "style_index": 61
+    },
+    "bd03_map_gmk02_good_details": {
+        "name": "bd03_map_gmk02_good_details",
+        "message": "Vous pouvez voir les résultats\r\nici.",
+        "attribute": "0400000018060000",
+        "style_index": 61
+    },
+    "bd03_map_gmk02_bad_details": {
+        "name": "bd03_map_gmk02_bad_details",
+        "message": "Vraiment.",
+        "attribute": "040000001A060000",
+        "style_index": 61
+    },
+    "bd03_map_gmk03_spot_details": {
+        "name": "bd03_map_gmk03_spot_details",
+        "message": "C'est une belle partie de la\r\nville.",
+        "attribute": "040000001C060000",
+        "style_index": 61
+    }
+}

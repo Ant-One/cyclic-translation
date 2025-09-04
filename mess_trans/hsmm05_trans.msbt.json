@@ -1,0 +1,104 @@
+{
+    "hsmm05_mw_op00": {
+        "name": "hsmm05_mw_op00",
+        "message": "Nous avons perdu quatre matchs.\r\nD'où vient tout cela ?",
+        "attribute": "0405002290000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st2": {
+        "name": "hsmm05_mw_op00_st2",
+        "message": "Cette troisième photo est très\r\nbelle. Qui reconnais-tu ?",
+        "attribute": "04050022AA000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st3": {
+        "name": "hsmm05_mw_op00_st3",
+        "message": "Je ne pense pas. Est-ce une bonne\r\nchose ?",
+        "attribute": "04050022C4000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st4": {
+        "name": "hsmm05_mw_op00_st4",
+        "message": "C’est à toi de décider. Je n’aime\r\npas travailler.",
+        "attribute": "04050022DE000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st5": {
+        "name": "hsmm05_mw_op00_st5",
+        "message": "Par exemple, allons. Père est\r\nnotre nouvel ennemi.",
+        "attribute": "04050022F8000000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op00_st6": {
+        "name": "hsmm05_mw_op00_st6",
+        "message": "Oui… mais c'est un peu\r\ndifférent. Et c'est délicieux\r\n!",
+        "attribute": "0405002212010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op01": {
+        "name": "hsmm05_mw_op01",
+        "message": "Ouais, je ne suis pas surpris,\r\nles gars !",
+        "attribute": "040500222C010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op01b": {
+        "name": "hsmm05_mw_op01b",
+        "message": "Les enfants peuvent le faire\r\naussi, mais ce n’est pas si\r\nfacile.",
+        "attribute": "0405002250010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op02": {
+        "name": "hsmm05_mw_op02",
+        "message": "Ouais… ouais, c’est vrai. Je sais\r\nce qui s’est passé.",
+        "attribute": "0405002274010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op02b": {
+        "name": "hsmm05_mw_op02b",
+        "message": "Je ne peux pas y jouer\r\nmaintenant, mais j'ai la\r\ncarte.",
+        "attribute": "0405002292010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op03": {
+        "name": "hsmm05_mw_op03",
+        "message": "Mais ce n’est pas suffisant ! Oh,\r\nje sais !",
+        "attribute": "04050022B0010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op03b": {
+        "name": "hsmm05_mw_op03b",
+        "message": "Je ne pensais pas que ça\r\nmarcherait, mais ça a marché.",
+        "attribute": "04050022CA010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op04": {
+        "name": "hsmm05_mw_op04",
+        "message": "Au revoir. Tu as pris plus de\r\nresponsabilités que nécessaire. À\r\nplus tard, hahaha.",
+        "attribute": "04050022E4010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_op04b": {
+        "name": "hsmm05_mw_op04b",
+        "message": "Quoi ?! La bataille n'est pas\r\nterminée, mais nous sommes en\r\ntrain de gagner.",
+        "attribute": "04050022FE010000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00": {
+        "name": "hsmm05_mw_lose00",
+        "message": "Pourquoi pars-tu ? Personne ne\r\npeut t'en empêcher.",
+        "attribute": "0404002218020000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00b": {
+        "name": "hsmm05_mw_lose00b",
+        "message": "Oh mon Dieu ! Criez ! Il est\r\ntemps de retourner à l'école\r\n!",
+        "attribute": "040400221A020000",
+        "style_index": 4
+    },
+    "hsmm05_mw_lose00c": {
+        "name": "hsmm05_mw_lose00c",
+        "message": "Je n'ai pas gagné, mais\r\nj'ai reçu un gros prix.",
+        "attribute": "040400221C020000",
+        "style_index": 4
+    }
+}

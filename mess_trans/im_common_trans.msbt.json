@@ -1,0 +1,404 @@
+{
+    "im_rank01": {
+        "name": "im_rank01",
+        "message": "11. Nom.",
+        "attribute": "0400000020020000",
+        "style_index": 4294967295
+    },
+    "im_rank02": {
+        "name": "im_rank02",
+        "message": "enfants;",
+        "attribute": "0400000022020000",
+        "style_index": 4294967295
+    },
+    "im_rank03": {
+        "name": "im_rank03",
+        "message": "Il mesure 30 x 1000 pieds carrés.",
+        "attribute": "0400000024020000",
+        "style_index": 4294967295
+    },
+    "im_rank04": {
+        "name": "im_rank04",
+        "message": "J'ai vingt ans.",
+        "attribute": "0400000026020000",
+        "style_index": 4294967295
+    },
+    "im_guest01_name": {
+        "name": "im_guest01_name",
+        "message": "Le marché est ici.",
+        "attribute": "0400000028020000",
+        "style_index": 4294967295
+    },
+    "im_guest02_name": {
+        "name": "im_guest02_name",
+        "message": "2. Oui.",
+        "attribute": "040000002A020000",
+        "style_index": 4294967295
+    },
+    "im_guest03_name": {
+        "name": "im_guest03_name",
+        "message": "3 D'accord.",
+        "attribute": "040000002C020000",
+        "style_index": 4294967295
+    },
+    "im_pc01_name": {
+        "name": "im_pc01_name",
+        "message": "Autour.",
+        "attribute": "040000002E020000",
+        "style_index": 4294967295
+    },
+    "im_pc02_name": {
+        "name": "im_pc02_name",
+        "message": "Luigi est une personne très\r\ngentille.",
+        "attribute": "0400000030020000",
+        "style_index": 4294967295
+    },
+    "im_pc03_name": {
+        "name": "im_pc03_name",
+        "message": "Consommation et vente de drogues\r\nillégales.",
+        "attribute": "0400000032020000",
+        "style_index": 4294967295
+    },
+    "im_pc04_name": {
+        "name": "im_pc04_name",
+        "message": "Je vais te le dire.",
+        "attribute": "0400000034020000",
+        "style_index": 4294967295
+    },
+    "im_pc05_name": {
+        "name": "im_pc05_name",
+        "message": "histoire",
+        "attribute": "0400000036020000",
+        "style_index": 4294967295
+    },
+    "im_pc06_name": {
+        "name": "im_pc06_name",
+        "message": "s'il te plaît",
+        "attribute": "0400000038020000",
+        "style_index": 4294967295
+    },
+    "im_pc07_name": {
+        "name": "im_pc07_name",
+        "message": "Josué lui répondit.",
+        "attribute": "040000003A020000",
+        "style_index": 4294967295
+    },
+    "im_pc11_name": {
+        "name": "im_pc11_name",
+        "message": "Je suis d'accord avec toi.",
+        "attribute": "040000003C020000",
+        "style_index": 4294967295
+    },
+    "im_pc12_name": {
+        "name": "im_pc12_name",
+        "message": "Je t'apprécie.",
+        "attribute": "040000003E020000",
+        "style_index": 4294967295
+    },
+    "im_pc13_name": {
+        "name": "im_pc13_name",
+        "message": "Ceci ne peut pas être supprimé.",
+        "attribute": "0400000040020000",
+        "style_index": 4294967295
+    },
+    "im_npc022_name": {
+        "name": "im_npc022_name",
+        "message": "3. Or",
+        "attribute": "0400000042020000",
+        "style_index": 4294967295
+    },
+    "im_npc088_name": {
+        "name": "im_npc088_name",
+        "message": "Le ciel était nuageux ce jour-là.",
+        "attribute": "0400000044020000",
+        "style_index": 4294967295
+    },
+    "im_npc000_name": {
+        "name": "im_npc000_name",
+        "message": "L’un d’eux est Bowser.",
+        "attribute": "0400000046020000",
+        "style_index": 4294967295
+    },
+    "im_npc001_name": {
+        "name": "im_npc001_name",
+        "message": "nourriture",
+        "attribute": "0400000048020000",
+        "style_index": 4294967295
+    },
+    "im_npc002_name": {
+        "name": "im_npc002_name",
+        "message": "Pratiquez la maîtrise de soi.",
+        "attribute": "040000004A020000",
+        "style_index": 4294967295
+    },
+    "im_npc002a_name": {
+        "name": "im_npc002a_name",
+        "message": "Il était astronome.",
+        "attribute": "040000004C020000",
+        "style_index": 4294967295
+    },
+    "im_npc003_name": {
+        "name": "im_npc003_name",
+        "message": "Oui chérie.",
+        "attribute": "040000004E020000",
+        "style_index": 4294967295
+    },
+    "im_npc004_name": {
+        "name": "im_npc004_name",
+        "message": "Ce n'est pas encore fini.",
+        "attribute": "0400000050020000",
+        "style_index": 4294967295
+    },
+    "im_npc005_name": {
+        "name": "im_npc005_name",
+        "message": "Ce bruit.",
+        "attribute": "0400000052020000",
+        "style_index": 4294967295
+    },
+    "im_npc006_name": {
+        "name": "im_npc006_name",
+        "message": "C'est la maison de William\r\nBull.",
+        "attribute": "0400000054020000",
+        "style_index": 4294967295
+    },
+    "im_npc007_name": {
+        "name": "im_npc007_name",
+        "message": "mais",
+        "attribute": "0400000056020000",
+        "style_index": 4294967295
+    },
+    "im_npc008_name": {
+        "name": "im_npc008_name",
+        "message": "Qu'est-ce que c'est?",
+        "attribute": "0400000058020000",
+        "style_index": 4294967295
+    },
+    "im_npc009_name": {
+        "name": "im_npc009_name",
+        "message": "La liste d'attente",
+        "attribute": "040000005A020000",
+        "style_index": 4294967295
+    },
+    "im_npc010_name": {
+        "name": "im_npc010_name",
+        "message": "Autres",
+        "attribute": "040000005C020000",
+        "style_index": 4294967295
+    },
+    "im_npc011_name": {
+        "name": "im_npc011_name",
+        "message": "Ce genre de chose peut arriver.",
+        "attribute": "040000005E020000",
+        "style_index": 4294967295
+    },
+    "im_npc013_name": {
+        "name": "im_npc013_name",
+        "message": "La violence est inévitable.",
+        "attribute": "0400000060020000",
+        "style_index": 4294967295
+    },
+    "im_npc017_name": {
+        "name": "im_npc017_name",
+        "message": "Cependant, malgré",
+        "attribute": "0400000062020000",
+        "style_index": 4294967295
+    },
+    "im_npc025_name": {
+        "name": "im_npc025_name",
+        "message": "et",
+        "attribute": "0400000064020000",
+        "style_index": 4294967295
+    },
+    "im_npc067_name": {
+        "name": "im_npc067_name",
+        "message": "Savez-vous?",
+        "attribute": "0400000066020000",
+        "style_index": 4294967295
+    },
+    "im_npc027_name": {
+        "name": "im_npc027_name",
+        "message": "OMS",
+        "attribute": "0400000068020000",
+        "style_index": 4294967295
+    },
+    "im_npc012_name": {
+        "name": "im_npc012_name",
+        "message": "Respect, respect.",
+        "attribute": "040000006A020000",
+        "style_index": 4294967295
+    },
+    "im_npc021_name": {
+        "name": "im_npc021_name",
+        "message": "D'ACCORD",
+        "attribute": "040000006C020000",
+        "style_index": 4294967295
+    },
+    "im_npc023_name": {
+        "name": "im_npc023_name",
+        "message": "J'ai des bijoux.",
+        "attribute": "040000006E020000",
+        "style_index": 4294967295
+    },
+    "im_npc026_name": {
+        "name": "im_npc026_name",
+        "message": "Regarder.",
+        "attribute": "0400000070020000",
+        "style_index": 4294967295
+    },
+    "im_npc051_name": {
+        "name": "im_npc051_name",
+        "message": "Ministère des Affaires\r\nétrangères.",
+        "attribute": "0400000072020000",
+        "style_index": 4294967295
+    },
+    "im_npc053_name": {
+        "name": "im_npc053_name",
+        "message": "En particulier.",
+        "attribute": "0400000074020000",
+        "style_index": 4294967295
+    },
+    "im_npc032_name": {
+        "name": "im_npc032_name",
+        "message": "Nous devons commencer.",
+        "attribute": "0400000076020000",
+        "style_index": 4294967295
+    },
+    "im_npc035_name": {
+        "name": "im_npc035_name",
+        "message": "s'il te plaît",
+        "attribute": "0400000078020000",
+        "style_index": 4294967295
+    },
+    "im_npc036_name": {
+        "name": "im_npc036_name",
+        "message": "expert",
+        "attribute": "040000007A020000",
+        "style_index": 4294967295
+    },
+    "im_npc044_name": {
+        "name": "im_npc044_name",
+        "message": "Frères et sœurs, aimez-vous les\r\nuns les autres.",
+        "attribute": "040000007C020000",
+        "style_index": 4294967295
+    },
+    "im_npc046_name": {
+        "name": "im_npc046_name",
+        "message": "Ce n’est pas un jugement.",
+        "attribute": "040000007E020000",
+        "style_index": 4294967295
+    },
+    "im_npc048_name": {
+        "name": "im_npc048_name",
+        "message": "De l'autre côté du monde.",
+        "attribute": "0400000080020000",
+        "style_index": 4294967295
+    },
+    "im_npc049_name": {
+        "name": "im_npc049_name",
+        "message": "La science derrière tout cela est\r\nsimple.",
+        "attribute": "0400000082020000",
+        "style_index": 4294967295
+    },
+    "im_npc062_name": {
+        "name": "im_npc062_name",
+        "message": "voiture",
+        "attribute": "0400000084020000",
+        "style_index": 4294967295
+    },
+    "im_npc072_name": {
+        "name": "im_npc072_name",
+        "message": "Viande.",
+        "attribute": "0400000086020000",
+        "style_index": 4294967295
+    },
+    "im_npc079_name": {
+        "name": "im_npc079_name",
+        "message": "La famille ne peut pas s’en\r\nempêcher.",
+        "attribute": "0400000088020000",
+        "style_index": 4294967295
+    },
+    "im_npc091_name": {
+        "name": "im_npc091_name",
+        "message": "Un dépistage du diabète est\r\nobligatoire.",
+        "attribute": "040000008A020000",
+        "style_index": 4294967295
+    },
+    "im_npc092_name": {
+        "name": "im_npc092_name",
+        "message": "Anglais.",
+        "attribute": "040000008C020000",
+        "style_index": 4294967295
+    },
+    "im_npc102_name": {
+        "name": "im_npc102_name",
+        "message": "La recette est simple.",
+        "attribute": "040000008E020000",
+        "style_index": 4294967295
+    },
+    "im_bd01_name": {
+        "name": "im_bd01_name",
+        "message": "L'odeur de la nourriture.",
+        "attribute": "0400000090020000",
+        "style_index": 4294967295
+    },
+    "im_bd02_name": {
+        "name": "im_bd02_name",
+        "message": "C'est la vérité du ciel.",
+        "attribute": "0400000092020000",
+        "style_index": 4294967295
+    },
+    "im_bd03_name": {
+        "name": "im_bd03_name",
+        "message": "On l'appelle l'Arbre de\r\nVie.",
+        "attribute": "0400000094020000",
+        "style_index": 4294967295
+    },
+    "im_bd04_name": {
+        "name": "im_bd04_name",
+        "message": "Australie, en",
+        "attribute": "0400000096020000",
+        "style_index": 4294967295
+    },
+    "im_bd05_name": {
+        "name": "im_bd05_name",
+        "message": "Demandez au gouvernement.",
+        "attribute": "0400000098020000",
+        "style_index": 4294967295
+    },
+    "im_mode01_name": {
+        "name": "im_mode01_name",
+        "message": "Chers tous !",
+        "attribute": "040000009A020000",
+        "style_index": 4294967295
+    },
+    "im_mode02_name": {
+        "name": "im_mode02_name",
+        "message": "Cette montagne n'a pas de\r\nnom.",
+        "attribute": "040000009C020000",
+        "style_index": 4294967295
+    },
+    "im_mode03_name": {
+        "name": "im_mode03_name",
+        "message": "La maison est très belle.",
+        "attribute": "040000009E020000",
+        "style_index": 4294967295
+    },
+    "im_mode04_name": {
+        "name": "im_mode04_name",
+        "message": "Ou chez mon ami.",
+        "attribute": "04000000A0020000",
+        "style_index": 4294967295
+    },
+    "im_mode05_name": {
+        "name": "im_mode05_name",
+        "message": "C'est un journal.",
+        "attribute": "04000000A2020000",
+        "style_index": 4294967295
+    },
+    "im_mode06_name": {
+        "name": "im_mode06_name",
+        "message": "Le Parlement est une bonne chose.",
+        "attribute": "04000000A4020000",
+        "style_index": 4294967295
+    }
+}
