@@ -105,7 +105,7 @@ class CyclicTranslator:
                         }
                         mess_progress+=1
                         
-                        print(f"Thread #{threading.get_ident()} - Translated \"{mess[1]['message']}\" -> \"{translated_str}\"")
+                        #print(f"Thread #{threading.get_ident()} - Translated \"{mess[1]['message']}\" -> \"{translated_str}\"")
                         print(f"Thread #{threading.get_ident()} - {in_file}: {mess_progress}/{len(messages)}")
 
                     with open(f"{out_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
