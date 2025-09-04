@@ -1,0 +1,1952 @@
+{
+    "mn_dRoom_mw_introA": {
+        "name": "mn_dRoom_mw_introA",
+        "message": "[0:3 FF-35-02-FF] Merci pour le\r\nmessage. Allons-y. [0:3] Voici la\r\nréponse.",
+        "attribute": "04010022300A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_introB": {
+        "name": "mn_dRoom_mw_introB",
+        "message": "Il n'y a rien de mal à ça.\r\nC'est beau et effrayant.",
+        "attribute": "04010022480A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_introC": {
+        "name": "mn_dRoom_mw_introC",
+        "message": "[0:3] Patience en jouant. Publié\r\nle 19 février 2013 |",
+        "attribute": "04010022600A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_add_intro": {
+        "name": "mn_dRoom_mw_add_intro",
+        "message": "Par exemple, Femmes : Où\r\nêtes-vous maintenant ?",
+        "attribute": "04010022780A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_add_introStaff": {
+        "name": "mn_dRoom_mw_add_introStaff",
+        "message": "« Helt » est l'hymne national\r\nde Pékin.",
+        "attribute": "04010022960A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter00": {
+        "name": "mn_dRoom_mw_firstEnter00",
+        "message": "Oui, il faut le dire. Je vous\r\nparle.",
+        "attribute": "04010022B00A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter01": {
+        "name": "mn_dRoom_mw_firstEnter01",
+        "message": "Marianne l’a fait, et ce livre\r\nmontre comment elle le fait.",
+        "attribute": "04010022B20A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter02": {
+        "name": "mn_dRoom_mw_firstEnter02",
+        "message": "Faites ce que vous aimez et\r\ntravaillez dur pour cela !",
+        "attribute": "04010022D00A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_firstEnter03": {
+        "name": "mn_dRoom_mw_firstEnter03",
+        "message": "Veuillez noter que cette option,\r\nbien qu'actuelle, est\r\nsusceptible d'être modifiée.",
+        "attribute": "04010022D20A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_card_intro_back": {
+        "name": "mn_dRoom_mw_card_intro_back",
+        "message": "Très bien ! Ajoutez le mélange de\r\nfarine et mélangez.",
+        "attribute": "04010022EC0A0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_card_intro": {
+        "name": "mn_dRoom_mw_card_intro",
+        "message": "Les utilisateurs recevront une\r\ncarte Team Mario.",
+        "attribute": "04000000000B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_mw_goTo00a": {
+        "name": "mn_dRoom_mw_goTo00a",
+        "message": "Aimeriez-vous voir Mario dans ce\r\njeu ?",
+        "attribute": "04010022020B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00b": {
+        "name": "mn_dRoom_mw_goTo00b",
+        "message": "Questions à considérer.",
+        "attribute": "04010022200B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00c": {
+        "name": "mn_dRoom_mw_goTo00c",
+        "message": "La musique peut être amusante,\r\nn'est-ce pas ? Oui, si on a\r\nle temps !",
+        "attribute": "04010022440B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00d": {
+        "name": "mn_dRoom_mw_goTo00d",
+        "message": "Informations utiles. Le livre.",
+        "attribute": "040100225E0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00e": {
+        "name": "mn_dRoom_mw_goTo00e",
+        "message": "Mais surtout, célébrez votre\r\nsuccès !",
+        "attribute": "04010022720B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_goTo00f": {
+        "name": "mn_dRoom_mw_goTo00f",
+        "message": "Connectez-vous au monde grâce à\r\nInternet.",
+        "attribute": "04010022860B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeA": {
+        "name": "mn_dRoom_mw_byeA",
+        "message": "Je reviendrai.",
+        "attribute": "04010022AA0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeB": {
+        "name": "mn_dRoom_mw_byeB",
+        "message": "Maintenant, viens chez toi.\r\nSortons.",
+        "attribute": "04010022BE0B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_mw_byeC": {
+        "name": "mn_dRoom_mw_byeC",
+        "message": "0:3 11-0C-1D-FF] Remarque : [0:3\r\n00-00-00] [0:3 00-00-00-0-0.",
+        "attribute": "04010022D20B0000",
+        "style_index": 4
+    },
+    "mn_dRoom_pointer": {
+        "name": "mn_dRoom_pointer",
+        "message": "[0] Aujourd'hui.",
+        "attribute": "04000000E60B0000",
+        "style_index": 468
+    },
+    "mn_dRoom_ctrl": {
+        "name": "mn_dRoom_ctrl",
+        "message": "C'était une grande fête.",
+        "attribute": "04000000E80B0000",
+        "style_index": 516
+    },
+    "mn_dRoom_mw_online00": {
+        "name": "mn_dRoom_mw_online00",
+        "message": "C'est un problème.",
+        "attribute": "04000000EA0B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_mw_online01": {
+        "name": "mn_dRoom_mw_online01",
+        "message": "Vous trouverez des informations\r\nplus détaillées ici.",
+        "attribute": "04000000EC0B0000",
+        "style_index": 8
+    },
+    "mn_dRoom_top_ctrl": {
+        "name": "mn_dRoom_top_ctrl",
+        "message": "tous",
+        "attribute": "04000000EE0B0000",
+        "style_index": 11
+    },
+    "mn_dRoom_book_category00": {
+        "name": "mn_dRoom_book_category00",
+        "message": "pratique.",
+        "attribute": "04000000F00B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category01": {
+        "name": "mn_dRoom_book_category01",
+        "message": "Je suis très excité.",
+        "attribute": "04000000F20B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category02": {
+        "name": "mn_dRoom_book_category02",
+        "message": "SÉCURITÉ",
+        "attribute": "04000000F40B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_category03": {
+        "name": "mn_dRoom_book_category03",
+        "message": "Chéri",
+        "attribute": "04000000F60B0000",
+        "style_index": 475
+    },
+    "mn_dRoom_book_shop_details": {
+        "name": "mn_dRoom_book_shop_details",
+        "message": "Les billets peuvent être achetés\r\naprès l'événement.",
+        "attribute": "04000000F80B0000",
+        "style_index": 476
+    },
+    "mn_dRoom_book_listName": {
+        "name": "mn_dRoom_book_listName",
+        "message": "[0] Je ne sais pas.",
+        "attribute": "04000000FA0B0000",
+        "style_index": 477
+    },
+    "mn_dRoom_book_captionName": {
+        "name": "mn_dRoom_book_captionName",
+        "message": "[0] est le",
+        "attribute": "04000000FC0B0000",
+        "style_index": 478
+    },
+    "mn_dRoom_book_seriesDetails00": {
+        "name": "mn_dRoom_book_seriesDetails00",
+        "message": "Mario et ses amis commencent leur\r\npremière partie de Mario. Qui est\r\nle plus fort ?",
+        "attribute": "04000000FE0B0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails01": {
+        "name": "mn_dRoom_book_seriesDetails01",
+        "message": "Heureusement, Bowser, Mario et\r\nleurs amis ne lui ont pas donné\r\nde nom.",
+        "attribute": "04000000000C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails02": {
+        "name": "mn_dRoom_book_seriesDetails02",
+        "message": "Grâce aux informations obtenues\r\nauprès du Millennium Eagle, Mario\r\net ses amis commencent la\r\nbataille.",
+        "attribute": "04000000020C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails03": {
+        "name": "mn_dRoom_book_seriesDetails03",
+        "message": "Laissez Mario et ses amis jouer\r\navec Rodrigo et recevoir les\r\ncadeaux qu'il leur offre.",
+        "attribute": "04000000040C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails04": {
+        "name": "mn_dRoom_book_seriesDetails04",
+        "message": "Mario et ses amis sont convoqués\r\nau Royaume des Dragons. Après un\r\ncombat contre les Gardiens des\r\nÉtoiles, ils parviennent à\r\ns'échapper.",
+        "attribute": "04000000060C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails05": {
+        "name": "mn_dRoom_book_seriesDetails05",
+        "message": "Mario et ses amis tentent\r\nd'escalader une montagne.",
+        "attribute": "04000000080C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails06": {
+        "name": "mn_dRoom_book_seriesDetails06",
+        "message": "Mario et ses amis acceptent le\r\ndéfi, mais Bowser les bat.",
+        "attribute": "040000000A0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails07": {
+        "name": "mn_dRoom_book_seriesDetails07",
+        "message": "La Journée Star Wars est arrivée,\r\net c'est une expérience\r\nunique dans une vie, car il y a\r\ntellement de choses à faire\r\nréférence à Star Wars.",
+        "attribute": "040000000C0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails08": {
+        "name": "mn_dRoom_book_seriesDetails08",
+        "message": "Bowser récupère toutes les\r\nétoiles. Mario et ses amis\r\ncommencent leur recherche.",
+        "attribute": "040000000E0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_seriesDetails09": {
+        "name": "mn_dRoom_book_seriesDetails09",
+        "message": "Mario et ses amis veulent vaincre\r\nBowser et ramener le roi des\r\ngobelins entre ses mains.",
+        "attribute": "04000000100C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails00": {
+        "name": "mn_dRoom_book_bdDetails00",
+        "message": "Il y a deux tâches. Mais\r\nregardez… Neptune se déplace très\r\nvite.",
+        "attribute": "04000000120C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails01": {
+        "name": "mn_dRoom_book_bdDetails01",
+        "message": "Les soldats volent dans les airs.\r\nMaintenant, regardez Bowser de\r\nplus près !",
+        "attribute": "04000000140C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails02": {
+        "name": "mn_dRoom_book_bdDetails02",
+        "message": "Quand j'ai fait ça, toute la\r\nmaison sentait le bois pourri.",
+        "attribute": "04000000160C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails03": {
+        "name": "mn_dRoom_book_bdDetails03",
+        "message": "Il existe deux types de yoga : le\r\nyoga en mousse et le yoga noir.",
+        "attribute": "04000000180C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_bdDetails04": {
+        "name": "mn_dRoom_book_bdDetails04",
+        "message": "La nuit, le dieu de la nuit\r\nrencontre le dieu du jour.",
+        "attribute": "040000001A0C0000",
+        "style_index": 479
+    },
+    "mn_dRoom_book_caraDetails00": {
+        "name": "mn_dRoom_book_caraDetails00",
+        "message": "Grand, beau, avec une belle barbe\r\net des cheveux longs.",
+        "attribute": "040000001C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails01": {
+        "name": "mn_dRoom_book_caraDetails01",
+        "message": "Les frères Mario sont connus pour\r\nleur talent.",
+        "attribute": "040000001E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails02": {
+        "name": "mn_dRoom_book_caraDetails02",
+        "message": "Les femmes du monde entier aiment\r\nle noir et blanc.",
+        "attribute": "04000000200C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails03": {
+        "name": "mn_dRoom_book_caraDetails03",
+        "message": "Prions Dieu.",
+        "attribute": "04000000220C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails04": {
+        "name": "mn_dRoom_book_caraDetails04",
+        "message": "Elle adore dormir et passer du\r\ntemps avec son chien.",
+        "attribute": "04000000240C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails05": {
+        "name": "mn_dRoom_book_caraDetails05",
+        "message": "Il travaille jour et nuit pour\r\nprendre soin de ses animaux.",
+        "attribute": "04000000260C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails06": {
+        "name": "mn_dRoom_book_caraDetails06",
+        "message": "Cet arbre est le meilleur ami de\r\nMario.",
+        "attribute": "04000000280C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails07": {
+        "name": "mn_dRoom_book_caraDetails07",
+        "message": "La famille de cet homme est\r\nbrisée.",
+        "attribute": "040000002A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails08": {
+        "name": "mn_dRoom_book_caraDetails08",
+        "message": "Tu es un roi fort et puissant.",
+        "attribute": "040000002C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails09": {
+        "name": "mn_dRoom_book_caraDetails09",
+        "message": "Je ne savais pas que tu étais si\r\nheureux.",
+        "attribute": "040000002E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails10": {
+        "name": "mn_dRoom_book_caraDetails10",
+        "message": "Le Seigneur des Ténèbres est\r\napparu.",
+        "attribute": "04000000300C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails11": {
+        "name": "mn_dRoom_book_caraDetails11",
+        "message": "Je ne suis pas un homme, je ne\r\nsuis pas gay, je suis une femme\r\navec des seins.",
+        "attribute": "04000000320C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails12": {
+        "name": "mn_dRoom_book_caraDetails12",
+        "message": "Les leaders dans le paiement des\r\ndettes et la commission de\r\ncrimes.",
+        "attribute": "04000000340C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails13": {
+        "name": "mn_dRoom_book_caraDetails13",
+        "message": "Les bolcheviks ont continué à\r\nterroriser leurs ennemis et leurs\r\nalliés.",
+        "attribute": "04000000360C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails14": {
+        "name": "mn_dRoom_book_caraDetails14",
+        "message": "Les voitures de Bowser sont\r\ndisponibles dans une variété de\r\ncouleurs, y compris le noir.",
+        "attribute": "04000000380C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails15": {
+        "name": "mn_dRoom_book_caraDetails15",
+        "message": "Les oiseaux peuvent voler avec\r\nleurs ailes.",
+        "attribute": "040000003A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails16": {
+        "name": "mn_dRoom_book_caraDetails16",
+        "message": "C'était une vraie joie de\r\njouer avec Mario et Bowser en\r\ntant que pirates.",
+        "attribute": "040000003C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails17": {
+        "name": "mn_dRoom_book_caraDetails17",
+        "message": "Cela vous permettra de réagir\r\navant que l’incendie ne se\r\ndéclare.",
+        "attribute": "040000003E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails18": {
+        "name": "mn_dRoom_book_caraDetails18",
+        "message": "Les chiens mangent ce qu'ils\r\npeuvent. Ne tuez pas\r\nd'animaux.",
+        "attribute": "04000000400C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails19": {
+        "name": "mn_dRoom_book_caraDetails19",
+        "message": "Il leva la main. « Ne vous\r\napprochez pas, le sol est inondé.\r\n»",
+        "attribute": "04000000420C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails20": {
+        "name": "mn_dRoom_book_caraDetails20",
+        "message": "J'ai vu des animaux nager\r\ndoucement dans la mer.",
+        "attribute": "04000000440C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails21": {
+        "name": "mn_dRoom_book_caraDetails21",
+        "message": "Je lui ai apporté la balle\r\nporte-bonheur.",
+        "attribute": "04000000460C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails22": {
+        "name": "mn_dRoom_book_caraDetails22",
+        "message": "Les serpents sont terribles.",
+        "attribute": "04000000480C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails23": {
+        "name": "mn_dRoom_book_caraDetails23",
+        "message": "Apportez la lumière.",
+        "attribute": "040000004A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails24": {
+        "name": "mn_dRoom_book_caraDetails24",
+        "message": "Par exemple, les grands animaux\r\nnagent sur la tête.",
+        "attribute": "040000004C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails25": {
+        "name": "mn_dRoom_book_caraDetails25",
+        "message": "Traitez les animaux avec respect.\r\nVous pouvez voir le trou ici.",
+        "attribute": "040000004E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails26": {
+        "name": "mn_dRoom_book_caraDetails26",
+        "message": "Cet animal est connu pour sa\r\nqueue rouge.",
+        "attribute": "04000000500C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails27": {
+        "name": "mn_dRoom_book_caraDetails27",
+        "message": "Lumière dans les nuages",
+        "attribute": "04000000520C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails28": {
+        "name": "mn_dRoom_book_caraDetails28",
+        "message": "Bowser est un perdant, mais Satan\r\nveut lui prouver qu'il a\r\ntort.",
+        "attribute": "04000000540C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails29": {
+        "name": "mn_dRoom_book_caraDetails29",
+        "message": "L'animal a couru dans la\r\nmaison.",
+        "attribute": "04000000560C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails30": {
+        "name": "mn_dRoom_book_caraDetails30",
+        "message": "J'aime parler aux gens.",
+        "attribute": "04000000580C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails31": {
+        "name": "mn_dRoom_book_caraDetails31",
+        "message": "La viande est riche en graisses\r\net en fer.",
+        "attribute": "040000005A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails32": {
+        "name": "mn_dRoom_book_caraDetails32",
+        "message": "Des choses inattendues se\r\nproduisent.",
+        "attribute": "040000005C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails33": {
+        "name": "mn_dRoom_book_caraDetails33",
+        "message": "Il est fier de ses connaissances\r\net de ses compétences.",
+        "attribute": "040000005E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails34": {
+        "name": "mn_dRoom_book_caraDetails34",
+        "message": "Les animaux sont couchés sur le\r\ndos, les bras tendus.",
+        "attribute": "04000000600C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails35": {
+        "name": "mn_dRoom_book_caraDetails35",
+        "message": "Je t'ai vue sur la plage.\r\nElle a un corps magnifique.",
+        "attribute": "04000000620C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails36": {
+        "name": "mn_dRoom_book_caraDetails36",
+        "message": "Ces enfants jouent avec des\r\narmes, mais ils ne brûlent pas.",
+        "attribute": "04000000640C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails37": {
+        "name": "mn_dRoom_book_caraDetails37",
+        "message": "C'est agréable de voir des\r\nanimaux, comme des moutons,\r\ntraverser la route.",
+        "attribute": "04000000660C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails38": {
+        "name": "mn_dRoom_book_caraDetails38",
+        "message": "Contrairement aux oiseaux, ces\r\nanimaux ne peuvent pas fermer ou\r\ncacher leurs yeux.",
+        "attribute": "04000000680C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails39": {
+        "name": "mn_dRoom_book_caraDetails39",
+        "message": "Ses yeux étaient fermés et il\r\nétait difficile de les ouvrir.",
+        "attribute": "040000006A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails40": {
+        "name": "mn_dRoom_book_caraDetails40",
+        "message": "C'est une pièce d'argent.",
+        "attribute": "040000006C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails41": {
+        "name": "mn_dRoom_book_caraDetails41",
+        "message": "Les enfants peuvent jouer aux\r\ncartes.",
+        "attribute": "040000006E0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails42": {
+        "name": "mn_dRoom_book_caraDetails42",
+        "message": "Combien de dents as-tu ?",
+        "attribute": "04000000700C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails43": {
+        "name": "mn_dRoom_book_caraDetails43",
+        "message": "La seule différence est la\r\ncouleur.",
+        "attribute": "04000000720C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails44": {
+        "name": "mn_dRoom_book_caraDetails44",
+        "message": "Le piranha a recouvert la peau\r\navec ses griffes.",
+        "attribute": "04000000740C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails45": {
+        "name": "mn_dRoom_book_caraDetails45",
+        "message": "Les soldats de Bowser ressemblent\r\nà des chiens de l'extérieur.",
+        "attribute": "04000000760C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails46": {
+        "name": "mn_dRoom_book_caraDetails46",
+        "message": "Il y a beaucoup de patients.",
+        "attribute": "04000000780C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails47": {
+        "name": "mn_dRoom_book_caraDetails47",
+        "message": "Les animaux qui présentent ce\r\ncomportement jouent souvent à\r\nrapporter.",
+        "attribute": "040000007A0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_caraDetails48": {
+        "name": "mn_dRoom_book_caraDetails48",
+        "message": "Certains sont intelligents,\r\nd'autres talentueux,\r\nd'autres encore beaux. Ça\r\nflotte dans l'air.",
+        "attribute": "040000007C0C0000",
+        "style_index": 480
+    },
+    "mn_dRoom_book_bd00_text00": {
+        "name": "mn_dRoom_book_bd00_text00",
+        "message": "Vous pouvez changer votre\r\nemplacement si vous souhaitez\r\njouer maintenant, mais vous ne\r\npouvez pas changer votre\r\nemplacement au début du jeu.",
+        "attribute": "040000007E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text01": {
+        "name": "mn_dRoom_book_bd00_text01",
+        "message": "Lorsque vous êtes seul à la\r\nmaison, vous pouvez jouer avec\r\nvos amis.",
+        "attribute": "04000000800C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text02": {
+        "name": "mn_dRoom_book_bd00_text02",
+        "message": "De nouveaux éléments ont été\r\najoutés à cette sous-catégorie\r\npour développer et clarifier les\r\ncinq composants principaux (prise\r\nen charge du CD). Gupta Games ||\r\n0:30 <0:30> Très bien.\r\nÉcrivez des chansons et des\r\npoèmes.",
+        "attribute": "04000000820C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text03": {
+        "name": "mn_dRoom_book_bd00_text03",
+        "message": "La couleur du t-shirt est très\r\nlimitée. Bouillir le poisson le\r\nrend tendre.",
+        "attribute": "04000000840C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd00_text04": {
+        "name": "mn_dRoom_book_bd00_text04",
+        "message": "Une fois le bouton affiché,\r\ncliquez sur « Utiliser le bac à\r\nsable » pour l'activer.\r\nCliquez ensuite sur « Sandbox\r\nsuivant ».",
+        "attribute": "04000000860C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text00": {
+        "name": "mn_dRoom_book_bd01_text00",
+        "message": "Étoile [0:3]\r\n[0:3:00-00-00-00-[0:3",
+        "attribute": "04000000880C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text01": {
+        "name": "mn_dRoom_book_bd01_text01",
+        "message": "[0:3] Vous allez à la banque et\r\npayez. [0:3] Félicitations.\r\n[10:3] Pour",
+        "attribute": "040000008A0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text02": {
+        "name": "mn_dRoom_book_bd01_text02",
+        "message": "[0:3 0B-00-00-FF] Une petite\r\ngraine pousse et devient une\r\npetite plante. Économiser de\r\nl'argent ne vous tuera pas.\r\n0:3 0:3 0B-00-00-2 [0:3\r\n00-00-00-00-00-00].",
+        "attribute": "040000008C0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text03": {
+        "name": "mn_dRoom_book_bd01_text03",
+        "message": "Un jeu aux prix et opportunités\r\nincroyables. Ils ont gagné trois\r\nfois, perdu trois fois.",
+        "attribute": "040000008E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text04": {
+        "name": "mn_dRoom_book_bd01_text04",
+        "message": "Le voleur attendait. Et\r\nl'auteur ? Et l'auteur ?",
+        "attribute": "04000000900C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text05": {
+        "name": "mn_dRoom_book_bd01_text05",
+        "message": "[0:300-000000-2000] Arrête ! Tu\r\npeux jouer avec l'herbe et\r\nles étoiles. 0:3 0:3 0:3",
+        "attribute": "04000000920C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd01_text06": {
+        "name": "mn_dRoom_book_bd01_text06",
+        "message": "Le gâteau était délicieux et beau\r\n!",
+        "attribute": "04000000940C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text00": {
+        "name": "mn_dRoom_book_bd02_text00",
+        "message": "N'oubliez pas le trophée\r\nroyal.",
+        "attribute": "04000000960C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text01": {
+        "name": "mn_dRoom_book_bd02_text01",
+        "message": "Bowser a remporté la médaille\r\nd'or mais a tout perdu, ce\r\nqui rend la situation encore plus\r\nimpressionnante... [0:3]",
+        "attribute": "04000000980C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text02": {
+        "name": "mn_dRoom_book_bd02_text02",
+        "message": "Soyez prudent lors de votre\r\npremière inscription. Vous pouvez\r\nessayer.",
+        "attribute": "040000009A0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text03": {
+        "name": "mn_dRoom_book_bd02_text03",
+        "message": "L'avion s'est écrasé dans\r\nla jungle. Où étaient tous les\r\npassagers ?",
+        "attribute": "040000009C0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text04": {
+        "name": "mn_dRoom_book_bd02_text04",
+        "message": "Bowser brillait au clair de lune,\r\nou du moins c'est ce\r\nqu'il pensait...",
+        "attribute": "040000009E0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text05": {
+        "name": "mn_dRoom_book_bd02_text05",
+        "message": "La police a arrêté le suspect et\r\nl'a accusé de trouble à\r\nl'ordre public.",
+        "attribute": "04000000A00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd02_text06": {
+        "name": "mn_dRoom_book_bd02_text06",
+        "message": "Entendez le bruit de l'avion,\r\nvoyez le vent souffler, sentez\r\nles fenêtres trembler.",
+        "attribute": "04000000A20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text00": {
+        "name": "mn_dRoom_book_bd03_text00",
+        "message": "Les photographes proposent\r\nsouvent leurs photos moyennant\r\nune somme modique. Le déjeuner\r\nest inclus dans le prix (12h30,\r\n12h00 ou 14h00).",
+        "attribute": "04000000A40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text01": {
+        "name": "mn_dRoom_book_bd03_text01",
+        "message": "Si elle n’est pas traitée, elle\r\npeut être mortelle.",
+        "attribute": "04000000A60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text02": {
+        "name": "mn_dRoom_book_bd03_text02",
+        "message": "La forêt est pleine de petits\r\nanimaux qui se perdent parfois.",
+        "attribute": "04000000A80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text03": {
+        "name": "mn_dRoom_book_bd03_text03",
+        "message": "C'est une solution.\r\nDécouvrez-la ici.",
+        "attribute": "04000000AA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text04": {
+        "name": "mn_dRoom_book_bd03_text04",
+        "message": "Vous pouvez acheter des graines\r\nde plantes matures, mais les\r\nrendements sont faibles, alors ne\r\nvous attendez pas à de grosses\r\nfleurs.",
+        "attribute": "04000000AC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text05": {
+        "name": "mn_dRoom_book_bd03_text05",
+        "message": "Vous pouvez combiner les deux,\r\nmais n'en choisir qu'un\r\nseul.",
+        "attribute": "04000000AE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd03_text06": {
+        "name": "mn_dRoom_book_bd03_text06",
+        "message": "Soyez prudent lorsque vous vous\r\npromenez dans la forêt car la\r\npluie peut provoquer des\r\ninondations.",
+        "attribute": "04000000B00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text00": {
+        "name": "mn_dRoom_book_bd04_text00",
+        "message": "[0:30B-00-00-FF] Collectez des\r\nétoiles et améliorez votre\r\nréputation. Attention, c'est\r\ndangereux.",
+        "attribute": "04000000B20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text01": {
+        "name": "mn_dRoom_book_bd04_text01",
+        "message": "Désolé. Mais je ne suis ni en\r\ncolère ni triste.",
+        "attribute": "04000000B40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text02": {
+        "name": "mn_dRoom_book_bd04_text02",
+        "message": "Arrêtez-vous et regardez les\r\nétoiles. [Dernière mise à jour\r\n0:300-00-00].",
+        "attribute": "04000000B60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text03": {
+        "name": "mn_dRoom_book_bd04_text03",
+        "message": "Le navire a coulé. Personne ne\r\nsait quand il a été construit,\r\nmais l'histoire raconte\r\nqu'il est toujours là.",
+        "attribute": "04000000B80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text04": {
+        "name": "mn_dRoom_book_bd04_text04",
+        "message": "Des verres, des verres, des\r\nverres... Il n'y a pas de\r\nverres à la banque. C'est\r\nsympa, non ?",
+        "attribute": "04000000BA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text05": {
+        "name": "mn_dRoom_book_bd04_text05",
+        "message": "Si vous regardez bien, vous\r\npouvez voir des vaches sur\r\nl'île ! Ces deux groupes sont\r\nappelés vaches.",
+        "attribute": "04000000BC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd04_text06": {
+        "name": "mn_dRoom_book_bd04_text06",
+        "message": "Si vous regardez autour de vous,\r\nvous pouvez le voir en action.\r\nC'est ce qu'on appelle\r\nrêver.",
+        "attribute": "04000000BE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text00": {
+        "name": "mn_dRoom_book_bd05_text00",
+        "message": "Du temps supplémentaire pour les\r\npatients le soir. Prenez le temps\r\nde les connaître.",
+        "attribute": "04000000C00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text01": {
+        "name": "mn_dRoom_book_bd05_text01",
+        "message": "La chambre n'est pas\r\nterrible. Ne vous inquiétez pas,\r\nje n'ai dormi qu'une\r\nheure.",
+        "attribute": "04000000C20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text02": {
+        "name": "mn_dRoom_book_bd05_text02",
+        "message": "Nous voyons Satan la nuit ou\r\nMoïse la nuit. Le voyez-vous ?",
+        "attribute": "04000000C40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text03": {
+        "name": "mn_dRoom_book_bd05_text03",
+        "message": "La corde est exposée au soleil,\r\nil faut donc faire attention aux\r\nrayons du soleil forts.",
+        "attribute": "04000000C60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text04": {
+        "name": "mn_dRoom_book_bd05_text04",
+        "message": "J'ai demandé si je pouvais\r\nvoir la route. du sang.",
+        "attribute": "04000000C80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text05": {
+        "name": "mn_dRoom_book_bd05_text05",
+        "message": "Votre état s'aggrave-t-il ?\r\nVous étiez en bonne santé.",
+        "attribute": "04000000CA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_bd05_text06": {
+        "name": "mn_dRoom_book_bd05_text06",
+        "message": "Il fait noir jour et nuit, mais\r\nce n'est pas vrai. C'est\r\naussi bon pour la peau.",
+        "attribute": "04000000CC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text00": {
+        "name": "mn_dRoom_book_mm01_text00",
+        "message": "Choisissez parmi des centaines de\r\nmini-jeux et apprenez en cours de\r\nroute !",
+        "attribute": "04000000CE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text01": {
+        "name": "mn_dRoom_book_mm01_text01",
+        "message": "Vous pouvez désormais vous\r\ninscrire à votre eSport préféré\r\net rivaliser avec les meilleurs\r\njoueurs du monde.",
+        "attribute": "04000000D00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm01_text02": {
+        "name": "mn_dRoom_book_mm01_text02",
+        "message": "Profitez de votre jeu préféré.",
+        "attribute": "04000000D20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text00": {
+        "name": "mn_dRoom_book_mm02_text00",
+        "message": "Vous pouvez jouer en mode solo ou\r\nmultijoueur.",
+        "attribute": "04000000D40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text01": {
+        "name": "mn_dRoom_book_mm02_text01",
+        "message": "Choisissez parmi deux siècles\r\nd'histoire et\r\nd'architecture unique.",
+        "attribute": "04000000D60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text02": {
+        "name": "mn_dRoom_book_mm02_text02",
+        "message": "J'espère que tu vas bien. On\r\ncontinue d'essayer.",
+        "attribute": "04000000D80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm02_text03": {
+        "name": "mn_dRoom_book_mm02_text03",
+        "message": "Dis-moi ce que tu en penses.",
+        "attribute": "04000000DA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text00": {
+        "name": "mn_dRoom_book_mm03_text00",
+        "message": "[0: Terminé. ] .",
+        "attribute": "04000000DC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text01": {
+        "name": "mn_dRoom_book_mm03_text01",
+        "message": "[0:30B-00-00-FF] Il y a de bonnes\r\nchoses, comme l'amour et le\r\ntravail acharné.",
+        "attribute": "04000000DE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm03_text02": {
+        "name": "mn_dRoom_book_mm03_text02",
+        "message": "Collectez deux pièces dans ce\r\npetit jeu. [0:3 - 10:00-0]\r\nContinuez.",
+        "attribute": "04000000E00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text00": {
+        "name": "mn_dRoom_book_mm04_text00",
+        "message": "Deux mots, deux mots !\r\nUnissons-nous, vainquons\r\nl'ennemi !",
+        "attribute": "04000000E20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text01": {
+        "name": "mn_dRoom_book_mm04_text01",
+        "message": "Notre approche est basée sur\r\nl’honnêteté et l’intégrité, ce\r\nqui devrait vous aider à réussir.",
+        "attribute": "04000000E40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm04_text02": {
+        "name": "mn_dRoom_book_mm04_text02",
+        "message": "Ensemble, nous pouvons réussir.",
+        "attribute": "04000000E60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text00": {
+        "name": "mn_dRoom_book_mm05_text00",
+        "message": "Aidez les autres à ne pas\r\néchouer.",
+        "attribute": "04000000E80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text01": {
+        "name": "mn_dRoom_book_mm05_text01",
+        "message": "Votre vie est en danger ! La\r\npartie 3 doit être vaincue !",
+        "attribute": "04000000EA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text02": {
+        "name": "mn_dRoom_book_mm05_text02",
+        "message": "Vous pouvez vaincre jusqu'à\r\ntrois équipes vous-même !",
+        "attribute": "04000000EC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm05_text03": {
+        "name": "mn_dRoom_book_mm05_text03",
+        "message": "La première équipe à commencer la\r\npartie gagne. Ne laissez pas\r\nvotre équipe gagner.",
+        "attribute": "04000000EE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text00": {
+        "name": "mn_dRoom_book_mm06_text00",
+        "message": "Nous affrontons les meilleurs\r\njoueurs du monde. N'oubliez\r\npas : une seule erreur peut\r\nruiner votre carrière.",
+        "attribute": "04000000F00C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text01": {
+        "name": "mn_dRoom_book_mm06_text01",
+        "message": "Testez vos compétences contre des\r\njoueurs du monde entier !",
+        "attribute": "04000000F20C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm06_text02": {
+        "name": "mn_dRoom_book_mm06_text02",
+        "message": "Combattez des ennemis partout\r\ndans le monde et testez vos\r\ncompétences.",
+        "attribute": "04000000F40C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text00": {
+        "name": "mn_dRoom_book_mm07_text00",
+        "message": "Parfois, vous avez les meilleurs\r\njoueurs du jeu.",
+        "attribute": "04000000F60C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text01": {
+        "name": "mn_dRoom_book_mm07_text01",
+        "message": "S'il refuse, essayez\r\nd'être patient.",
+        "attribute": "04000000F80C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text02": {
+        "name": "mn_dRoom_book_mm07_text02",
+        "message": "Vous devez vous préparer plus\r\nrapidement que votre adversaire\r\npour progresser dans le jeu.",
+        "attribute": "04000000FA0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text03": {
+        "name": "mn_dRoom_book_mm07_text03",
+        "message": "[0:30B-00-00-FF] Gagnez plus\r\nd'argent en battant des\r\nennemis.",
+        "attribute": "04000000FC0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text04": {
+        "name": "mn_dRoom_book_mm07_text04",
+        "message": "Le jeu implique des batailles\r\ncontinues avec des ennemis, et le\r\ndernier debout sera couronné\r\nvainqueur.",
+        "attribute": "04000000FE0C0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text05": {
+        "name": "mn_dRoom_book_mm07_text05",
+        "message": "Choisissez avec soin, lisez et\r\nn'oubliez pas de partager vos\r\nexpériences !",
+        "attribute": "04000000000D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text06": {
+        "name": "mn_dRoom_book_mm07_text06",
+        "message": "Faut-il se battre ? Que peut-on\r\nfaire ?",
+        "attribute": "04000000020D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text07": {
+        "name": "mn_dRoom_book_mm07_text07",
+        "message": "Humitris, roi d'Ottatina.\r\nAnanas… ananas !",
+        "attribute": "04000000040D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text08": {
+        "name": "mn_dRoom_book_mm07_text08",
+        "message": "J’ai entendu beaucoup de gens\r\ndire que l’ennemi ne peut pas\r\nêtre vaincu.",
+        "attribute": "04000000060D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text09": {
+        "name": "mn_dRoom_book_mm07_text09",
+        "message": "J'ai acheté un bon théâtre,\r\nmais pas tout.",
+        "attribute": "04000000080D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text10": {
+        "name": "mn_dRoom_book_mm07_text10",
+        "message": "La victoire vient en vainquant\r\nl’ennemi.",
+        "attribute": "040000000A0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text11": {
+        "name": "mn_dRoom_book_mm07_text11",
+        "message": "Il est préférable de vaincre son\r\nadversaire au tribunal.",
+        "attribute": "040000000C0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text12": {
+        "name": "mn_dRoom_book_mm07_text12",
+        "message": "Publicité [0:3]",
+        "attribute": "040000000E0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text13": {
+        "name": "mn_dRoom_book_mm07_text13",
+        "message": "Battez les ennemis sans\r\ncombattre.",
+        "attribute": "04000000100D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text14": {
+        "name": "mn_dRoom_book_mm07_text14",
+        "message": "Si la connaissance est votre\r\npouvoir, alors elle est pure.",
+        "attribute": "04000000120D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text15": {
+        "name": "mn_dRoom_book_mm07_text15",
+        "message": "Je ne peux pas m'échapper.\r\nPensez-y !",
+        "attribute": "04000000140D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text16": {
+        "name": "mn_dRoom_book_mm07_text16",
+        "message": "Il a joué pour le public.",
+        "attribute": "04000000160D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text17": {
+        "name": "mn_dRoom_book_mm07_text17",
+        "message": "Essayez de jouer au football. Ne\r\nperdez pas de temps.",
+        "attribute": "04000000180D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text18": {
+        "name": "mn_dRoom_book_mm07_text18",
+        "message": "Soyez prudent avec l’équipement\r\nde votre ennemi. Ne le laissez\r\npas tomber et vous blesser.",
+        "attribute": "040000001A0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text19": {
+        "name": "mn_dRoom_book_mm07_text19",
+        "message": "Même si vous gagnez, vous devez\r\nencore vaincre l'ennemi.",
+        "attribute": "040000001C0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text20": {
+        "name": "mn_dRoom_book_mm07_text20",
+        "message": "Mais l’emplacement et la\r\ndestination jouent également un\r\nrôle.",
+        "attribute": "040000001E0D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_book_mm07_text21": {
+        "name": "mn_dRoom_book_mm07_text21",
+        "message": "N'oubliez pas qu'une\r\nseule personne peut jouer au jeu.",
+        "attribute": "04000000200D0000",
+        "style_index": 571
+    },
+    "mn_dRoom_mu_caption": {
+        "name": "mn_dRoom_mu_caption",
+        "message": "Viber et téléphone",
+        "attribute": "04000000220D0000",
+        "style_index": 410
+    },
+    "mn_dRoom_mu_category00": {
+        "name": "mn_dRoom_mu_category00",
+        "message": "Théorie/pratique.",
+        "attribute": "04000000240D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category01": {
+        "name": "mn_dRoom_mu_category01",
+        "message": "Je l'ai vu.",
+        "attribute": "04000000260D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category02": {
+        "name": "mn_dRoom_mu_category02",
+        "message": "Ce sera très agréable.",
+        "attribute": "04000000280D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category03": {
+        "name": "mn_dRoom_mu_category03",
+        "message": "Jouons à nouveau.",
+        "attribute": "040000002A0D0000",
+        "style_index": 554
+    },
+    "mn_dRoom_mu_category04": {
+        "name": "mn_dRoom_mu_category04",
+        "message": "Tous les animaux marins vivent\r\ndans leur habitat naturel.",
+        "attribute": "040000002C0D0000",
+        "style_index": 411
+    },
+    "mn_dRoom_mu_ui_pet_total": {
+        "name": "mn_dRoom_mu_ui_pet_total",
+        "message": "Page [0] de",
+        "attribute": "040000002E0D0000",
+        "style_index": 413
+    },
+    "mn_dRoom_mu_pet_details": {
+        "name": "mn_dRoom_mu_pet_details",
+        "message": "Écoutez votre musique préférée\r\npendant deux secondes.\r\nEnvoyez-nous votre chanson !",
+        "attribute": "04000000300D0000",
+        "style_index": 416
+    },
+    "mn_dRoom_mu_shop_details": {
+        "name": "mn_dRoom_mu_shop_details",
+        "message": "Écoutez l’histoire de Todd\r\nci-dessous !",
+        "attribute": "04000000320D0000",
+        "style_index": 416
+    },
+    "mn_dRoom_mu_ctrl_pet": {
+        "name": "mn_dRoom_mu_ctrl_pet",
+        "message": "Choisissez la bonne chose/la\r\nchose importante.",
+        "attribute": "04000000340D0000",
+        "style_index": 412
+    },
+    "mn_dRoom_mu_ctrl_petBack": {
+        "name": "mn_dRoom_mu_ctrl_petBack",
+        "message": "Prends ce que tu veux.",
+        "attribute": "04000000360D0000",
+        "style_index": 412
+    },
+    "mn_dRoom_mu_header": {
+        "name": "mn_dRoom_mu_header",
+        "message": "Par exemple,",
+        "attribute": "04000000380D0000",
+        "style_index": 414
+    },
+    "mn_dRoom_mu_bgm_name": {
+        "name": "mn_dRoom_mu_bgm_name",
+        "message": "[0] Au moment où j'écris.",
+        "attribute": "040000003A0D0000",
+        "style_index": 415
+    },
+    "mn_dRoom_card_achieve": {
+        "name": "mn_dRoom_card_achieve",
+        "message": "[0] Sujet.",
+        "attribute": "040000003C0D0000",
+        "style_index": 446
+    },
+    "mn_dRoom_card_name": {
+        "name": "mn_dRoom_card_name",
+        "message": "9.9.",
+        "attribute": "040000003E0D0000",
+        "style_index": 447
+    },
+    "mn_dRoom_card_title_level": {
+        "name": "mn_dRoom_card_title_level",
+        "message": "Marius a rejoint\r\nl'organisation.",
+        "attribute": "04000000400D0000",
+        "style_index": 448
+    },
+    "mn_dRoom_card_level": {
+        "name": "mn_dRoom_card_level",
+        "message": "[0] Bien sûr.",
+        "attribute": "04000000420D0000",
+        "style_index": 457
+    },
+    "mn_dRoom_card_clap": {
+        "name": "mn_dRoom_card_clap",
+        "message": "[0] Qu'est-ce que c'est ?",
+        "attribute": "04000000440D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_coin": {
+        "name": "mn_dRoom_card_coin",
+        "message": "[0] 9. Appuyez sur le cadre.",
+        "attribute": "04000000460D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_title_time": {
+        "name": "mn_dRoom_card_title_time",
+        "message": "P a couru trop vite.",
+        "attribute": "04000000480D0000",
+        "style_index": 449
+    },
+    "mn_dRoom_card_time": {
+        "name": "mn_dRoom_card_time",
+        "message": "[0] Où est-il ?",
+        "attribute": "040000004A0D0000",
+        "style_index": 450
+    },
+    "mn_dRoom_card_title_rank": {
+        "name": "mn_dRoom_card_title_rank",
+        "message": "C’est un pas dans la bonne\r\ndirection.",
+        "attribute": "040000004C0D0000",
+        "style_index": 451
+    },
+    "mn_dRoom_card_rank": {
+        "name": "mn_dRoom_card_rank",
+        "message": "[0] Seigneur.",
+        "attribute": "040000004E0D0000",
+        "style_index": 452
+    },
+    "mn_dRoom_card_title_series": {
+        "name": "mn_dRoom_card_title_series",
+        "message": "Oui, merci beaucoup.",
+        "attribute": "04000000500D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_title_map": {
+        "name": "mn_dRoom_card_title_map",
+        "message": "Les bus sont mauvais.",
+        "attribute": "04000000520D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_map_name": {
+        "name": "mn_dRoom_card_map_name",
+        "message": "+02 (02);",
+        "attribute": "04000000540D0000",
+        "style_index": 454
+    },
+    "mn_dRoom_card_title_mg": {
+        "name": "mn_dRoom_card_title_mg",
+        "message": "C'est de loin mon émission\r\npréférée.",
+        "attribute": "04000000560D0000",
+        "style_index": 453
+    },
+    "mn_dRoom_card_mg_record": {
+        "name": "mn_dRoom_card_mg_record",
+        "message": "Dents",
+        "attribute": "04000000580D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_m": {
+        "name": "mn_dRoom_card_mg_record_m",
+        "message": "0:2 3C-00 - 0:2 64-0 Bamako,\r\nMali.",
+        "attribute": "040000005A0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_m2": {
+        "name": "mn_dRoom_card_mg_record_m2",
+        "message": "0:2 3C-00 0:2 64-00.",
+        "attribute": "040000005C0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_degree": {
+        "name": "mn_dRoom_card_mg_record_degree",
+        "message": "La pente est de [0]°.",
+        "attribute": "040000005E0D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_record_timer": {
+        "name": "mn_dRoom_card_mg_record_timer",
+        "message": "[0]: [1], [2] - Chimie.",
+        "attribute": "04000000600D0000",
+        "style_index": 455
+    },
+    "mn_dRoom_card_mg_rank": {
+        "name": "mn_dRoom_card_mg_rank",
+        "message": "Souviens-toi de tes paroles.",
+        "attribute": "04000000620D0000",
+        "style_index": 456
+    },
+    "mn_dRoom_card_ctrl_next": {
+        "name": "mn_dRoom_card_ctrl_next",
+        "message": "C'est l'indicatif\r\nrégional.",
+        "attribute": "04000000640D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_edit": {
+        "name": "mn_dRoom_card_ctrl_edit",
+        "message": "Je ne sais pas?",
+        "attribute": "04000000660D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_back": {
+        "name": "mn_dRoom_card_ctrl_back",
+        "message": "J’ai été choqué quand j’ai\r\nentendu la nouvelle.",
+        "attribute": "04000000680D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_rankTop": {
+        "name": "mn_dRoom_card_ctrl_rankTop",
+        "message": "C'est plus que ça.",
+        "attribute": "040000006A0D0000",
+        "style_index": 556
+    },
+    "mn_dRoom_card_ctrl_blind": {
+        "name": "mn_dRoom_card_ctrl_blind",
+        "message": "Gardez la foi.",
+        "attribute": "040000006C0D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_design": {
+        "name": "mn_dRoom_card_ctrl_design",
+        "message": "On verra ce qui se passe.",
+        "attribute": "040000006E0D0000",
+        "style_index": 543
+    },
+    "mn_dRoom_card_ctrl_rank": {
+        "name": "mn_dRoom_card_ctrl_rank",
+        "message": "Lisez cet article.",
+        "attribute": "04000000700D0000",
+        "style_index": 556
+    },
+    "mn_dRoom_cardEdit_back": {
+        "name": "mn_dRoom_cardEdit_back",
+        "message": "Dès le début.",
+        "attribute": "04000000720D0000",
+        "style_index": 431
+    },
+    "mn_dRoom_cardEdit_design_name": {
+        "name": "mn_dRoom_cardEdit_design_name",
+        "message": "C'est son nom ?",
+        "attribute": "04000000740D0000",
+        "style_index": 515
+    },
+    "mn_dRoom_cardEdit_design_name_empty": {
+        "name": "mn_dRoom_cardEdit_design_name_empty",
+        "message": "- 1999. Théorie de\r\nl'éducation.",
+        "attribute": "04000000760D0000",
+        "style_index": 515
+    },
+    "mn_dRoom_cardEdit_title_chara": {
+        "name": "mn_dRoom_cardEdit_title_chara",
+        "message": "Sélectionnez l'image que vous\r\nsouhaitez.",
+        "attribute": "04000000780D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_title_achieve": {
+        "name": "mn_dRoom_cardEdit_title_achieve",
+        "message": "Choisissez ce que vous voulez\r\nvoir.",
+        "attribute": "040000007A0D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_achieve_name": {
+        "name": "mn_dRoom_cardEdit_achieve_name",
+        "message": "8. Compartiment à piles.",
+        "attribute": "040000007C0D0000",
+        "style_index": 432
+    },
+    "mn_dRoom_cardEdit_achieve_name_empty": {
+        "name": "mn_dRoom_cardEdit_achieve_name_empty",
+        "message": ",",
+        "attribute": "040000007E0D0000",
+        "style_index": 432
+    },
+    "mn_dRoom_cardEdit_achieve_condition": {
+        "name": "mn_dRoom_cardEdit_achieve_condition",
+        "message": "[0]",
+        "attribute": "04000000800D0000",
+        "style_index": 433
+    },
+    "mn_dRoom_cardEdit_title_series": {
+        "name": "mn_dRoom_cardEdit_title_series",
+        "message": "Apportez les jouets préférés de\r\nvotre enfant.",
+        "attribute": "04000000820D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_title_map": {
+        "name": "mn_dRoom_cardEdit_title_map",
+        "message": "Sélectionnez la race souhaitée.",
+        "attribute": "04000000840D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_map_name": {
+        "name": "mn_dRoom_cardEdit_map_name",
+        "message": "[0] Nom/Titre",
+        "attribute": "04000000860D0000",
+        "style_index": 434
+    },
+    "mn_dRoom_cardEdit_title_mg": {
+        "name": "mn_dRoom_cardEdit_title_mg",
+        "message": "Sélectionnez la taille que vous\r\nsouhaitez voir.",
+        "attribute": "04000000880D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardEdit_mg_score": {
+        "name": "mn_dRoom_cardEdit_mg_score",
+        "message": "Il y en a d'autres.",
+        "attribute": "040000008A0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_m": {
+        "name": "mn_dRoom_cardEdit_mg_score_m",
+        "message": "0:23-00 0:264-00 .",
+        "attribute": "040000008C0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_m2": {
+        "name": "mn_dRoom_cardEdit_mg_score_m2",
+        "message": "Les habitants sont sympathiques\r\net serviables.",
+        "attribute": "040000008E0D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_degree": {
+        "name": "mn_dRoom_cardEdit_mg_score_degree",
+        "message": "Température [0]°.",
+        "attribute": "04000000900D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_score_timer": {
+        "name": "mn_dRoom_cardEdit_mg_score_timer",
+        "message": "Peur, panique.",
+        "attribute": "04000000920D0000",
+        "style_index": 435
+    },
+    "mn_dRoom_cardEdit_mg_name": {
+        "name": "mn_dRoom_cardEdit_mg_name",
+        "message": "Il y a neuf ou cinq ans.",
+        "attribute": "04000000940D0000",
+        "style_index": 436
+    },
+    "mn_dRoom_cardEdit_mg_rank": {
+        "name": "mn_dRoom_cardEdit_mg_rank",
+        "message": "[0] 8. cela se déterminera de\r\nlui-même.",
+        "attribute": "04000000960D0000",
+        "style_index": 437
+    },
+    "mn_dRoom_cardEdit_title_design": {
+        "name": "mn_dRoom_cardEdit_title_design",
+        "message": "Choisissez l'image dont vous\r\navez besoin.",
+        "attribute": "04000000980D0000",
+        "style_index": 430
+    },
+    "mn_dRoom_cardRank_title_board": {
+        "name": "mn_dRoom_cardRank_title_board",
+        "message": "Sanekpakpa, c'est vrai.",
+        "attribute": "040000009A0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_title_series": {
+        "name": "mn_dRoom_cardRank_title_series",
+        "message": "Je veux jouer.",
+        "attribute": "040000009C0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_title_mg": {
+        "name": "mn_dRoom_cardRank_title_mg",
+        "message": "C'est quelqu'un que\r\nj'aime.",
+        "attribute": "040000009E0D0000",
+        "style_index": 561
+    },
+    "mn_dRoom_cardRank_rank": {
+        "name": "mn_dRoom_cardRank_rank",
+        "message": "Grand frère",
+        "attribute": "04000000A00D0000",
+        "style_index": 560
+    },
+    "mn_dRoom_cardRank_name": {
+        "name": "mn_dRoom_cardRank_name",
+        "message": "C'est un tuyau.",
+        "attribute": "04000000A20D0000",
+        "style_index": 559
+    },
+    "mn_dRoom_cardRank_percent": {
+        "name": "mn_dRoom_cardRank_percent",
+        "message": "[0], [1] et 9% des cas.",
+        "attribute": "04000000A40D0000",
+        "style_index": 558
+    },
+    "mn_dRoom_rec_top_new": {
+        "name": "mn_dRoom_rec_top_new",
+        "message": "J'ai un nouveau travail.",
+        "attribute": "04000000A60D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_rank": {
+        "name": "mn_dRoom_rec_top_rank",
+        "message": "Analyse des performances",
+        "attribute": "04000000A80D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_photo": {
+        "name": "mn_dRoom_rec_top_photo",
+        "message": "Le restaurant est ici.",
+        "attribute": "04000000AA0D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_top_mg": {
+        "name": "mn_dRoom_rec_top_mg",
+        "message": "Regardez les petites entreprises.",
+        "attribute": "04000000AC0D0000",
+        "style_index": 513
+    },
+    "mn_dRoom_rec_new_title": {
+        "name": "mn_dRoom_rec_new_title",
+        "message": "C'est une nouvelle mode.",
+        "attribute": "04000000AE0D0000",
+        "style_index": 399
+    },
+    "mn_dRoom_rec_new_name": {
+        "name": "mn_dRoom_rec_new_name",
+        "message": "[0] Oui, oui, oui.",
+        "attribute": "04000000B00D0000",
+        "style_index": 401
+    },
+    "mn_dRoom_rec_new_score": {
+        "name": "mn_dRoom_rec_new_score",
+        "message": "[0] Que se passe-t-il maintenant\r\n?",
+        "attribute": "04000000B20D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_m": {
+        "name": "mn_dRoom_rec_new_score_m",
+        "message": "0 : 2 chiffres",
+        "attribute": "04000000B40D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_degree": {
+        "name": "mn_dRoom_rec_new_score_degree",
+        "message": "[0] Comment vas-tu ?",
+        "attribute": "04000000B60D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_timer": {
+        "name": "mn_dRoom_rec_new_score_timer",
+        "message": "[0]: [1] Aucun.",
+        "attribute": "04000000B80D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_score_m2": {
+        "name": "mn_dRoom_rec_new_score_m2",
+        "message": "0:2 3K-00A [0:2 64-00].",
+        "attribute": "04000000BA0D0000",
+        "style_index": 402
+    },
+    "mn_dRoom_rec_new_rank": {
+        "name": "mn_dRoom_rec_new_rank",
+        "message": "[0] Oui.",
+        "attribute": "04000000BC0D0000",
+        "style_index": 533
+    },
+    "mn_dRoom_rec_new_ranking": {
+        "name": "mn_dRoom_rec_new_ranking",
+        "message": "Regarde le soleil.",
+        "attribute": "04000000BE0D0000",
+        "style_index": 403
+    },
+    "mn_dRoom_rec_newRank_left": {
+        "name": "mn_dRoom_rec_newRank_left",
+        "message": "C’est une autre chose.",
+        "attribute": "04000000C00D0000",
+        "style_index": 461
+    },
+    "mn_dRoom_rec_newRank_right": {
+        "name": "mn_dRoom_rec_newRank_right",
+        "message": "D'où le nom.",
+        "attribute": "04000000C20D0000",
+        "style_index": 461
+    },
+    "mn_dRoom_rec_newRank_card": {
+        "name": "mn_dRoom_rec_newRank_card",
+        "message": "Mon histoire:",
+        "attribute": "04000000C40D0000",
+        "style_index": 466
+    },
+    "mn_dRoom_rec_newRank_mg": {
+        "name": "mn_dRoom_rec_newRank_mg",
+        "message": "Voir page [0].",
+        "attribute": "04000000C60D0000",
+        "style_index": 462
+    },
+    "mn_dRoom_rec_newRank_myRank": {
+        "name": "mn_dRoom_rec_newRank_myRank",
+        "message": "[0] .",
+        "attribute": "04000000C80D0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_newRank_myName": {
+        "name": "mn_dRoom_rec_newRank_myName",
+        "message": "[0] Première entrée.",
+        "attribute": "04000000CA0D0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_newRank_myScore": {
+        "name": "mn_dRoom_rec_newRank_myScore",
+        "message": "[0] Oui bien sûr. (ou) Oui bien\r\nsûr.",
+        "attribute": "04000000CC0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_m": {
+        "name": "mn_dRoom_rec_newRank_myScore_m",
+        "message": "3 km-00-0:2; 64-00-0:20.",
+        "attribute": "04000000CE0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_degree": {
+        "name": "mn_dRoom_rec_newRank_myScore_degree",
+        "message": "[0] Dans la première partie.",
+        "attribute": "04000000D00D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_timer": {
+        "name": "mn_dRoom_rec_newRank_myScore_timer",
+        "message": "Bath, Angleterre",
+        "attribute": "04000000D20D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_myScore_m2": {
+        "name": "mn_dRoom_rec_newRank_myScore_m2",
+        "message": "! 02. 02. .",
+        "attribute": "04000000D40D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_rank": {
+        "name": "mn_dRoom_rec_newRank_rank",
+        "message": "[0] 9. Appuyez sur le bouton.",
+        "attribute": "04000000D60D0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_newRank_name": {
+        "name": "mn_dRoom_rec_newRank_name",
+        "message": "[0] Aucun de ceux-ci.",
+        "attribute": "04000000D80D0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_newRank_score": {
+        "name": "mn_dRoom_rec_newRank_score",
+        "message": "[0] Erreur.",
+        "attribute": "04000000DA0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_m": {
+        "name": "mn_dRoom_rec_newRank_score_m",
+        "message": "Heure 0:23°C-00m 0:264-00",
+        "attribute": "04000000DC0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_degree": {
+        "name": "mn_dRoom_rec_newRank_score_degree",
+        "message": "La valeur de l'image est [0].",
+        "attribute": "04000000DE0D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_timer": {
+        "name": "mn_dRoom_rec_newRank_score_timer",
+        "message": "Le résultat est [0].",
+        "attribute": "04000000E00D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_newRank_score_m2": {
+        "name": "mn_dRoom_rec_newRank_score_m2",
+        "message": "[0], [1] [0:2 3C-00] répéter [0:2\r\n64-00].",
+        "attribute": "04000000E20D0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_rank_title": {
+        "name": "mn_dRoom_rec_rank_title",
+        "message": "Nous fournissons la santé.",
+        "attribute": "04000000E40D0000",
+        "style_index": 399
+    },
+    "mn_dRoom_rec_rank_left": {
+        "name": "mn_dRoom_rec_rank_left",
+        "message": "Ce n'est pas vrai.",
+        "attribute": "04000000E60D0000",
+        "style_index": 404
+    },
+    "mn_dRoom_rec_rank_right": {
+        "name": "mn_dRoom_rec_rank_right",
+        "message": "La réponse est toujours oui.",
+        "attribute": "04000000E80D0000",
+        "style_index": 404
+    },
+    "mn_dRoom_rec_rank_win": {
+        "name": "mn_dRoom_rec_rank_win",
+        "message": "Pensée",
+        "attribute": "04000000EA0D0000",
+        "style_index": 405
+    },
+    "mn_dRoom_rec_rank_lose": {
+        "name": "mn_dRoom_rec_rank_lose",
+        "message": "Tout.",
+        "attribute": "04000000EC0D0000",
+        "style_index": 405
+    },
+    "mn_dRoom_rec_rank_name": {
+        "name": "mn_dRoom_rec_rank_name",
+        "message": "[0] .",
+        "attribute": "04000000EE0D0000",
+        "style_index": 406
+    },
+    "mn_dRoom_rec_rank_number": {
+        "name": "mn_dRoom_rec_rank_number",
+        "message": "Ceci s'appelle [0].",
+        "attribute": "04000000F00D0000",
+        "style_index": 407
+    },
+    "mn_dRoom_rec_rank_percent": {
+        "name": "mn_dRoom_rec_rank_percent",
+        "message": "Il y a 0% de personnes ici.",
+        "attribute": "04000000F20D0000",
+        "style_index": 408
+    },
+    "mn_dRoom_rec_rank_rate": {
+        "name": "mn_dRoom_rec_rank_rate",
+        "message": "Mon.",
+        "attribute": "04000000F40D0000",
+        "style_index": 409
+    },
+    "mn_dRoom_rec_mg": {
+        "name": "mn_dRoom_rec_mg",
+        "message": "Le marché est petit.",
+        "attribute": "04000000F60D0000",
+        "style_index": 488
+    },
+    "mn_dRoom_rec_mg_title": {
+        "name": "mn_dRoom_rec_mg_title",
+        "message": "[0] Toutes les sources.",
+        "attribute": "04000000F80D0000",
+        "style_index": 489
+    },
+    "mn_dRoom_rec_mg_pack": {
+        "name": "mn_dRoom_rec_mg_pack",
+        "message": "droits de l'homme.",
+        "attribute": "04000000FA0D0000",
+        "style_index": 490
+    },
+    "mn_dRoom_rec_mg_mgRank": {
+        "name": "mn_dRoom_rec_mg_mgRank",
+        "message": "Ce livre parle de ça.",
+        "attribute": "04000000FC0D0000",
+        "style_index": 492
+    },
+    "mn_dRoom_rec_mg_scoreAttack": {
+        "name": "mn_dRoom_rec_mg_scoreAttack",
+        "message": "S'il vous plaît laissez-moi\r\nsavoir.",
+        "attribute": "04000000FE0D0000",
+        "style_index": 493
+    },
+    "mn_dRoom_rec_mg_rank": {
+        "name": "mn_dRoom_rec_mg_rank",
+        "message": "Salut, qui est là ?",
+        "attribute": "04000000000E0000",
+        "style_index": 493
+    },
+    "mn_dRoom_rec_mg_name": {
+        "name": "mn_dRoom_rec_mg_name",
+        "message": "Ou l'un d'entre eux.",
+        "attribute": "04000000020E0000",
+        "style_index": 494
+    },
+    "mn_dRoom_rec_mg_score": {
+        "name": "mn_dRoom_rec_mg_score",
+        "message": "[0] 9. Appuyez sur le bouton\r\nd'alimentation.",
+        "attribute": "04000000040E0000",
+        "style_index": 495
+    },
+    "mn_dRoom_rec_mg_myRank": {
+        "name": "mn_dRoom_rec_mg_myRank",
+        "message": "C'est un quartier\r\nrésidentiel.",
+        "attribute": "04000000060E0000",
+        "style_index": 496
+    },
+    "mn_dRoom_rec_mg_coinTitle": {
+        "name": "mn_dRoom_rec_mg_coinTitle",
+        "message": "Soudain, tout a disparu de la\r\nvue.",
+        "attribute": "04000000080E0000",
+        "style_index": 497
+    },
+    "mn_dRoom_rec_mg_round": {
+        "name": "mn_dRoom_rec_mg_round",
+        "message": "Regarde ici.",
+        "attribute": "040000000A0E0000",
+        "style_index": 498
+    },
+    "mn_dRoom_rec_mg_getCoin": {
+        "name": "mn_dRoom_rec_mg_getCoin",
+        "message": "Une personne.",
+        "attribute": "040000000C0E0000",
+        "style_index": 499
+    },
+    "mn_dRoom_rec_mg_chaThree": {
+        "name": "mn_dRoom_rec_mg_chaThree",
+        "message": "La cohérence est importante.",
+        "attribute": "040000000E0E0000",
+        "style_index": 500
+    },
+    "mn_dRoom_rec_mg_chaOne": {
+        "name": "mn_dRoom_rec_mg_chaOne",
+        "message": "Bien.",
+        "attribute": "04000000100E0000",
+        "style_index": 500
+    },
+    "mn_dRoom_rec_mg_stage": {
+        "name": "mn_dRoom_rec_mg_stage",
+        "message": "C'était il y a deux mois.",
+        "attribute": "04000000120E0000",
+        "style_index": 501
+    },
+    "mn_dRoom_rec_mg_stageRank": {
+        "name": "mn_dRoom_rec_mg_stageRank",
+        "message": "Appuyez sur [0].",
+        "attribute": "04000000140E0000",
+        "style_index": 502
+    },
+    "mn_dRoom_rec_mg_date": {
+        "name": "mn_dRoom_rec_mg_date",
+        "message": "[2] / 1] / 0 questions.",
+        "attribute": "04000000160E0000",
+        "style_index": 545
+    },
+    "mn_dRoom_rec_mg_noData": {
+        "name": "mn_dRoom_rec_mg_noData",
+        "message": "Les fleurs ne fleurissent pas.",
+        "attribute": "04000000180E0000",
+        "style_index": 546
+    },
+    "mn_dRoom_rec_mg_plName": {
+        "name": "mn_dRoom_rec_mg_plName",
+        "message": "C'est tellement beau.",
+        "attribute": "040000001A0E0000",
+        "style_index": 544
+    },
+    "mn_dRoom_rec_mgMRank_title": {
+        "name": "mn_dRoom_rec_mgMRank_title",
+        "message": "mois",
+        "attribute": "040000001C0E0000",
+        "style_index": 462
+    },
+    "mn_dRoom_rec_mgMRank_myRank": {
+        "name": "mn_dRoom_rec_mgMRank_myRank",
+        "message": "[0] Demandez à quelqu'un.",
+        "attribute": "040000001E0E0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_mgMRank_myName": {
+        "name": "mn_dRoom_rec_mgMRank_myName",
+        "message": "[0] Enfants.",
+        "attribute": "04000000200E0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_mgMRank_myScore0": {
+        "name": "mn_dRoom_rec_mgMRank_myScore0",
+        "message": "126. AA",
+        "attribute": "04000000220E0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_mgMRank_rank": {
+        "name": "mn_dRoom_rec_mgMRank_rank",
+        "message": "[0]: 1. .",
+        "attribute": "04000000240E0000",
+        "style_index": 463
+    },
+    "mn_dRoom_rec_mgMRank_name": {
+        "name": "mn_dRoom_rec_mgMRank_name",
+        "message": "20h00",
+        "attribute": "04000000260E0000",
+        "style_index": 464
+    },
+    "mn_dRoom_rec_mgMRank_score0": {
+        "name": "mn_dRoom_rec_mgMRank_score0",
+        "message": "1:10.",
+        "attribute": "04000000280E0000",
+        "style_index": 465
+    },
+    "mn_dRoom_rec_photo_title": {
+        "name": "mn_dRoom_rec_photo_title",
+        "message": "Ça a l'air bien.",
+        "attribute": "040000002A0E0000",
+        "style_index": 417
+    },
+    "mn_dRoom_rec_photo_check": {
+        "name": "mn_dRoom_rec_photo_check",
+        "message": "Regarde l'image.",
+        "attribute": "040000002C0E0000",
+        "style_index": 516
+    },
+    "mn_dRoom_rec_photo_map": {
+        "name": "mn_dRoom_rec_photo_map",
+        "message": "[0] Configuration.",
+        "attribute": "040000002E0E0000",
+        "style_index": 418
+    },
+    "mn_dRoom_rec_photo_date": {
+        "name": "mn_dRoom_rec_photo_date",
+        "message": "âge",
+        "attribute": "04000000300E0000",
+        "style_index": 418
+    },
+    "mn_dRoom_rec_photo_rank": {
+        "name": "mn_dRoom_rec_photo_rank",
+        "message": "[0] Est-ce vrai ?",
+        "attribute": "04000000320E0000",
+        "style_index": 419
+    },
+    "mn_dRoom_rec_photo_name": {
+        "name": "mn_dRoom_rec_photo_name",
+        "message": "[0] Au moins.",
+        "attribute": "04000000340E0000",
+        "style_index": 420
+    },
+    "mn_dRoom_rec_photo_star": {
+        "name": "mn_dRoom_rec_photo_star",
+        "message": "[0] Description du produit.",
+        "attribute": "04000000360E0000",
+        "style_index": 421
+    },
+    "mn_dRoom_rec_photo_coin": {
+        "name": "mn_dRoom_rec_photo_coin",
+        "message": "[0] dans :",
+        "attribute": "04000000380E0000",
+        "style_index": 421
+    },
+    "mn_dRoom_rec_photo_mapTitle": {
+        "name": "mn_dRoom_rec_photo_mapTitle",
+        "message": "[0] Ici .",
+        "attribute": "040000003A0E0000",
+        "style_index": 508
+    },
+    "mn_dRoom_achieve_name": {
+        "name": "mn_dRoom_achieve_name",
+        "message": "[0] Oui",
+        "attribute": "040000003C0E0000",
+        "style_index": 510
+    },
+    "mn_dRoom_achieve_details": {
+        "name": "mn_dRoom_achieve_details",
+        "message": "[0];",
+        "attribute": "040000003E0E0000",
+        "style_index": 511
+    },
+    "mn_dRoom_achieve_mode": {
+        "name": "mn_dRoom_achieve_mode",
+        "message": "Dans ce cas.",
+        "attribute": "04000000400E0000",
+        "style_index": 512
+    },
+    "mn_dRoom_achieve_count": {
+        "name": "mn_dRoom_achieve_count",
+        "message": "Ceci [0] / .",
+        "attribute": "04000000420E0000",
+        "style_index": 576
+    },
+    "mn_dRoom_achieve_online": {
+        "name": "mn_dRoom_achieve_online",
+        "message": "Le bus est là.",
+        "attribute": "04000000440E0000",
+        "style_index": 577
+    },
+    "mn_dRoom_achieve_offline": {
+        "name": "mn_dRoom_achieve_offline",
+        "message": "Blog",
+        "attribute": "04000000460E0000",
+        "style_index": 577
+    }
+}

@@ -4,6 +4,7 @@ from pathlib import Path
 import json
 import random
 import html
+import threading
 
 LANGUAGES_CACHE_FILE_PATH = "cached_languages.json"
 ORIGINAL_LANG = "fr"
@@ -88,11 +89,39 @@ class CyclicTranslator:
         #print(f'{original_text} -> {final_translation["translatedText"]}')
         return html.unescape(final_translation_wrapped)
     
+    def threaded_translate(self, in_file, out_dir):
+         with open(in_file, "r") as file:
+                    translated = {}
+                    messages = json.load(file)
+                    mess_progress = 1
+                    print(f"Thread #{threading.get_ident()} - {in_file}: {mess_progress}/{len(messages)}")
+                    for mess in messages.items():
+                        translated_str = self.translate(mess[1]['message'], 100)
+                        translated[mess[0]] = {
+                            "name": mess[0],
+                            "message": translated_str,
+                            "attribute": mess[1]['attribute'],
+                            "style_index": mess[1]['style_index']
+                        }
+                        mess_progress+=1
+                        
+                        print(f"Thread #{threading.get_ident()} - Translated \"{mess[1]['message']}\" -> \"{translated_str}\"")
+                        print(f"Thread #{threading.get_ident()} - {in_file}: {mess_progress}/{len(messages)}")
+
+                    with open(f"{out_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
+                        json.dump(translated, file_out, ensure_ascii=False, indent=4)
+    
     def translate_from_json_dir(self, input_dir, output_dir):
         input_dir_path = Path(input_dir)
+        threads = []
         for json_file in input_dir_path.iterdir():
             output_file = Path(f"{output_dir}{os.path.basename(json_file.name)[:-10]}_trans.msbt.json")
             if json_file.is_file() and json_file.suffix == '.json' and not output_file.is_file():
+
+                thread = threading.Thread(target=self.threaded_translate, kwargs={"in_file": json_file, "out_file": output_file})
+                threads.append(thread)
+
+                """
                 with open(json_file, "r") as file:
                     translated = {}
                     messages = json.load(file)
@@ -113,5 +142,20 @@ class CyclicTranslator:
 
                     with open(f"{output_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
                         json.dump(translated, file_out, ensure_ascii=False, indent=4)
+                        """
             else:
                 print(f"{json_file.name} already processed or invalid, skipping...")
+
+            active_threads = []
+
+            while(len(threads) > 0):
+                for t in threads:
+                    if len(active_threads) < 3:
+                        t.start()
+                        active_threads.append(t)
+
+
+                for a in active_threads:
+                    a.join(timeout=10)
+
+            

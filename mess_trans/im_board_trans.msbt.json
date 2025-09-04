@@ -1,0 +1,770 @@
+{
+    "im_bd02_gmk01_title": {
+        "name": "im_bd02_gmk01_title",
+        "message": "Ma mère était la reine Anne.",
+        "attribute": "0400000008040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk02_title": {
+        "name": "im_bd02_gmk02_title",
+        "message": "Je n'ai pas beaucoup\r\nd'énergie.",
+        "attribute": "040000000A040000",
+        "style_index": 4294967295
+    },
+    "im_bd04_gmk01_title": {
+        "name": "im_bd04_gmk01_title",
+        "message": "Il est mort !",
+        "attribute": "040000000C040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk05_title": {
+        "name": "im_bd05_gmk05_title",
+        "message": "Les enfants attendent.",
+        "attribute": "040000000E040000",
+        "style_index": 4294967295
+    },
+    "im_c00_name": {
+        "name": "im_c00_name",
+        "message": "Une nouvelle série a été lancée.",
+        "attribute": "0400000010040000",
+        "style_index": 4294967295
+    },
+    "im_c01_name": {
+        "name": "im_c01_name",
+        "message": "Bibliothèque noire.",
+        "attribute": "0400000012040000",
+        "style_index": 4294967295
+    },
+    "im_c02_name": {
+        "name": "im_c02_name",
+        "message": "déclaration",
+        "attribute": "0400000014040000",
+        "style_index": 4294967295
+    },
+    "im_c03_name": {
+        "name": "im_c03_name",
+        "message": "CHALEUR",
+        "attribute": "0400000016040000",
+        "style_index": 4294967295
+    },
+    "im_c04_name": {
+        "name": "im_c04_name",
+        "message": "en effet.",
+        "attribute": "0400000018040000",
+        "style_index": 4294967295
+    },
+    "im_c05_name": {
+        "name": "im_c05_name",
+        "message": "Le mystère de la paix.",
+        "attribute": "040000001A040000",
+        "style_index": 4294967295
+    },
+    "im_c06_name": {
+        "name": "im_c06_name",
+        "message": "Vous aussi, vous pouvez être\r\nheureux.",
+        "attribute": "040000001C040000",
+        "style_index": 4294967295
+    },
+    "im_c07_name": {
+        "name": "im_c07_name",
+        "message": "Bozal a écrit.",
+        "attribute": "040000001E040000",
+        "style_index": 4294967295
+    },
+    "im_c08_name": {
+        "name": "im_c08_name",
+        "message": "soutien",
+        "attribute": "0400000020040000",
+        "style_index": 4294967295
+    },
+    "im_c09_name": {
+        "name": "im_c09_name",
+        "message": "Services bancaires et financiers\r\n|",
+        "attribute": "0400000022040000",
+        "style_index": 4294967295
+    },
+    "im_s00_name": {
+        "name": "im_s00_name",
+        "message": "C'est un bon test.",
+        "attribute": "0400000024040000",
+        "style_index": 4294967295
+    },
+    "im_s01_name": {
+        "name": "im_s01_name",
+        "message": "S'il te plaît.",
+        "attribute": "0400000026040000",
+        "style_index": 4294967295
+    },
+    "im_s02_name": {
+        "name": "im_s02_name",
+        "message": "Il existe de nombreux jeux.",
+        "attribute": "0400000028040000",
+        "style_index": 4294967295
+    },
+    "im_s03_name": {
+        "name": "im_s03_name",
+        "message": "Je veux une copie.",
+        "attribute": "040000002A040000",
+        "style_index": 4294967295
+    },
+    "im_s04_name": {
+        "name": "im_s04_name",
+        "message": "Bowser dit doucement.",
+        "attribute": "040000002C040000",
+        "style_index": 4294967295
+    },
+    "im_s05_name": {
+        "name": "im_s05_name",
+        "message": "Accueillir.",
+        "attribute": "040000002E040000",
+        "style_index": 4294967295
+    },
+    "im_s06_name": {
+        "name": "im_s06_name",
+        "message": "Des millions de personnes y\r\nvivent.",
+        "attribute": "0400000030040000",
+        "style_index": 4294967295
+    },
+    "im_bd01_gmk02_sName": {
+        "name": "im_bd01_gmk02_sName",
+        "message": "Voiture",
+        "attribute": "0400000032040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk01_sName": {
+        "name": "im_bd02_gmk01_sName",
+        "message": "Bowser était d'accord.",
+        "attribute": "0400000034040000",
+        "style_index": 4294967295
+    },
+    "im_bd02_gmk02_sName": {
+        "name": "im_bd02_gmk02_sName",
+        "message": "un homme qui regrette ses péchés.",
+        "attribute": "0400000036040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk01_arrow_name": {
+        "name": "im_bd03_gmk01_arrow_name",
+        "message": "Après",
+        "attribute": "0400000038040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk01_choropoo_name": {
+        "name": "im_bd03_gmk01_choropoo_name",
+        "message": "À propos de Toby :",
+        "attribute": "040000003A040000",
+        "style_index": 4294967295
+    },
+    "im_bd03_gmk03_name": {
+        "name": "im_bd03_gmk03_name",
+        "message": "Ensuite, il y a les cellules\r\nhumaines.",
+        "attribute": "040000003C040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk03_name": {
+        "name": "im_bd05_gmk03_name",
+        "message": "Ministère des droits de\r\nl'homme",
+        "attribute": "040000003E040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk04_name": {
+        "name": "im_bd05_gmk04_name",
+        "message": "Plan de soutien aux étudiants.",
+        "attribute": "0400000040040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk05_name": {
+        "name": "im_bd05_gmk05_name",
+        "message": "C'est là le problème,\r\nmonsieur.",
+        "attribute": "0400000042040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk06_name": {
+        "name": "im_bd05_gmk06_name",
+        "message": "Attendez.",
+        "attribute": "0400000044040000",
+        "style_index": 4294967295
+    },
+    "im_bd05_gmk07_name": {
+        "name": "im_bd05_gmk07_name",
+        "message": "De l'argent, les gens.",
+        "attribute": "0400000046040000",
+        "style_index": 4294967295
+    },
+    "im_bd04_gmk02_name": {
+        "name": "im_bd04_gmk02_name",
+        "message": "J’espère que les gens passeront à\r\nautre chose.",
+        "attribute": "0400000048040000",
+        "style_index": 4294967295
+    },
+    "im_item00_name": {
+        "name": "im_item00_name",
+        "message": "mais pourquoi?",
+        "attribute": "040000004A040000",
+        "style_index": 4294967295
+    },
+    "im_item01_name": {
+        "name": "im_item01_name",
+        "message": "Oui, grand-mère.",
+        "attribute": "040000004C040000",
+        "style_index": 4294967295
+    },
+    "im_item02_name": {
+        "name": "im_item02_name",
+        "message": "Sors-le.",
+        "attribute": "040000004E040000",
+        "style_index": 4294967295
+    },
+    "im_item03_name": {
+        "name": "im_item03_name",
+        "message": "Cela me donne beaucoup\r\nd’informations.",
+        "attribute": "0400000050040000",
+        "style_index": 4294967295
+    },
+    "im_item04_name": {
+        "name": "im_item04_name",
+        "message": "Ils sont morts en chemin.",
+        "attribute": "0400000052040000",
+        "style_index": 4294967295
+    },
+    "im_item05_name": {
+        "name": "im_item05_name",
+        "message": "faux.",
+        "attribute": "0400000054040000",
+        "style_index": 4294967295
+    },
+    "im_item06_name": {
+        "name": "im_item06_name",
+        "message": "Je n'arrive pas à dormir.",
+        "attribute": "0400000056040000",
+        "style_index": 4294967295
+    },
+    "im_item07_name": {
+        "name": "im_item07_name",
+        "message": "pied",
+        "attribute": "0400000058040000",
+        "style_index": 4294967295
+    },
+    "im_item08_name": {
+        "name": "im_item08_name",
+        "message": "C’est ça l’astuce.",
+        "attribute": "040000005A040000",
+        "style_index": 4294967295
+    },
+    "im_item09_name": {
+        "name": "im_item09_name",
+        "message": "C'est une grande organisation\r\nnationale.",
+        "attribute": "040000005C040000",
+        "style_index": 4294967295
+    },
+    "im_item10_name": {
+        "name": "im_item10_name",
+        "message": "La première page du livre.",
+        "attribute": "040000005E040000",
+        "style_index": 4294967295
+    },
+    "im_item11_name": {
+        "name": "im_item11_name",
+        "message": "Rouge foncé.",
+        "attribute": "0400000060040000",
+        "style_index": 4294967295
+    },
+    "im_item12_name": {
+        "name": "im_item12_name",
+        "message": "Les gens sont heureux.",
+        "attribute": "0400000062040000",
+        "style_index": 4294967295
+    },
+    "im_item13_name": {
+        "name": "im_item13_name",
+        "message": "Vraiment.",
+        "attribute": "0400000064040000",
+        "style_index": 4294967295
+    },
+    "im_item14_name": {
+        "name": "im_item14_name",
+        "message": "Mises à jour",
+        "attribute": "0400000066040000",
+        "style_index": 4294967295
+    },
+    "im_item15_name": {
+        "name": "im_item15_name",
+        "message": "Cela se produit.",
+        "attribute": "0400000068040000",
+        "style_index": 4294967295
+    },
+    "im_item00_details": {
+        "name": "im_item00_details",
+        "message": "Si vous faites cela, vous pouvez\r\ngagner cinq points\r\nsupplémentaires.",
+        "attribute": "040000006A040000",
+        "style_index": 4294967295
+    },
+    "im_item01_details": {
+        "name": "im_item01_details",
+        "message": "Si vous additionnez deux nombres,\r\nils disparaissent.",
+        "attribute": "040000006C040000",
+        "style_index": 4294967295
+    },
+    "im_item02_details": {
+        "name": "im_item02_details",
+        "message": "Veuillez lire le troisième\r\nparagraphe.",
+        "attribute": "040000006E040000",
+        "style_index": 4294967295
+    },
+    "im_item03_details": {
+        "name": "im_item03_details",
+        "message": "Il y a les jeux 1 et 3.",
+        "attribute": "0400000070040000",
+        "style_index": 4294967295
+    },
+    "im_item04_details": {
+        "name": "im_item04_details",
+        "message": "Nous souhaitons la bienvenue à\r\ntous nos clients.",
+        "attribute": "0400000072040000",
+        "style_index": 4294967295
+    },
+    "im_item05_details": {
+        "name": "im_item05_details",
+        "message": "D'un point de vue plus large.",
+        "attribute": "0400000074040000",
+        "style_index": 4294967295
+    },
+    "im_item06_details": {
+        "name": "im_item06_details",
+        "message": "Regardez les étoiles dans le\r\nciel.",
+        "attribute": "0400000076040000",
+        "style_index": 4294967295
+    },
+    "im_item07_details": {
+        "name": "im_item07_details",
+        "message": "Il peut être utilisé à\r\nl'intérieur et à\r\nl'extérieur.",
+        "attribute": "0400000078040000",
+        "style_index": 4294967295
+    },
+    "im_item08_details": {
+        "name": "im_item08_details",
+        "message": "Battez tous vos ennemis.",
+        "attribute": "040000007A040000",
+        "style_index": 4294967295
+    },
+    "im_item09_details": {
+        "name": "im_item09_details",
+        "message": "Ce balcon est un secret.",
+        "attribute": "040000007C040000",
+        "style_index": 4294967295
+    },
+    "im_item10_details": {
+        "name": "im_item10_details",
+        "message": "Vous gagnez votre combat préféré.",
+        "attribute": "040000007E040000",
+        "style_index": 4294967295
+    },
+    "im_item11_details": {
+        "name": "im_item11_details",
+        "message": "L'alcool et l'argent.",
+        "attribute": "0400000080040000",
+        "style_index": 4294967295
+    },
+    "im_item12_details": {
+        "name": "im_item12_details",
+        "message": "Vous pouvez voler (cinq pièces)\r\naux ennemis ou les jeter.",
+        "attribute": "0400000082040000",
+        "style_index": 55
+    },
+    "im_item13_details": {
+        "name": "im_item13_details",
+        "message": "Tous les modèles peuvent être\r\nachetés sur le site Web de\r\nHajasad.",
+        "attribute": "0400000084040000",
+        "style_index": 4294967295
+    },
+    "im_item14_details": {
+        "name": "im_item14_details",
+        "message": "Je bois du vin.",
+        "attribute": "0400000086040000",
+        "style_index": 4294967295
+    },
+    "im_item15_details": {
+        "name": "im_item15_details",
+        "message": "Allez où vous voulez aller.",
+        "attribute": "0400000088040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar00_name": {
+        "name": "im_bonusStar00_name",
+        "message": "Il y a une autre voie.",
+        "attribute": "040000008A040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar01_name": {
+        "name": "im_bonusStar01_name",
+        "message": "C'est beaucoup d'argent.",
+        "attribute": "040000008C040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar02_name": {
+        "name": "im_bonusStar02_name",
+        "message": "C'est un petit sac à jouets.",
+        "attribute": "040000008E040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar03_name": {
+        "name": "im_bonusStar03_name",
+        "message": "moi-même",
+        "attribute": "0400000090040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar04_name": {
+        "name": "im_bonusStar04_name",
+        "message": "Parlez au serpent.",
+        "attribute": "0400000092040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar05_name": {
+        "name": "im_bonusStar05_name",
+        "message": "une machine à écrire",
+        "attribute": "0400000094040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar06_name": {
+        "name": "im_bonusStar06_name",
+        "message": "Ce n'est pas vrai.",
+        "attribute": "0400000096040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar07_name": {
+        "name": "im_bonusStar07_name",
+        "message": "Utilisez votre liberté de choix.",
+        "attribute": "0400000098040000",
+        "style_index": 4294967295
+    },
+    "im_bonusStar08_name": {
+        "name": "im_bonusStar08_name",
+        "message": "Avez-vous reçu une cravate en\r\ncadeau ?",
+        "attribute": "040000009A040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette00": {
+        "name": "im_c06_roulette00",
+        "message": "J'ai vu une dizaine de\r\npersonnes.",
+        "attribute": "040000009C040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette01": {
+        "name": "im_c06_roulette01",
+        "message": "Il lui a tendu un billet de dix\r\ndollars.",
+        "attribute": "040000009E040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette02": {
+        "name": "im_c06_roulette02",
+        "message": "Quinze millions de personnes.",
+        "attribute": "04000000A0040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette03": {
+        "name": "im_c06_roulette03",
+        "message": "Il y en a vingt.",
+        "attribute": "04000000A2040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette04": {
+        "name": "im_c06_roulette04",
+        "message": "Je te reviens.",
+        "attribute": "04000000A4040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette05": {
+        "name": "im_c06_roulette05",
+        "message": "Monstre.",
+        "attribute": "04000000A6040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette06": {
+        "name": "im_c06_roulette06",
+        "message": "[0:3 whiff-whiff] [0:3\r\nwhiff-whiff-00-whiff] Un enfant\r\nsans tête.",
+        "attribute": "04000000A8040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette07": {
+        "name": "im_c06_roulette07",
+        "message": "Appuyez maintenant trois fois sur\r\n[0:300-FF-FF].",
+        "attribute": "04000000AA040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette08": {
+        "name": "im_c06_roulette08",
+        "message": "[Insérer la note de bas de page\r\n0:3].",
+        "attribute": "04000000AC040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette09": {
+        "name": "im_c06_roulette09",
+        "message": "La nouvelle étoile est argentée.",
+        "attribute": "04000000AE040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette10": {
+        "name": "im_c06_roulette10",
+        "message": "[Région 0:3] [Région 0:3\r\n00-00-00].",
+        "attribute": "04000000B0040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette11": {
+        "name": "im_c06_roulette11",
+        "message": "Oui, j'ai cette boîte. [0:3]\r\nJe m'en souviens.",
+        "attribute": "04000000B2040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette12": {
+        "name": "im_c06_roulette12",
+        "message": "Vous pouvez économiser de\r\nl'argent.",
+        "attribute": "04000000B4040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette13": {
+        "name": "im_c06_roulette13",
+        "message": "J'aime la bonne nourriture\r\n[0:3].",
+        "attribute": "04000000B6040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette14": {
+        "name": "im_c06_roulette14",
+        "message": "Il était cinq à six heures de\r\nl'après-midi.",
+        "attribute": "04000000B8040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette15": {
+        "name": "im_c06_roulette15",
+        "message": "Il a une capacité de dix\r\npersonnes.",
+        "attribute": "04000000BA040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette16": {
+        "name": "im_c06_roulette16",
+        "message": "Ils ne comprennent pas.",
+        "attribute": "04000000BC040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette17": {
+        "name": "im_c06_roulette17",
+        "message": "[0:3 noir] Mort [0:3 noir]\r\nAmi/Ami [0:300-00-00-00-F].",
+        "attribute": "04000000BE040000",
+        "style_index": 4294967295
+    },
+    "im_c06_roulette18": {
+        "name": "im_c06_roulette18",
+        "message": "Le cours a commencé.",
+        "attribute": "04000000C0040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette00": {
+        "name": "im_c07_roulette00",
+        "message": "À ne pas confondre avec Bozeman.",
+        "attribute": "04000000C2040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette01": {
+        "name": "im_c07_roulette01",
+        "message": "Vous pouvez visiter le musée\r\nBowers.",
+        "attribute": "04000000C4040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette02": {
+        "name": "im_c07_roulette02",
+        "message": "J'ai donné beaucoup\r\nd'argent aux mauvaises\r\npersonnes.",
+        "attribute": "04000000C6040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette03": {
+        "name": "im_c07_roulette03",
+        "message": "Il a donné 30 dollars au\r\nchauffeur de bus.",
+        "attribute": "04000000C8040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette04": {
+        "name": "im_c07_roulette04",
+        "message": "Il l'a donné à Bowser.",
+        "attribute": "04000000CA040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette05": {
+        "name": "im_c07_roulette05",
+        "message": "Tous les produits sont vendus en\r\nportions de 10 onces.",
+        "attribute": "04000000CC040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette06": {
+        "name": "im_c07_roulette06",
+        "message": "Bowser a fait la même chose.",
+        "attribute": "04000000CE040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette07": {
+        "name": "im_c07_roulette07",
+        "message": "Merci pour le partage.",
+        "attribute": "04000000D0040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette08": {
+        "name": "im_c07_roulette08",
+        "message": "Il y a des centaines\r\nd'étoiles.",
+        "attribute": "04000000D2040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette09": {
+        "name": "im_c07_roulette09",
+        "message": "1000 pièces d'or.",
+        "attribute": "04000000D4040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette10": {
+        "name": "im_c07_roulette10",
+        "message": "Tout ce que tu as est à toi.",
+        "attribute": "04000000D6040000",
+        "style_index": 4294967295
+    },
+    "im_c07_roulette11": {
+        "name": "im_c07_roulette11",
+        "message": "Une boisson relaxante.",
+        "attribute": "04000000D8040000",
+        "style_index": 4294967295
+    },
+    "im_result_header00": {
+        "name": "im_result_header00",
+        "message": "Avant",
+        "attribute": "04000000DA040000",
+        "style_index": 4294967295
+    },
+    "im_result_header01": {
+        "name": "im_result_header01",
+        "message": "Cela vient du passé.",
+        "attribute": "04000000DC040000",
+        "style_index": 4294967295
+    },
+    "im_result_header02": {
+        "name": "im_result_header02",
+        "message": "La lettre « et ».",
+        "attribute": "04000000DE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName00": {
+        "name": "im_bdResult_listName00",
+        "message": "Tout est clair.",
+        "attribute": "04000000E0040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName01": {
+        "name": "im_bdResult_listName01",
+        "message": "Mais il s’est rendu compte d’une\r\nchose.",
+        "attribute": "04000000E2040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName02": {
+        "name": "im_bdResult_listName02",
+        "message": "Jouez à des jeux courts pour\r\ngagner de l'argent.",
+        "attribute": "04000000E4040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName03": {
+        "name": "im_bdResult_listName03",
+        "message": "J'ai encore une question.",
+        "attribute": "04000000E6040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName04": {
+        "name": "im_bdResult_listName04",
+        "message": "Oui.",
+        "attribute": "04000000E8040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName05": {
+        "name": "im_bdResult_listName05",
+        "message": "Il y a beaucoup de nourriture.",
+        "attribute": "04000000EA040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName06": {
+        "name": "im_bdResult_listName06",
+        "message": "Glace pour chiens.",
+        "attribute": "04000000EC040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName07": {
+        "name": "im_bdResult_listName07",
+        "message": "Debout sur l'eau.",
+        "attribute": "04000000EE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName08": {
+        "name": "im_bdResult_listName08",
+        "message": "Il s'est levé et est sorti.",
+        "attribute": "04000000F0040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName09": {
+        "name": "im_bdResult_listName09",
+        "message": "Il y en a un.",
+        "attribute": "04000000F2040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName10": {
+        "name": "im_bdResult_listName10",
+        "message": "C'est nécessaire.",
+        "attribute": "04000000F4040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName11": {
+        "name": "im_bdResult_listName11",
+        "message": "C'est généralement vrai.",
+        "attribute": "04000000F6040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName12": {
+        "name": "im_bdResult_listName12",
+        "message": "Il est situé dans la province du\r\nZhejiang.",
+        "attribute": "04000000F8040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName13": {
+        "name": "im_bdResult_listName13",
+        "message": "Cliquez sur le bouton.",
+        "attribute": "04000000FA040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName14": {
+        "name": "im_bdResult_listName14",
+        "message": "Il a survécu à la guerre.",
+        "attribute": "04000000FC040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName15": {
+        "name": "im_bdResult_listName15",
+        "message": "café",
+        "attribute": "04000000FE040000",
+        "style_index": 4294967295
+    },
+    "im_bdResult_listName16": {
+        "name": "im_bdResult_listName16",
+        "message": "Les numéros de page sont\r\ndifférents.",
+        "attribute": "0400000000050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus00": {
+        "name": "im_lastSpBonus00",
+        "message": "Aidez-le en étant son ami.",
+        "attribute": "0400000002050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus01": {
+        "name": "im_lastSpBonus01",
+        "message": "XX [0:3-cercle gauche]\r\n[0:311-0C-1D cercle]\r\n[0:300-00-00-droite].",
+        "attribute": "0400000004050000",
+        "style_index": 4294967295
+    },
+    "im_lastSpBonus02": {
+        "name": "im_lastSpBonus02",
+        "message": "[Nouveau Testament 0:3",
+        "attribute": "0400000006050000",
+        "style_index": 4294967295
+    }
+}

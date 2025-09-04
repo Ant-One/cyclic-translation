@@ -1,0 +1,128 @@
+{
+    "mn_mainM_mw_card00a": {
+        "name": "mn_mainM_mw_card00a",
+        "message": "Après avoir acheté des billets\r\nMario, vous pouvez désormais les\r\najouter à votre compte.",
+        "attribute": "04030119B0000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card00c": {
+        "name": "mn_mainM_mw_card00c",
+        "message": "Si vous aimez cette carte,\r\najoutez Mary à votre liste.",
+        "attribute": "04030119CA000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card00d": {
+        "name": "mn_mainM_mw_card00d",
+        "message": "Mario vit de nombreuses aventures\r\ndifférentes.",
+        "attribute": "04030119DE000000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card01a": {
+        "name": "mn_mainM_mw_card01a",
+        "message": "Alors il a acheté une voiture et\r\nMariana a acheté une voiture.",
+        "attribute": "0403011902010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_card01b": {
+        "name": "mn_mainM_mw_card01b",
+        "message": "Vous pouvez montrer vos\r\ncompétences dans les jeux Mario.",
+        "attribute": "040301191C010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details00": {
+        "name": "mn_mainM_mw_details00",
+        "message": "Moi aussi je pense beaucoup.",
+        "attribute": "0403011936010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details01": {
+        "name": "mn_mainM_mw_details01",
+        "message": "[11-0C-1D-FF] Ces trois règles\r\nfournissent [0:3-35-02-FF].\r\nBeaucoup diraient que c'est\r\nvrai.",
+        "attribute": "0403011968010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details02": {
+        "name": "mn_mainM_mw_details02",
+        "message": "La natation est un excellent\r\nmoyen de rester en bonne santé.\r\nQu'est-ce que c'est ?",
+        "attribute": "040301199A010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details03": {
+        "name": "mn_mainM_mw_details03",
+        "message": "Consultez votre statut et vos\r\nphotos.",
+        "attribute": "04030119CC010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details04": {
+        "name": "mn_mainM_mw_details04",
+        "message": "Votre voyage commence avec votre\r\npremier Pokémon ! Il est à vous !",
+        "attribute": "04030119FE010000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details05": {
+        "name": "mn_mainM_mw_details05",
+        "message": "Un endroit où aller avec des\r\namis.",
+        "attribute": "0403011930020000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details06": {
+        "name": "mn_mainM_mw_details06",
+        "message": "Mais d’abord, il faut écrire une\r\nhistoire.",
+        "attribute": "0403011962020000",
+        "style_index": 4
+    },
+    "mn_mainM_mw_details09": {
+        "name": "mn_mainM_mw_details09",
+        "message": "Si vous souhaitez jouer avec\r\nd'autres joueurs, cliquez sur\r\nce bouton pour terminer le jeu.",
+        "attribute": "0403011994020000",
+        "style_index": 4
+    },
+    "mn_mainM_pointer": {
+        "name": "mn_mainM_pointer",
+        "message": "[0] commentaires.",
+        "attribute": "04000000C6020000",
+        "style_index": 482
+    },
+    "mn_mainM_ctrl_back": {
+        "name": "mn_mainM_ctrl_back",
+        "message": "Saumon",
+        "attribute": "04000000C8020000",
+        "style_index": 610
+    },
+    "mn_mainM_ui_connect_offline": {
+        "name": "mn_mainM_ui_connect_offline",
+        "message": "Achetez en ligne.",
+        "attribute": "04000000CA020000",
+        "style_index": 483
+    },
+    "mn_mainM_ui_connect_local": {
+        "name": "mn_mainM_ui_connect_local",
+        "message": "Il y a beaucoup d'auteurs.",
+        "attribute": "04000000CC020000",
+        "style_index": 483
+    },
+    "mn_mainM_ui_connect_online": {
+        "name": "mn_mainM_ui_connect_online",
+        "message": "Jeux en ligne",
+        "attribute": "04000000CE020000",
+        "style_index": 483
+    },
+    "mn_mainM_ctrl_status": {
+        "name": "mn_mainM_ctrl_status",
+        "message": "Mario, viens.",
+        "attribute": "04000000D0020000",
+        "style_index": 11
+    },
+    "mn_mainM_ui_new": {
+        "name": "mn_mainM_ui_new",
+        "message": "D'accord.",
+        "attribute": "04000000D2020000",
+        "style_index": 607
+    },
+    "mn_mainM_ctrl_title_press": {
+        "name": "mn_mainM_ctrl_title_press",
+        "message": "+ Postez-le ici !",
+        "attribute": "04000000D4020000",
+        "style_index": 602
+    }
+}

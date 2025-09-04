@@ -1,0 +1,392 @@
+{
+    "bd01_OP_mw_past00": {
+        "name": "bd01_OP_mw_past00",
+        "message": "Ils célébraient le jour du\r\nSeigneur.",
+        "attribute": "0401000F10020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_past01": {
+        "name": "bd01_OP_mw_past01",
+        "message": "Ce n’est pas vrai, cela dure\r\ndepuis longtemps.",
+        "attribute": "0401000F12020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose00": {
+        "name": "bd01_OP_mw_purpose00",
+        "message": "Ils savaient ce qu’ils faisaient\r\net ils l’ont fait.",
+        "attribute": "0401000F14020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose01": {
+        "name": "bd01_OP_mw_purpose01",
+        "message": "Eh bien, aujourd’hui c’est…\r\naujourd’hui c’est le jour.",
+        "attribute": "0401000F2E020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose02": {
+        "name": "bd01_OP_mw_purpose02",
+        "message": "Comment savez-vous où le mettre ?",
+        "attribute": "0401000F52020000",
+        "style_index": 4
+    },
+    "bd01_OP_mw_purpose03": {
+        "name": "bd01_OP_mw_purpose03",
+        "message": "C'est l'heure ! Viens ici\r\n!",
+        "attribute": "0401000F66020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination00": {
+        "name": "bd01_p01_mw_explaination00",
+        "message": "C'est une très belle chaise.",
+        "attribute": "0404000180020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination01": {
+        "name": "bd01_p01_mw_explaination01",
+        "message": "Ce chemin mène à une grotte, mais\r\ncherchez les coffres au trésor\r\n[0:3 FF-FF-FF] et [0:3\r\nFF-35-FF-FF].",
+        "attribute": "0404000194020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination02": {
+        "name": "bd01_p01_mw_explaination02",
+        "message": "Si vous regardez attentivement,\r\nvous verrez un réseau d’églises…\r\n[0:3].",
+        "attribute": "04040001AE020000",
+        "style_index": 4
+    },
+    "bd01_p01_mw_explaination03": {
+        "name": "bd01_p01_mw_explaination03",
+        "message": "« Où es-tu ? » demanda le\r\npropriétaire. « C'est une\r\noccasion. » [Proverbes 13:3].",
+        "attribute": "04010019C8020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake01": {
+        "name": "bd01_s04_mw_kuppaCake01",
+        "message": "Tu le ferais ? Tout ce que je\r\npeux dire, c'est que\r\nc'est délicieux.",
+        "attribute": "0404010CE2020000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake02": {
+        "name": "bd01_s04_mw_kuppaCake02",
+        "message": "Elle se lève le matin et nettoie\r\nla maison. J'espère que vous\r\napprécierez !",
+        "attribute": "0404010C00030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake03": {
+        "name": "bd01_s04_mw_kuppaCake03",
+        "message": "C'était quand ? 20 ans,\r\nc'est ça ?",
+        "attribute": "0404010C02030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake06": {
+        "name": "bd01_s04_mw_kuppaCake06",
+        "message": "Que diriez-vous de cela ?",
+        "attribute": "0404010C20030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake04": {
+        "name": "bd01_s04_mw_kuppaCake04",
+        "message": "Leur ai-je dit de m'aimer ?\r\nNous devons les aimer autant que\r\nnous aimons les montagnes !",
+        "attribute": "0404020C34030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_kuppaCake05": {
+        "name": "bd01_s04_mw_kuppaCake05",
+        "message": "Tout le monde a encore de\r\nl’argent !",
+        "attribute": "0404010C4C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice01": {
+        "name": "bd01_s04_mw_curseDice01",
+        "message": "Lapin, tu es spécial.",
+        "attribute": "0404010C64030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice02": {
+        "name": "bd01_s04_mw_curseDice02",
+        "message": "Nous le transmettons à la\r\ngénération suivante.",
+        "attribute": "0404010C7C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice03": {
+        "name": "bd01_s04_mw_curseDice03",
+        "message": "[0] Économisez votre argent.\r\nMangez.",
+        "attribute": "0404010C7E030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice04": {
+        "name": "bd01_s04_mw_curseDice04",
+        "message": "Même le vieil homme est\r\nd'accord. Ker Esu est mort !\r\nIl est devenu chauffeur de bus.",
+        "attribute": "0404020C9C030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice05": {
+        "name": "bd01_s04_mw_curseDice05",
+        "message": "« Maman, tu n’as pas d’argent ? »\r\nIl rendit tout l’argent à sa\r\nmère.",
+        "attribute": "0404010CB4030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_curseDice06": {
+        "name": "bd01_s04_mw_curseDice06",
+        "message": "Seulement 3 millions... Quoi ?",
+        "attribute": "0404020CCC030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_getCoin00": {
+        "name": "bd01_s04_mw_getCoin00",
+        "message": "Désolé... Qu'est-ce qui\r\ns'est passé ? Ce n'était\r\npas moi. Désolé, d'accord ?",
+        "attribute": "0404010CE4030000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_getCoin01": {
+        "name": "bd01_s04_mw_getCoin01",
+        "message": "Nous sommes heureux maintenant.\r\nJe n'ai plus d'argent.\r\nLes gens ne changent-ils pas ?",
+        "attribute": "0404010C02040000",
+        "style_index": 4
+    },
+    "bd01_s04_mw_angry01": {
+        "name": "bd01_s04_mw_angry01",
+        "message": "Puis-je faire ça ? Non. Est-ce\r\nque je perds mon temps ?",
+        "attribute": "0404010C04040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC001_00": {
+        "name": "bd01_p02_mw_lastSpNPC001_00",
+        "message": "Vidéo",
+        "attribute": "0401080D1C040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC001_01": {
+        "name": "bd01_p02_mw_lastSpNPC001_01",
+        "message": "La réponse est oui. Qu'est-ce\r\nque c'est ?",
+        "attribute": "0401080D3A040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC017_00": {
+        "name": "bd01_p02_mw_lastSpNPC017_00",
+        "message": "J'ai trouvé ça intéressant.",
+        "attribute": "040101174E040000",
+        "style_index": 4
+    },
+    "bd01_p02_mw_lastSpNPC017_01": {
+        "name": "bd01_p02_mw_lastSpNPC017_01",
+        "message": "[0:3-35-02 Appel entrant]\r\n[0:300-00-02 Appel entrant].",
+        "attribute": "040101176C040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant01": {
+        "name": "bd01_gmk01_mw_plant01",
+        "message": "Vous voyez l'océan ici ? Il\r\nest tout petit.",
+        "attribute": "040401178A040000",
+        "style_index": 6
+    },
+    "bd01_gmk01_mw_plant01_a0": {
+        "name": "bd01_gmk01_mw_plant01_a0",
+        "message": "5 [0:311-0c-1d-ff] :\r\n[0:300-00-00-ff]",
+        "attribute": "03000000A2040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant01_a1": {
+        "name": "bd01_gmk01_mw_plant01_a1",
+        "message": "Comportement [0:300-00-5",
+        "attribute": "03000000A4040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant01_a2": {
+        "name": "bd01_gmk01_mw_plant01_a2",
+        "message": "Ne t'en fais pas.",
+        "attribute": "03000000A6040000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_plant02": {
+        "name": "bd01_gmk01_mw_plant02",
+        "message": "Santi était un gars sympa.",
+        "attribute": "04040117A8040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant03": {
+        "name": "bd01_gmk01_mw_plant03",
+        "message": "Si vous avez de l’argent,\r\nprenez-le avec vous.",
+        "attribute": "04040117BC040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant04": {
+        "name": "bd01_gmk01_mw_plant04",
+        "message": "Quand j'étais prêt, j'ai\r\nretiré la pierre.",
+        "attribute": "04040117DA040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant05": {
+        "name": "bd01_gmk01_mw_plant05",
+        "message": "Sérieusement ? Laissez la\r\ndécision vous appartenir.",
+        "attribute": "04040117F8040000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant06": {
+        "name": "bd01_gmk01_mw_plant06",
+        "message": "Pas d'argent, pas d'eau.",
+        "attribute": "0404011712050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_plant07": {
+        "name": "bd01_gmk01_mw_plant07",
+        "message": "Le sapin de Noël est magnifique.\r\nC'est comme du feu.",
+        "attribute": "0404011730050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_getCoin01": {
+        "name": "bd01_gmk01_mw_getCoin01",
+        "message": "Le Centre Piranha est de retour !",
+        "attribute": "040401004A050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant00": {
+        "name": "bd01_gmk01_mw_replant00",
+        "message": "On peut acheter du bois de\r\nchauffage pour vingt dollars.\r\nQu'est-ce que ça signifie\r\npour vous ?",
+        "attribute": "040401174C050000",
+        "style_index": 6
+    },
+    "bd01_gmk01_mw_replant00_a0": {
+        "name": "bd01_gmk01_mw_replant00_a0",
+        "message": "Merci.",
+        "attribute": "0400000068050000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_replant00_a1": {
+        "name": "bd01_gmk01_mw_replant00_a1",
+        "message": "Non merci.",
+        "attribute": "040000006A050000",
+        "style_index": 9
+    },
+    "bd01_gmk01_mw_replant01": {
+        "name": "bd01_gmk01_mw_replant01",
+        "message": "Quel bel arbre !",
+        "attribute": "040401176C050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant02": {
+        "name": "bd01_gmk01_mw_replant02",
+        "message": "Le saviez-vous ? Lisez\r\nl'article.",
+        "attribute": "0404011790050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_replant03": {
+        "name": "bd01_gmk01_mw_replant03",
+        "message": "Ils décidèrent donc de voler un\r\ncoffre rempli d'or. Ils\r\nn'attendirent pas qu'ils\r\narrivent tous les deux.",
+        "attribute": "04040117AA050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_robCoin00": {
+        "name": "bd01_gmk01_mw_robCoin00",
+        "message": "[0:3 FF-FF-FF-FF] Où.",
+        "attribute": "04040100AC050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_noCoin01": {
+        "name": "bd01_gmk01_mw_noCoin01",
+        "message": "Ils sont allés chasser parce\r\nqu’ils n’avaient pas reçu leur\r\nsalaire.",
+        "attribute": "04040100AE050000",
+        "style_index": 4
+    },
+    "bd01_gmk01_mw_noStar02": {
+        "name": "bd01_gmk01_mw_noStar02",
+        "message": "Une cravate vide ne sert à rien.",
+        "attribute": "04040100B0050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed01": {
+        "name": "bd01_gmk02_mw_slctSeed01",
+        "message": "[0:3 VF-VF-VF-VF-VF] [0:3 VF-VF]\r\nBonjour ! [0:3 Chapitre 10 Début\r\n[0:3 Années] † [0:3 Années] !\r\n[0:3 00-00-00-00] Le voici !",
+        "attribute": "0404010DB2050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed02": {
+        "name": "bd01_gmk02_mw_slctSeed02",
+        "message": "Est-ce possible ? Qu'en\r\npensez-vous ?",
+        "attribute": "0404010DC6050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed03": {
+        "name": "bd01_gmk02_mw_slctSeed03",
+        "message": "Savez-vous ce que c'est ? La\r\nmaison est maintenant fermée.",
+        "attribute": "0404010DC8050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed05": {
+        "name": "bd01_gmk02_mw_slctSeed05",
+        "message": "Tu reviendras ? Je me suis bien\r\namusé ici.",
+        "attribute": "0404010DCA050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed06": {
+        "name": "bd01_gmk02_mw_slctSeed06",
+        "message": "Bonjour, je reviens dans dix\r\nsecondes.",
+        "attribute": "0404010DEE050000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_slctSeed04": {
+        "name": "bd01_gmk02_mw_slctSeed04",
+        "message": "J'ai oublié mes chaussures à\r\nla maison... Ce n'est pas\r\ngrave.",
+        "attribute": "0404010D02060000",
+        "style_index": 6
+    },
+    "bd01_gmk02_mw_bloom01": {
+        "name": "bd01_gmk02_mw_bloom01",
+        "message": "Commençons aujourd'hui.",
+        "attribute": "0404010D20060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_bloom02": {
+        "name": "bd01_gmk02_mw_bloom02",
+        "message": "Oui, j'ai la réponse. Tu y\r\ncrois ? [0:3] Pas de problème.",
+        "attribute": "0404010D44060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_bloom03": {
+        "name": "bd01_gmk02_mw_bloom03",
+        "message": "]",
+        "attribute": "0404040D58060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_lastSeed00": {
+        "name": "bd01_gmk02_mw_lastSeed00",
+        "message": "Mais maintenant, il est temps de\r\ndécider qui va gagner.",
+        "attribute": "0404010D72060000",
+        "style_index": 4
+    },
+    "bd01_gmk02_mw_lastSeed01": {
+        "name": "bd01_gmk02_mw_lastSeed01",
+        "message": "[00:30]",
+        "attribute": "0404020D96060000",
+        "style_index": 4
+    },
+    "bd01_map_gmk01_c04_details00": {
+        "name": "bd01_map_gmk01_c04_details00",
+        "message": "Cela coûte cent dollars.",
+        "attribute": "04000000B0060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk01_c04_details01": {
+        "name": "bd01_map_gmk01_c04_details01",
+        "message": "Longueur. J'ai de\r\nl'argent ! [0:3 Désolé]〠 [0:3\r\nDésolé]! [0:3] Bonjour !",
+        "attribute": "04000000B2060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk01_c04_details02": {
+        "name": "bd01_map_gmk01_c04_details02",
+        "message": "Bien ! Connaissez votre budget.",
+        "attribute": "04000000B4060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk02_spot_details": {
+        "name": "bd01_map_gmk02_spot_details",
+        "message": "Retirez la nourriture et nettoyez\r\nles oreilles.",
+        "attribute": "04000000B6060000",
+        "style_index": 61
+    },
+    "bd01_map_gmk03_c04_details": {
+        "name": "bd01_map_gmk03_c04_details",
+        "message": "Cette explosion de lumière !",
+        "attribute": "04000000B8060000",
+        "style_index": 61
+    }
+}
