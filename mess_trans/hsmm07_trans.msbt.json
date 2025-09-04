@@ -1,0 +1,158 @@
+{
+    "hsmm07_mw_op00": {
+        "name": "hsmm07_mw_op00",
+        "message": "Vraiment ! [0:3 Snake] Snake. Je\r\ndanse et regarde les étoiles.\r\n[0:3,000 m].",
+        "attribute": "04040017D8000000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op01": {
+        "name": "hsmm07_mw_op01",
+        "message": "Mardi!",
+        "attribute": "04040017F0000000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk00": {
+        "name": "hsmm07_mw_op_mgpk00",
+        "message": "L’objectif de ce projet est\r\nd’accroître les opportunités\r\nd’emploi.",
+        "attribute": "040400170E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk01": {
+        "name": "hsmm07_mw_op_mgpk01",
+        "message": "Je travaille depuis longtemps.",
+        "attribute": "0404001710010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk02": {
+        "name": "hsmm07_mw_op_mgpk02",
+        "message": "Éléments à prendre en compte :",
+        "attribute": "0404001712010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk03": {
+        "name": "hsmm07_mw_op_mgpk03",
+        "message": "Sois fort.",
+        "attribute": "0404001714010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk04": {
+        "name": "hsmm07_mw_op_mgpk04",
+        "message": "Quel est ce livre ?",
+        "attribute": "0404001716010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk05": {
+        "name": "hsmm07_mw_op_mgpk05",
+        "message": "Le but du jeu est de gagner le\r\nplus d'argent possible.",
+        "attribute": "0404001718010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk07": {
+        "name": "hsmm07_mw_op_mgpk07",
+        "message": "Ces informations vous aideront à\r\ngarder une longueur d’avance sur\r\nla concurrence et à économiser\r\nbeaucoup d’argent.",
+        "attribute": "040400171A010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk08": {
+        "name": "hsmm07_mw_op_mgpk08",
+        "message": "Cela a été transmis à beaucoup de\r\ngens.",
+        "attribute": "040400171C010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk10": {
+        "name": "hsmm07_mw_op_mgpk10",
+        "message": "Vous pouvez emporter ce sac\r\npartout !",
+        "attribute": "040400171E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk11": {
+        "name": "hsmm07_mw_op_mgpk11",
+        "message": "Ne marchez pas sur les pieds de\r\nl’ennemi !",
+        "attribute": "0404001720010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk12": {
+        "name": "hsmm07_mw_op_mgpk12",
+        "message": "Essayez de marquer des points\r\ndans ce jeu !",
+        "attribute": "0404001722010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk13": {
+        "name": "hsmm07_mw_op_mgpk13",
+        "message": "J'emporterai ce sac avec moi\r\npartout où j'irai.",
+        "attribute": "0404001724010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk14": {
+        "name": "hsmm07_mw_op_mgpk14",
+        "message": "Cette rencontre vous aidera à\r\naméliorer votre jeu.",
+        "attribute": "0404001726010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk16": {
+        "name": "hsmm07_mw_op_mgpk16",
+        "message": "Comme c'est merveilleux\r\nd'être un enfant !",
+        "attribute": "0404001728010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk17": {
+        "name": "hsmm07_mw_op_mgpk17",
+        "message": "Battez vos ennemis rapidement !",
+        "attribute": "040400172A010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk20": {
+        "name": "hsmm07_mw_op_mgpk20",
+        "message": "Cette étape peut être très\r\nimportante.",
+        "attribute": "040400172C010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk21": {
+        "name": "hsmm07_mw_op_mgpk21",
+        "message": "Ne perdez pas de temps à essayer\r\nde réparer votre mariage.",
+        "attribute": "040400172E010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk22": {
+        "name": "hsmm07_mw_op_mgpk22",
+        "message": "Cela fonctionne mieux que les\r\nautres méthodes.",
+        "attribute": "0404001730010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk23": {
+        "name": "hsmm07_mw_op_mgpk23",
+        "message": "Envoyez cet ennemi au loin",
+        "attribute": "0404001732010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk24": {
+        "name": "hsmm07_mw_op_mgpk24",
+        "message": "Votre corps a besoin de réagir ou\r\nde répondre.",
+        "attribute": "0404001734010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_op_mgpk25": {
+        "name": "hsmm07_mw_op_mgpk25",
+        "message": "Chaque mini-jeu peut être joué\r\nindividuellement ou en groupe.",
+        "attribute": "0404001736010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd00": {
+        "name": "hsmm07_mw_rd00",
+        "message": "Chapitre 1… La guerre !",
+        "attribute": "0404001738010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd01": {
+        "name": "hsmm07_mw_rd01",
+        "message": "Encore.",
+        "attribute": "0404001752010000",
+        "style_index": 4
+    },
+    "hsmm07_mw_rd02": {
+        "name": "hsmm07_mw_rd02",
+        "message": "La dernière partie : la sécurité.",
+        "attribute": "0404001770010000",
+        "style_index": 4
+    }
+}

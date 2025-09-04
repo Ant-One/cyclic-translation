@@ -1,0 +1,266 @@
+{
+    "bd00_itemSlct_order_use": {
+        "name": "bd00_itemSlct_order_use",
+        "message": "Qu'en pensons-nous ?",
+        "attribute": "0400000068010000",
+        "style_index": 51
+    },
+    "bd00_itemSlct_ui_itemName": {
+        "name": "bd00_itemSlct_ui_itemName",
+        "message": "Voir 1:2;",
+        "attribute": "040000006A010000",
+        "style_index": 52
+    },
+    "bd00_itemSlct_ui_itemDetails": {
+        "name": "bd00_itemSlct_ui_itemDetails",
+        "message": "Le paramètre par défaut est [0].",
+        "attribute": "040000006C010000",
+        "style_index": 53
+    },
+    "bd00_itemSlct_order_discard": {
+        "name": "bd00_itemSlct_order_discard",
+        "message": "Je n'ai pas beaucoup de\r\ntemps, que dois-je faire ?",
+        "attribute": "040000006E010000",
+        "style_index": 51
+    },
+    "bd00_rivalSlct_order_use": {
+        "name": "bd00_rivalSlct_order_use",
+        "message": "que fais-tu ?",
+        "attribute": "0400000070010000",
+        "style_index": 57
+    },
+    "bd00_rivalSlct_order_rob": {
+        "name": "bd00_rivalSlct_order_rob",
+        "message": "Et les sardines ?",
+        "attribute": "0400000072010000",
+        "style_index": 57
+    },
+    "bd00_rivalSlct_icon_random": {
+        "name": "bd00_rivalSlct_icon_random",
+        "message": "Mais",
+        "attribute": "0400000074010000",
+        "style_index": 58
+    },
+    "bd00_item00_useIcon": {
+        "name": "bd00_item00_useIcon",
+        "message": "Il a dit +5.",
+        "attribute": "0400000076010000",
+        "style_index": 59
+    },
+    "bd00_item01_useIcon": {
+        "name": "bd00_item01_useIcon",
+        "message": "2.1 Conditions générales.",
+        "attribute": "0400000078010000",
+        "style_index": 59
+    },
+    "bd00_item02_useIcon": {
+        "name": "bd00_item02_useIcon",
+        "message": "× 3 chambres.",
+        "attribute": "040000007A010000",
+        "style_index": 59
+    },
+    "bd00_item03_useIcon": {
+        "name": "bd00_item03_useIcon",
+        "message": "Réponses 1 à 3.",
+        "attribute": "040000007C010000",
+        "style_index": 59
+    },
+    "bd00_item01_mw_2dice00": {
+        "name": "bd00_item01_mw_2dice00",
+        "message": "J'ai donc installé les deux.\r\n[0:3 battement de cœur]\r\n[0:311-0C-1 battement de cœur]!",
+        "attribute": "040302197E010000",
+        "style_index": 7
+    },
+    "bd00_item02_mw_3dice00": {
+        "name": "bd00_item02_mw_3dice00",
+        "message": "[11-0C-1D-FF] Parlez-vous\r\nd'une troisième option ? Oui,\r\nencore ! Dans 20 ans !",
+        "attribute": "04030219A4010000",
+        "style_index": 7
+    },
+    "bd00_item02_mw_777dice00": {
+        "name": "bd00_item02_mw_777dice00",
+        "message": "[0:311-0C-1D-FF] Septembre [0:3\r\nStill] [0:311-0C-1D-2000].",
+        "attribute": "04030319CE010000",
+        "style_index": 7
+    },
+    "bd00_item03_mw_resist00": {
+        "name": "bd00_item03_mw_resist00",
+        "message": "[53],",
+        "attribute": "04040000F8010000",
+        "style_index": 7
+    },
+    "bd00_item05_ctrl_changeNumber": {
+        "name": "bd00_item05_ctrl_changeNumber",
+        "message": "Tu peux t'en sortir.",
+        "attribute": "04000000FA010000",
+        "style_index": 56
+    },
+    "bd00_item07_mw_key00a": {
+        "name": "bd00_item07_mw_key00a",
+        "message": "Oui, ils peuvent ouvrir la porte,\r\nmais seulement si vous le\r\ndemandez.",
+        "attribute": "04040029FC010000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key00b": {
+        "name": "bd00_item07_mw_key00b",
+        "message": "Peut-être que la porte s’ouvrira,\r\nmais je ne sais pas.",
+        "attribute": "0404002928020000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key00c": {
+        "name": "bd00_item07_mw_key00c",
+        "message": "Mais j'ai ouvert la porte.",
+        "attribute": "0404002954020000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key01a": {
+        "name": "bd00_item07_mw_key01a",
+        "message": "« Ouvrir la porte ? »\r\ndemandai-je.",
+        "attribute": "0404002980020000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key01b": {
+        "name": "bd00_item07_mw_key01b",
+        "message": "Sais-tu où c'est ?",
+        "attribute": "04040029AC020000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key01c": {
+        "name": "bd00_item07_mw_key01c",
+        "message": "C'est vrai ou pas ? Une\r\ndernière question… est-ce que ça\r\nte va ?",
+        "attribute": "04040029D8020000",
+        "style_index": 6
+    },
+    "bd00_item07_mw_key00_a0": {
+        "name": "bd00_item07_mw_key00_a0",
+        "message": "Je l'ai rappelé.",
+        "attribute": "0400002904030000",
+        "style_index": 9
+    },
+    "bd00_item07_mw_key00_a1": {
+        "name": "bd00_item07_mw_key00_a1",
+        "message": "Voiture.",
+        "attribute": "0400002906030000",
+        "style_index": 9
+    },
+    "bd00_item07_mw_open00a": {
+        "name": "bd00_item07_mw_open00a",
+        "message": "Mais nous… attendez une minute.\r\nJ’ai ouvert la porte. Je n’ai\r\nrien de prévu.",
+        "attribute": "0404002908030000",
+        "style_index": 4
+    },
+    "bd00_item07_mw_open00b": {
+        "name": "bd00_item07_mw_open00b",
+        "message": "Je n’avais pas d’argent et\r\nj’étais très heureux.",
+        "attribute": "0404002934030000",
+        "style_index": 4
+    },
+    "bd00_item07_mw_open00c": {
+        "name": "bd00_item07_mw_open00c",
+        "message": "Oui, ouvre... Non... Non,\r\nattends.",
+        "attribute": "0404002960030000",
+        "style_index": 4
+    },
+    "bd00_item07_mw_notOpen00a": {
+        "name": "bd00_item07_mw_notOpen00a",
+        "message": "La porte est verrouillée ? Bonne\r\nnuit.",
+        "attribute": "040400298C030000",
+        "style_index": 4
+    },
+    "bd00_item07_mw_notOpen00b": {
+        "name": "bd00_item07_mw_notOpen00b",
+        "message": "« Pouvez-vous ouvrir la porte ? »\r\n« Oui, monsieur ! » ai-je\r\ncontinué.",
+        "attribute": "04040029AE030000",
+        "style_index": 4
+    },
+    "bd00_item07_mw_notOpen00c": {
+        "name": "bd00_item07_mw_notOpen00c",
+        "message": "J'ai fait ce que j'avais\r\nà faire. La simplicité est\r\nessentielle.",
+        "attribute": "04040029D0030000",
+        "style_index": 4
+    },
+    "bd00_item11_mw_change00": {
+        "name": "bd00_item11_mw_change00",
+        "message": "à 0:3 secondes. Tara ne peut pas\r\nêtre tuée.",
+        "attribute": "04030319F2030000",
+        "style_index": 7
+    },
+    "bd00_item11_mw_change01": {
+        "name": "bd00_item11_mw_change01",
+        "message": "Les étoiles se sont envolées !\r\nNon !",
+        "attribute": "040400250C040000",
+        "style_index": 4
+    },
+    "bd00_item12_mw_teresa00": {
+        "name": "bd00_item12_mw_teresa00",
+        "message": "Je t'aime tellement.",
+        "attribute": "0404001B2A040000",
+        "style_index": 6
+    },
+    "bd00_item12_mw_teresa00_a0": {
+        "name": "bd00_item12_mw_teresa00_a0",
+        "message": "Lire 0:3",
+        "attribute": "0400001B42040000",
+        "style_index": 9
+    },
+    "bd00_item12_mw_teresa00_a1": {
+        "name": "bd00_item12_mw_teresa00_a1",
+        "message": "50 [0:3 00-00-00] [0:3 11-0C-1D-2\r\n1 [0:3 FF-FF-FF-FF-FF] Lavé]",
+        "attribute": "0400001B44040000",
+        "style_index": 9
+    },
+    "bd00_item12_mw_robCoin00": {
+        "name": "bd00_item12_mw_robCoin00",
+        "message": "Bonne affaire ! À voler.\r\nIntéressant. Le réglage par\r\ndéfaut est 00-00-00.",
+        "attribute": "0403031946040000",
+        "style_index": 7
+    },
+    "bd00_item12_ctrl_robCoin": {
+        "name": "bd00_item12_ctrl_robCoin",
+        "message": "J'adore le toucher !",
+        "attribute": "0700000064040000",
+        "style_index": 11
+    },
+    "bd00_item12_mw_giveCoin00": {
+        "name": "bd00_item12_mw_giveCoin00",
+        "message": "J'ai acheté des pneus\r\n18-70-69-50 avec un rapport de\r\ndémultiplication de 1:1.",
+        "attribute": "0404001B66040000",
+        "style_index": 4
+    },
+    "bd00_item12_mw_giveCoin01": {
+        "name": "bd00_item12_mw_giveCoin01",
+        "message": "Mais.",
+        "attribute": "0404001B7A040000",
+        "style_index": 4
+    },
+    "bd00_item12_mw_notRob00": {
+        "name": "bd00_item12_mw_notRob00",
+        "message": "Mais... qu'est-ce que\r\nc'est ? Attends...\r\nqu'est-ce que c'est ? On\r\nrecommence.",
+        "attribute": "0404001B8E040000",
+        "style_index": 4
+    },
+    "bd00_item12_mw_notRob01": {
+        "name": "bd00_item12_mw_notRob01",
+        "message": "Ouais… ouais, je ne l’ai pas\r\ncaché. Attends… personne ne m’a\r\ncontacté. Ça fait mal.",
+        "attribute": "0404001BAC040000",
+        "style_index": 4
+    },
+    "bd00_item13_mw_changeStar01": {
+        "name": "bd00_item13_mw_changeStar01",
+        "message": "C'est une bonne idée. Deux\r\nétoiles, deux étoiles.",
+        "attribute": "04040025CA040000",
+        "style_index": 4
+    },
+    "bd00_item13_mw_changeStar02": {
+        "name": "bd00_item13_mw_changeStar02",
+        "message": "Deux questions ici. Super !\r\nSortie le 19 septembre.",
+        "attribute": "04040025E4040000",
+        "style_index": 4
+    },
+    "bd00_item13_mw_changeStar03": {
+        "name": "bd00_item13_mw_changeStar03",
+        "message": "[0:3] 2/4 [0:3] [0:3]\r\n[0:300-00-0-0-0",
+        "attribute": "04040025FE040000",
+        "style_index": 4
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "test": {
+        "name": "test",
+        "message": "Le mot entier.",
+        "attribute": "0400000030000000",
+        "style_index": 4
+    },
+    "test_1449_2": {
+        "name": "test_1449_2",
+        "message": "Il y a répondu.",
+        "attribute": "0400000044000000",
+        "style_index": 2
+    },
+    "test_1449_3": {
+        "name": "test_1449_3",
+        "message": "travail.",
+        "attribute": "0400000046000000",
+        "style_index": 2
+    },
+    "test_1478_correct": {
+        "name": "test_1478_correct",
+        "message": "système sonore, en bref. 0: 264 à\r\n00 .",
+        "attribute": "0400000048000000",
+        "style_index": 8
+    },
+    "test_1478_incorrect": {
+        "name": "test_1478_incorrect",
+        "message": "Ils l'ont déjà fait.",
+        "attribute": "040000004A000000",
+        "style_index": 8
+    }
+}

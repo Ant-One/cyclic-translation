@@ -103,10 +103,10 @@ class CyclicTranslator:
                             "attribute": mess[1]['attribute'],
                             "style_index": mess[1]['style_index']
                         }
-                        mess_progress+=1
                         
                         #print(f"Thread #{threading.get_ident()} - Translated \"{mess[1]['message']}\" -> \"{translated_str}\"")
                         print(f"Thread #{threading.get_ident()} - {in_file}: {mess_progress}/{len(messages)}")
+                        mess_progress+=1
 
                     with open(f"{out_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
                         json.dump(translated, file_out, ensure_ascii=False, indent=4)
@@ -150,14 +150,15 @@ class CyclicTranslator:
 
         while(len(threads) > 0):
             for t in threads:
-                if len(active_threads) <= max_threads:
+                if len(active_threads) < max_threads and t not in active_threads:
                     t.start()
                     active_threads.append(t)
 
 
             for a in active_threads:
-                a.join(timeout=10)
-                if not a.is_alive:
+                a.join(timeout=1)
+                if not a.is_alive():
                     active_threads.remove(a)
+                    threads.remove(a)
 
             
