@@ -111,7 +111,7 @@ class CyclicTranslator:
                     with open(f"{out_dir}/{os.path.basename(file.name)[:-10]}_trans.msbt.json", "w+") as file_out:
                         json.dump(translated, file_out, ensure_ascii=False, indent=4)
     
-    def translate_from_json_dir(self, input_dir, output_dir):
+    def translate_from_json_dir(self, input_dir, output_dir, max_threads = 3):
         input_dir_path = Path(input_dir)
         threads = []
         for json_file in input_dir_path.iterdir():
@@ -150,7 +150,7 @@ class CyclicTranslator:
 
         while(len(threads) > 0):
             for t in threads:
-                if len(active_threads) < 3:
+                if len(active_threads) <= max_threads:
                     t.start()
                     active_threads.append(t)
 
